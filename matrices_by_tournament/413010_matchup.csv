@@ -1,0 +1,29 @@
+archetype_a,archetype_b,win,loss,draw,games,winrate
+Mono-Red Storm,U-B-R-G Living End,1,0,0,1,100.0
+Mono-Red Storm,W-U-B-G Goryo's,1,0,0,1,100.0
+Mono-Red Storm,Azorius Loki,1,0,0,1,100.0
+W-U-B-G Goryo's,Mono-Green Eldrazi Broodscale,1,1,0,2,50.0
+W-U-B-G Goryo's,Mardu,1,0,0,1,100.0
+Mardu,W-U-B-G Goryo's,0,1,0,1,0.0
+Izzet Prowess,Mono-Blue Tron,1,0,0,1,100.0
+Azorius Loki,Rakdos,1,0,0,1,100.0
+Azorius Loki,Mardu Reanimator,1,0,0,1,100.0
+Azorius Loki,Mono-Red Storm,0,1,0,1,0.0
+Mono-Blue Tron,Rakdos,1,0,0,1,100.0
+Mono-Blue Tron,Mardu Reanimator,1,0,0,1,100.0
+Mono-Blue Tron,Izzet Prowess,0,1,0,1,0.0
+Simic Combo,W-U-B-G Goryo's,1,1,0,2,50.0
+W-U-B-G Goryo's,Mono-Red Storm,0,1,0,1,0.0
+W-U-B-G Goryo's,Simic Combo,1,1,0,2,50.0
+Mardu Reanimator,Azorius Loki,0,1,0,1,0.0
+Mardu Reanimator,Mono-Blue Tron,0,1,0,1,0.0
+Mono-Green Eldrazi Broodscale,W-U-B-G Goryo's,1,1,0,2,50.0
+Mono-Blue Tron,Simic Neoform,1,0,0,1,100.0
+Simic Neoform,Mono-Blue Tron,0,1,0,1,0.0
+Simic Neoform,Izzet Affinity,1,0,0,1,100.0
+Rakdos,Azorius Loki,0,1,0,1,0.0
+Rakdos,Izzet Affinity,1,0,0,1,100.0
+Rakdos,Mono-Blue Tron,0,1,0,1,0.0
+U-B-R-G Living End,Mono-Red Storm,0,1,0,1,0.0
+Izzet Affinity,Simic Neoform,0,1,0,1,0.0
+Izzet Affinity,Rakdos,0,1,0,1,0.0

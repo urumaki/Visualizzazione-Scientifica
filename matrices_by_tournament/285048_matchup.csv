@@ -1,0 +1,1737 @@
+archetype_a,archetype_b,win,loss,draw,games,winrate
+Azorius Affinity,Eldrazi Ramp,3,0,1,4,100.0
+Azorius Affinity,Amulet Titan,4,2,1,7,66.7
+Azorius Affinity,Orzhov Midrange,1,0,0,1,100.0
+Azorius Affinity,Mono-Blue Belcher,7,2,0,9,77.8
+Azorius Affinity,Jeskai Affinity,1,0,0,1,100.0
+Azorius Affinity,Jeskai Control,2,1,0,3,66.7
+Azorius Affinity,Colorless Eldrazi,1,1,0,2,50.0
+Azorius Affinity,Dimir Oculus,2,2,0,4,50.0
+Azorius Affinity,Boros Energy,11,10,1,22,52.4
+Azorius Affinity,Mardu Energy,0,2,0,2,0.0
+Azorius Affinity,Izzet Prowess,10,6,0,16,62.5
+Azorius Affinity,Five-Color Creativity,1,0,0,1,100.0
+Azorius Affinity,Azorius Affinity,4,4,2,10,50.0
+Azorius Affinity,Orzhov Blink,4,6,0,10,40.0
+Azorius Affinity,Gruul Broodscale,0,1,1,2,0.0
+Azorius Affinity,Esper Reanimator,4,3,0,7,57.1
+Orzhov Blink,Domain Zoo,8,2,1,11,80.0
+Orzhov Blink,Jeskai Control,3,2,0,5,60.0
+Orzhov Blink,Amulet Titan,4,4,1,9,50.0
+Orzhov Blink,Azorius Affinity,6,4,0,10,60.0
+Orzhov Blink,Boros Energy,15,8,1,24,65.2
+Orzhov Blink,Mono-Blue Belcher,2,1,0,3,66.7
+Orzhov Blink,Izzet Prowess,10,8,0,18,55.6
+Orzhov Blink,Esper Reanimator,5,2,0,7,71.4
+Orzhov Blink,Esper Blink,3,3,1,7,50.0
+Gruul Broodscale,Domain Zoo,5,2,1,8,71.4
+Gruul Broodscale,Izzet Prowess,13,2,0,15,86.7
+Gruul Broodscale,Living End,3,0,0,3,100.0
+Gruul Broodscale,Esper Blink,2,2,0,4,50.0
+Gruul Broodscale,Boros Energy,7,6,0,13,53.8
+Gruul Broodscale,Eldrazi Ramp,6,1,0,7,85.7
+Gruul Broodscale,Mono-Blue Belcher,2,3,0,5,40.0
+Gruul Broodscale,Grixis Midrange,1,1,0,2,50.0
+Gruul Broodscale,Mardu Energy,1,0,0,1,100.0
+Gruul Broodscale,Azorius Affinity,1,0,1,2,100.0
+Esper Blink,Living End,1,1,1,3,50.0
+Esper Blink,Amulet Titan,9,4,0,13,69.2
+Esper Blink,Neoform,1,4,0,5,20.0
+Esper Blink,Eldrazi Ramp,8,7,0,15,53.3
+Esper Blink,Orzhov Blink,3,3,1,7,50.0
+Esper Blink,Dimir Midrange,2,0,0,2,100.0
+Esper Blink,Boros Energy,11,13,0,24,45.8
+Esper Blink,Colorless Eldrazi,1,0,0,1,100.0
+Esper Blink,Jeskai Affinity,1,1,0,2,50.0
+Esper Blink,Mono-Blue Belcher,4,4,0,8,50.0
+Esper Blink,Gruul Broodscale,2,2,0,4,50.0
+Esper Blink,Izzet Prowess,16,6,0,22,72.7
+Esper Blink,Esper Reanimator,2,6,0,8,25.0
+Orzhov Blink,Eldrazi Ramp,2,11,1,14,15.4
+Orzhov Blink,Sultai Oculus,0,0,1,1,
+Orzhov Blink,Golgari Yawgmoth,2,0,0,2,100.0
+Orzhov Blink,Jeskai Ascendancy,2,1,0,3,66.7
+Orzhov Blink,Mardu Energy,2,1,0,3,66.7
+Domain Zoo,Amulet Titan,13,15,0,28,46.4
+Domain Zoo,Izzet Prowess,20,11,1,32,64.5
+Domain Zoo,Domain Zoo,12,12,0,24,50.0
+Domain Zoo,Ruby Storm,8,3,1,12,72.7
+Domain Zoo,Orzhov Blink,2,8,1,11,20.0
+Domain Zoo,Eldrazi Ramp,18,12,1,31,60.0
+Domain Zoo,Mardu Energy,3,3,0,6,50.0
+Domain Zoo,Azorius Affinity,6,4,0,10,60.0
+Domain Zoo,Jeskai Affinity,2,1,0,3,66.7
+Domain Zoo,Boros Energy,28,24,1,53,53.8
+Domain Zoo,Mono-Blue Belcher,9,7,0,16,56.2
+Domain Zoo,Esper Blink,5,8,0,13,38.5
+Domain Zoo,Gruul Broodscale,2,5,1,8,28.6
+Izzet Prowess,Boros Energy,39,57,1,97,40.6
+Izzet Prowess,Izzet Prowess,32,32,0,64,50.0
+Izzet Prowess,Amulet Titan,23,30,0,53,43.4
+Izzet Prowess,Mono-Red Belcher,2,0,0,2,100.0
+Izzet Prowess,Domain Zoo,11,20,1,32,35.5
+Izzet Prowess,Azorius Affinity,6,10,0,16,37.5
+Izzet Prowess,Five-Color Creativity,1,1,0,2,50.0
+Izzet Prowess,Esper Blink,6,16,0,22,27.3
+Izzet Prowess,Orzhov Blink,8,10,0,18,44.4
+Izzet Prowess,Gruul Broodscale,2,13,0,15,13.3
+Esper Reanimator,Amulet Titan,13,4,0,17,76.5
+Esper Reanimator,Izzet Prowess,8,3,2,13,72.7
+Esper Reanimator,Boros Energy,11,12,1,24,47.8
+Esper Reanimator,Esper Reanimator,2,2,0,4,50.0
+Esper Reanimator,Dimir Midrange,4,1,0,5,80.0
+Esper Reanimator,Esper Blink,6,2,0,8,75.0
+Esper Reanimator,Domain Zoo,13,8,0,21,61.9
+Esper Reanimator,Eldrazi Ramp,12,3,0,15,80.0
+Esper Reanimator,Jeskai Control,5,0,0,5,100.0
+Esper Reanimator,Orzhov Blink,2,5,0,7,28.6
+Esper Reanimator,Neoform,7,0,0,7,100.0
+Esper Reanimator,Azorius Affinity,3,4,0,7,42.9
+Gruul Broodscale,Jeskai Ascendancy,1,2,0,3,33.3
+Gruul Broodscale,Jund Aggro,1,0,0,1,100.0
+Gruul Broodscale,Ruby Storm,1,0,0,1,100.0
+Gruul Broodscale,Jeskai Affinity,1,2,0,3,33.3
+Gruul Broodscale,Sultai Food,1,0,0,1,100.0
+Gruul Broodscale,Esper Midrange,1,0,0,1,100.0
+Esper Reanimator,Dimir Oculus,0,2,0,2,0.0
+Esper Reanimator,Mono-Black Midrange,1,2,0,3,33.3
+Esper Reanimator,Mono-Blue Belcher,4,1,0,5,80.0
+Esper Reanimator,Gruul Broodscale,2,3,1,6,40.0
+Mono-Blue Belcher,Domain Zoo,7,9,0,16,43.8
+Mono-Blue Belcher,Eldrazi Ramp,12,4,0,16,75.0
+Mono-Blue Belcher,Esper Blink,4,4,0,8,50.0
+Mono-Blue Belcher,Jeskai Energy,1,0,0,1,100.0
+Mono-Blue Belcher,Gruul Broodscale,3,2,0,5,60.0
+Mono-Blue Belcher,Mono-Blue Belcher,4,4,0,8,50.0
+Mono-Blue Belcher,Jund Midrange,1,1,0,2,50.0
+Mono-Blue Belcher,Amulet Titan,19,5,0,24,79.2
+Mono-Blue Belcher,Esper Reanimator,1,4,0,5,20.0
+Mono-Blue Belcher,Boros Energy,13,12,0,25,52.0
+Mono-Blue Belcher,Izzet Prowess,12,10,0,22,54.5
+Mono-Blue Belcher,Esper Creativity,1,1,0,2,50.0
+Esper Blink,Ruby Storm,3,3,0,6,50.0
+Esper Blink,Azorius Affinity,2,3,1,6,40.0
+Esper Blink,Mono-Green Broodscale,1,1,1,3,50.0
+Esper Blink,Grixis Midrange,1,0,0,1,100.0
+Esper Blink,Mardu Energy,2,1,0,3,66.7
+Esper Blink,Domain Zoo,8,5,0,13,61.5
+Mardu Energy,Dimir Midrange,4,0,0,4,100.0
+Mardu Energy,Rakdos Burn,1,0,0,1,100.0
+Mardu Energy,Domain Zoo,3,3,0,6,50.0
+Mardu Energy,Boros Energy,4,1,0,5,80.0
+Mardu Energy,Mono-Black Midrange,1,0,0,1,100.0
+Mardu Energy,Esper Blink,1,2,0,3,33.3
+Mardu Energy,Mono-Blue Belcher,1,1,0,2,50.0
+Mardu Energy,Grixis Midrange,1,0,0,1,100.0
+Mardu Energy,Azorius Affinity,2,0,0,2,100.0
+Mardu Energy,Five-Color Creativity,0,1,0,1,0.0
+Mardu Energy,Gruul Broodscale,0,1,0,1,0.0
+Mardu Energy,Orzhov Blink,1,2,0,3,33.3
+Mono-Blue Belcher,Azorius Affinity,2,7,0,9,22.2
+Mono-Blue Belcher,Eldrazi Tron,3,0,0,3,100.0
+Mono-Blue Belcher,Neoform,6,0,0,6,100.0
+Mono-Blue Belcher,Mardu Energy,1,1,0,2,50.0
+Mono-Blue Belcher,Dimir Oculus,2,1,0,3,66.7
+Mono-Blue Belcher,Jeskai Control,2,0,0,2,100.0
+Dimir Oculus,Boros Energy,4,5,0,9,44.4
+Dimir Oculus,Esper Reanimator,2,0,0,2,100.0
+Dimir Oculus,Four-Color Control,1,0,0,1,100.0
+Dimir Oculus,Amulet Titan,4,1,0,5,80.0
+Dimir Oculus,Azorius Affinity,2,2,0,4,50.0
+Dimir Oculus,Mono-Blue Belcher,1,2,0,3,33.3
+Dimir Oculus,Jeskai Prowess,1,0,0,1,100.0
+Dimir Oculus,Izzet Prowess,1,3,0,4,25.0
+Dimir Oculus,Esper Oculus,1,0,0,1,100.0
+Grixis Midrange,Dimir Midrange,1,1,0,2,50.0
+Grixis Midrange,Boros Energy,7,2,0,9,77.8
+Grixis Midrange,Orzhov Blink,1,1,0,2,50.0
+Grixis Midrange,Azorius Affinity,1,1,0,2,50.0
+Grixis Midrange,Mardu Energy,0,1,0,1,0.0
+Grixis Midrange,Esper Blink,0,1,0,1,0.0
+Grixis Midrange,Gruul Broodscale,1,1,0,2,50.0
+Grixis Midrange,Esper Midrange,0,1,0,1,0.0
+Grixis Midrange,Mono-Blue Belcher,1,0,0,1,100.0
+Grixis Midrange,Amulet Titan,2,3,0,5,40.0
+Boros Energy,Rakdos Midrange,1,0,0,1,100.0
+Boros Energy,Boros Energy,74,74,6,154,50.0
+Boros Energy,Esper Midrange,2,1,0,3,66.7
+Boros Energy,Mardu Energy,1,4,0,5,20.0
+Boros Energy,Amulet Titan,30,34,0,64,46.9
+Boros Energy,Domain Zoo,24,28,1,53,46.2
+Boros Energy,Orzhov Blink,8,15,1,24,34.8
+Boros Energy,Azorius Control,7,5,1,13,58.3
+Boros Energy,Izzet Prowess,57,39,1,97,59.4
+Izzet Prowess,Jeskai Midrange,2,3,0,5,40.0
+Izzet Prowess,Jeskai Ascendancy,10,6,0,16,62.5
+Izzet Prowess,Mono-Blue Belcher,10,12,0,22,45.5
+Izzet Prowess,Esper Midrange,1,2,0,3,33.3
+Jeskai Affinity,Domain Zoo,1,2,0,3,33.3
+Jeskai Affinity,Temur Twin,1,0,0,1,100.0
+Jeskai Affinity,Eldrazi Ramp,2,2,0,4,50.0
+Jeskai Affinity,Mono-Blue Belcher,3,1,0,4,75.0
+Jeskai Affinity,Boros Energy,5,2,0,7,71.4
+Jeskai Affinity,Gruul Broodscale,2,1,0,3,66.7
+Jeskai Affinity,Izzet Prowess,4,1,0,5,80.0
+Jeskai Affinity,Esper Reanimator,0,2,0,2,0.0
+Jeskai Affinity,Esper Blink,1,1,0,2,50.0
+Jeskai Affinity,Living End,1,1,0,2,50.0
+Five-Color Creativity,Jeskai Control,0,1,0,1,0.0
+Five-Color Creativity,Amulet Titan,1,0,0,1,100.0
+Five-Color Creativity,Izzet Prowess,1,1,0,2,50.0
+Five-Color Creativity,Boros Energy,3,0,0,3,100.0
+Five-Color Creativity,Neoform,1,0,0,1,100.0
+Five-Color Creativity,Ruby Storm,1,0,0,1,100.0
+Five-Color Creativity,Eldrazi Ramp,1,0,0,1,100.0
+Five-Color Creativity,Domain Zoo,1,2,0,3,33.3
+Five-Color Creativity,Mardu Energy,1,0,0,1,100.0
+Five-Color Creativity,Azorius Affinity,0,1,0,1,0.0
+Five-Color Creativity,Esper Midrange,0,1,0,1,0.0
+Five-Color Creativity,Colorless Eldrazi,1,0,0,1,100.0
+Esper Midrange,Neoform,2,0,0,2,100.0
+Esper Midrange,Living End,1,0,0,1,100.0
+Esper Midrange,Boros Energy,1,2,0,3,33.3
+Esper Midrange,Esper Blink,2,0,0,2,100.0
+Esper Midrange,Izzet Prowess,2,1,0,3,66.7
+Esper Midrange,Amulet Titan,1,1,0,2,50.0
+Esper Midrange,Jeskai Affinity,1,0,0,1,100.0
+Esper Midrange,Grixis Midrange,1,0,0,1,100.0
+Esper Midrange,Five-Color Creativity,1,0,0,1,100.0
+Esper Midrange,Gruul Broodscale,0,1,0,1,0.0
+Neoform,Eldrrazi Ramp,1,0,0,1,100.0
+Neoform,Izzet Prowess,6,6,0,12,50.0
+Neoform,Neoform,1,1,0,2,50.0
+Neoform,Mono-Blue Belcher,0,6,0,6,0.0
+Neoform,Colorless Eldrazi,0,1,0,1,0.0
+Neoform,Azorius Affinity,1,1,0,2,50.0
+Neoform,Living End,1,1,0,2,50.0
+Neoform,Boros Energy,10,5,0,15,66.7
+Neoform,Amulet Titan,4,2,0,6,66.7
+Neoform,Domain Zoo,2,5,0,7,28.6
+Neoform,Esper Reanimator,0,7,0,7,0.0
+Boros Energy,Nine Lives,2,0,0,2,100.0
+Boros Energy,Dimir Midrange,14,6,0,20,70.0
+Boros Energy,Esper Blink,13,11,0,24,54.2
+Boros Energy,Jeskai Ascendancy,8,4,1,13,66.7
+Boros Energy,Eldrazi Ramp,40,25,1,66,61.5
+Boros Energy,Esper Reanimator,12,11,1,24,52.2
+Boros Energy,Dimir Mill,10,3,0,13,76.9
+Boros Energy,Neoform,5,10,0,15,33.3
+Boros Energy,Ruby Storm,18,10,0,28,64.3
+Boros Energy,Mono-Blue Belcher,12,13,0,25,48.0
+Jeskai Prowess,Amulet Titan,0,2,0,2,0.0
+Jeskai Prowess,Jeskai Affinity,1,0,0,1,100.0
+Jeskai Prowess,Living End,1,0,0,1,100.0
+Jeskai Prowess,Esper Blink,1,0,0,1,100.0
+Jeskai Prowess,Izzet Prowess,3,0,0,3,100.0
+Jeskai Prowess,Colorless Eldrazi,0,1,0,1,0.0
+Jeskai Prowess,Boros Energy,3,1,0,4,75.0
+Jeskai Prowess,Sultai Food,0,1,0,1,0.0
+Jeskai Prowess,Dimir Oculus,0,1,0,1,0.0
+Jeskai Prowess,Esper Reanimator,1,0,0,1,100.0
+Jeskai Prowess,Mono-Blue Belcher,1,0,0,1,100.0
+Esper Reanimator,Simic Murktide,1,0,0,1,100.0
+Esper Reanimator,Ruby Storm,4,2,0,6,66.7
+Esper Reanimator,Eldrazi Tron,1,0,0,1,100.0
+Esper Reanimator,Dimir Mill,1,1,0,2,50.0
+Esper Reanimator,Colorless Eldrazi,1,0,0,1,100.0
+Esper Creativity,Izzet Prowess,1,1,0,2,50.0
+Esper Creativity,Boros Energy,3,1,0,4,75.0
+Esper Creativity,Mono-Green Tron,1,0,0,1,100.0
+Esper Creativity,Domain Zoo,1,0,0,1,100.0
+Esper Creativity,Orzhov Blink,1,1,0,2,50.0
+Esper Creativity,Abzan Samwise,1,0,0,1,100.0
+Esper Creativity,Neoform,1,0,0,1,100.0
+Esper Creativity,Mono-Blue Belcher,1,1,0,2,50.0
+Esper Creativity,Ruby Storm,1,0,0,1,100.0
+Orzhov Blink,Grixis Reanimator,1,0,0,1,100.0
+Orzhov Blink,Dimir Oculus,2,0,0,2,100.0
+Orzhov Blink,Orzhov Blink,1,1,0,2,50.0
+Azorius Affinity,Mono-Red Belcher,1,1,0,2,50.0
+Azorius Affinity,Domain Zoo,4,6,0,10,40.0
+Azorius Affinity,Mono-Green Broodscale,1,1,0,2,50.0
+Azorius Affinity,Jeskai Ascendancy,1,0,0,1,100.0
+Azorius Affinity,Esper Blink,3,2,1,6,60.0
+Azorius Affinity,Grixis Midrange,1,1,0,2,50.0
+Azorius Affinity,Dimir Mill,1,1,0,2,50.0
+Azorius Affinity,Neoform,1,1,0,2,50.0
+Domain Zoo,Dimir Midrange,5,3,0,8,62.5
+Domain Zoo,Jeskai Control,2,5,0,7,28.6
+Gruul Broodscale,Azorius Control,0,1,0,1,0.0
+Gruul Broodscale,Amulet Titan,3,3,0,6,50.0
+Gruul Broodscale,Esper Reanimator,3,2,1,6,60.0
+Boros Energy,Hollow One,5,3,0,8,62.5
+Boros Energy,Five-Color Creativity,0,3,0,3,0.0
+Boros Energy,Jeskai Energy,2,1,0,3,66.7
+Boros Energy,Boros Belcher,3,3,0,6,50.0
+Boros Energy,Sultai Infect,1,1,0,2,50.0
+Boros Energy,Gruul Broodscale,6,7,0,13,46.2
+Boros Energy,Grixis Midrange,2,7,0,9,22.2
+Esper Reanimator,Esper Control,1,0,0,1,100.0
+Domain Zoo,Temur Trailblazer Combo,1,0,0,1,100.0
+Domain Zoo,Esper Reanimator,8,13,0,21,38.1
+Domain Zoo,Izzet Control,1,0,0,1,100.0
+Domain Zoo,Sultai Food,1,0,0,1,100.0
+Boros Energy,Jeskai Affinity,2,5,0,7,28.6
+Boros Energy,Azorius Affinity,10,11,1,22,47.6
+Boros Energy,Jeskai Control,7,12,0,19,36.8
+Boros Energy,Simic Oculus,2,1,0,3,66.7
+Boros Energy,Mono-Green Broodscale,7,4,0,11,63.6
+Boros Energy,Dimir Oculus,5,4,0,9,55.6
+Izzet Prowess,Abzan Samwise,1,1,0,2,50.0
+Izzet Prowess,Azorius Control,5,3,1,9,62.5
+Izzet Prowess,Dimir Midrange,12,7,2,21,63.2
+Izzet Prowess,Eldrazi Ramp,20,26,1,47,43.5
+Izzet Prowess,Jeskai Affinity,1,4,0,5,20.0
+Izzet Prowess,Sultai Food,0,1,0,1,0.0
+Izzet Prowess,Esper Reanimator,3,8,2,13,27.3
+Esper Reanimator,Jeskai Ascendancy,2,0,0,2,100.0
+Esper Reanimator,Izzet Twin,1,0,0,1,100.0
+Esper Reanimator,Jeskai Affinity,2,0,0,2,100.0
+Esper Reanimator,Four-Color Control,1,1,0,2,50.0
+Ruby Storm,Amulet Titan,11,2,0,13,84.6
+Ruby Storm,Boros Energy,10,18,0,28,35.7
+Ruby Storm,Eldrazi Ramp,11,2,0,13,84.6
+Ruby Storm,Domain Zoo,3,8,1,12,27.3
+Ruby Storm,Azorius Control,1,1,0,2,50.0
+Ruby Storm,Esper Reanimator,2,4,0,6,33.3
+Ruby Storm,Hollow One,1,0,0,1,100.0
+Ruby Storm,Esper Creativity,0,1,0,1,0.0
+Ruby Storm,Orzhov Blink,2,1,0,3,66.7
+Amulet Titan,Eldrazi Ramp,26,12,1,39,68.4
+Amulet Titan,Rakdos Burn,1,0,0,1,100.0
+Amulet Titan,Amulet Titan,17,17,0,34,50.0
+Amulet Titan,Mono-Red Belcher,1,3,0,4,25.0
+Amulet Titan,Jeskai Hammer,1,1,0,2,50.0
+Amulet Titan,Azorius Belcher,1,0,0,1,100.0
+Amulet Titan,Mono-Blue Belcher,5,19,0,24,20.8
+Amulet Titan,Boros Energy,34,30,0,64,53.1
+Amulet Titan,Izzet Prowess,30,23,0,53,56.6
+Amulet Titan,Orzhov Blink,4,4,1,9,50.0
+Orzhov Blink,Dimir Mill,0,2,0,2,0.0
+Orzhov Blink,Jeskai Affinity,2,0,0,2,100.0
+Orzhov Blink,Burn,2,0,0,2,100.0
+Orzhov Blink,Mono-Green Broodscale,1,0,0,1,100.0
+Orzhov Blink,Neoform,1,0,0,1,100.0
+Orzhov Blink,Gruul Broodscale,1,0,0,1,100.0
+Orzhov Blink,Dimir Midrange,2,2,0,4,50.0
+Boros Energy,Esper Creativity,1,3,0,4,25.0
+Boros Energy,Azorius Control (Kaheera),2,2,0,4,50.0
+Boros Energy,Colorless Eldrazi,2,2,0,4,50.0
+Jeskai Control,Five-Color Creativity,1,0,0,1,100.0
+Jeskai Control,Sultai Food,1,0,1,2,100.0
+Jeskai Control,Boros Energy,12,7,0,19,63.2
+Jeskai Control,Neoform,2,0,0,2,100.0
+Jeskai Control,Azorius Affinity,1,2,0,3,33.3
+Jeskai Control,Eldrazi Ramp,4,4,0,8,50.0
+Jeskai Control,Ruby Storm,2,2,1,5,50.0
+Jeskai Control,Domain Zoo,5,2,0,7,71.4
+Jeskai Control,Mono-Blue Belcher,0,2,0,2,0.0
+Jeskai Control,Esper Reanimator,0,5,0,5,0.0
+Amulet Titan,Jeskai Control,3,4,0,7,42.9
+Amulet Titan,Domain Zoo,15,13,0,28,53.6
+Amulet Titan,Esper Reanimator,4,13,0,17,23.5
+Amulet Titan,Gruul Broodscale,3,3,0,6,50.0
+Amulet Titan,Grixis Midrange,3,2,0,5,60.0
+Boros Energy,Mono-Black Necro,3,1,0,4,75.0
+Boros Energy,Jeskai Prowess,1,3,0,4,25.0
+Boros Energy,Merfolk,5,3,0,8,62.5
+Mono-Blue Belcher,Dimir Midrange,5,0,0,5,100.0
+Mono-Blue Belcher,Orzhov Blink,1,2,0,3,33.3
+Colorless Eldrazi,Abzan Samwise,1,0,0,1,100.0
+Colorless Eldrazi,Orzhov Blink,3,1,0,4,75.0
+Colorless Eldrazi,Mono-White Control,1,0,0,1,100.0
+Colorless Eldrazi,Azorius Affinity,1,1,0,2,50.0
+Colorless Eldrazi,Eldrazi Ramp,1,0,0,1,100.0
+Colorless Eldrazi,Mono-Blue Belcher,2,0,0,2,100.0
+Colorless Eldrazi,Jeskai Prowess,1,0,0,1,100.0
+Colorless Eldrazi,Boros Energy,2,2,0,4,50.0
+Colorless Eldrazi,Living End,1,0,0,1,100.0
+Colorless Eldrazi,Esper Reanimator,0,1,0,1,0.0
+Colorless Eldrazi,Amulet Titan,0,1,0,1,0.0
+Colorless Eldrazi,Five-Color Creativity,0,1,0,1,0.0
+Domain Zoo,Boros Delirium,2,0,0,2,100.0
+Domain Zoo,Neoform,5,2,0,7,71.4
+Domain Zoo,Azorius Belcher,1,0,0,1,100.0
+Domain Zoo,Mono-Red Belcher,2,1,0,3,66.7
+Mono-Blue Belcher,Jeskai Ascendancy,2,1,0,3,66.7
+Mono-Blue Belcher,Ruby Storm,1,2,0,3,33.3
+Mono-Blue Belcher,Sultai Oculus,1,0,0,1,100.0
+Mono-Blue Belcher,Grixis Midrange,0,1,0,1,0.0
+Domain Zoo,Dimir Oculus,2,1,0,3,66.7
+Amulet Titan,Jeskai Midrange,2,0,0,2,100.0
+Amulet Titan,Living End,2,5,0,7,28.6
+Amulet Titan,Colorless Eldrazi,1,0,0,1,100.0
+Ruby Storm,Rakdos Prowess,1,0,0,1,100.0
+Ruby Storm,Mono-Blue Belcher,2,1,0,3,66.7
+Ruby Storm,Five-Color Creativity,0,1,0,1,0.0
+Ruby Storm,Jeskai Control,2,2,1,5,50.0
+Ruby Storm,Sultai Food,1,0,0,1,100.0
+Mono-Blue Belcher,Izzet Storm,1,0,0,1,100.0
+Mono-Blue Belcher,Azorius Control (Kaheera),2,0,0,2,100.0
+Mono-Blue Belcher,Jeskai Affinity,1,3,0,4,25.0
+Mono-Blue Belcher,Jeskai Prowess,0,1,0,1,0.0
+Boros Energy,Abzan Blink,1,0,0,1,100.0
+Amulet Titan,Mono-Green Tron,2,0,0,2,100.0
+Amulet Titan,Dimir Oculus,1,4,0,5,20.0
+Amulet Titan,Esper Midrange,1,1,0,2,50.0
+Amulet Titan,Ruby Storm,2,11,0,13,15.4
+Esper Blink,Dimir Mill,1,0,0,1,100.0
+Amulet Titan,Azorius Affinity,2,4,1,7,33.3
+Domain Zoo,Boros Storm,0,1,0,1,0.0
+Domain Zoo,Four-Color Control,2,1,0,3,66.7
+Domain Zoo,Mono-Black Midrange,1,2,0,3,33.3
+Orzhov Blink,Boros Belcher,0,1,0,1,0.0
+Orzhov Blink,Hollow One,1,0,0,1,100.0
+Orzhov Blink,Merfolk,2,1,0,3,66.7
+Orzhov Blink,Esper Creativity,1,1,0,2,50.0
+Orzhov Blink,Ruby Storm,1,2,0,3,33.3
+Boros Energy,Boros Aggro,2,0,0,2,100.0
+Boros Energy,Living End,11,10,0,21,52.4
+Jeskai Control,Abzan Samwise,1,0,0,1,100.0
+Jeskai Control,Amulet Titan,4,3,0,7,57.1
+Jeskai Control,Izzet Prowess,9,3,0,12,75.0
+Jeskai Control,Dimir Midrange,1,1,0,2,50.0
+Jeskai Control,Izzet Control,1,0,0,1,100.0
+Jeskai Control,Orzhov Blink,2,3,0,5,40.0
+Izzet Prowess,Sultai Infect,2,0,0,2,100.0
+Izzet Prowess,Jeskai Energy,1,0,0,1,100.0
+Izzet Prowess,Dimir Oculus,3,1,0,4,75.0
+Izzet Prowess,Ruby Storm,12,5,0,17,70.6
+Izzet Prowess,Azorius Control (Kaheera),1,0,0,1,100.0
+Izzet Prowess,Colorless Eldrazi,2,3,0,5,40.0
+Esper Reanimator,Izzet Midrange,1,0,0,1,100.0
+Esper Reanimator,Hollow One,1,0,0,1,100.0
+Azorius Affinity,Azorius Control,1,0,0,1,100.0
+Azorius Affinity,Four-Color Control,1,0,0,1,100.0
+Eldrazi Ramp,Boros Energy,25,40,1,66,38.5
+Eldrazi Ramp,Eldrazi Ramp,14,14,0,28,50.0
+Eldrazi Ramp,Domain Zoo,12,18,1,31,40.0
+Eldrazi Ramp,Amulet Titan,12,26,1,39,31.6
+Eldrazi Ramp,Jeskai Control,4,4,0,8,50.0
+Eldrazi Ramp,Mono-Blue Belcher,4,12,0,16,25.0
+Eldrazi Ramp,Esper Blink,7,8,0,15,46.7
+Eldrazi Ramp,Jeskai Affinity,2,2,0,4,50.0
+Eldrazi Ramp,Esper Reanimator,3,12,0,15,20.0
+Living End,Izzet Prowess,5,3,0,8,62.5
+Living End,Esper Reanimator,3,0,0,3,100.0
+Living End,Eldrazi Ramp,3,2,1,6,60.0
+Living End,Gruul Broodscale,0,3,0,3,0.0
+Living End,Esper Blink,1,1,1,3,50.0
+Living End,Mono-Red Belcher,1,1,0,2,50.0
+Living End,Boros Energy,10,11,0,21,47.6
+Living End,Ruby Storm,1,2,0,3,33.3
+Living End,Amulet Titan,5,2,0,7,71.4
+Jeskai Ascendancy,Mono-Blue Belcher,1,2,0,3,33.3
+Jeskai Ascendancy,Domain Zoo,0,6,0,6,0.0
+Jeskai Ascendancy,Izzet Prowess,6,10,0,16,37.5
+Jeskai Ascendancy,Esper Blink,1,3,0,4,25.0
+Jeskai Ascendancy,Four-Color Control,3,0,0,3,100.0
+Jeskai Ascendancy,Boros Energy,4,8,1,13,33.3
+Jeskai Ascendancy,Dimir Oculus,1,0,0,1,100.0
+Domain Zoo,Merfolk,3,1,0,4,75.0
+Boros Energy,Four-Color Control,3,2,0,5,60.0
+Izzet Prowess,Temur Twin,2,0,0,2,100.0
+Izzet Prowess,Jeskai Prowess,0,3,0,3,0.0
+Izzet Prowess,Mono-Green Broodscale,3,1,0,4,75.0
+Esper Oculus,Amulet Titan,0,3,0,3,0.0
+Esper Oculus,Boros Energy,0,1,0,1,0.0
+Esper Oculus,Jeskai Energy,1,0,0,1,100.0
+Esper Oculus,Izzet Prowess,1,0,0,1,100.0
+Esper Oculus,Neoform,1,0,0,1,100.0
+Esper Oculus,Dimir Midrange,2,0,0,2,100.0
+Esper Oculus,Jeskai Control,1,0,0,1,100.0
+Esper Oculus,Domain Zoo,1,0,0,1,100.0
+Esper Oculus,Izzet Control,1,0,0,1,100.0
+Esper Oculus,Dimir Oculus,0,1,0,1,0.0
+Esper Oculus,Azorius Control,1,0,0,1,100.0
+Esper Oculus,Esper Blink,0,0,1,1,
+Esper Blink,Merfolk,4,0,0,4,100.0
+Esper Blink,Esper Control,0,1,0,1,0.0
+Esper Blink,Jeskai Ascendancy,3,1,0,4,75.0
+Esper Blink,Esper Oculus,0,0,1,1,
+Mono-Blue Belcher,Rakdos Midrange,0,1,0,1,0.0
+Mono-Blue Belcher,Mono-Black Necro,1,0,0,1,100.0
+Mono-Blue Belcher,Simic Infect,0,1,0,1,0.0
+Mono-Blue Belcher,Sultai Infect,1,0,0,1,100.0
+Mono-Blue Belcher,Four-Color Control,3,0,0,3,100.0
+Mono-Blue Belcher,Living End,2,0,1,3,100.0
+Living End,Eldrazi Tron,2,1,0,3,66.7
+Living End,Goblins,1,0,0,1,100.0
+Living End,Living End,1,1,0,2,50.0
+Living End,Golgari Midrange,2,0,0,2,100.0
+Living End,Colorless Eldrazi,0,1,0,1,0.0
+Living End,Merfolk,1,1,0,2,50.0
+Living End,Jeskai Affinity,1,1,0,2,50.0
+Living End,Mono-Blue Belcher,0,2,1,3,0.0
+Azorius Belcher,Izzet Prowess,0,1,0,1,0.0
+Azorius Belcher,Esper MIdrange,1,0,0,1,100.0
+Azorius Belcher,Dimir Midrange,0,1,0,1,0.0
+Azorius Belcher,Boros Energy,3,0,0,3,100.0
+Azorius Belcher,Eldrazi Ramp,1,0,0,1,100.0
+Azorius Belcher,Domain Zoo,0,1,0,1,0.0
+Azorius Belcher,Merfolk,1,0,0,1,100.0
+Azorius Belcher,Orzhov Blink,1,0,1,2,100.0
+Azorius Belcher,Amulet Titan,0,1,0,1,0.0
+Azorius Belcher,Dimir Mill,0,1,0,1,0.0
+Azorius Belcher,Ruby Storm,1,0,0,1,100.0
+Azorius Belcher,Living End,1,0,0,1,100.0
+Domain Zoo,Jeskai Ascendancy,6,0,0,6,100.0
+Domain Zoo,Five-Color Creativity,2,1,0,3,66.7
+Boros Energy,Abzan Samwise,5,6,0,11,45.5
+Eldrazi Ramp,Mono-Red Aggro,2,1,0,3,66.7
+Eldrazi Ramp,Izzet Prowess,26,20,1,47,56.5
+Eldrazi Ramp,Five-Color Creativity,0,1,0,1,0.0
+Jeskai Affinity,Amulet Titan,2,2,0,4,50.0
+Jeskai Affinity,Boros Storm,1,0,0,1,100.0
+Jeskai Affinity,Ruby Storm,2,0,0,2,100.0
+Jeskai Affinity,Esper Midrange,0,1,0,1,0.0
+Eldrazi Ramp,Mardu Energy,3,2,0,5,60.0
+Eldrazi Ramp,Abzan Samwise,3,3,0,6,50.0
+Eldrazi Ramp,Azorius Control,5,2,0,7,71.4
+Eldrazi Ramp,Orzhov Blink,11,2,1,14,84.6
+Hollow One,Izzet Prowess,2,4,0,6,33.3
+Hollow One,Boros Energy,3,5,0,8,37.5
+Hollow One,Jeskai Control,2,0,0,2,100.0
+Hollow One,Four-Color Control,1,0,0,1,100.0
+Hollow One,Dimir Mill,1,0,0,1,100.0
+Hollow One,Mono-Blue Belcher,2,0,0,2,100.0
+Hollow One,Esper Reanimator,0,1,0,1,0.0
+Hollow One,Domain Zoo,2,0,0,2,100.0
+Hollow One,Ruby Storm,0,1,0,1,0.0
+Izzet Prowess,Jeskai Control,3,9,0,12,25.0
+Izzet Prowess,Mardu Energy,1,2,0,3,33.3
+Izzet Prowess,Living End,3,5,0,8,37.5
+Mono-Blue Belcher,Merfolk,1,1,0,2,50.0
+Mono-Blue Belcher,Azorius Control,1,1,0,2,50.0
+Esper Reanimator,Abzan Infect,2,0,0,2,100.0
+Amulet Titan,Elves,1,0,1,2,100.0
+Amulet Titan,Esper Blink,4,9,0,13,30.8
+Amulet Titan,Sultai Food,1,0,0,1,100.0
+Boros Energy,Five-Color Glimpse,1,0,0,1,100.0
+Dimir Mill,Boros Energy,3,10,0,13,23.1
+Dimir Mill,Merfolk,0,1,0,1,0.0
+Dimir Mill,Azorius Control,1,1,0,2,50.0
+Dimir Mill,Hollow One,0,1,0,1,0.0
+Dimir Mill,Neoform,1,2,0,3,33.3
+Dimir Mill,Azorius Affinity,1,1,0,2,50.0
+Dimir Mill,Esper Reanimator,1,1,0,2,50.0
+Dimir Mill,Izzet Prowess,3,5,0,8,37.5
+Dimir Mill,Azorius Belcher,1,0,0,1,100.0
+Dimir Oculus,Abzan Samwise,1,0,0,1,100.0
+Dimir Oculus,Jeskai Control,1,1,0,2,50.0
+Dimir Oculus,Ruby Storm,0,2,0,2,0.0
+Dimir Oculus,Neoform,1,2,0,3,33.3
+Dimir Oculus,Domain Zoo,1,2,0,3,33.3
+Dimir Oculus,Jeskai Ascendancy,0,1,0,1,0.0
+Dimir Oculus,Golgari Midrange,1,0,0,1,100.0
+Izzet Prowess,Esper Creativity,1,1,0,2,50.0
+Izzet Prowess,Golgari Midrange,1,2,0,3,33.3
+Colorless Eldrazi,Izzet Prowess,3,2,0,5,60.0
+Colorless Eldrazi,Grixis Midrange,1,0,0,1,100.0
+Colorless Eldrazi,Neoform,1,0,0,1,100.0
+Colorless Eldrazi,Esper Blink,0,1,0,1,0.0
+Colorless Eldrazi,Boros Belcher,0,1,0,1,0.0
+Colorless Eldrazi,Merfolk,1,0,0,1,100.0
+Boros Energy,Jeskai Midrange,1,0,0,1,100.0
+Eldrazi Ramp,Dimir Oculus,1,0,0,1,100.0
+Eldrazi Ramp,Jund Creativity,2,0,0,2,100.0
+Eldrazi Ramp,Living End,2,3,1,6,40.0
+Eldrazi Ramp,Mono-Black Midrange,1,0,0,1,100.0
+Boros Energy,Mono-White Hammer,1,0,0,1,100.0
+Ruby Storm,Izzet Prowess,5,12,0,17,29.4
+Ruby Storm,Grixis Midrange,1,0,0,1,100.0
+Ruby Storm,Living End,2,1,0,3,66.7
+Ruby Storm,Mono-Green Broodscale,1,1,0,2,50.0
+Eldrazi Ramp,Gruul Broodscale,1,6,0,7,14.3
+Eldrazi Ramp,Rakdos Prowess,1,1,0,2,50.0
+Ruby Storm,Esper Blink,3,3,0,6,50.0
+Ruby Storm,Izzet Storm,1,0,0,1,100.0
+Ruby Storm,Gruul Broodscale,0,1,0,1,0.0
+Ruby Storm,Ruby Storm,4,4,0,8,50.0
+Ruby Storm,Mardu Energy,1,0,0,1,100.0
+Ruby Storm,Jeskai Midrange,0,1,0,1,0.0
+Ruby Storm,Azorius Affinity,1,1,0,2,50.0
+Ruby Storm,Azorius Belcher,0,1,0,1,0.0
+Boros Energy,Mono-Black Midrange,1,1,0,2,50.0
+Mardu Energy,Eldrazi Ramp,2,3,0,5,40.0
+Mardu Energy,Izzet Prowess,2,1,0,3,66.7
+Mardu Energy,Boros Storm,1,0,0,1,100.0
+Mardu Energy,Azorius Control,1,0,1,2,100.0
+Jeskai Energy,Esper Blink,0,1,0,1,0.0
+Jeskai Energy,Boros Energy,1,2,0,3,33.3
+Jeskai Energy,Esper Oculus,0,1,0,1,0.0
+Jeskai Energy,Neoform,1,0,0,1,100.0
+Jeskai Energy,Orzhov Blink,2,0,0,2,100.0
+Jeskai Energy,Eldrazi Ramp,3,2,0,5,60.0
+Jeskai Energy,Izzet Prowess,0,1,0,1,0.0
+Jeskai Energy,Izzet Control,1,0,0,1,100.0
+Jeskai Energy,Boros Belcher,1,0,0,1,100.0
+Domain Zoo,Eldrazi Tron,2,2,0,4,50.0
+Domain Zoo,Simic Murktide,1,0,0,1,100.0
+Domain Zoo,Sultai Oculus,0,0,1,1,
+Domain Zoo,Simic Oculus,1,0,0,1,100.0
+Orzhov Blink,Jund Creativity,1,0,0,1,100.0
+Orzhov Blink,Mono-Black Midrange,1,0,0,1,100.0
+Orzhov Blink,Colorless Eldrazi,1,3,0,4,25.0
+Orzhov Blink,Azorius Belcher,0,1,1,2,0.0
+Dimir Midrange,Domain Zoo,3,5,0,8,37.5
+Dimir Midrange,Jeskai Creativity,1,0,0,1,100.0
+Dimir Midrange,Eldrazi Ramp,2,6,2,10,25.0
+Dimir Midrange,Eldrazi Breach,2,0,0,2,100.0
+Dimir Midrange,Jeskai Control,1,1,0,2,50.0
+Dimir Midrange,Boros Energy,6,14,0,20,30.0
+Dimir Midrange,Esper Reanimator,1,4,0,5,20.0
+Dimir Midrange,Orzhov Blink,2,2,0,4,50.0
+Dimir Midrange,Izzet Twin,1,0,0,1,100.0
+Dimir Midrange,Living End,1,1,0,2,50.0
+Eldrazi Ramp,Golgari Midrange,1,1,0,2,50.0
+Eldrazi Ramp,Eldrazi Tron,2,1,0,3,66.7
+Eldrazi Ramp,Colorless Eldrazi,0,1,0,1,0.0
+Eldrazi Ramp,Dimir Midrange,6,2,2,10,75.0
+Boros Energy,Mono-Red Belcher,4,1,0,5,80.0
+Boros Energy,Sultai Food,0,2,0,2,0.0
+Eldrazi Ramp,Azorius Control (Kaheera),2,0,0,2,100.0
+Eldrazi Ramp,Grixis Aggro,2,0,0,2,100.0
+Eldrazi Ramp,Jeskai Energy,2,3,0,5,40.0
+Jeskai Control,Living End,1,0,0,1,100.0
+Jeskai Control,Gruuln Broodscale,1,0,0,1,100.0
+Jeskai Control,Hollow One,0,2,0,2,0.0
+Jeskai Control,Azorius Control,1,1,0,2,50.0
+Gruul Broodscale,Rakdos Prowess,1,0,0,1,100.0
+Gruul Broodscale,Boros Belcher,1,0,0,1,100.0
+Sultai Food,Eldrazi Ramp,3,0,0,3,100.0
+Sultai Food,Jeskai Control,0,1,1,2,0.0
+Sultai Food,Orzhov Blink,0,1,0,1,0.0
+Sultai Food,Jund Creativity,1,0,0,1,100.0
+Sultai Food,Boros Energy,2,0,0,2,100.0
+Sultai Food,Izzet Prowess,1,0,0,1,100.0
+Sultai Food,Jeskai Prowess,1,0,0,1,100.0
+Sultai Food,Gruul Broodscale,0,1,0,1,0.0
+Sultai Food,Ruby Storm,0,1,0,1,0.0
+Sultai Food,Domain Zoo,0,1,0,1,0.0
+Sultai Food,Amulet Titan,0,1,0,1,0.0
+Azorius Affinity,Ruby Storm,1,1,0,2,50.0
+Azorius Affinity,Mono-Black Necro,1,0,0,1,100.0
+Azorius Affinity,Mono-Black Midrange,2,1,0,3,66.7
+Azorius Affinity,Jeskai Midrange,1,0,0,1,100.0
+Amulet Titan,Mono-Black Aggro,2,0,0,2,100.0
+Amulet Titan,Neoform,2,4,0,6,33.3
+Amulet Titan,Esper Oculus,3,0,0,3,100.0
+Izzet Prowess,Four-Color Control,2,3,0,5,40.0
+Izzet Prowess,Boros Belcher,2,1,0,3,66.7
+Boros Energy,Mono-White Control,3,0,0,3,100.0
+Boros Energy,Esper Oculus,1,0,0,1,100.0
+Boros Energy,Abzan Infect,0,2,0,2,0.0
+Mono-Blue Belcher,Mono-Red Belcher,2,0,0,2,100.0
+Mono-Blue Belcher,Boros Storm,1,0,0,1,100.0
+Mono-Blue Belcher,Colorless Eldrazi,0,2,0,2,0.0
+Mono-Blue Belcher,Hollow One,0,2,0,2,0.0
+Orzhov Blink,Jeskai Hammer,1,0,0,1,100.0
+Boros Energy,Jund Midrange,1,1,0,2,50.0
+Boros Energy,Golgari Midrange,1,1,0,2,50.0
+Mono-Green Broodscale,Esper Blink,1,1,1,3,50.0
+Mono-Green Broodscale,Esper Control,1,0,0,1,100.0
+Mono-Green Broodscale,Azorius Affinity,1,1,0,2,50.0
+Mono-Green Broodscale,Mono-Blue Belcher,1,0,0,1,100.0
+Mono-Green Broodscale,Domain Zoo,1,0,0,1,100.0
+Mono-Green Broodscale,Boros Energy,4,7,0,11,36.4
+Mono-Green Broodscale,Izzet Prowess,1,3,0,4,25.0
+Mono-Green Broodscale,Mono-Black Midrange,1,0,0,1,100.0
+Mono-Green Broodscale,Amulet Titan,1,3,0,4,25.0
+Mono-Green Broodscale,Ruby Storm,1,1,0,2,50.0
+Living End,Mono-Blue Merfolk,0,1,0,1,0.0
+Living End,Domain Zoo,1,0,0,1,100.0
+Living End,Dimir Midrange,1,1,0,2,50.0
+Living End,Azorius Belcher,0,1,0,1,0.0
+Mono-Black Midrange,Mono-Red Aggro,1,0,0,1,100.0
+Mono-Black Midrange,Izzet Prowess,3,0,0,3,100.0
+Mono-Black Midrange,Amulet Titan,1,1,0,2,50.0
+Mono-Black Midrange,Azorius Affinity,1,2,0,3,33.3
+Mono-Black Midrange,Mardu Energy,0,1,0,1,0.0
+Mono-Black Midrange,Boros Energy,1,1,0,2,50.0
+Mono-Black Midrange,Domain Zoo,2,1,0,3,66.7
+Mono-Black Midrange,Esper Reanimator,2,1,0,3,66.7
+Mono-Black Midrange,Mono-Green Broodscale,0,1,0,1,0.0
+Mono-Black Midrange,Esper Blink,0,1,0,1,0.0
+Mono-Black Midrange,Gruul Broodscale,1,0,0,1,100.0
+Mono-Black Midrange,Eldrazi Ramp,0,1,0,1,0.0
+Domain Zoo,Esper Midrange,1,0,0,1,100.0
+Domain Zoo,Dimir Mill,1,2,0,3,33.3
+Domain Zoo,Hollow One,0,2,0,2,0.0
+Boros Energy,Boros Prowess,2,0,0,2,100.0
+Boros Energy,Naya Midrange,1,0,0,1,100.0
+Boros Energy,Temur Twin,4,0,0,4,100.0
+Boros Energy,Rakdos Prowess,1,0,0,1,100.0
+Azorius Control,Goblins,0,1,0,1,0.0
+Azorius Control,Dimir Mill,1,1,0,2,50.0
+Azorius Control,Izzet Prowess,3,5,1,9,37.5
+Azorius Control,Boros Energy,5,7,1,13,41.7
+Azorius Control,Amulet Titan,3,1,0,4,75.0
+Azorius Control,Abzan Samwise,1,0,0,1,100.0
+Azorius Control,Ruby Storm,1,1,0,2,50.0
+Azorius Control,Jeskai Control,1,1,0,2,50.0
+Azorius Control,Eldrazi Ramp,2,5,0,7,28.6
+Azorius Control,Esper Oculus,0,1,0,1,0.0
+Azorius Control,Mardu Energy,0,1,1,2,0.0
+Boros Belcher,Orzhov Blink,1,0,0,1,100.0
+Boros Belcher,Izzet Prowess,1,2,0,3,33.3
+Boros Belcher,Boros Energy,3,3,0,6,50.0
+Boros Belcher,Eldrazi Ramp,1,0,0,1,100.0
+Boros Belcher,Mono-Blue Belcher,1,0,0,1,100.0
+Boros Belcher,Gruul Broodscale,0,1,0,1,0.0
+Boros Belcher,Colorless Eldrazi,1,0,0,1,100.0
+Boros Belcher,Jeskai Energy,0,1,0,1,0.0
+Amulet Titan,Golgari Yawgmoth,2,0,0,2,100.0
+Amulet Titan,Eldrazi Tron,4,2,0,6,66.7
+Amulet Titan,Mono-Green Broodscale,3,1,0,4,75.0
+Jeskai Midrange,Mono-Black Necro,1,0,0,1,100.0
+Jeskai Midrange,Izzet Prowess,3,2,0,5,60.0
+Jeskai Midrange,Amulet Titan,0,2,0,2,0.0
+Jeskai Midrange,Simic Murktide,1,0,0,1,100.0
+Jeskai Midrange,Eldrazi Ramp,0,1,0,1,0.0
+Jeskai Midrange,Domain Zoo,1,0,0,1,100.0
+Jeskai Midrange,Ruby Storm,1,0,0,1,100.0
+Jeskai Midrange,Azorius Affinity,0,1,0,1,0.0
+Jeskai Midrange,Boros Energy,0,1,0,1,0.0
+Jeskai Midrange,Golgari Midrange,1,0,0,1,100.0
+Izzet Prowess,Eldrazi Tron,1,2,0,3,33.3
+Izzet Prowess,Dimir Mill,5,3,0,8,62.5
+Izzet Prowess,Mono-Black Midrange,0,3,0,3,0.0
+Izzet Control,Living End,0,1,0,1,0.0
+Izzet Control,Izzet Prowess,1,1,0,2,50.0
+Izzet Control,Esper Reanimator,1,0,0,1,100.0
+Izzet Control,Azorius Control,1,0,0,1,100.0
+Izzet Control,Eldrazi Ramp,1,1,0,2,50.0
+Izzet Control,Eldrazi Tron,1,0,0,1,100.0
+Izzet Control,Ruby Storm,1,0,0,1,100.0
+Izzet Control,Mono-Blue Belcher,1,0,0,1,100.0
+Izzet Control,Domain Zoo,0,1,0,1,0.0
+Izzet Control,Esper Oculus,0,1,0,1,0.0
+Izzet Control,Jeskai Control,0,1,0,1,0.0
+Izzet Control,Jeskai Energy,0,1,0,1,0.0
+Izzet Control,Boros Energy,1,2,0,3,33.3
+Simic Oculus,Eldrazi Ramp,0,1,0,1,0.0
+Simic Oculus,Izzet Prowess,0,1,0,1,0.0
+Simic Oculus,Orzhov Blink,0,1,0,1,0.0
+Simic Oculus,Grixis Reanimator,1,0,0,1,100.0
+Simic Oculus,Dimir Mill,1,0,0,1,100.0
+Simic Oculus,Simic Infect,1,0,0,1,100.0
+Simic Oculus,Azorius Control,1,0,0,1,100.0
+Simic Oculus,Dimir Midrange,1,0,0,1,100.0
+Simic Oculus,Neoform,1,0,0,1,100.0
+Simic Oculus,Boros Energy,1,2,0,3,33.3
+Simic Oculus,Esper Reanimator,0,1,0,1,0.0
+Simic Oculus,Esper Blink,1,0,0,1,100.0
+Simic Oculus,Domain Zoo,0,1,0,1,0.0
+Living End,Jeskai Prowess,0,1,0,1,0.0
+Living End,Mono-White Hammer,1,0,0,1,100.0
+Esper Reanimator,Grixis Aggro,1,0,0,1,100.0
+Esper Reanimator,Simic Oculus,1,0,0,1,100.0
+Esper Reanimator,Jeskai Prowess,0,1,0,1,0.0
+Amulet Titan,Bant Blink,1,1,0,2,50.0
+Esper Blink,Jeskai Control,3,1,0,4,75.0
+Esper Blink,Mono-Black Midrange,1,0,0,1,100.0
+Esper Blink,Simic Oculus,0,1,0,1,0.0
+Azorius Affinity,Burn,1,0,0,1,100.0
+Dimir Midrange,Mardu Energy,0,4,0,4,0.0
+Dimir Midrange,Ruby Storm,2,0,0,2,100.0
+Dimir Midrange,Dimir Oculus,1,0,0,1,100.0
+Dimir Midrange,Izzet Prowess,7,12,2,21,36.8
+Dimir Midrange,Esper Blink,0,2,0,2,0.0
+Dimir Midrange,Gruul Broodscale,1,0,0,1,100.0
+Dimir Midrange,Amulet Titan,5,3,0,8,62.5
+Dimir Midrange,Esper Oculus,0,2,0,2,0.0
+Merfolk,Boros Energy,3,5,0,8,37.5
+Merfolk,Dimir Mill,1,0,0,1,100.0
+Merfolk,Esper Reanimator,1,0,0,1,100.0
+Merfolk,Esper Blink,0,4,0,4,0.0
+Merfolk,Living End,1,1,0,2,50.0
+Merfolk,Orzhov Blink,1,2,0,3,33.3
+Merfolk,Jeskai Control,1,2,0,3,33.3
+Merfolk,Colorless Eldrazi,0,1,0,1,0.0
+Boros Energy,Esper Control,2,1,0,3,66.7
+Boros Energy,Azorius Belcher,0,3,0,3,0.0
+Gruul Broodscale,Selesnya Hammer,0,1,0,1,0.0
+Gruul Broodscale,Eldrazi Tron,2,0,0,2,100.0
+Gruul Broodscale,Boros Delirium,1,0,0,1,100.0
+Gruul Broodscale,Mono-Black Midrange,0,1,0,1,0.0
+Golgari Midrange,Eldrazi Ramp,1,1,0,2,50.0
+Golgari Midrange,Mono-Blue Belcher,1,0,0,1,100.0
+Golgari Midrange,Orzhov Blink,0,1,0,1,0.0
+Golgari Midrange,Eldrazi Tron,1,0,0,1,100.0
+Golgari Midrange,Boros Energy,1,1,0,2,50.0
+Golgari Midrange,Izzet Prowess,2,1,0,3,66.7
+Golgari Midrange,Living End,0,2,0,2,0.0
+Golgari Midrange,Jeskai Affinity,1,0,0,1,100.0
+Golgari Midrange,Dimir Oculus,0,1,0,1,0.0
+Golgari Midrange,Jeskai Midrange,0,1,0,1,0.0
+Boros Energy,Jeskai Puresteel Combo,1,0,0,1,100.0
+Boros Energy,Izzet Control,2,1,0,3,66.7
+Esper Blink,Esper Midrange,0,2,0,2,0.0
+Izzet Prowess,Jeskai Hammer,1,3,0,4,25.0
+Azorius Affinity,Esper Control,1,0,0,1,100.0
+Azorius Affinity,Jund Aggro,1,0,0,1,100.0
+Sultai Oculus,Temur Twin,0,1,0,1,0.0
+Sultai Oculus,Orzhov Blink,0,0,1,1,
+Sultai Oculus,Jeskai Control,0,1,0,1,0.0
+Sultai Oculus,Amulet Titan,2,0,0,2,100.0
+Sultai Oculus,Eldrazi Ramp,1,0,0,1,100.0
+Sultai Oculus,Dimir Midrange,1,0,0,1,100.0
+Sultai Oculus,Azorius Control,2,0,0,2,100.0
+Sultai Oculus,Domain Zoo,0,0,1,1,
+Sultai Oculus,Mono-Blue Belcher,0,1,0,1,0.0
+Izzet Prowess,Lantern Control,2,0,0,2,100.0
+Izzet Prowess,Hollow One,4,2,0,6,66.7
+Izzet Prowess,Izzet Control,1,1,0,2,50.0
+Izzet Twin,Dredge,1,0,0,1,100.0
+Izzet Twin,Azorius Affinity,0,1,0,1,0.0
+Izzet Twin,Azorius Control,1,0,1,2,100.0
+Izzet Twin,Orzhov Blink,1,0,0,1,100.0
+Izzet Twin,Amulet Titan,1,0,0,1,100.0
+Izzet Twin,Izzet Prowess,2,0,0,2,100.0
+Izzet Twin,Esper Reanimator,0,1,0,1,0.0
+Izzet Twin,Dimir Midrange,0,1,0,1,0.0
+Dimir Midrange,Golgari Yawgmoth,0,0,1,1,
+Dimir Midrange,Jund Midrange,1,1,0,2,50.0
+Dimir Midrange,Azorius Control,2,1,0,3,66.7
+Azorius Control,Neoform,3,1,0,4,75.0
+Azorius Control,Temur Twin,0,0,1,1,
+Azorius Control,Esper Blink,2,0,1,3,100.0
+Azorius Control,Orzhov Midrange,2,0,1,3,100.0
+Azorius Control,Jeskai Ascendancy,1,0,0,1,100.0
+Azorius Control,Sultai Oculus,0,2,0,2,0.0
+Amulet Titan,Dimir Midrange,3,5,0,8,37.5
+Amulet Titan,Jeskai Ascendancy,2,2,0,4,50.0
+Izzet Prowess,Izzet Storm,2,0,0,2,100.0
+Izzet Prowess,Elves,1,0,0,1,100.0
+Izzet Prowess,Eldrazi Breach,1,0,0,1,100.0
+Amulet Titan,Jeskai Prowess,2,0,0,2,100.0
+Amulet Titan,Jeskai Affinity,2,2,0,4,50.0
+Eldrazi Ramp,Boros Aggro,3,0,0,3,100.0
+Eldrazi Ramp,Ruby Storm,2,11,0,13,15.4
+Izzet Prowess,Simic Oculus,1,0,0,1,100.0
+Izzet Prowess,Neoform,6,6,0,12,50.0
+Izzet Prowess,Izzet Twin,0,2,0,2,0.0
+Mono-Blue Belcher,Boros Belcher,0,1,0,1,0.0
+Amulet Titan,Dimir Mill,3,0,0,3,100.0
+Izzet Prowess,Mono-Green Tron,1,2,0,3,33.3
+Four-Color Control,Amulet Titan,6,0,0,6,100.0
+Four-Color Control,Domain Zoo,1,2,0,3,33.3
+Four-Color Control,Esper Reanimator,1,1,0,2,50.0
+Four-Color Control,Dimir Oculus,0,1,0,1,0.0
+Four-Color Control,Jeskai Control,1,0,0,1,100.0
+Four-Color Control,Boros Energy,2,3,0,5,40.0
+Four-Color Control,Eldrazi Ramp,2,1,0,3,66.7
+Domain Zoo,Esper Oculus,0,1,0,1,0.0
+Jeskai Affinity,Azorius Control,1,0,0,1,100.0
+Jeskai Affinity,Azorius Affinity,0,1,0,1,0.0
+Jeskai Affinity,Orzhov Blink,0,2,0,2,0.0
+Jeskai Affinity,Golgari Midrange,0,1,0,1,0.0
+Esper Reanimator,Merfolk,0,1,0,1,0.0
+Esper Reanimator,Grixis Midrange,1,1,0,2,50.0
+Esper Reanimator,Living End,0,3,0,3,0.0
+Izzet Prowess,Esper Control,1,0,0,1,100.0
+Mono-Blue Belcher,Golgari Yawgmoth,1,0,0,1,100.0
+Mono-Blue Belcher,Selesnya Hammer,1,0,0,1,100.0
+Mono-Blue Belcher,Izzet Control,0,1,0,1,0.0
+Eldrazi Ramp,Neoform,1,3,0,4,25.0
+Neoform,Azorius Control,1,3,0,4,25.0
+Neoform,Eldrazi Ramp,3,1,0,4,75.0
+Neoform,Jeskai Control,0,2,0,2,0.0
+Neoform,Simic Oculus,0,1,0,1,0.0
+Esper Blink,Jeskai Prowess,0,1,0,1,0.0
+Mono-Red Belcher,Amulet Titan,3,1,0,4,75.0
+Mono-Red Belcher,Eldrazi Tron,1,0,0,1,100.0
+Mono-Red Belcher,Mardu Energy,1,0,0,1,100.0
+Mono-Red Belcher,Boros Energy,1,4,0,5,20.0
+Mono-Red Belcher,Domain Zoo,1,2,0,3,33.3
+Mono-Red Belcher,Mono-Blue Belcher,0,2,0,2,0.0
+Domain Zoo,Jeskai Hammer,1,1,0,2,50.0
+Mono-Black Midrange,Jeskai Puresteel Combo,1,0,0,1,100.0
+Mono-Black Midrange,Orzhov Blink,0,1,0,1,0.0
+Domain Zoo,Temur Twin,1,0,0,1,100.0
+Domain Zoo,Rakdos Burn,2,0,0,2,100.0
+Azorius Control (Kaheera),Amulet Titan,2,0,0,2,100.0
+Azorius Control (Kaheera),Azorius Affinity,1,1,0,2,50.0
+Azorius Control (Kaheera),Eldrazi Ramp,0,2,0,2,0.0
+Azorius Control (Kaheera),Azorius Control,1,0,0,1,100.0
+Azorius Control (Kaheera),Boros Energy,2,2,0,4,50.0
+Azorius Control (Kaheera),Mono-Blue Belcher,0,2,0,2,0.0
+Azorius Control (Kaheera),Izzet Prowess,0,1,0,1,0.0
+Amulet Titan,Mono-Blue Merfolk,2,0,0,2,100.0
+Orzhov Blink,Golgari Midrange,1,0,0,1,100.0
+Orzhov Blink,Sultai Food,1,0,0,1,100.0
+Mono-Blue Belcher,Mono-Red Aggro,1,0,0,1,100.0
+Rakdos Prowess,Living End,1,0,0,1,100.0
+Rakdos Prowess,Esper Blink,1,0,0,1,100.0
+Rakdos Prowess,Eldrazi Ramp,1,1,0,2,50.0
+Rakdos Prowess,Ruby Storm,0,1,0,1,0.0
+Rakdos Prowess,Gruul Broodscale,0,1,0,1,0.0
+Rakdos Prowess,Izzet Prowess,1,0,0,1,100.0
+Rakdos Prowess,Boros Energy,0,1,0,1,0.0
+Rakdos Prowess,Abzan Samwise,1,0,0,1,100.0
+Amulet Titan,Azorius Control,1,3,0,4,25.0
+Jeskai Ascendancy,Rakdos Burn,2,0,0,2,100.0
+Jeskai Ascendancy,Eldrazi Ramp,4,0,0,4,100.0
+Jeskai Ascendancy,Jeskai Control,1,1,0,2,50.0
+Jeskai Ascendancy,Jeskai Ascendancy,2,2,0,4,50.0
+Jeskai Ascendancy,Amulet Titan,2,2,0,4,50.0
+Dimir Midrange,Four-Color Control,1,0,0,1,100.0
+Dimir Midrange,Mono-Blue Belcher,0,5,0,5,0.0
+Jeskai Control,Four-Color Control,0,1,0,1,0.0
+Jeskai Control,Esper Blink,1,3,0,4,25.0
+Izzet Prowess,Grixis Midrange,4,0,0,4,100.0
+Jeskai Control,Dimir Oculus,1,1,0,2,50.0
+Jeskai Control,Esper Oculus,0,1,0,1,0.0
+Jeskai Control,Gruul Broodscale,1,0,0,1,100.0
+Mono-Blue Belcher,Mono-White Control,1,0,0,1,100.0
+Jeskai Control,Merfolk,2,1,0,3,66.7
+Esper Reanimator,Mono-Black Necro,1,0,0,1,100.0
+Eldrazi Ramp,Elves,2,0,0,2,100.0
+Eldrazi Ramp,Goblins,1,0,0,1,100.0
+Izzet Prowess,Five-Color Glimpse,1,0,0,1,100.0
+Eldrazi Ramp,Four-Color Control,1,2,0,3,33.3
+Orzhov Blink,Grixis Aggro,1,0,0,1,100.0
+Orzhov Blink,Abzan Samwise,2,0,0,2,100.0
+Azorius Affinity,Azorius Control (Kaheera),1,1,0,2,50.0
+Eldrazi Ramp,Azorius Affinity,0,3,1,4,0.0
+Mono-Blue Belcher,Rakdos Burn,1,0,0,1,100.0
+Izzet Prowess,Jund Aggro,3,1,0,4,75.0
+Jeskai Hammer,Azorius Control,0,1,0,1,0.0
+Jeskai Hammer,Izzet Prowess,3,1,0,4,75.0
+Jeskai Hammer,Bant Blink,0,1,0,1,0.0
+Jeskai Hammer,Abzan Infect,1,0,0,1,100.0
+Jeskai Hammer,Orzhov Blink,0,1,0,1,0.0
+Jeskai Hammer,Domain Zoo,1,1,0,2,50.0
+Jeskai Hammer,Amulet Titan,1,1,0,2,50.0
+Grixis Aggro,Esper Reanimator,0,1,0,1,0.0
+Grixis Aggro,Eldrazi Ramp,0,2,0,2,0.0
+Grixis Aggro,Orzhov Blink,0,1,0,1,0.0
+Grixis Aggro,Amulet Titan,1,0,0,1,100.0
+Grixis Aggro,Mono-Black Necro,1,0,0,1,100.0
+Grixis Aggro,Ruby Storm,1,0,0,1,100.0
+Grixis Aggro,Boros Energy,1,0,0,1,100.0
+Grixis Aggro,Domain Zoo,1,0,0,1,100.0
+Four-Color Control,Mono-Blue Belcher,0,3,0,3,0.0
+Four-Color Control,Orzhov Blink,1,0,0,1,100.0
+Four-Color Control,Azorius Affinity,0,1,0,1,0.0
+Four-Color Control,Azorius Control,1,0,0,1,100.0
+Four-Color Control,Jeskai Ascendancy,0,3,0,3,0.0
+Boros Delirium,Orzhov Blink,0,1,0,1,0.0
+Boros Delirium,Amulet Titan,1,0,0,1,100.0
+Boros Delirium,Boros Energy,1,0,0,1,100.0
+Boros Delirium,Domain Zoo,0,2,0,2,0.0
+Boros Delirium,Gruul Broodscale,0,1,0,1,0.0
+Boros Delirium,Neoform,1,0,0,1,100.0
+Boros Delirium,Jeskai Control,1,0,0,1,100.0
+Boros Delirium,Eldrazi Ramp,1,0,0,1,100.0
+Amulet Titan,Azorius Control (Kaheera),0,2,0,2,0.0
+Amulet Titan,Abzan Samwise,3,0,0,3,100.0
+Mono-Black Necro,Domain Zoo,1,0,0,1,100.0
+Mono-Black Necro,Boros Energy,1,3,0,4,25.0
+Mono-Black Necro,Lantern Control,1,0,0,1,100.0
+Mono-Black Necro,Abzan Samwise,0,1,0,1,0.0
+Mono-Black Necro,Jeskai Energy,1,0,0,1,100.0
+Mono-Black Necro,Eldrazi Ramp,1,2,0,3,33.3
+Mono-Black Necro,Azorius Affinity,0,1,0,1,0.0
+Amulet Titan,Mono-White Control,1,0,0,1,100.0
+Living End,Jund Creativity,0,1,0,1,0.0
+Living End,Grixis Midrange,1,0,0,1,100.0
+Living End,Orzhov Blink,1,1,0,2,50.0
+Living End,Neoform,1,1,0,2,50.0
+Eldrazi Ramp,Merfolk,3,2,0,5,60.0
+Dimir Midrange,Mono-Green Broodscale,0,2,0,2,0.0
+Dimir Midrange,Hollow One,2,0,0,2,100.0
+Dimir Midrange,Mono-Red Belcher,1,0,0,1,100.0
+Dimir Midrange,Jeskai Ascendancy,2,0,0,2,100.0
+Eldrazi Ramp,Jeskai Ascendancy,0,4,0,4,0.0
+Jund Aggro,Esper MIdrange,1,0,0,1,100.0
+Jund Aggro,Izzet Prowess,1,3,0,4,25.0
+Jund Aggro,Gruul Broodscale,0,1,0,1,0.0
+Jund Aggro,Boros Energy,1,2,0,3,33.3
+Jund Aggro,Azorius Affinity,0,1,0,1,0.0
+Jund Aggro,Dimir Midrange,1,0,0,1,100.0
+Jund Aggro,Esper Reanimator,1,0,0,1,100.0
+Merfolk,Mono-Blue Belcher,1,1,0,2,50.0
+Merfolk,Jeskai Ascendancy,0,2,0,2,0.0
+Merfolk,Eldrazi Ramp,2,3,0,5,40.0
+Merfolk,Mono-Green Tron,1,0,0,1,100.0
+Merfolk,Nine Lives,1,0,0,1,100.0
+Merfolk,Esper Control,1,0,0,1,100.0
+Merfolk,Eldrazi Tron,1,0,0,1,100.0
+Neoform,Esper Blink,4,1,0,5,80.0
+Neoform,Abzan Infect,1,0,0,1,100.0
+Neoform,Mono-Green Broodscale,1,0,0,1,100.0
+Ruby Storm,Dimir Midrange,0,2,0,2,0.0
+Ruby Storm,Izzet Twin,1,0,0,1,100.0
+Ruby Storm,Grixis Aggro,0,1,0,1,0.0
+Orzhov Blink,Grixis Storm,1,0,0,1,100.0
+Jeskai Hammer,Eldrazi Tron,0,1,0,1,0.0
+Jeskai Hammer,Boros Energy,0,1,0,1,0.0
+Jeskai Hammer,Five-Color Glimpse,1,0,0,1,100.0
+Jeskai Hammer,Hollow One,1,0,0,1,100.0
+Jeskai Hammer,Merfolk,1,0,0,1,100.0
+Jeskai Hammer,Simic Murktide,1,0,0,1,100.0
+Oops! All Spells,Living End,0,1,0,1,0.0
+Oops! All Spells,Izzet Prowess,0,1,0,1,0.0
+Oops! All Spells,Eldrazi Ramp,3,0,0,3,100.0
+Oops! All Spells,Neoform,1,0,0,1,100.0
+Oops! All Spells,Azorius Control,0,1,0,1,0.0
+Oops! All Spells,Domain Zoo,0,1,0,1,0.0
+Oops! All Spells,Amulet Titan,1,0,0,1,100.0
+Hollow One,Neoform,0,1,0,1,0.0
+Hollow One,Eldrazi Ramp,0,2,0,2,0.0
+Hollow One,Hollow One,1,1,0,2,50.0
+Hollow One,Dimir Oculus,1,0,0,1,100.0
+Hollow One,Esper Blink,1,0,0,1,100.0
+Azorius Control,Gruul Broodscale,1,0,0,1,100.0
+Azorius Control,Mono-Blue Belcher,1,1,0,2,50.0
+Azorius Control,Domain Zoo,1,0,1,2,100.0
+Boros Energy,Golgari Yawgmoth,3,0,0,3,100.0
+Jeskai Ascendancy,Esper Midrange,0,0,1,1,
+Jeskai Ascendancy,Jund Midrange,1,0,0,1,100.0
+Jeskai Ascendancy,Mono-Green Broodscale,1,0,1,2,100.0
+Jeskai Ascendancy,Orzhov Blink,1,2,0,3,33.3
+Esper Blink,Azorius Control,0,2,1,3,0.0
+Esper Blink,Grixis Reanimator,1,0,0,1,100.0
+Izzet Prowess,Azorius Belcher,1,0,0,1,100.0
+Boros Energy,Grixis Reanimator,1,0,0,1,100.0
+Boros Energy,Simic Infect,1,0,0,1,100.0
+Boros Energy,Gruuln Broodscale,2,0,0,2,100.0
+Eldrazi Ramp,Boros Delirium,0,1,0,1,0.0
+Boros Energy,Lantern Control,3,0,0,3,100.0
+Izzet Prowess,Jeskai Creativity,1,0,0,1,100.0
+Neoform,Esper Midrange,0,2,0,2,0.0
+Domain Zoo,Eldrrazi Ramp,1,0,0,1,100.0
+Domain Zoo,Naya Midrange,1,0,0,1,100.0
+Abzan Samwise,Dimir Oculus,0,1,0,1,0.0
+Abzan Samwise,Izzet Prowess,1,1,0,2,50.0
+Abzan Samwise,Four-Color Control,1,0,0,1,100.0
+Abzan Samwise,Boros Energy,6,5,0,11,54.5
+Abzan Samwise,Eldrazi Ramp,3,3,0,6,50.0
+Abzan Samwise,Amulet Titan,0,3,0,3,0.0
+Abzan Samwise,Rakdos Prowess,0,1,0,1,0.0
+Eldrazi Ramp,Jeskai Midrange,1,0,0,1,100.0
+Eldrazi Ramp,Boros Belcher,0,1,0,1,0.0
+Izzet Prowess,Esper Oculus,0,1,0,1,0.0
+Izzet Prowess,Mono-Red Aggro,3,1,0,4,75.0
+Azorius Affinity,Merfolk,1,0,0,1,100.0
+Dimir Midrange,Grixis Midrange,1,1,0,2,50.0
+Dimir Midrange,Abzan Samwise,2,0,0,2,100.0
+Neoform,Jund Midrange,1,0,0,1,100.0
+Neoform,Esper Creativity,0,1,0,1,0.0
+Gruul Broodscale,Orzhov Blink,0,1,0,1,0.0
+Gruul Broodscale,Jeskai Control,0,1,0,1,0.0
+Eldrazi Ramp,Mono-Black Necro,2,1,0,3,66.7
+Eldrazi Ramp,Gruuln Broodscale,0,1,0,1,0.0
+Eldrazi Ramp,Naya Midrange,1,0,0,1,100.0
+Gruul Broodscale,Mono-Green Broodscale,1,0,0,1,100.0
+Gruul Broodscale,Dimir Midrange,0,1,0,1,0.0
+Mardu Energy,Mono-Red Belcher,0,1,0,1,0.0
+Mardu Energy,Neoform,1,0,0,1,100.0
+Mardu Energy,Ruby Storm,0,1,0,1,0.0
+Eldrazi Ramp,Burn,2,0,0,2,100.0
+Eldrazi Ramp,Izzet Control,1,1,0,2,50.0
+Amulet Titan,Four-Color Control,0,6,0,6,0.0
+Amulet Titan,Mono-Black Midrange,1,1,0,2,50.0
+Eldrazi Ramp,Simic Oculus,1,0,0,1,100.0
+Eldrazi Ramp,Jeskai As Foretold,1,0,0,1,100.0
+Eldrazi Ramp,Oops! All Spells,0,3,0,3,0.0
+Izzet Prowess,Merfolk,5,2,0,7,71.4
+Izzet Prowess,Naya Midrange,1,2,0,3,33.3
+Living End,Rakdos Prowess,0,1,0,1,0.0
+Domain Zoo,Abzan Samwise,2,0,0,2,100.0
+Domain Zoo,Grixis Aggro,0,1,0,1,0.0
+Eldrazi Ramp,Selesnya Hammer,1,0,0,1,100.0
+Boros Energy,Goblins,1,1,0,2,50.0
+Domain Zoo,Mono-Green Broodscale,0,1,0,1,0.0
+Dimir Midrange,Jund Creativity,2,1,0,3,66.7
+Dimir Midrange,Dimir Mill,1,1,0,2,50.0
+Sultai Infect,Boros Energy,1,1,0,2,50.0
+Sultai Infect,Amulet Titan,1,0,0,1,100.0
+Sultai Infect,Izzet Prowess,0,2,0,2,0.0
+Sultai Infect,Mono-Blue Belcher,0,1,0,1,0.0
+Sultai Infect,Grixis Reanimator,1,0,0,1,100.0
+Sultai Infect,Jeskai Affinity,0,1,0,1,0.0
+Sultai Infect,Eldrazi Tron,1,0,0,1,100.0
+Eldrazi Ramp,Sultai Food,0,3,0,3,0.0
+Esper Reanimator,Rakdos Burn,1,0,0,1,100.0
+Esper Reanimator,Jund Aggro,0,1,0,1,0.0
+Domain Zoo,Lantern Control,1,0,0,1,100.0
+Domain Zoo,Oops! All Spells,1,0,0,1,100.0
+Ruby Storm,Boros Blink,1,0,0,1,100.0
+Rakdos Burn,Izzet Prowess,1,0,0,1,100.0
+Rakdos Burn,Mardu Energy,0,1,0,1,0.0
+Rakdos Burn,Boros Energy,1,0,0,1,100.0
+Rakdos Burn,Domain Zoo,0,2,0,2,0.0
+Rakdos Burn,Esper Reanimator,0,1,0,1,0.0
+Rakdos Burn,Mono-Blue Belcher,0,1,0,1,0.0
+Rakdos Burn,Izzet Midrange,1,0,0,1,100.0
+Rakdos Burn,Simic Murktide,1,0,0,1,100.0
+Izzet Prowess,Simic Infect,1,0,0,1,100.0
+Dimir Mill,Domain Zoo,2,1,0,3,66.7
+Dimir Mill,Dimir Midrange,1,1,0,2,50.0
+Dimir Mill,Amulet Titan,0,3,0,3,0.0
+Dimir Mill,Mono-Blue Belcher,1,0,0,1,100.0
+Ruby Storm,Izzet Control,0,1,0,1,0.0
+Abzan Samwise,Izzet Twin,1,0,0,1,100.0
+Abzan Samwise,Abzan Samwise,1,1,0,2,50.0
+Abzan Samwise,Orzhov Blink,0,2,0,2,0.0
+Amulet Titan,Boros Delirium,0,1,0,1,0.0
+Amulet Titan,Izzet Storm,1,0,0,1,100.0
+Amulet Titan,Burn,1,0,0,1,100.0
+Eldrazi Ramp,Dimir Mill,4,2,0,6,66.7
+Eldrazi Ramp,Boros Prowess,1,0,0,1,100.0
+Izzet Prowess,Temur Trailblazer Combo,3,0,0,3,100.0
+Neoform,Dimir Oculus,2,1,0,3,66.7
+Neoform,Dimir Midrange,0,2,0,2,0.0
+Dimir Midrange,Boros Storm,1,0,0,1,100.0
+Dimir Midrange,Neoform,2,0,0,2,100.0
+Four-Color Control,Izzet Prowess,3,2,0,5,60.0
+Four-Color Control,Abzan Samwise,0,1,0,1,0.0
+Four-Color Control,Jeskai Affinity,1,0,0,1,100.0
+Amulet Titan,Hollow One,1,0,0,1,100.0
+Four-Color Control,Neoform,1,0,0,1,100.0
+Four-Color Control,Grixis Midrange,1,0,0,1,100.0
+Jeskai Ascendancy,Merfolk,2,0,0,2,100.0
+Jeskai Ascendancy,Simic Infect,1,1,0,2,50.0
+Jeskai Ascendancy,Mono-Blue Merfolk,1,0,0,1,100.0
+Jeskai Ascendancy,Dimir Midrange,0,2,0,2,0.0
+Ruby Storm,Neoform,0,2,0,2,0.0
+Ruby Storm,Jeskai As Foretold,1,1,0,2,50.0
+Jeskai Affinity,Izzet Storm,1,0,0,1,100.0
+Jeskai Affinity,Mono-Red Aggro,1,0,0,1,100.0
+Jeskai Affinity,Four-Color Control,0,1,0,1,0.0
+Jeskai Affinity,Sultai Infect,1,0,0,1,100.0
+Ruby Storm,Dredge,1,0,0,1,100.0
+Ruby Storm,Rakdos Midrange,1,0,0,1,100.0
+Jeskai Control,Mono-Red Aggro,0,1,0,1,0.0
+Jeskai Control,Jeskai Ascendancy,1,1,0,2,50.0
+Simic Infect,Jeskai Ascendancy,1,1,0,2,50.0
+Simic Infect,Boros Energy,0,1,0,1,0.0
+Simic Infect,Izzet Prowess,0,1,0,1,0.0
+Simic Infect,Mono-Blue Belcher,1,0,0,1,100.0
+Simic Infect,Simic Oculus,0,1,0,1,0.0
+Simic Infect,Lantern Control,1,0,0,1,100.0
+Simic Infect,Eldrazi Tron,0,1,0,1,0.0
+Simic Infect,Amulet Titan,1,0,0,1,100.0
+Dimir Midrange,Orzhov Midrange,0,1,0,1,0.0
+Dimir Midrange,Dimir Midrange,1,1,0,2,50.0
+Dimir Midrange,Esper Midrange,1,0,0,1,100.0
+Dimir Midrange,Simic Oculus,0,1,0,1,0.0
+Izzet Prowess,Jund Creativity,2,1,0,3,66.7
+Eldrazi Tron,Izzet Prowess,2,1,0,3,66.7
+Eldrazi Tron,Boros Energy,2,2,0,4,50.0
+Eldrazi Tron,Gruul Broodscale,0,2,0,2,0.0
+Eldrazi Tron,Living End,1,2,0,3,33.3
+Eldrazi Tron,Eldrazi Ramp,1,2,0,3,33.3
+Eldrazi Tron,Amulet Titan,2,4,0,6,33.3
+Eldrazi Tron,Domain Zoo,2,2,0,4,50.0
+Eldrazi Tron,Simic Infect,1,0,0,1,100.0
+Eldrazi Tron,Merfolk,0,1,0,1,0.0
+Jund Midrange,Esper Blink,0,1,0,1,0.0
+Jund Midrange,Boros Energy,1,1,0,2,50.0
+Jund Midrange,Izzet Prowess,1,0,0,1,100.0
+Jund Midrange,Boros Storm,0,1,0,1,0.0
+Jund Midrange,Dimir Midrange,1,1,0,2,50.0
+Jund Midrange,Mono-Blue Belcher,1,1,0,2,50.0
+Amulet Titan,Esper MIdrange,1,0,0,1,100.0
+Esper Reanimator,Izzet Control,0,1,0,1,0.0
+Jeskai Ascendancy,Eldrrazi Ramp,1,0,0,1,100.0
+Selesnya Hammer,Gruul Broodscale,1,0,0,1,100.0
+Selesnya Hammer,Jeskai Energy,0,1,0,1,0.0
+Selesnya Hammer,Mono-Blue Belcher,0,1,0,1,0.0
+Selesnya Hammer,Izzet Prowess,0,1,0,1,0.0
+Selesnya Hammer,Dimir Mill,1,0,0,1,100.0
+Selesnya Hammer,Eldrazi Ramp,0,1,0,1,0.0
+Selesnya Hammer,Boros Energy,0,1,0,1,0.0
+Selesnya Hammer,Lantern Control,1,0,0,1,100.0
+Selesnya Hammer,Amulet Titan,1,0,0,1,100.0
+Merfolk,Abzan Samwise,2,0,0,2,100.0
+Merfolk,Izzet Prowess,2,5,0,7,28.6
+Merfolk,Goblins,1,0,0,1,100.0
+Merfolk,Ruby Storm,1,0,0,1,100.0
+Merfolk,Azorius Belcher,0,1,0,1,0.0
+Mono-Blue Belcher,Jund Creativity,1,0,0,1,100.0
+Domain Zoo,Jeskai Energy,1,1,0,2,50.0
+Domain Zoo,Azorius Control (Kaheera),1,0,0,1,100.0
+Domain Zoo,Boros Aggro,0,0,1,1,
+Domain Zoo,Azorius Control,0,1,1,2,0.0
+Azorius Control,Jeskai Affinity,0,1,0,1,0.0
+Azorius Control,Grixis Storm,1,0,0,1,100.0
+Azorius Control,Izzet Twin,0,1,1,2,0.0
+Azorius Control,Dimir Midrange,1,2,0,3,33.3
+Azorius Control,Four-Color Control,0,1,0,1,0.0
+Amulet Titan,Boros Aggro,0,0,1,1,
+Amulet Titan,Sultai Oculus,0,2,0,2,0.0
+Azorius Control,Jeskai Hammer,1,0,0,1,100.0
+Azorius Control,Esper Midrange,2,0,0,2,100.0
+Azorius Control,Simic Oculus,0,1,0,1,0.0
+Jeskai Ascendancy,Hollow One,2,0,0,2,100.0
+Jeskai Ascendancy,Esper Reanimator,0,2,0,2,0.0
+Jeskai Ascendancy,Azorius Control,0,1,0,1,0.0
+Jeskai Control,Sultai Oculus,1,0,0,1,100.0
+Jeskai Control,Mono-Green Broodscale,1,0,0,1,100.0
+Esper Blink,Five-Color Creativity,1,0,0,1,100.0
+Amulet Titan,Eldrazi Breach,0,0,1,1,
+Amulet Titan,Izzet Twin,0,1,0,1,0.0
+Mono-Green Broodscale,Elves,1,0,0,1,100.0
+Mono-Green Broodscale,Mono-White Control,1,0,0,1,100.0
+Mono-Green Broodscale,Dimir Midrange,2,0,0,2,100.0
+Mono-Green Broodscale,Jeskai Ascendancy,0,1,1,2,0.0
+Mardu Energy,Merfolk,1,0,0,1,100.0
+Neoform,Ruby Storm,2,0,0,2,100.0
+Neoform,Five-Color Creativity,0,1,0,1,0.0
+Neoform,Orzhov Blink,0,1,0,1,0.0
+Neoform,Dimir Mill,2,1,0,3,66.7
+Abzan Samwise,Mono-Black Necro,1,0,0,1,100.0
+Abzan Samwise,Azorius Control,0,1,0,1,0.0
+Abzan Samwise,Dimir Midrange,0,2,0,2,0.0
+Boros Storm,Domain Zoo,1,0,0,1,100.0
+Boros Storm,Mono-Blue Belcher,0,1,0,1,0.0
+Boros Storm,Jeskai Affinity,0,1,0,1,0.0
+Boros Storm,Boros Energy,1,0,0,1,100.0
+Boros Storm,Jund Midrange,1,0,0,1,100.0
+Boros Storm,Mardu Energy,0,1,0,1,0.0
+Boros Storm,Dimir Midrange,0,1,0,1,0.0
+Ruby Storm,Dimir Oculus,2,0,0,2,100.0
+Mono-Red Belcher,Neoform,1,0,0,1,100.0
+Mono-Red Belcher,Ruby Storm,1,0,0,1,100.0
+Mono-Red Belcher,Izzet Prowess,0,2,0,2,0.0
+Mono-Red Belcher,Living End,1,1,0,2,50.0
+Eldrazi Ramp,Izzet Twin,2,0,0,2,100.0
+Ruby Storm,Dimir Mill,1,0,0,1,100.0
+Ruby Storm,Jeskai Affinity,0,2,0,2,0.0
+Esper Control,Mono-Blue Belcher,1,0,0,1,100.0
+Esper Control,Esper Blink,1,0,0,1,100.0
+Esper Control,Boros Energy,1,2,0,3,33.3
+Esper Control,Esper Reanimator,0,1,0,1,0.0
+Esper Control,Azorius Affinity,0,1,0,1,0.0
+Esper Control,Merfolk,0,1,0,1,0.0
+Jeskai Ascendancy,Gruul Broodscale,2,1,0,3,66.7
+Jeskai Ascendancy,Azorius Affinity,0,1,0,1,0.0
+Living End,Izzet Control,1,0,0,1,100.0
+Living End,Esper Midrange,0,1,0,1,0.0
+Living End,Jeskai Control,0,1,0,1,0.0
+Living End,Mono-Black Aggro,1,0,0,1,100.0
+Amulet Titan,Merfolk,0,3,0,3,0.0
+Grixis Midrange,Domain Zoo,1,0,0,1,100.0
+Grixis Midrange,Colorless Eldrazi,0,1,0,1,0.0
+Grixis Midrange,Ruby Storm,0,1,0,1,0.0
+Grixis Midrange,Four-Color Control,0,1,0,1,0.0
+Eldrazi Tron,Jeskai Hammer,1,0,0,1,100.0
+Eldrazi Tron,Mono-Blue Belcher,0,3,0,3,0.0
+Izzet Prowess,Rakdos Prowess,0,1,0,1,0.0
+Mono-Blue Belcher,Mono-Green Broodscale,0,1,0,1,0.0
+Ruby Storm,Burn,1,1,0,2,50.0
+Ruby Storm,Merfolk,0,1,0,1,0.0
+Amulet Titan,Jeskai Puresteel Combo,1,0,0,1,100.0
+Amulet Titan,Sultai Infect,0,1,0,1,0.0
+Dimir Midrange,Azorius Belcher,1,0,0,1,100.0
+Dimir Midrange,Jund Aggro,0,1,0,1,0.0
+Eldrazi Ramp,Hollow One,2,0,0,2,100.0
+Merfolk,Amulet Titan,3,0,0,3,100.0
+Merfolk,Domain Zoo,1,3,0,4,25.0
+Amulet Titan,Oops! All Spells,0,1,0,1,0.0
+Simic Murktide,Esper Reanimator,0,1,0,1,0.0
+Simic Murktide,Izzet Prowess,1,0,0,1,100.0
+Simic Murktide,Domain Zoo,0,1,0,1,0.0
+Simic Murktide,Eldrazi Ramp,1,0,0,1,100.0
+Simic Murktide,Jeskai Midrange,0,1,0,1,0.0
+Simic Murktide,Abzan Samwise,0,1,0,1,0.0
+Simic Murktide,Amulet Titan,1,0,0,1,100.0
+Simic Murktide,Jeskai Hammer,0,1,0,1,0.0
+Simic Murktide,Rakdos Burn,0,1,0,1,0.0
+Four-Color Control,Hollow One,0,1,0,1,0.0
+Four-Color Control,Dimir Midrange,0,1,0,1,0.0
+Amulet Titan,Gruuln Broodscale,1,0,0,1,100.0
+Amulet Titan,Simic Infect,0,1,0,1,0.0
+Izzet Prowess,Oops! All Spells,1,0,0,1,100.0
+Boros Energy,Selesnya Hammer,1,0,0,1,100.0
+Amulet Titan,Nine Lives,1,0,0,1,100.0
+Amulet Titan,Selesnya Hammer,0,1,0,1,0.0
+Eldrazi Ramp,Mono-White Control,1,0,0,1,100.0
+Izzet Prowess,Jeskai As Foretold,1,1,0,2,50.0
+Izzet Prowess,Jeskai Puresteel Combo,1,0,0,1,100.0
+Esper Blink,Boros Aggro,0,1,0,1,0.0
+Grixis Midrange,Izzet Prowess,0,4,0,4,0.0
+Grixis Midrange,Grixis Midrange,1,1,0,2,50.0
+Grixis Midrange,Esper Reanimator,1,1,0,2,50.0
+Domain Zoo,Boros Blink,1,0,0,1,100.0
+Domain Zoo,Jeskai Midrange,0,1,0,1,0.0
+Jeskai Control,Boros Delirium,0,1,0,1,0.0
+Boros Energy,Rakdos Burn,0,1,0,1,0.0
+Boros Energy,Grixis Aggro,0,1,0,1,0.0
+Amulet Titan,Mono-Black Necro,2,0,0,2,100.0
+Amulet Titan,Esper Control,1,0,0,1,100.0
+Neoform,Oops! All Spells,0,1,0,1,0.0
+Neoform,Five-Color Glimpse,1,0,0,1,100.0
+Azorius Control,Eldrazi Tron,1,1,0,2,50.0
+Azorius Control,Azorius Control (Kaheera),0,1,0,1,0.0
+Azorius Control,Oops! All Spells,1,0,0,1,100.0
+Neoform,Dredge,1,0,0,1,100.0
+Neoform,Boros Delirium,0,1,0,1,0.0
+Neoform,Goblins,1,0,0,1,100.0
+Amulet Titan,Mono-White Hammer,1,0,0,1,100.0
+Eldrazi Ramp,Azorius Belcher,0,1,0,1,0.0
+Abzan Samwise,Jeskai Control,0,1,0,1,0.0
+Abzan Samwise,Ruby Storm,1,0,0,1,100.0
+Abzan Samwise,Living End,1,0,0,1,100.0
+Abzan Samwise,Domain Zoo,0,2,0,2,0.0
+Merfolk,Grixis Reanimator,1,0,0,1,100.0
+Eldrazi Tron,Mono-Red Belcher,0,1,0,1,0.0
+Eldrazi Tron,Azorius Control,1,1,0,2,50.0
+Eldrazi Tron,Grixis Reanimator,0,1,0,1,0.0
+Eldrazi Tron,Ruby Storm,1,0,0,1,100.0
+Eldrazi Tron,Sultai Infect,0,1,0,1,0.0
+Boros Energy,Eldrazi Tron,2,2,0,4,50.0
+Eldrazi Ramp,Orzhov Midrange,0,1,0,1,0.0
+Izzet Prowess,Rakdos Midrange,1,0,0,1,100.0
+Izzet Prowess,Mono-Black Necro,2,1,0,3,66.7
+Lantern Control,Boros Energy,0,3,0,3,0.0
+Lantern Control,Grixis Reanimator,1,0,0,1,100.0
+Lantern Control,Mono-Black Necro,0,1,0,1,0.0
+Lantern Control,Orzhov Blink,1,0,0,1,100.0
+Lantern Control,Izzet Prowess,0,2,0,2,0.0
+Lantern Control,Neoform,1,0,0,1,100.0
+Mono-Blue Merfolk,Dimir Oculus,0,1,0,1,0.0
+Mono-Blue Merfolk,Living End,1,0,0,1,100.0
+Mono-Blue Merfolk,Amulet Titan,0,2,0,2,0.0
+Mono-Blue Merfolk,Boros Prowess,1,0,0,1,100.0
+Mono-Blue Merfolk,Boros Energy,1,0,0,1,100.0
+Mono-Blue Merfolk,Jeskai Ascendancy,0,1,0,1,0.0
+Abzan Samwise,Hollow One,1,0,0,1,100.0
+Abzan Samwise,Simic Murktide,1,0,0,1,100.0
+Abzan Samwise,Esper Creativity,0,1,0,1,0.0
+Mono-Blue Belcher,Esper Control,0,1,0,1,0.0
+Mono-Blue Belcher,Golgari Midrange,0,1,0,1,0.0
+Mono-Blue Belcher,Mono-Black Aggro,1,0,0,1,100.0
+Mono-Blue Belcher,Dimir Mill,0,1,0,1,0.0
+Neoform,Boros Aggro,1,0,0,1,100.0
+Neoform,Merfolk,1,1,0,2,50.0
+Neoform,Mardu Energy,0,1,0,1,0.0
+Boros Energy,Jeskai Hammer,1,0,0,1,100.0
+Orzhov Blink,Simic Oculus,1,0,0,1,100.0
+Orzhov Blink,Esper Midrange,2,0,0,2,100.0
+Dimir Midrange,Izzet Midrange,1,0,0,1,100.0
+Dimir Midrange,Temur Trailblazer Combo,1,0,0,1,100.0
+Ruby Storm,Mono-Black Necro,1,0,0,1,100.0
+Ruby Storm,Mono-Red Belcher,0,1,0,1,0.0
+Ruby Storm,Esper Control,0,1,0,1,0.0
+Naya Midrange,Boros Energy,0,1,0,1,0.0
+Naya Midrange,Mono-Red Aggro,1,0,0,1,100.0
+Naya Midrange,Domain Zoo,0,1,0,1,0.0
+Naya Midrange,Eldrazi Ramp,0,1,0,1,0.0
+Naya Midrange,Izzet Prowess,2,1,0,3,66.7
+Mono-Red Belcher,Esper Midrange,1,0,0,1,100.0
+Mono-Red Belcher,Dimir Midrange,0,1,0,1,0.0
+Mono-Green Broodscale,Dimir Mill,0,1,0,1,0.0
+Mono-Green Broodscale,Grixis Reanimator,1,0,0,1,100.0
+Mono-Green Broodscale,Eldrazi Ramp,1,0,0,1,100.0
+Mono-Green Broodscale,Orzhov Blink,0,1,0,1,0.0
+Mono-Green Broodscale,Neoform,0,1,0,1,0.0
+Jeskai Puresteel Combo,Mono-Black Midrange,0,1,0,1,0.0
+Jeskai Puresteel Combo,Amulet Titan,0,1,0,1,0.0
+Jeskai Puresteel Combo,Abzan Samwise,1,0,0,1,100.0
+Jeskai Puresteel Combo,Izzet Prowess,0,1,0,1,0.0
+Jeskai Puresteel Combo,Rakdos Midrange,1,0,0,1,100.0
+Jeskai Puresteel Combo,Mono-Green Broodscale,1,0,0,1,100.0
+Jeskai Puresteel Combo,Boros Energy,0,1,0,1,0.0
+Ruby Storm,Izzet Midrange,2,0,0,2,100.0
+Lantern Control,Domain Zoo,0,1,0,1,0.0
+Lantern Control,Dimir Midrange,0,1,0,1,0.0
+Lantern Control,Eldrazi Ramp,1,0,0,1,100.0
+Lantern Control,Dimir Mill,1,0,0,1,100.0
+Lantern Control,Simic Infect,0,1,0,1,0.0
+Lantern Control,Selesnya Hammer,0,1,0,1,0.0
+Lantern Control,Azorius Control,1,0,0,1,100.0
+Esper Blink,Azorius Control (Kaheera),0,1,0,1,0.0
+Esper Blink,Elves,1,0,0,1,100.0
+Esper Blink,Dimir Oculus,0,1,0,1,0.0
+Esper Blink,Jund Aggro,0,1,0,1,0.0
+Esper Blink,Temur Twin,1,0,0,1,100.0
+Esper Blink,Izzet Storm,1,0,1,2,100.0
+Esper Blink,Hollow One,0,1,0,1,0.0
+Orzhov Midrange,Dimir Midrange,1,0,0,1,100.0
+Orzhov Midrange,Eldrazi Ramp,1,0,0,1,100.0
+Orzhov Midrange,Azorius Affinity,0,1,0,1,0.0
+Orzhov Midrange,Azorius Control,0,2,1,3,0.0
+Goblins,Azorius Control,1,0,0,1,100.0
+Goblins,Boros Energy,1,1,0,2,50.0
+Goblins,Eldrazi Ramp,0,1,0,1,0.0
+Goblins,Living End,0,1,0,1,0.0
+Goblins,Merfolk,0,1,0,1,0.0
+Goblins,Neoform,0,1,0,1,0.0
+Goblins,Temur Trailblazer Combo,0,0,1,1,
+Mono-Green Broodscale,Jeskai Control,0,1,0,1,0.0
+Dimir Midrange,Sultai Oculus,0,1,0,1,0.0
+Eldrazi Ramp,Sultai Oculus,0,1,0,1,0.0
+Eldrazi Ramp,Temur Twin,1,0,0,1,100.0
+Azorius Affinity,Izzet Twin,1,0,0,1,100.0
+Eldrazi Ramp,Esper Midrange,1,0,0,1,100.0
+Azorius Control,Azorius Affinity,0,1,0,1,0.0
+Azorius Control,Lantern Control,0,1,0,1,0.0
+Dimir Midrange,Lantern Control,1,0,0,1,100.0
+Dimir Midrange,Temur Twin,1,0,0,1,100.0
+Izzet Storm,Mono-White Control,0,1,0,1,0.0
+Izzet Storm,Esper Midrange,2,1,0,3,66.7
+Izzet Storm,Esper Blink,0,1,1,2,0.0
+Izzet Storm,Ruby Storm,0,1,0,1,0.0
+Dimir Mill,Eldrazi Ramp,2,4,0,6,33.3
+Dimir Mill,Elves,0,0,1,1,
+Dimir Mill,Boros Aggro,1,0,0,1,100.0
+Dimir Mill,Temur Twin,1,0,0,1,100.0
+Eldrazi Tron,Esper Reanimator,0,1,0,1,0.0
+Eldrazi Tron,Izzet Control,0,1,0,1,0.0
+Neoform,Hollow One,1,0,0,1,100.0
+Jund Creativity,Living End,1,0,0,1,100.0
+Jund Creativity,Orzhov Blink,0,1,0,1,0.0
+Jund Creativity,Dimir Midrange,1,2,0,3,33.3
+Jund Creativity,Eldrazi Ramp,0,2,0,2,0.0
+Jund Creativity,Sultai Food,0,1,0,1,0.0
+Jund Creativity,Mono-Blue Belcher,0,1,0,1,0.0
+Jund Creativity,Izzet Prowess,1,2,0,3,33.3
+Abzan Infect,Boros Energy,2,0,0,2,100.0
+Abzan Infect,Esper Reanimator,0,2,0,2,0.0
+Abzan Infect,Jeskai Hammer,0,1,0,1,0.0
+Abzan Infect,Neoform,0,1,0,1,0.0
+Orzhov Blink,Grixis Midrange,1,1,0,2,50.0
+Orzhov Blink,Four-Color Control,0,1,0,1,0.0
+Mono-White Control,Izzet Storm,1,0,0,1,100.0
+Mono-White Control,Mono-White Hammer,1,0,0,1,100.0
+Mono-White Control,Colorless Eldrazi,0,1,0,1,0.0
+Mono-White Control,Boros Energy,0,3,0,3,0.0
+Mono-White Control,Mono-Blue Belcher,0,1,0,1,0.0
+Mono-White Control,Amulet Titan,0,1,0,1,0.0
+Azorius Control (Kaheera),Esper Blink,1,0,0,1,100.0
+Azorius Control (Kaheera),Domain Zoo,0,1,0,1,0.0
+Bant Blink,Esper Control,0,1,0,1,0.0
+Bant Blink,Amulet Titan,1,1,0,2,50.0
+Bant Blink,Jeskai Hammer,1,0,0,1,100.0
+Boros Energy,Jund Aggro,2,1,0,3,66.7
+Izzet Prowess,Selesnya Hammer,1,0,0,1,100.0
+Eldrazi Ramp,Simic Murktide,0,1,0,1,0.0
+Jeskai Energy,Domain Zoo,1,1,0,2,50.0
+Jeskai Energy,Selesnya Hammer,1,0,0,1,100.0
+Jeskai Energy,Mono-Blue Belcher,0,1,0,1,0.0
+Jeskai Energy,Mono-Black Necro,0,1,0,1,0.0
+Mono-Green Broodscale,Jeskai Puresteel Combo,0,1,0,1,0.0
+Amulet Titan,Simic Murktide,0,1,0,1,0.0
+Neoform,Jeskai Ascendancy,1,0,0,1,100.0
+Neoform,Esper Oculus,0,1,0,1,0.0
+Neoform,Lantern Control,0,1,0,1,0.0
+Dimir Oculus,Dimir Midrange,0,1,0,1,0.0
+Orzhov Blink,Living End,1,1,0,2,50.0
+Orzhov Blink,Lantern Control,0,1,0,1,0.0
+Orzhov Blink,Jeskai Energy,0,2,0,2,0.0
+Domain Zoo,Burn,1,0,0,1,100.0
+Domain Zoo,Esper Creativity,0,1,0,1,0.0
+Esper Control,Bant Blink,1,0,0,1,100.0
+Esper Control,Mono-Green Broodscale,0,1,0,1,0.0
+Esper Control,Izzet Prowess,0,1,0,1,0.0
+Esper Control,Ruby Storm,1,0,0,1,100.0
+Esper Control,Amulet Titan,0,1,0,1,0.0
+Boros Energy,Mono-Blue Merfolk,0,1,0,1,0.0
+Orzhov Blink,Boros Aggro,1,0,0,1,100.0
+Gruuln Broodscale,Boros Energy,0,2,0,2,0.0
+Gruuln Broodscale,Esper Blink,1,0,0,1,100.0
+Gruuln Broodscale,Eldrazi Ramp,1,0,0,1,100.0
+Gruuln Broodscale,Jeskai Control,0,1,0,1,0.0
+Gruuln Broodscale,Amulet Titan,0,1,0,1,0.0
+Boros Energy,Boros Delirium,0,1,0,1,0.0
+Dimir Mill,Orzhov Blink,2,0,0,2,100.0
+Mono-White Control,Grixis Midrange,1,0,0,1,100.0
+Mono-White Control,Eldrazi Ramp,0,1,0,1,0.0
+Mono-White Control,Mono-Green Broodscale,0,1,0,1,0.0
+Mono-White Control,Izzet Prowess,1,0,0,1,100.0
+Hollow One,Amulet Titan,0,1,0,1,0.0
+Hollow One,Abzan Samwise,0,1,0,1,0.0
+Hollow One,Dimir Midrange,0,2,0,2,0.0
+Jeskai Ascendancy,Neoform,0,1,0,1,0.0
+Boros Energy,Boros Storm,0,1,0,1,0.0
+Jeskai Ascendancy,Izzet Control,1,0,0,1,100.0
+Boros Aggro,Esper Blink,1,0,0,1,100.0
+Boros Aggro,Eldrazi Ramp,0,3,0,3,0.0
+Boros Aggro,Boros Energy,0,2,0,2,0.0
+Boros Aggro,Orzhov Blink,0,1,0,1,0.0
+Boros Aggro,Eldrazi Tron,1,0,0,1,100.0
+Esper Midrange,Domain Zoo,0,1,0,1,0.0
+Esper Midrange,Azorius Control,0,2,0,2,0.0
+Esper Midrange,Dimir Midrange,0,1,0,1,0.0
+Esper Midrange,Mono-Green Tron,1,0,0,1,100.0
+Esper Midrange,Mono-Red Belcher,0,1,0,1,0.0
+Eldrazi Tron,Golgari Midrange,0,1,0,1,0.0
+Eldrazi Tron,Boros Aggro,0,1,0,1,0.0
+Ruby Storm,Abzan Samwise,0,1,0,1,0.0
+Ruby Storm,Jeskai Creativity,1,0,0,1,100.0
+Nine Lives,Boros Energy,0,2,0,2,0.0
+Nine Lives,Amulet Titan,0,1,0,1,0.0
+Nine Lives,Jeskai Ascendancy,1,0,0,1,100.0
+Nine Lives,Grixis Reanimator,1,0,0,1,100.0
+Nine Lives,Merfolk,0,1,0,1,0.0
+Dimir Mill,Jeskai Ascendancy,1,0,0,1,100.0
+Mono-Red Aggro,Mono-Black Midrange,0,1,0,1,0.0
+Mono-Red Aggro,Naya Midrange,0,1,0,1,0.0
+Mono-Red Aggro,Izzet Prowess,1,3,0,4,25.0
+Mono-Red Aggro,Jeskai Affinity,0,1,0,1,0.0
+Mono-Red Aggro,Eldrazi Ramp,1,2,0,3,33.3
+Burn,Eldrazi Ramp,0,2,0,2,0.0
+Burn,Ruby Storm,1,1,0,2,50.0
+Burn,Golgari Yawgmoth,1,0,0,1,100.0
+Burn,Orzhov Blink,0,2,0,2,0.0
+Burn,Izzet Prowess,1,0,0,1,100.0
+Burn,Amulet Titan,0,1,0,1,0.0
+Merfolk,Neoform,1,1,0,2,50.0
+Merfolk,Jeskai Hammer,0,1,0,1,0.0
+Eldrazi Ramp,Golgari Yawgmoth,1,0,0,1,100.0
+Grixis Reanimator,Orzhov Blink,0,1,0,1,0.0
+Grixis Reanimator,Lantern Control,0,1,0,1,0.0
+Grixis Reanimator,Izzet Prowess,1,0,0,1,100.0
+Grixis Reanimator,Merfolk,0,1,0,1,0.0
+Grixis Reanimator,Nine Lives,0,1,0,1,0.0
+Grixis Reanimator,Eldrazi Tron,1,0,0,1,100.0
+Grixis Reanimator,Sultai Infect,0,1,0,1,0.0
+Grixis Reanimator,Esper Blink,0,1,0,1,0.0
+Domain Zoo,Mono-Black Necro,0,1,0,1,0.0
+Domain Zoo,Izzet Midrange,1,0,0,1,100.0
+Grixis Midrange,Living End,0,1,0,1,0.0
+Grixis Midrange,Jund Creativity,1,0,0,1,100.0
+Grixis Midrange,Mono-Red Belcher,1,0,0,1,100.0
+Izzet Midrange,Esper Reanimator,0,1,0,1,0.0
+Izzet Midrange,Ruby Storm,0,2,0,2,0.0
+Izzet Midrange,Eldrazi Ramp,1,1,0,2,50.0
+Izzet Midrange,Domain Zoo,0,1,0,1,0.0
+Izzet Midrange,Dimir Midrange,0,1,0,1,0.0
+Izzet Midrange,Rakdos Burn,0,1,0,1,0.0
+Dredge,Izzet Twin,0,1,0,1,0.0
+Dredge,Ruby Storm,0,1,0,1,0.0
+Dredge,Neoform,0,1,0,1,0.0
+Dredge,Izzet Storm,0,1,0,1,0.0
+Dredge,Abzan Blink,1,0,0,1,100.0
+Dredge,Mono-White Hammer,1,0,0,1,100.0
+Merfolk,Azorius Affinity,0,1,0,1,0.0
+Boros Energy,Izzet Storm,1,0,0,1,100.0
+Jeskai As Foretold,Izzet Prowess,1,1,0,2,50.0
+Jeskai As Foretold,Ruby Storm,1,1,0,2,50.0
+Jeskai As Foretold,Eldrazi Ramp,0,1,0,1,0.0
+Jund Creativity,Temur Twin,0,1,0,1,0.0
+Jund Creativity,Grixis Midrange,0,1,0,1,0.0
+Jund Creativity,Boros Energy,1,0,0,1,100.0
+Esper Blink,Jund Midrange,1,0,0,1,100.0
+Esper Blink,Rakdos Prowess,0,1,0,1,0.0
+Temur Twin,Sultai Oculus,1,0,0,1,100.0
+Temur Twin,Boros Energy,0,4,0,4,0.0
+Temur Twin,Izzet Prowess,0,2,0,2,0.0
+Temur Twin,Azorius Control,0,0,1,1,
+Temur Twin,Dimir Midrange,0,1,0,1,0.0
+Temur Twin,Eldrazi Ramp,0,1,0,1,0.0
+Temur Twin,Dimir Mill,0,1,0,1,0.0
+Eldrazi Breach,Golgari Yawgmoth,1,0,0,1,100.0
+Eldrazi Breach,Dimir Midrange,0,2,0,2,0.0
+Eldrazi Breach,Amulet Titan,0,0,1,1,
+Eldrazi Breach,Izzet Prowess,0,1,0,1,0.0
+Ruby Storm,Golgari Yawgmoth,1,0,0,1,100.0
+Orzhov Blink,Izzet Twin,0,1,0,1,0.0
+Jund Midrange,Golgari Yawgmoth,0,0,1,1,
+Jund Midrange,Neoform,0,1,0,1,0.0
+Jund Midrange,Boros Aggro,1,0,0,1,100.0
+Jund Midrange,Jeskai Ascendancy,0,1,0,1,0.0
+Izzet Twin,Eldrazi Ramp,0,2,0,2,0.0
+Izzet Twin,Ruby Storm,0,1,0,1,0.0
+Izzet Twin,Abzan Samwise,0,1,0,1,0.0
+Izzet Twin,Dimir Oculus,0,0,1,1,
+Esper Midrange,Jeskai Ascendancy,0,0,1,1,
+Esper Midrange,Golgari Yawgmoth,1,0,0,1,100.0
+Esper Midrange,Izzet Storm,1,2,0,3,33.3
+Esper Midrange,Eldrazi Ramp,0,1,0,1,0.0
+Temur Trailblazer Combo,Domain Zoo,0,1,0,1,0.0
+Temur Trailblazer Combo,Boros Energy,0,1,0,1,0.0
+Temur Trailblazer Combo,Izzet Prowess,0,3,0,3,0.0
+Temur Trailblazer Combo,Boros Aggro,1,0,0,1,100.0
+Temur Trailblazer Combo,Dimir Midrange,0,1,0,1,0.0
+Temur Trailblazer Combo,Goblins,0,0,1,1,
+Dimir Oculus,Grixis Reanimator,1,0,0,1,100.0
+Dimir Oculus,Izzet Twin,0,0,1,1,
+Golgari Yawgmoth,Dimir Midrange,0,0,1,1,
+Golgari Yawgmoth,Esper Midrange,0,1,0,1,0.0
+Golgari Yawgmoth,Ruby Storm,0,1,0,1,0.0
+Golgari Yawgmoth,Golgari Yawgmoth,1,1,0,2,50.0
+Golgari Yawgmoth,Eldrazi Ramp,0,1,0,1,0.0
+Eldrazi Ramp,Izzet Midrange,1,1,0,2,50.0
+Living End,Oops! All Spells,1,0,0,1,100.0
+Living End,Abzan Samwise,0,1,0,1,0.0
+Azorius Control,Izzet Control,0,1,0,1,0.0
+Mono-Red Aggro,Jeskai Control,1,0,0,1,100.0
+Mono-Red Aggro,Mono-Blue Belcher,0,1,0,1,0.0
+Dimir Oculus,Mono-Blue Merfolk,1,0,0,1,100.0
+Dimir Oculus,Eldrazi Ramp,0,1,0,1,0.0
+Dimir Oculus,Orzhov Blink,0,2,0,2,0.0
+Dimir Oculus,Hollow One,0,1,0,1,0.0
+Dimir Oculus,Esper Blink,1,0,0,1,100.0
+Rakdos Midrange,Boros Energy,0,1,0,1,0.0
+Rakdos Midrange,Mono-Blue Belcher,1,0,0,1,100.0
+Rakdos Midrange,Izzet Prowess,0,1,0,1,0.0
+Rakdos Midrange,Ruby Storm,0,1,0,1,0.0
+Rakdos Midrange,Jeskai Puresteel Combo,0,1,0,1,0.0
+Orzhov Blink,Boros Delirium,1,0,0,1,100.0
+Dimir Mill,Esper Blink,0,1,0,1,0.0
+Dimir Mill,Simic Oculus,0,1,0,1,0.0
+Dimir Mill,Lantern Control,0,1,0,1,0.0
+Mono-Green Tron,Izzet Prowess,2,1,0,3,66.7
+Mono-Green Tron,Amulet Titan,0,2,0,2,0.0
+Mono-Green Tron,Esper Creativity,0,1,0,1,0.0
+Mono-Green Tron,Esper Midrange,0,1,0,1,0.0
+Boros Energy,Temur Trailblazer Combo,1,0,0,1,100.0
+Mono-Red Belcher,Azorius Affinity,1,1,0,2,50.0
+Mono-Red Belcher,Grixis Midrange,0,1,0,1,0.0
+Dimir Mill,Mono-Green Broodscale,1,0,0,1,100.0
+Mono-Black Aggro,Mono-Green Tron,1,0,0,1,100.0
+Mono-Black Aggro,Amulet Titan,0,2,0,2,0.0
+Mono-Black Aggro,Mono-Blue Belcher,0,1,0,1,0.0
+Mono-Black Aggro,Living End,0,1,0,1,0.0
+Merfolk,Mardu Energy,0,1,0,1,0.0
+Rakdos Burn,Jeskai Ascendancy,0,2,0,2,0.0
+Rakdos Burn,Amulet Titan,0,1,0,1,0.0
+Rakdos Burn,Abzan Blink,1,0,0,1,100.0
+Five-Color Glimpse,Boros Energy,0,1,0,1,0.0
+Five-Color Glimpse,Izzet Prowess,0,1,0,1,0.0
+Five-Color Glimpse,Jeskai Hammer,0,1,0,1,0.0
+Five-Color Glimpse,Ruby Storm,1,0,0,1,100.0
+Five-Color Glimpse,Neoform,0,1,0,1,0.0
+Neoform,Mono-Red Belcher,0,1,0,1,0.0
+Eldrazi Ramp,Abzan Blink,1,0,0,1,100.0
+Mono-Green Broodscale,Gruul Broodscale,0,1,0,1,0.0
+Burn,Azorius Affinity,0,1,0,1,0.0
+Burn,Domain Zoo,0,1,0,1,0.0
+Eldrazi Ramp,Mono-Green Broodscale,0,1,0,1,0.0
+Izzet Prowess,Rakdos Burn,0,1,0,1,0.0
+Izzet Prowess,Jund Midrange,0,1,0,1,0.0
+Esper Blink,Jeskai Energy,1,0,0,1,100.0
+Jeskai Ascendancy,Dimir Mill,0,1,0,1,0.0
+Izzet Prowess,Burn,0,1,0,1,0.0
+Temur Twin,Jund Creativity,1,0,0,1,100.0
+Temur Twin,Domain Zoo,0,1,0,1,0.0
+Boros Prowess,Boros Energy,0,2,0,2,0.0
+Boros Prowess,Jeskai Creativity,1,0,0,1,100.0
+Boros Prowess,Eldrazi Ramp,0,1,0,1,0.0
+Boros Prowess,Mono-Blue Merfolk,0,1,0,1,0.0
+Domain Zoo,Esper MIdrange,1,0,0,1,100.0
+Mono-White Hammer,Jeskai Affinity,1,0,0,1,100.0
+Mono-White Hammer,Mono-White Control,0,1,0,1,0.0
+Mono-White Hammer,Boros Energy,0,1,0,1,0.0
+Mono-White Hammer,Living End,0,1,0,1,0.0
+Mono-White Hammer,Amulet Titan,0,1,0,1,0.0
+Mono-White Hammer,Dredge,0,1,0,1,0.0
+Izzet Storm,Dimir Mill,0,1,0,1,0.0
+Izzet Storm,Mono-Blue Belcher,0,1,0,1,0.0
+Izzet Storm,Dredge,1,0,0,1,100.0
+Izzet Storm,Amulet Titan,0,1,0,1,0.0
+Five-Color Creativity,Esper Blink,0,1,0,1,0.0
+Five-Color Creativity,Abzan Samwise,1,0,0,1,100.0
+Izzet Prowess,Mono-White Control,0,1,0,1,0.0
+Izzet Control,Amulet Titan,1,0,0,1,100.0
+Izzet Control,Jeskai Ascendancy,0,1,0,1,0.0
+Jund Aggro,Hollow One,0,1,0,1,0.0
+Jund Aggro,Esper Blink,1,0,0,1,100.0
+Dimir Mill,Izzet Storm,1,0,0,1,100.0
+Dimir Mill,Ruby Storm,0,1,0,1,0.0
+Dimir Mill,Selesnya Hammer,0,1,0,1,0.0
+Hollow One,Jund Aggro,1,0,0,1,100.0
+Hollow One,Jeskai Ascendancy,0,2,0,2,0.0
+Hollow One,Jeskai Hammer,0,1,0,1,0.0
+Mono-Black Necro,Esper Reanimator,0,1,0,1,0.0
+Mono-Black Necro,Izzet Prowess,1,2,0,3,33.3
+Mono-Black Necro,Boros Aggro,1,0,0,1,100.0
+Mono-Black Necro,Grixis Aggro,0,1,0,1,0.0
+Boros Blink,Ruby Storm,0,1,0,1,0.0
+Boros Blink,Izzet Prowess,1,0,0,1,100.0
+Boros Blink,Domain Zoo,0,1,0,1,0.0
+Mono-Blue Belcher,Boros Aggro,1,0,0,1,100.0
+Abzan Samwise,Merfolk,0,2,0,2,0.0
+Abzan Samwise,Jeskai Puresteel Combo,0,1,0,1,0.0
+Golgari Yawgmoth,Eldrazi Breach,0,1,0,1,0.0
+Golgari Yawgmoth,Amulet Titan,0,2,0,2,0.0
+Golgari Yawgmoth,Boros Energy,0,3,0,3,0.0
+Golgari Yawgmoth,Izzet Prowess,1,0,0,1,100.0
+Neoform,Grixis Midrange,1,0,0,1,100.0
+Mono-Green Tron,Mono-Black Aggro,0,1,0,1,0.0
+Mono-Green Tron,Merfolk,0,1,0,1,0.0
+Amulet Titan,Abzan Blink,1,0,0,1,100.0
+Boros Energy,Jund Creativity,0,1,0,1,0.0
+Jeskai Ascendancy,Nine Lives,0,1,0,1,0.0
+Jeskai Ascendancy,Temur Twin,1,0,0,1,100.0
+Mono-Black Necro,Ruby Storm,0,1,0,1,0.0
+Mono-Black Necro,Amulet Titan,0,2,0,2,0.0
+Izzet Prowess,Grixis Storm,1,0,0,1,100.0
+Esper Midrange,Orzhov Blink,0,2,0,2,0.0
+Ruby Storm,Five-Color Glimpse,0,1,0,1,0.0
+Ruby Storm,Eldrazi Tron,0,1,0,1,0.0
+Boros Aggro,Domain Zoo,0,0,1,1,
+Boros Aggro,Amulet Titan,0,0,1,1,
+Boros Aggro,Jund Midrange,0,1,0,1,0.0
+Elves,Amulet Titan,0,1,1,2,0.0
+Elves,Eldrazi Ramp,0,2,0,2,0.0
+Elves,Izzet Prowess,0,1,0,1,0.0
+Elves,Dimir Mill,0,0,1,1,
+Elves,Esper Blink,0,1,0,1,0.0
+Golgari Yawgmoth,Jund Midrange,0,0,1,1,
+Golgari Yawgmoth,Orzhov Blink,0,2,0,2,0.0
+Elves,Mono-Green Broodscale,0,1,0,1,0.0
+Amulet Titan,Five-Color Creativity,0,1,0,1,0.0
+Amulet Titan,Grixis Aggro,0,1,0,1,0.0
+Amulet Titan,Izzet Control,0,1,0,1,0.0
+Domain Zoo,Living End,0,1,0,1,0.0
+Mono-Black Necro,Jeskai Midrange,0,1,0,1,0.0
+Mono-Black Necro,Mono-Blue Belcher,0,1,0,1,0.0
+Neoform,Four-Color Control,0,1,0,1,0.0
+Neoform,Jeskai Energy,0,1,0,1,0.0
+Eldrrazi Ramp,Neoform,0,1,0,1,0.0
+Eldrrazi Ramp,Domain Zoo,0,1,0,1,0.0
+Eldrrazi Ramp,Jeskai Ascendancy,0,1,0,1,0.0
+Abzan Samwise,Colorless Eldrazi,0,1,0,1,0.0
+Abzan Samwise,Five-Color Creativity,0,1,0,1,0.0
+Esper MIdrange,Jund Aggro,0,1,0,1,0.0
+Esper MIdrange,Azorius Belcher,0,1,0,1,0.0
+Esper MIdrange,Amulet Titan,0,1,0,1,0.0
+Esper MIdrange,Domain Zoo,0,1,0,1,0.0
+Temur Twin,Jeskai Affinity,0,1,0,1,0.0
+Temur Twin,Esper Blink,0,1,0,1,0.0
+Temur Twin,Jeskai Ascendancy,0,1,0,1,0.0
+Jeskai Affinity,Mono-White Hammer,0,1,0,1,0.0
+Jeskai Affinity,Jeskai Prowess,0,1,0,1,0.0
+Golgari Yawgmoth,Mono-Blue Belcher,0,1,0,1,0.0
+Golgari Yawgmoth,Burn,0,1,0,1,0.0
+Hollow One,Orzhov Blink,0,1,0,1,0.0
+Grixis Reanimator,Boros Energy,0,1,0,1,0.0
+Grixis Reanimator,Dimir Oculus,0,1,0,1,0.0
+Grixis Reanimator,Mono-Green Broodscale,0,1,0,1,0.0
+Grixis Reanimator,Simic Oculus,0,1,0,1,0.0
+Jeskai Creativity,Izzet Prowess,0,1,0,1,0.0
+Jeskai Creativity,Dimir Midrange,0,1,0,1,0.0
+Jeskai Creativity,Boros Prowess,0,1,0,1,0.0
+Jeskai Creativity,Ruby Storm,0,1,0,1,0.0
+Izzet Storm,Izzet Prowess,0,2,0,2,0.0
+Izzet Storm,Boros Energy,0,1,0,1,0.0
+Izzet Storm,Jeskai Affinity,0,1,0,1,0.0
+Esper Blink,Gruuln Broodscale,0,1,0,1,0.0
+Izzet Prowess,Golgari Yawgmoth,0,1,0,1,0.0
+Izzet Prowess,Boros Blink,0,1,0,1,0.0
+Domain Zoo,Grixis Midrange,0,1,0,1,0.0
+Grixis Storm,Orzhov Blink,0,1,0,1,0.0
+Grixis Storm,Azorius Control,0,1,0,1,0.0
+Grixis Storm,Izzet Prowess,0,1,0,1,0.0
+Abzan Blink,Boros Energy,0,1,0,1,0.0
+Abzan Blink,Eldrazi Ramp,0,1,0,1,0.0
+Abzan Blink,Rakdos Burn,0,1,0,1,0.0
+Abzan Blink,Amulet Titan,0,1,0,1,0.0
+Abzan Blink,Dredge,0,1,0,1,0.0
+Eldrazi Ramp,Lantern Control,0,1,0,1,0.0
+Izzet Prowess,Grixis Reanimator,0,1,0,1,0.0
+Boros Aggro,Neoform,0,1,0,1,0.0
+Boros Aggro,Mono-Blue Belcher,0,1,0,1,0.0
+Boros Aggro,Mono-Black Necro,0,1,0,1,0.0
+Boros Aggro,Temur Trailblazer Combo,0,1,0,1,0.0
+Boros Aggro,Dimir Mill,0,1,0,1,0.0
+Izzet Prowess,Simic Murktide,0,1,0,1,0.0
+Grixis Midrange,Mono-White Control,0,1,0,1,0.0
+Grixis Midrange,Neoform,0,1,0,1,0.0

@@ -1,0 +1,43 @@
+archetype_a,archetype_b,win,loss,draw,games,winrate
+Simic Amulet Titan,Izzet Eldrazi,2,0,0,2,100.0
+Simic Amulet Titan,Jeskai Blink,1,0,0,1,100.0
+Simic Amulet Titan,Grixis Reanimator,0,1,0,1,0.0
+Simic Amulet Titan,Mono-Red Ruby Storm,1,0,0,1,100.0
+Simic Amulet Titan,Izzet Prowess,1,0,0,1,100.0
+Simic Amulet Titan,Mono-Blue Belcher,0,1,0,1,0.0
+Mono-Blue Belcher,Boros Energy,0,0,1,1,
+Mono-Blue Belcher,Mono-Red Ruby Storm,1,0,0,1,100.0
+Mono-Blue Belcher,Jeskai Blink,1,0,0,1,100.0
+Mono-Blue Belcher,Grixis Reanimator,2,0,0,2,100.0
+Mono-Blue Belcher,Izzet Eldrazi,0,0,1,1,
+Mono-Blue Belcher,Simic Amulet Titan,1,0,0,1,100.0
+Grixis Reanimator,Izzet Prowess,1,0,0,1,100.0
+Grixis Reanimator,Simic Amulet Titan,1,0,0,1,100.0
+Grixis Reanimator,Mono-Blue Belcher,0,2,0,2,0.0
+Grixis Reanimator,W-U-B-G Goryo's,0,0,1,1,
+Izzet Eldrazi,Simic Amulet Titan,0,2,0,2,0.0
+Izzet Eldrazi,W-U-B-G Goryo's,1,0,0,1,100.0
+Izzet Eldrazi,Izzet Prowess,1,0,0,1,100.0
+Izzet Eldrazi,Mono-Blue Belcher,0,0,1,1,
+W-U-B-G Goryo's,Izzet Prowess,0,1,0,1,0.0
+W-U-B-G Goryo's,Boros Energy,1,0,0,1,100.0
+W-U-B-G Goryo's,Izzet Eldrazi,0,1,0,1,0.0
+W-U-B-G Goryo's,Jeskai Blink,1,0,0,1,100.0
+W-U-B-G Goryo's,Grixis Reanimator,0,0,1,1,
+Boros Energy,Mono-Blue Belcher,0,0,1,1,
+Boros Energy,W-U-B-G Goryo's,0,1,0,1,0.0
+Boros Energy,Izzet Prowess,0,1,0,1,0.0
+Boros Energy,Mono-Red Ruby Storm,1,0,0,1,100.0
+Izzet Prowess,W-U-B-G Goryo's,1,0,0,1,100.0
+Izzet Prowess,Grixis Reanimator,0,1,0,1,0.0
+Izzet Prowess,Boros Energy,1,0,0,1,100.0
+Izzet Prowess,Izzet Eldrazi,0,1,0,1,0.0
+Izzet Prowess,Simic Amulet Titan,0,1,0,1,0.0
+Jeskai Blink,Mono-Red Ruby Storm,1,0,0,1,100.0
+Jeskai Blink,Simic Amulet Titan,0,1,0,1,0.0
+Jeskai Blink,Mono-Blue Belcher,0,1,0,1,0.0
+Jeskai Blink,W-U-B-G Goryo's,0,1,0,1,0.0
+Mono-Red Ruby Storm,Jeskai Blink,0,1,0,1,0.0
+Mono-Red Ruby Storm,Mono-Blue Belcher,0,1,0,1,0.0
+Mono-Red Ruby Storm,Simic Amulet Titan,0,1,0,1,0.0
+Mono-Red Ruby Storm,Boros Energy,0,1,0,1,0.0

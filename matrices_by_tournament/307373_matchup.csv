@@ -1,0 +1,57 @@
+archetype_a,archetype_b,win,loss,draw,games,winrate
+Boros,Gruul,0,1,0,1,0.0
+Boros,Naya Storm,1,0,0,1,100.0
+Boros,Boros Energy,1,0,0,1,100.0
+Boros,Izzet,1,0,0,1,100.0
+Boros,W-U-R-G Domain,1,0,0,1,100.0
+Boros,Jeskai,1,0,0,1,100.0
+Boros,Izzet Aggro,1,0,0,1,100.0
+Izzet Aggro,Izzet,1,0,0,1,100.0
+Izzet Aggro,Gruul,2,0,0,2,100.0
+Izzet Aggro,W-U-R-G Domain,1,0,0,1,100.0
+Izzet Aggro,Jeskai,0,0,1,1,
+Izzet Aggro,W-U-R-G Combo,1,0,0,1,100.0
+Izzet Aggro,Boros,0,1,0,1,0.0
+Jeskai,W-U-R-G Combo,1,0,0,1,100.0
+Jeskai,Boros Energy,1,0,0,1,100.0
+Jeskai,Temur Amulet Titan,1,0,0,1,100.0
+Jeskai,Izzet Aggro,0,0,1,1,
+Jeskai,Gruul,0,0,1,1,
+Jeskai,Boros,0,1,0,1,0.0
+Gruul,Boros,1,0,0,1,100.0
+Gruul,Izzet Aggro,0,2,0,2,0.0
+Gruul,Dimir Murktide,1,0,0,1,100.0
+Gruul,W-U-R-G Domain,1,0,0,1,100.0
+Gruul,Jeskai,0,0,1,1,
+Esper Murktide,W-U-R-G Domain,0,1,0,1,0.0
+Esper Murktide,Temur Amulet Titan,1,0,0,1,100.0
+Esper Murktide,Esper Oculus,1,0,0,1,100.0
+Esper Murktide,W-U-R-G Combo,0,1,0,1,0.0
+Esper Murktide,Izzet,1,0,0,1,100.0
+W-U-R-G Combo,Jeskai,0,1,0,1,0.0
+W-U-R-G Combo,Naya Storm,1,0,0,1,100.0
+W-U-R-G Combo,Esper Murktide,1,0,0,1,100.0
+W-U-R-G Combo,Izzet Aggro,0,1,0,1,0.0
+W-U-R-G Domain,Esper Murktide,1,0,0,1,100.0
+W-U-R-G Domain,Dimir Murktide,1,0,0,1,100.0
+W-U-R-G Domain,Izzet Aggro,0,1,0,1,0.0
+W-U-R-G Domain,Gruul,0,1,0,1,0.0
+W-U-R-G Domain,Boros,0,1,0,1,0.0
+Naya Storm,Temur Amulet Titan,0,1,0,1,0.0
+Naya Storm,Boros,0,1,0,1,0.0
+Naya Storm,W-U-R-G Combo,0,1,0,1,0.0
+Izzet,Izzet Aggro,0,1,0,1,0.0
+Izzet,Esper Oculus,0,1,0,1,0.0
+Izzet,Boros,0,1,0,1,0.0
+Izzet,Esper Murktide,0,1,0,1,0.0
+Boros Energy,Esper Oculus,1,0,0,1,100.0
+Boros Energy,Jeskai,0,1,0,1,0.0
+Boros Energy,Boros,0,1,0,1,0.0
+Temur Amulet Titan,Naya Storm,1,0,0,1,100.0
+Temur Amulet Titan,Esper Murktide,0,1,0,1,0.0
+Temur Amulet Titan,Jeskai,0,1,0,1,0.0
+Esper Oculus,Boros Energy,0,1,0,1,0.0
+Esper Oculus,Izzet,1,0,0,1,100.0
+Esper Oculus,Esper Murktide,0,1,0,1,0.0
+Dimir Murktide,W-U-R-G Domain,0,1,0,1,0.0
+Dimir Murktide,Gruul,0,1,0,1,0.0

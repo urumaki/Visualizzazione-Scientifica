@@ -1,0 +1,91 @@
+archetype_a,archetype_b,win,loss,draw,games,winrate
+W-B-R-G Samwise Gamgee Combo,Golgari Cosmogoyf,1,0,0,1,100.0
+W-B-R-G Samwise Gamgee Combo,Simic Neoform,1,0,0,1,100.0
+W-B-R-G Samwise Gamgee Combo,Jeskai Storm,1,0,0,1,100.0
+W-B-R-G Samwise Gamgee Combo,Gruul,0,0,1,1,
+W-B-R-G Samwise Gamgee Combo,Simic Midrange,0,0,1,1,
+W-B-R-G Samwise Gamgee Combo,Golgari Yawgmoth,1,0,0,1,100.0
+W-B-R-G Samwise Gamgee Combo,Dimir Midrange,0,1,0,1,0.0
+Simic Midrange,Gruul Eldrazi Aggro,1,0,0,1,100.0
+Simic Midrange,W-U-B-G Goryo's,1,0,0,1,100.0
+Simic Midrange,Gruul,1,0,1,2,100.0
+Simic Midrange,Izzet Combo,2,0,0,2,100.0
+Simic Midrange,W-B-R-G Samwise Gamgee Combo,0,0,1,1,
+Simic Midrange,Dimir Midrange,0,1,0,1,0.0
+Jeskai Storm,Izzet Combo,1,0,0,1,100.0
+Jeskai Storm,W-B-R-G Samwise Gamgee Combo,0,1,0,1,0.0
+Jeskai Storm,Golgari Yawgmoth,1,0,0,1,100.0
+Jeskai Storm,Dimir Midrange,0,0,1,1,
+Jeskai Storm,Gruul,0,1,0,1,0.0
+Dimir Midrange,Gruul,0,1,0,1,0.0
+Dimir Midrange,Mono-Green Reanimator,1,0,0,1,100.0
+Dimir Midrange,Golgari Cosmogoyf,1,0,0,1,100.0
+Dimir Midrange,Mono-Red Storm,1,0,0,1,100.0
+Dimir Midrange,Jeskai Storm,0,0,1,1,
+Dimir Midrange,Boros Aggro,1,0,0,1,100.0
+Dimir Midrange,W-B-R-G Samwise Gamgee Combo,1,0,0,1,100.0
+Dimir Midrange,Simic Midrange,1,0,0,1,100.0
+Boros Aggro,Dimir,1,0,0,1,100.0
+Boros Aggro,Golgari Yawgmoth,1,0,0,1,100.0
+Boros Aggro,Izzet Combo,0,1,0,1,0.0
+Boros Aggro,W-U-B-G Goryo's,1,0,0,1,100.0
+Boros Aggro,Gruul,0,0,1,1,
+Boros Aggro,Dimir Midrange,0,1,0,1,0.0
+Gruul,Dimir Midrange,1,0,0,1,100.0
+Gruul,Golgari,1,0,0,1,100.0
+Gruul,Simic Midrange,0,1,1,2,0.0
+Gruul,W-B-R-G Samwise Gamgee Combo,0,0,1,1,
+Gruul,Boros Aggro,0,0,1,1,
+Gruul,Jeskai Storm,1,0,0,1,100.0
+Izzet Combo,Mono-Green Reanimator,1,0,0,1,100.0
+Izzet Combo,Jeskai Storm,0,1,0,1,0.0
+Izzet Combo,Boros Aggro,1,0,0,1,100.0
+Izzet Combo,Simic Midrange,0,2,0,2,0.0
+Izzet Combo,W-U-B-G Goryo's,1,0,0,1,100.0
+Golgari Yawgmoth,W-U-B-R-G Domain Zoo,1,0,0,1,100.0
+Golgari Yawgmoth,Boros Aggro,0,1,0,1,0.0
+Golgari Yawgmoth,Mono-Red Storm,1,0,0,1,100.0
+Golgari Yawgmoth,Jeskai Storm,0,1,0,1,0.0
+Golgari Yawgmoth,Golgari Cosmogoyf,1,0,0,1,100.0
+Golgari Yawgmoth,W-B-R-G Samwise Gamgee Combo,0,1,0,1,0.0
+Mono-Green Reanimator,Izzet Combo,0,1,0,1,0.0
+Mono-Green Reanimator,Dimir Midrange,0,1,0,1,0.0
+Mono-Green Reanimator,W-U-B-R-G Domain Zoo,1,0,0,1,100.0
+Mono-Green Reanimator,Simic Neoform,1,0,0,1,100.0
+Mono-Green Reanimator,Gruul Eldrazi Aggro,1,0,0,1,100.0
+W-U-B-G Goryo's,Golgari,1,0,0,1,100.0
+W-U-B-G Goryo's,Simic Midrange,0,1,0,1,0.0
+W-U-B-G Goryo's,Simic Neoform,1,0,0,1,100.0
+W-U-B-G Goryo's,Boros Aggro,0,1,0,1,0.0
+W-U-B-G Goryo's,Izzet Combo,0,1,0,1,0.0
+Golgari Cosmogoyf,W-B-R-G Samwise Gamgee Combo,0,1,0,1,0.0
+Golgari Cosmogoyf,W-U-B-R-G Domain Zoo,1,0,0,1,100.0
+Golgari Cosmogoyf,Dimir Midrange,0,1,0,1,0.0
+Golgari Cosmogoyf,Gruul Eldrazi Aggro,1,0,0,1,100.0
+Golgari Cosmogoyf,Golgari Yawgmoth,0,1,0,1,0.0
+Mono-Red Storm,Simic Neoform,0,1,0,1,0.0
+Mono-Red Storm,Gruul Eldrazi Aggro,1,0,0,1,100.0
+Mono-Red Storm,Golgari Yawgmoth,0,1,0,1,0.0
+Mono-Red Storm,Dimir Midrange,0,1,0,1,0.0
+Mono-Red Storm,W-U-B-R-G Domain Zoo,1,0,0,1,100.0
+Golgari,W-U-B-G Goryo's,0,1,0,1,0.0
+Golgari,Gruul,0,1,0,1,0.0
+Golgari,Gruul Eldrazi Aggro,0,1,0,1,0.0
+Golgari,W-U-B-R-G Domain Zoo,1,0,0,1,100.0
+Golgari,Simic Neoform,1,0,0,1,100.0
+Simic Neoform,Mono-Red Storm,1,0,0,1,100.0
+Simic Neoform,W-B-R-G Samwise Gamgee Combo,0,1,0,1,0.0
+Simic Neoform,W-U-B-G Goryo's,0,1,0,1,0.0
+Simic Neoform,Mono-Green Reanimator,0,1,0,1,0.0
+Simic Neoform,Golgari,0,1,0,1,0.0
+Gruul Eldrazi Aggro,Simic Midrange,0,1,0,1,0.0
+Gruul Eldrazi Aggro,Mono-Red Storm,0,1,0,1,0.0
+Gruul Eldrazi Aggro,Golgari,1,0,0,1,100.0
+Gruul Eldrazi Aggro,Golgari Cosmogoyf,0,1,0,1,0.0
+Gruul Eldrazi Aggro,Mono-Green Reanimator,0,1,0,1,0.0
+Dimir,Boros Aggro,0,1,0,1,0.0
+W-U-B-R-G Domain Zoo,Golgari Yawgmoth,0,1,0,1,0.0
+W-U-B-R-G Domain Zoo,Golgari Cosmogoyf,0,1,0,1,0.0
+W-U-B-R-G Domain Zoo,Mono-Green Reanimator,0,1,0,1,0.0
+W-U-B-R-G Domain Zoo,Golgari,0,1,0,1,0.0
+W-U-B-R-G Domain Zoo,Mono-Red Storm,0,1,0,1,0.0

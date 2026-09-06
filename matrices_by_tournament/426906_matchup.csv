@@ -1,0 +1,29 @@
+archetype_a,archetype_b,win,loss,draw,games,winrate
+Mono-Blue,Boros Energy,1,0,0,1,100.0
+Mono-Blue,Izzet Aggro,1,0,0,1,100.0
+Mono-Blue,Mono-Green,1,0,0,1,100.0
+Mono-Blue,Grixis,0,1,0,1,0.0
+Mono-Green,Colorless,1,0,0,1,100.0
+Mono-Green,Grixis,1,0,0,1,100.0
+Mono-Green,Mono-Blue,0,1,0,1,0.0
+Mono-Green,Azorius Control,0,1,0,1,0.0
+Izzet Aggro,Azorius,1,0,0,1,100.0
+Izzet Aggro,Mono-Blue,0,1,0,1,0.0
+Izzet Aggro,Grixis,1,0,0,1,100.0
+Azorius Control,Grixis,1,1,0,2,50.0
+Azorius Control,Boros Energy,1,0,0,1,100.0
+Azorius Control,Azorius,1,0,0,1,100.0
+Azorius Control,Mono-Green,1,0,0,1,100.0
+Grixis,Azorius Control,1,1,0,2,50.0
+Grixis,Mono-Green,0,1,0,1,0.0
+Grixis,Izzet Aggro,0,1,0,1,0.0
+Grixis,Mono-Blue,1,0,0,1,100.0
+Azorius,Izzet Aggro,0,1,0,1,0.0
+Azorius,Colorless,1,0,0,1,100.0
+Azorius,Azorius Control,0,1,0,1,0.0
+Colorless,Mono-Green,0,1,0,1,0.0
+Colorless,Azorius,0,1,0,1,0.0
+Colorless,Boros Energy,1,0,0,1,100.0
+Boros Energy,Mono-Blue,0,1,0,1,0.0
+Boros Energy,Azorius Control,0,1,0,1,0.0
+Boros Energy,Colorless,0,1,0,1,0.0

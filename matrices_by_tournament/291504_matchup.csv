@@ -1,0 +1,25 @@
+archetype_a,archetype_b,win,loss,draw,games,winrate
+Boros Aggro,Esper Murktide,1,0,0,1,100.0
+Boros Aggro,Jeskai Energy,2,0,0,2,100.0
+Boros Aggro,Mono-Blue,0,1,0,1,0.0
+Mono-Blue,Boros Aggro,1,0,0,1,100.0
+Temur Aggro,Dimir Midrange,0,1,0,1,0.0
+Temur Aggro,Abzan Yawgmoth,1,0,0,1,100.0
+Dimir Control,Jeskai Energy,0,1,0,1,0.0
+Jeskai Energy,Boros Aggro,0,2,0,2,0.0
+Jeskai Energy,Dimir Midrange,1,0,0,1,100.0
+Jeskai Energy,Dimir Control,1,0,0,1,100.0
+Abzan Yawgmoth,Temur Amulet Titan,1,0,0,1,100.0
+Abzan Yawgmoth,Temur Aggro,0,1,0,1,0.0
+Grixis,Esper Murktide,0,1,0,1,0.0
+Grixis,Boros Storm,1,0,0,1,100.0
+Grixis,Grixis Midrange,1,0,0,1,100.0
+Esper Murktide,Boros Aggro,0,1,0,1,0.0
+Esper Murktide,Grixis,1,0,0,1,100.0
+Dimir Midrange,Temur Aggro,1,0,0,1,100.0
+Dimir Midrange,Jeskai Energy,0,1,0,1,0.0
+Grixis Midrange,Boros Storm,1,0,0,1,100.0
+Grixis Midrange,Grixis,0,1,0,1,0.0
+Temur Amulet Titan,Abzan Yawgmoth,0,1,0,1,0.0
+Boros Storm,Grixis Midrange,0,1,0,1,0.0
+Boros Storm,Grixis,0,1,0,1,0.0

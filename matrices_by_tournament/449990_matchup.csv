@@ -1,0 +1,52 @@
+archetype_a,archetype_b,win,loss,draw,games,winrate
+Boros Aggro,Boros Energy,0,2,0,2,0.0
+Boros Aggro,Izzet Affinity,1,0,0,1,100.0
+Boros Aggro,Mono-Red Storm,1,0,0,1,100.0
+Boros Aggro,Sultai Ritual,1,1,0,2,50.0
+Boros Aggro,Boros Aggro,1,1,0,2,50.0
+Mono-Green Eldrazi Broodscale,Azorius Control (Kaheera),1,0,0,1,100.0
+Mono-Green Eldrazi Broodscale,Boros Energy,1,0,0,1,100.0
+Mono-Green Eldrazi Broodscale,Sultai Ritual,1,0,0,1,100.0
+Mono-Green Eldrazi Broodscale,Mono-Red Storm,0,1,0,1,0.0
+Boros Energy,Boros Aggro,2,0,0,2,100.0
+Boros Energy,Mono-Green Eldrazi Broodscale,0,1,0,1,0.0
+Boros Energy,Esper Reanimator,1,0,0,1,100.0
+Boros Energy,W-U-B-G Goryo's,1,0,0,1,100.0
+Boros Energy,Mono-Red Storm,1,0,0,1,100.0
+Mono-Red Storm,Jeskai Blink,1,0,0,1,100.0
+Mono-Red Storm,Esper Reanimator,1,0,0,1,100.0
+Mono-Red Storm,Boros Aggro,0,1,0,1,0.0
+Mono-Red Storm,Mono-Green Eldrazi Broodscale,1,0,0,1,100.0
+Mono-Red Storm,Boros Energy,0,1,0,1,0.0
+Boros Aggro,Gruul Eldrazi Aggro,1,0,0,1,100.0
+Boros Aggro,Azorius Control (Kaheera),1,0,0,1,100.0
+Boros Aggro,Izzet Eldrazi,1,0,0,1,100.0
+Izzet Affinity,Izzet Eldrazi,0,1,1,2,0.0
+Izzet Affinity,Boros Aggro,0,1,0,1,0.0
+Izzet Affinity,Jeskai Blink,1,1,0,2,50.0
+Izzet Affinity,Gruul Eldrazi Aggro,1,1,0,2,50.0
+Sultai Ritual,W-U-B-G Goryo's,1,0,0,1,100.0
+Sultai Ritual,Boros Aggro,1,1,0,2,50.0
+Sultai Ritual,Mono-Green Eldrazi Broodscale,0,1,0,1,0.0
+W-U-B-G Goryo's,Sultai Ritual,0,1,0,1,0.0
+W-U-B-G Goryo's,Izzet Eldrazi,1,0,0,1,100.0
+W-U-B-G Goryo's,Gruul Eldrazi Aggro,1,0,0,1,100.0
+W-U-B-G Goryo's,Boros Energy,0,1,0,1,0.0
+Azorius Control (Kaheera),Mono-Green Eldrazi Broodscale,0,1,0,1,0.0
+Azorius Control (Kaheera),Jeskai Blink,1,0,0,1,100.0
+Azorius Control (Kaheera),Boros Aggro,0,1,0,1,0.0
+Azorius Control (Kaheera),Esper Reanimator,0,0,1,1,
+Izzet Eldrazi,Izzet Affinity,1,0,1,2,100.0
+Izzet Eldrazi,W-U-B-G Goryo's,0,1,0,1,0.0
+Izzet Eldrazi,Boros Aggro,0,1,0,1,0.0
+Esper Reanimator,Izzet Affinity,1,0,0,1,100.0
+Esper Reanimator,Mono-Red Storm,0,1,0,1,0.0
+Esper Reanimator,Boros Energy,0,1,0,1,0.0
+Esper Reanimator,Azorius Control (Kaheera),0,0,1,1,
+Gruul Eldrazi Aggro,Boros Aggro,0,1,0,1,0.0
+Gruul Eldrazi Aggro,Izzet Affinity,1,1,0,2,50.0
+Gruul Eldrazi Aggro,W-U-B-G Goryo's,0,1,0,1,0.0
+Jeskai Blink,Mono-Red Storm,0,1,0,1,0.0
+Jeskai Blink,Azorius Control (Kaheera),0,1,0,1,0.0
+Jeskai Blink,Izzet Affinity,1,1,0,2,50.0
+Izzet Affinity,Esper Reanimator,0,1,0,1,0.0

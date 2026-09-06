@@ -1,0 +1,137 @@
+archetype_a,archetype_b,win,loss,draw,games,winrate
+Gruul Eldrazi Ramp,Boros Aggro,1,0,0,1,100.0
+Gruul Eldrazi Ramp,W-U-R-G Domain Zoo,1,0,0,1,100.0
+Gruul Eldrazi Ramp,Izzet Aggro,1,0,0,1,100.0
+Gruul Eldrazi Ramp,W-U-B-G,1,0,0,1,100.0
+Gruul Eldrazi Ramp,Colorless Eldrazi Tron,0,1,1,2,0.0
+Gruul Eldrazi Ramp,Boros Energy,1,0,0,1,100.0
+W-U-R-G Domain Zoo,Boros Energy,2,0,0,2,100.0
+W-U-R-G Domain Zoo,Gruul Eldrazi Ramp,0,1,0,1,0.0
+W-U-R-G Domain Zoo,Jund Combo,1,0,0,1,100.0
+W-U-R-G Domain Zoo,Esper Blink,1,0,0,1,100.0
+W-U-R-G Domain Zoo,Izzet Affinity,0,1,0,1,0.0
+Mono-Green Eldrazi Broodscale,Colorless Eldrazi Tron,0,1,0,1,0.0
+Mono-Green Eldrazi Broodscale,Boros Aggro,1,0,0,1,100.0
+Mono-Green Eldrazi Broodscale,Boros Land Destruction,1,0,0,1,100.0
+Mono-Green Eldrazi Broodscale,Izzet,1,0,0,1,100.0
+Mono-Green Eldrazi Broodscale,Izzet Affinity,1,1,0,2,50.0
+Mono-Green Eldrazi Broodscale,Izzet Aggro,1,0,0,1,100.0
+Esper Goryo's,Boros Land Destruction,0,1,0,1,0.0
+Esper Goryo's,Boros Energy,1,0,0,1,100.0
+Esper Goryo's,Izzet Prowess,1,0,0,1,100.0
+Esper Goryo's,Boros Aggro,1,0,0,1,100.0
+Esper Goryo's,W-U-B-G,1,0,0,1,100.0
+Esper Goryo's,Colorless Eldrazi Tron,0,1,0,1,0.0
+Colorless Eldrazi Tron,Mono-Green Eldrazi Broodscale,1,0,0,1,100.0
+Colorless Eldrazi Tron,Boros Energy,1,0,0,1,100.0
+Colorless Eldrazi Tron,Izzet Metalcraft,1,0,0,1,100.0
+Colorless Eldrazi Tron,Mono-Green Amulet Titan,0,0,1,1,
+Colorless Eldrazi Tron,Gruul Eldrazi Ramp,1,0,1,2,100.0
+Colorless Eldrazi Tron,Esper Goryo's,1,0,0,1,100.0
+Colorless Eldrazi Tron,Izzet Affinity,1,0,0,1,100.0
+Mono-Green Amulet Titan,Izzet Affinity,1,0,0,1,100.0
+Mono-Green Amulet Titan,Izzet Prowess,1,0,0,1,100.0
+Mono-Green Amulet Titan,Boros Aggro,1,0,0,1,100.0
+Mono-Green Amulet Titan,Colorless Eldrazi Tron,0,0,1,1,
+Mono-Green Amulet Titan,Izzet Aggro,0,0,1,1,
+Izzet Aggro,Jund Combo,1,0,0,1,100.0
+Izzet Aggro,Izzet Eldrazi,1,0,0,1,100.0
+Izzet Aggro,Gruul Eldrazi Ramp,0,1,0,1,0.0
+Izzet Aggro,Izzet Metalcraft,1,0,0,1,100.0
+Izzet Aggro,Mono-Green Amulet Titan,0,0,1,1,
+Izzet Aggro,Mono-Green Eldrazi Broodscale,0,1,0,1,0.0
+Izzet Affinity,Izzet Eldrazi,0,0,1,1,
+Izzet Affinity,Simic Ritual,1,0,0,1,100.0
+Izzet Affinity,Izzet Prowess,1,0,0,1,100.0
+Izzet Affinity,Boros Energy,0,1,0,1,0.0
+Izzet Affinity,Boros Aggro,1,1,0,2,50.0
+Izzet Affinity,W-U-R-G Domain Zoo,1,0,0,1,100.0
+Izzet Affinity,Mono-Green Eldrazi Broodscale,1,1,0,2,50.0
+Izzet Affinity,Colorless Eldrazi Tron,0,1,0,1,0.0
+Boros Energy,Mono-Black Midrange,1,0,0,1,100.0
+Boros Energy,Colorless Eldrazi Tron,0,1,0,1,0.0
+Boros Energy,Izzet Eldrazi,1,0,0,1,100.0
+Boros Energy,Izzet Affinity,1,0,0,1,100.0
+Boros Energy,W-U-R-G Domain Zoo,0,2,0,2,0.0
+Boros Energy,Gruul Eldrazi Ramp,0,1,0,1,0.0
+Izzet Metalcraft,Boros Land Destruction,1,0,0,1,100.0
+Izzet Metalcraft,Colorless Eldrazi Tron,0,1,0,1,0.0
+Izzet Metalcraft,Izzet Aggro,0,1,0,1,0.0
+Izzet Metalcraft,Izzet,1,0,0,1,100.0
+Jund Combo,Izzet Aggro,0,1,0,1,0.0
+Jund Combo,Golgari Aggro,1,0,0,1,100.0
+Jund Combo,W-U-R-G Domain Zoo,0,1,0,1,0.0
+Jund Combo,Azorius Blink,1,0,0,1,100.0
+Jund Combo,W-U-B-G Goryo's,1,0,0,1,100.0
+Izzet Affinity,Golgari Aggro,1,0,0,1,100.0
+Izzet Affinity,Izzet,0,1,0,1,0.0
+Izzet Affinity,Mono-Black Midrange,1,1,0,2,50.0
+Izzet Affinity,W-U-B-G Goryo's,1,0,0,1,100.0
+Temur Living End,Boros Aggro,0,1,0,1,0.0
+Temur Living End,Azorius Blink,1,0,0,1,100.0
+Temur Living End,W-U-B-G Goryo's,0,1,0,1,0.0
+Temur Living End,Izzet Prowess,1,0,0,1,100.0
+Temur Living End,Golgari Aggro,1,0,0,1,100.0
+W-U-B-G,Simic Ritual,0,0,1,1,
+W-U-B-G,Esper Blink,1,0,0,1,100.0
+W-U-B-G,Izzet,1,0,0,1,100.0
+W-U-B-G,Gruul Eldrazi Ramp,0,1,0,1,0.0
+W-U-B-G,Esper Goryo's,0,1,0,1,0.0
+Simic Ritual,W-U-B-G,0,0,1,1,
+Simic Ritual,Izzet Affinity,0,1,0,1,0.0
+Simic Ritual,Golgari Aggro,0,1,0,1,0.0
+Simic Ritual,Mono-Black Midrange,1,0,0,1,100.0
+Simic Ritual,Boros Aggro,1,0,0,1,100.0
+Boros Aggro,Temur Living End,1,0,0,1,100.0
+Boros Aggro,W-U-B-G Goryo's,1,0,0,1,100.0
+Boros Aggro,Mono-Green Amulet Titan,0,1,0,1,0.0
+Boros Aggro,Esper Goryo's,0,1,0,1,0.0
+Boros Aggro,Izzet Affinity,1,1,0,2,50.0
+Izzet,Izzet Prowess,1,0,0,1,100.0
+Izzet,Izzet Affinity,1,0,0,1,100.0
+Izzet,W-U-B-G,0,1,0,1,0.0
+Izzet,Mono-Green Eldrazi Broodscale,0,1,0,1,0.0
+Izzet,Izzet Metalcraft,0,1,0,1,0.0
+W-U-B-G Goryo's,Azorius Blink,1,0,0,1,100.0
+W-U-B-G Goryo's,Boros Aggro,0,1,0,1,0.0
+W-U-B-G Goryo's,Temur Living End,1,0,0,1,100.0
+W-U-B-G Goryo's,Izzet Affinity,0,1,0,1,0.0
+W-U-B-G Goryo's,Jund Combo,0,1,0,1,0.0
+Golgari Aggro,Izzet Affinity,0,1,0,1,0.0
+Golgari Aggro,Jund Combo,0,1,0,1,0.0
+Golgari Aggro,Simic Ritual,1,0,0,1,100.0
+Golgari Aggro,Izzet Prowess,1,0,0,1,100.0
+Golgari Aggro,Temur Living End,0,1,0,1,0.0
+Azorius Blink,W-U-B-G Goryo's,0,1,0,1,0.0
+Azorius Blink,Temur Living End,0,1,0,1,0.0
+Azorius Blink,Boros Aggro,1,0,0,1,100.0
+Azorius Blink,Jund Combo,0,1,0,1,0.0
+Azorius Blink,Izzet Prowess,1,0,0,1,100.0
+Boros Land Destruction,Esper Goryo's,1,0,0,1,100.0
+Boros Land Destruction,Izzet Metalcraft,0,1,0,1,0.0
+Boros Land Destruction,Mono-Green Eldrazi Broodscale,0,1,0,1,0.0
+Boros Aggro,Gruul Eldrazi Ramp,0,1,0,1,0.0
+Boros Aggro,Mono-Green Eldrazi Broodscale,0,1,0,1,0.0
+Boros Aggro,Azorius Blink,0,1,0,1,0.0
+Boros Aggro,Simic Ritual,0,1,0,1,0.0
+Izzet Prowess,Izzet,0,1,0,1,0.0
+Izzet Prowess,Izzet Affinity,0,1,0,1,0.0
+Izzet Prowess,Temur Living End,0,1,0,1,0.0
+Izzet Prowess,Esper Blink,1,0,0,1,100.0
+Izzet Prowess,Mono-Green Amulet Titan,0,1,0,1,0.0
+Izzet Prowess,Esper Goryo's,0,1,0,1,0.0
+Izzet Prowess,Golgari Aggro,0,1,0,1,0.0
+Izzet Prowess,Azorius Blink,0,1,0,1,0.0
+Mono-Black Midrange,Boros Energy,0,1,0,1,0.0
+Mono-Black Midrange,Izzet Affinity,1,1,0,2,50.0
+Mono-Black Midrange,Simic Ritual,0,1,0,1,0.0
+Esper Blink,Izzet Prowess,0,1,0,1,0.0
+Esper Blink,W-U-B-G,0,1,0,1,0.0
+Esper Blink,Boros Energy,1,0,0,1,100.0
+Esper Blink,W-U-R-G Domain Zoo,0,1,0,1,0.0
+Izzet Affinity,Mono-Green Amulet Titan,0,1,0,1,0.0
+Izzet Eldrazi,Izzet Affinity,0,0,1,1,
+Izzet Eldrazi,Izzet Aggro,0,1,0,1,0.0
+Izzet Eldrazi,Boros Energy,0,1,0,1,0.0
+Boros Energy,Esper Goryo's,0,1,0,1,0.0
+Boros Energy,Esper Blink,0,1,0,1,0.0

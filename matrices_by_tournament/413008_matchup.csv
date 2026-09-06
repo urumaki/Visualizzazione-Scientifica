@@ -1,0 +1,24 @@
+archetype_a,archetype_b,win,loss,draw,games,winrate
+Boros Energy,Gruul Ruby Storm,1,0,0,1,100.0
+Rakdos Reanimator,Mono-Green Amulet Titan,1,0,0,1,100.0
+Mono-Green Amulet Titan,W-U-R-G Domain Zoo,1,0,0,1,100.0
+Mono-Green Amulet Titan,Rakdos Reanimator,0,1,0,1,0.0
+Mono-Green Amulet Titan,Boros Energy,1,0,0,1,100.0
+Mono-Green Amulet Titan,Mono-Blue Merfolk,1,0,0,1,100.0
+Mono-Blue Merfolk,Boros Energy,1,0,0,1,100.0
+Mono-Blue Merfolk,Gruul Ruby Storm,1,0,0,1,100.0
+Mono-Blue Merfolk,W-U-R-G Domain Zoo,1,0,0,1,100.0
+Mono-Blue Merfolk,Mono-Green Amulet Titan,0,1,0,1,0.0
+Boros Energy,Mono-Blue Merfolk,0,1,0,1,0.0
+Boros Energy,Dimir Mill,1,0,0,1,100.0
+Boros Energy,Boros Energy,1,1,0,2,50.0
+Gruul Ruby Storm,Boros Energy,0,1,0,1,0.0
+Gruul Ruby Storm,Mono-Blue Merfolk,0,1,0,1,0.0
+Gruul Ruby Storm,Izzet Prowess,1,0,0,1,100.0
+W-U-R-G Domain Zoo,Mono-Green Amulet Titan,0,1,0,1,0.0
+W-U-R-G Domain Zoo,Izzet Prowess,1,0,0,1,100.0
+W-U-R-G Domain Zoo,Mono-Blue Merfolk,0,1,0,1,0.0
+Boros Energy,Mono-Green Amulet Titan,0,1,0,1,0.0
+Izzet Prowess,W-U-R-G Domain Zoo,0,1,0,1,0.0
+Izzet Prowess,Gruul Ruby Storm,0,1,0,1,0.0
+Dimir Mill,Boros Energy,0,1,0,1,0.0

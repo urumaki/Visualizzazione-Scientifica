@@ -1,0 +1,251 @@
+archetype_a,archetype_b,win,loss,draw,games,winrate
+Boros Energy,Azorius Affinity,2,1,0,3,66.7
+Boros Energy,Gruul Eldrazi,3,1,0,4,75.0
+Boros Energy,Golgari Combo,1,0,0,1,100.0
+Boros Energy,Boros Aggro,1,0,0,1,100.0
+Boros Energy,Bant Murktide,1,0,0,1,100.0
+Boros Energy,Orzhov Midrange,1,1,0,2,50.0
+Boros Energy,Simic Aggro,0,1,0,1,0.0
+Jeskai Midrange,Bant Murktide,1,0,0,1,100.0
+Jeskai Midrange,Esper Oculus,0,1,0,1,0.0
+Jeskai Midrange,Esper Midrange,1,0,0,1,100.0
+Jeskai Midrange,Dimir Control,1,0,0,1,100.0
+Jeskai Midrange,Boros Energy,1,0,0,1,100.0
+Jeskai Midrange,Mono-Blue Belcher,1,1,0,2,50.0
+Boros Energy,Simic Combo,0,3,0,3,0.0
+Boros Energy,Izzet Aggro,2,2,0,4,50.0
+Boros Energy,Simic Control,1,0,0,1,100.0
+Boros Energy,W-U-B-R-G,2,0,0,2,100.0
+Boros Energy,Boros Energy,3,3,2,8,50.0
+Simic Aggro,W-U-R-G Domain,1,0,0,1,100.0
+Simic Aggro,Grixis Aggro,1,0,0,1,100.0
+Simic Aggro,Simic Combo,2,0,1,3,100.0
+Simic Aggro,Dimir Mill,1,0,0,1,100.0
+Simic Aggro,Izzet Aggro,0,0,1,1,
+Simic Aggro,Boros Energy,1,0,0,1,100.0
+Simic Combo,Mardu Energy,1,0,0,1,100.0
+Simic Combo,Esper Midrange,1,1,0,2,50.0
+Simic Combo,Boros Energy,3,0,0,3,100.0
+Simic Combo,Orzhov Midrange,1,1,0,2,50.0
+Simic Combo,Simic Aggro,0,2,1,3,0.0
+Simic Combo,Mono-Blue Belcher,0,0,1,1,
+Izzet Aggro,Orzhov Control,1,0,0,1,100.0
+Izzet Aggro,Izzet,1,0,0,1,100.0
+Izzet Aggro,Boros Hammer Time,1,0,0,1,100.0
+Izzet Aggro,Boros Energy,2,2,0,4,50.0
+Izzet Aggro,Mono-Blue Belcher,1,0,1,2,100.0
+Izzet Aggro,Simic Aggro,0,0,1,1,
+Mono-Blue Belcher,Boros Aggro,1,0,0,1,100.0
+Mono-Blue Belcher,W-U-R-G Domain,2,0,0,2,100.0
+Mono-Blue Belcher,Gruul Eldrazi,1,0,0,1,100.0
+Mono-Blue Belcher,W-U-B-R-G,1,1,0,2,50.0
+Mono-Blue Belcher,Izzet Aggro,0,1,1,2,0.0
+Mono-Blue Belcher,Simic Combo,0,0,1,1,
+Mono-Blue Belcher,Jeskai Midrange,1,1,0,2,50.0
+Azorius Affinity,Boros Energy,1,2,0,3,33.3
+Azorius Affinity,W-U-R-G Domain,1,0,0,1,100.0
+Azorius Affinity,Esper Oculus,1,0,0,1,100.0
+Azorius Affinity,Dimir Mill,0,0,1,1,
+Dimir Mill,Esper Control,1,0,0,1,100.0
+Dimir Mill,Esper Oculus,1,0,0,1,100.0
+Dimir Mill,Simic Aggro,0,1,0,1,0.0
+Dimir Mill,Orzhov Midrange,1,0,0,1,100.0
+Dimir Mill,Azorius Affinity,0,0,1,1,
+Boros Energy,W-U-R-G Domain,2,3,0,5,40.0
+Boros Energy,Esper Midrange,2,0,0,2,100.0
+Orzhov Midrange,Mono-White,1,0,0,1,100.0
+Orzhov Midrange,Mono-Green,2,0,0,2,100.0
+Orzhov Midrange,Esper Oculus,1,0,0,1,100.0
+Orzhov Midrange,Simic Combo,1,1,0,2,50.0
+Orzhov Midrange,Boros Energy,1,1,0,2,50.0
+Esper Oculus,Boros Energy,2,1,0,3,66.7
+Esper Oculus,Jeskai Midrange,1,0,0,1,100.0
+Esper Oculus,Orzhov Midrange,0,1,0,1,0.0
+Esper Oculus,Azorius Affinity,0,1,0,1,0.0
+Esper Oculus,Boros Aggro,2,0,0,2,100.0
+Simic Combo,Dimir Combo,1,0,0,1,100.0
+Simic Combo,Simic Combo,1,1,0,2,50.0
+Mono-Blue Belcher,Simic Oculus,1,0,0,1,100.0
+Mono-Blue Belcher,Boros Hammer Time,1,0,0,1,100.0
+Mono-Blue Belcher,Boros Energy,1,0,0,1,100.0
+W-U-R-G Domain,Mardu,1,1,0,2,50.0
+W-U-R-G Domain,Boros Energy,3,2,0,5,60.0
+W-U-R-G Domain,Mono-Blue Belcher,0,2,0,2,0.0
+W-U-R-G Domain,Grixis Aggro,1,0,0,1,100.0
+W-U-R-G Domain,Bant Murktide,1,0,0,1,100.0
+Esper Oculus,Gruul Eldrazi,1,0,0,1,100.0
+Esper Oculus,Mono-Blue Eldrazi,1,0,0,1,100.0
+Esper Oculus,Dimir Mill,0,1,0,1,0.0
+Esper Oculus,Boros Hammer Time,1,0,0,1,100.0
+Simic Oculus,Dimir Combo,0,1,0,1,0.0
+Simic Oculus,Mono-Blue Belcher,0,1,0,1,0.0
+Simic Oculus,Mono-White,1,0,0,1,100.0
+Simic Oculus,Mono-Blue Eldrazi,1,0,0,1,100.0
+Simic Oculus,Simic Combo,1,0,0,1,100.0
+Simic Oculus,Orzhov Midrange,1,0,0,1,100.0
+Mardu,W-U-R-G Domain,1,1,0,2,50.0
+Mardu,Boros Energy,0,1,0,1,0.0
+Mardu,Mardu Energy,1,0,0,1,100.0
+Mardu,Dimir Control,1,0,0,1,100.0
+Mardu,Gruul Eldrazi,1,0,0,1,100.0
+Dimir Murktide,Mono-Green,0,1,0,1,0.0
+Dimir Murktide,Golgari Combo,0,1,0,1,0.0
+Dimir Murktide,Mardu Energy,1,0,0,1,100.0
+Dimir Murktide,Esper Control,1,0,0,1,100.0
+Dimir Murktide,Orzhov Control,1,0,0,1,100.0
+Dimir Murktide,Boros Hammer Time,1,0,0,1,100.0
+Boros Energy,Gruul,1,0,0,1,100.0
+Boros Energy,Esper Oculus,1,2,0,3,33.3
+Boros Energy,Jeskai Midrange,0,1,0,1,0.0
+Boros Energy,Mono-Blue Belcher,0,1,0,1,0.0
+Bant Murktide,Jeskai Midrange,0,1,0,1,0.0
+Bant Murktide,Izzet Aggro,1,0,0,1,100.0
+Bant Murktide,Esper Midrange,1,0,0,1,100.0
+Bant Murktide,Gruul Combo,1,0,0,1,100.0
+Bant Murktide,Boros Energy,0,1,0,1,0.0
+Bant Murktide,W-U-R-G Domain,0,1,0,1,0.0
+W-U-B-R-G,Mono-Blue Belcher,1,1,0,2,50.0
+W-U-B-R-G,Dimir Control,1,0,0,1,100.0
+W-U-B-R-G,Gruul Combo,1,0,0,1,100.0
+W-U-B-R-G,Boros Energy,0,2,0,2,0.0
+Boros Aggro,Mono-Blue Belcher,0,1,0,1,0.0
+Boros Aggro,Simic Control,1,0,0,1,100.0
+Boros Aggro,Dimir Combo,1,0,0,1,100.0
+Boros Aggro,Boros Energy,0,1,0,1,0.0
+Boros Aggro,Gruul Combo,1,0,0,1,100.0
+Boros Aggro,Esper Oculus,0,2,0,2,0.0
+Esper Midrange,Simic Combo,1,1,0,2,50.0
+Esper Midrange,Bant Murktide,0,1,0,1,0.0
+Esper Midrange,W-U-R-G Domain,1,0,0,1,100.0
+Esper Midrange,Boros Energy,0,2,0,2,0.0
+Esper Midrange,Dimir Control,1,0,0,1,100.0
+Orzhov Control,Izzet Aggro,0,1,0,1,0.0
+Orzhov Control,Mardu Energy,1,0,0,1,100.0
+Orzhov Control,Simic Combo,0,1,0,1,0.0
+Orzhov Control,Gruul,1,0,0,1,100.0
+Orzhov Control,Dimir Murktide,0,1,0,1,0.0
+Orzhov Control,Gruul Eldrazi,1,0,0,1,100.0
+Golgari Combo,Mono-Blue Eldrazi,0,1,0,1,0.0
+Golgari Combo,Dimir Murktide,1,0,0,1,100.0
+Golgari Combo,Boros Energy,0,1,0,1,0.0
+Golgari Combo,Gruul Eldrazi,1,1,0,2,50.0
+Golgari Combo,Gruul Combo,1,0,0,1,100.0
+W-U-R-G Domain,Simic Aggro,0,1,0,1,0.0
+W-U-R-G Domain,Dimir Control,1,0,0,1,100.0
+W-U-R-G Domain,Azorius Affinity,0,1,0,1,0.0
+W-U-R-G Domain,Esper Midrange,0,1,0,1,0.0
+W-U-R-G Domain,Mono-White,1,0,0,1,100.0
+Boros Energy,Dimir Aggro,1,0,0,1,100.0
+Orzhov Midrange,Izzet Aggro,1,0,0,1,100.0
+Orzhov Midrange,Gruul Combo,0,1,0,1,0.0
+Orzhov Midrange,Dimir Mill,0,1,0,1,0.0
+Orzhov Midrange,Simic Oculus,0,1,0,1,0.0
+Gruul Eldrazi,Dimir Control,1,1,0,2,50.0
+Gruul Eldrazi,Boros Aggro,1,0,0,1,100.0
+Gruul Eldrazi,Boros Energy,1,3,0,4,25.0
+Gruul Eldrazi,Izzet,2,0,0,2,100.0
+Gruul Eldrazi,Golgari Combo,1,1,0,2,50.0
+Gruul Eldrazi,Mardu,0,1,0,1,0.0
+Izzet Aggro,Bant Murktide,0,1,0,1,0.0
+Izzet Aggro,Dimir Aggro,0,1,0,1,0.0
+Izzet Aggro,Esper,1,0,0,1,100.0
+Boros Aggro,Boros Hammer Time,0,1,0,1,0.0
+Boros Aggro,Gruul Eldrazi,0,1,0,1,0.0
+Boros Aggro,Esper Control,1,0,0,1,100.0
+Boros Aggro,Esper Murktide,1,0,0,1,100.0
+Boros Aggro,Mono-Blue Eldrazi,1,0,0,1,100.0
+Gruul,Dimir Control,1,0,0,1,100.0
+Gruul,Boros Hammer Time,0,1,0,1,0.0
+Gruul,Boros Energy,0,1,0,1,0.0
+Gruul,Orzhov Control,0,1,0,1,0.0
+Gruul,Esper Murktide,1,0,0,1,100.0
+Gruul,Simic Control,1,0,0,1,100.0
+Boros Hammer Time,Boros Aggro,1,0,0,1,100.0
+Boros Hammer Time,Gruul,1,0,0,1,100.0
+Boros Hammer Time,Izzet Aggro,0,1,0,1,0.0
+Boros Hammer Time,Mono-Blue Belcher,0,1,0,1,0.0
+Boros Hammer Time,Esper Oculus,0,1,0,1,0.0
+Boros Hammer Time,Dimir Murktide,0,1,0,1,0.0
+Gruul Eldrazi,Esper Murktide,1,0,0,1,100.0
+Gruul Eldrazi,Mono-Blue Belcher,0,1,0,1,0.0
+Dimir Control,Gruul Eldrazi,1,1,0,2,50.0
+Dimir Control,W-U-B-R-G,0,1,0,1,0.0
+Dimir Control,Izzet,1,0,0,1,100.0
+Dimir Control,Jeskai Midrange,0,1,0,1,0.0
+Dimir Control,Mardu,0,1,0,1,0.0
+Dimir Control,Esper Midrange,0,1,0,1,0.0
+Boros Energy,Mardu,1,0,0,1,100.0
+Boros Energy,Grixis Aggro,1,0,0,1,100.0
+Mono-Green,Dimir Murktide,1,0,0,1,100.0
+Mono-Green,Orzhov Midrange,0,2,0,2,0.0
+Mono-Green,Mono-Blue Eldrazi,1,0,0,1,100.0
+Simic Combo,Mono-White,1,0,0,1,100.0
+Simic Combo,Orzhov Control,1,0,0,1,100.0
+Simic Combo,Simic Oculus,0,1,0,1,0.0
+Gruul Eldrazi,Esper Oculus,0,1,0,1,0.0
+Gruul Eldrazi,Orzhov Control,0,1,0,1,0.0
+Mono-Blue Eldrazi,Golgari Combo,1,0,0,1,100.0
+Mono-Blue Eldrazi,Esper Oculus,0,1,0,1,0.0
+Mono-Blue Eldrazi,Mono-Green,0,1,0,1,0.0
+Mono-Blue Eldrazi,Simic Oculus,0,1,0,1,0.0
+Mono-Blue Eldrazi,Simic Control,1,0,0,1,100.0
+Mono-Blue Eldrazi,Boros Aggro,0,1,0,1,0.0
+Esper Midrange,Esper Murktide,1,0,0,1,100.0
+Esper Midrange,Jeskai Midrange,0,1,0,1,0.0
+Esper Midrange,Dimir Aggro,1,0,0,1,100.0
+Gruul Combo,Esper,1,0,0,1,100.0
+Gruul Combo,Orzhov Midrange,1,0,0,1,100.0
+Gruul Combo,W-U-B-R-G,0,1,0,1,0.0
+Gruul Combo,Bant Murktide,0,1,0,1,0.0
+Gruul Combo,Boros Aggro,0,1,0,1,0.0
+Gruul Combo,Golgari Combo,0,1,0,1,0.0
+Simic Control,Esper Control,0,0,1,1,
+Simic Control,Boros Aggro,0,1,0,1,0.0
+Simic Control,Esper,1,0,0,1,100.0
+Simic Control,Boros Energy,0,1,0,1,0.0
+Simic Control,Mono-Blue Eldrazi,0,1,0,1,0.0
+Simic Control,Gruul,0,1,0,1,0.0
+Dimir Combo,Simic Oculus,1,0,0,1,100.0
+Dimir Combo,Simic Combo,0,1,0,1,0.0
+Dimir Combo,Boros Aggro,0,1,0,1,0.0
+Izzet Aggro,Orzhov Midrange,0,1,0,1,0.0
+Izzet Aggro,Mardu Energy,1,0,0,1,100.0
+Grixis Aggro,Dimir Aggro,1,0,0,1,100.0
+Grixis Aggro,Simic Aggro,0,1,0,1,0.0
+Grixis Aggro,Boros Energy,0,1,0,1,0.0
+Grixis Aggro,W-U-R-G Domain,0,1,0,1,0.0
+Boros Energy,Esper,1,0,0,1,100.0
+Esper Murktide,Gruul Eldrazi,0,1,0,1,0.0
+Esper Murktide,Esper Midrange,0,1,0,1,0.0
+Esper Murktide,Boros Aggro,0,1,0,1,0.0
+Esper Murktide,Gruul,0,1,0,1,0.0
+Dimir Aggro,Grixis Aggro,0,1,0,1,0.0
+Dimir Aggro,Boros Energy,0,1,0,1,0.0
+Dimir Aggro,Izzet Aggro,1,0,0,1,100.0
+Dimir Aggro,Esper Midrange,0,1,0,1,0.0
+Izzet,Mardu Energy,1,0,0,1,100.0
+Izzet,Izzet Aggro,0,1,0,1,0.0
+Izzet,Dimir Control,0,1,0,1,0.0
+Izzet,Gruul Eldrazi,0,2,0,2,0.0
+Esper,Gruul Combo,0,1,0,1,0.0
+Esper,Boros Energy,0,1,0,1,0.0
+Esper,Simic Control,0,1,0,1,0.0
+Esper,Mono-White,1,0,0,1,100.0
+Esper,Izzet Aggro,0,1,0,1,0.0
+Esper Control,Simic Control,0,0,1,1,
+Esper Control,Dimir Mill,0,1,0,1,0.0
+Esper Control,Boros Aggro,0,1,0,1,0.0
+Esper Control,Dimir Murktide,0,1,0,1,0.0
+Mardu Energy,Simic Combo,0,1,0,1,0.0
+Mardu Energy,Orzhov Control,0,1,0,1,0.0
+Mardu Energy,Mardu,0,1,0,1,0.0
+Mono-White,Orzhov Midrange,0,1,0,1,0.0
+Mono-White,Simic Combo,0,1,0,1,0.0
+Mono-White,Simic Oculus,0,1,0,1,0.0
+Mono-White,Esper,0,1,0,1,0.0
+Mono-White,W-U-R-G Domain,0,1,0,1,0.0
+Mardu Energy,Izzet,0,1,0,1,0.0
+Mardu Energy,Izzet Aggro,0,1,0,1,0.0
+Mardu Energy,Dimir Murktide,0,1,0,1,0.0
+Dimir Control,Gruul,0,1,0,1,0.0
+Dimir Control,W-U-R-G Domain,0,1,0,1,0.0

@@ -1,0 +1,1148 @@
+archetype_a,archetype_b,win,loss,draw,games,winrate
+Boros Energy,Orzhov Aggro,1,0,0,1,100.0
+Boros Energy,Sultai Living End,1,1,0,2,50.0
+Boros Energy,Boros Energy,14,14,0,28,50.0
+Boros Energy,Izzet Affinity,11,10,1,22,52.4
+Boros Energy,Gruul Broodscale,6,2,0,8,75.0
+Boros Energy,Jeskai Blink,16,17,2,35,48.5
+Boros Energy,Mono-Green Amulet Titan,9,8,0,17,52.9
+Simic Titan,Jeskai Blink,1,0,0,1,100.0
+Simic Titan,Jeskai Midrange,1,0,0,1,100.0
+Simic Titan,Mono-Green Amulet Titan,0,1,0,1,0.0
+Simic Titan,Izzet Affinity,2,0,0,2,100.0
+Simic Titan,Izzet Storm,1,0,0,1,100.0
+Simic Titan,Esper Blink,1,0,0,1,100.0
+Simic Titan,Izzet Aggro,2,0,0,2,100.0
+Simic Titan,Boros Energy,2,2,0,4,50.0
+Simic Titan,Simic Birthing Ritual,0,1,0,1,0.0
+Simic Titan,W-U-B-R-G Birthing Ritual,1,0,0,1,100.0
+Simic Titan,Grixis Midrange,1,0,0,1,100.0
+Boros Energy,Azorius Control (Kaheera),4,3,0,7,57.1
+Boros Energy,Gruul Eldrazi Ramp,5,3,0,8,62.5
+Boros Energy,Simic Birthing Ritual,6,10,2,18,37.5
+Boros Energy,Izzet Prowess,8,5,0,13,61.5
+Boros Energy,Mono-Red Burn,1,0,0,1,100.0
+Boros Energy,Simic Titan,2,2,0,4,50.0
+Boros Energy,Mono-Red Storm,4,3,0,7,57.1
+Boros Energy,Mono-Blue Belcher,5,2,0,7,71.4
+Izzet Affinity,Izzet Affinity,13,13,0,26,50.0
+Izzet Affinity,Izzet Wizards,2,0,0,2,100.0
+Izzet Affinity,W-U-R-G Control,1,2,0,3,33.3
+Izzet Affinity,Gruul Broodscale,3,2,0,5,60.0
+Izzet Affinity,Jeskai Blink,19,12,1,32,61.3
+Izzet Affinity,Mono-Green Broodscale,1,0,0,1,100.0
+Izzet Affinity,W-U-R-G Domain Zoo,10,6,0,16,62.5
+Izzet Affinity,Simic Birthing Ritual,9,8,1,18,52.9
+Izzet Affinity,Boros Energy,10,11,1,22,47.6
+Simic Birthing Ritual,Izzet Prowess,3,9,0,12,25.0
+Simic Birthing Ritual,Grixis Midrange,3,2,1,6,60.0
+Simic Birthing Ritual,Simic Neoform,3,1,0,4,75.0
+Simic Birthing Ritual,Esper Blink,4,0,0,4,100.0
+Simic Birthing Ritual,Simic Birthing Ritual,4,4,2,10,50.0
+Simic Birthing Ritual,Simic Amulet Titan,8,1,0,9,88.9
+Simic Birthing Ritual,Izzet Affinity,8,9,1,18,47.1
+Simic Birthing Ritual,Boros Energy,10,6,2,18,62.5
+Simic Birthing Ritual,W-U-B-R-G Birthing Ritual,2,0,0,2,100.0
+Simic Birthing Ritual,Izzet Aggro,3,2,0,5,60.0
+Simic Birthing Ritual,Mono-Red Storm,3,2,1,6,60.0
+Mono-Green Amulet Titan,Jeskai,1,0,0,1,100.0
+Mono-Green Amulet Titan,Simic Birthing Ritual,4,7,0,11,36.4
+Mono-Green Amulet Titan,Izzet Prowess,7,4,0,11,63.6
+Mono-Green Amulet Titan,Izzet Aggro,1,1,0,2,50.0
+Mono-Green Amulet Titan,Dimir Murktide,1,0,0,1,100.0
+Mono-Green Amulet Titan,Jeskai Blink,6,4,2,12,60.0
+Mono-Green Amulet Titan,Mono-Green Amulet Titan,5,5,0,10,50.0
+Mono-Green Amulet Titan,Izzet Affinity,7,3,0,10,70.0
+Mono-Green Amulet Titan,W-U-B-G,1,0,0,1,100.0
+Mono-Green Amulet Titan,Grixis Midrange,0,4,1,5,0.0
+Mono-Green Amulet Titan,Mono-Red Storm,0,5,1,6,0.0
+Mono-Green Amulet Titan,Boros Energy,8,9,0,17,47.1
+Grixis Midrange,Simic Birthing Ritual,2,3,1,6,40.0
+Grixis Midrange,Colorless Tron,1,0,0,1,100.0
+Grixis Midrange,Mono-Green Eldrazi,1,0,0,1,100.0
+Grixis Midrange,Jeskai Blink,5,1,0,6,83.3
+Grixis Midrange,Mono-Green Amulet Titan,4,0,1,5,100.0
+Grixis Midrange,Izzet Affinity,0,2,0,2,0.0
+Grixis Midrange,Mono-Red Burn,1,0,0,1,100.0
+Grixis Midrange,Simic Neoform,2,0,0,2,100.0
+Grixis Midrange,Mono-Red Storm,2,0,0,2,100.0
+Grixis Midrange,W-U-R-G Domain Zoo,0,1,1,2,0.0
+Grixis Midrange,Simic Titan,0,1,0,1,0.0
+Jeskai Blink,Boros Energy,17,16,2,35,51.5
+Jeskai Blink,Simic Amulet Titan,10,10,1,21,50.0
+Jeskai Blink,W-U-B-G Goryo's Vengeance,11,5,1,17,68.8
+Jeskai Blink,Izzet Affinity,12,19,1,32,38.7
+Jeskai Blink,Mono-Red Storm,3,3,0,6,50.0
+Jeskai Blink,Jeskai Midrange,4,6,0,10,40.0
+Jeskai Blink,Azorius Blink,5,2,0,7,71.4
+Jeskai Blink,W-U-R-G Domain Zoo,7,3,1,11,70.0
+Jeskai Blink,Simic Birthing Ritual,9,17,1,27,34.6
+Jeskai Blink,Jeskai Blink,23,23,4,50,50.0
+Jeskai Blink,Azorius Control (Kaheera),1,1,0,2,50.0
+W-U-R-G Domain Zoo,Mono-Green Amulet Titan,6,5,0,11,54.5
+W-U-R-G Domain Zoo,Mono-Blue Merfolk,2,0,0,2,100.0
+W-U-R-G Domain Zoo,Jeskai Blink,3,7,1,11,30.0
+W-U-R-G Domain Zoo,Izzet Prowess,4,5,0,9,44.4
+W-U-R-G Domain Zoo,W-U-B-G,1,0,0,1,100.0
+W-U-R-G Domain Zoo,Simic Birthing Ritual,4,1,0,5,80.0
+W-U-R-G Domain Zoo,Azorius Control (Kaheera),1,1,0,2,50.0
+W-U-R-G Domain Zoo,Izzet Affinity,6,10,0,16,37.5
+W-U-R-G Domain Zoo,Grixis Midrange,1,0,1,2,100.0
+Mono-Red Storm,Simic Amulet Titan,3,2,1,6,60.0
+Mono-Red Storm,Izzet Storm,1,0,0,1,100.0
+Mono-Red Storm,Boros Energy,3,4,0,7,42.9
+Mono-Red Storm,W-U-B-R-G Birthing Ritual,1,0,0,1,100.0
+Mono-Red Storm,Izzet Affinity,3,1,0,4,75.0
+Mono-Red Storm,Simic Birthing Ritual,2,3,1,6,40.0
+Mono-Red Storm,Grixis Midrange,0,2,0,2,0.0
+Mono-Red Storm,Mono-Green Amulet Titan,5,0,1,6,100.0
+Mono-Green Amulet Titan,Gruul Eldrazi Aggro,2,0,0,2,100.0
+Mono-Green Amulet Titan,Izzet Midrange,2,1,0,3,66.7
+Mono-Green Amulet Titan,Colorless Tron,1,1,1,3,50.0
+Mono-Green Amulet Titan,Azorius Blink,0,1,1,2,0.0
+Mono-Green Amulet Titan,Jeskai Midrange,2,0,0,2,100.0
+Mono-Green Amulet Titan,W-U-B-G Goryo's Vengeance,7,6,0,13,53.8
+Mono-Blue Belcher,Izzet Affinity,4,6,0,10,40.0
+Mono-Blue Belcher,W-U-B-G Goryo's Vengeance,5,1,0,6,83.3
+Mono-Blue Belcher,Esper Blink,2,0,0,2,100.0
+Mono-Blue Belcher,Simic Birthing Ritual,1,2,1,4,33.3
+Mono-Blue Belcher,Golgari Birthing Ritual,1,0,0,1,100.0
+Mono-Blue Belcher,Simic Neoform,1,0,0,1,100.0
+Mono-Blue Belcher,Mono-Green Amulet Titan,0,1,0,1,0.0
+Mono-Blue Belcher,Jeskai Blink,6,4,0,10,60.0
+Mono-Blue Belcher,Mono-Green Eldrazi,1,0,0,1,100.0
+Mono-Blue Belcher,Boros Energy,2,5,0,7,28.6
+Mono-Blue Belcher,Izzet Aggro,1,1,0,2,50.0
+Simic Birthing Ritual,W-U-B-G Goryo's,1,0,0,1,100.0
+Simic Birthing Ritual,Dimir Murktide,1,0,0,1,100.0
+Simic Birthing Ritual,W-U-R-G Domain Zoo,1,4,0,5,20.0
+Simic Birthing Ritual,Mono-Green Amulet Titan,7,4,0,11,63.6
+Simic Birthing Ritual,Jeskai Blink,17,9,1,27,65.4
+Simic Birthing Ritual,Mono-Blue Belcher,2,1,1,4,66.7
+Azorius Control (Kaheera),Boros Energy,3,4,0,7,42.9
+Azorius Control (Kaheera),Izzet Prowess,3,0,0,3,100.0
+Azorius Control (Kaheera),W-U-B-G Goryo's Vengeance,1,0,1,2,100.0
+Azorius Control (Kaheera),Simic Birthing Ritual,2,1,0,3,66.7
+Azorius Control (Kaheera),Gruul Broodscale,2,0,0,2,100.0
+Azorius Control (Kaheera),Azorius Blink,1,0,0,1,100.0
+Azorius Control (Kaheera),Jeskai Midrange,1,0,0,1,100.0
+Azorius Control (Kaheera),W-U-R-G Domain Zoo,1,1,0,2,50.0
+Azorius Control (Kaheera),Mono-Green Amulet Titan,4,0,0,4,100.0
+Azorius Control (Kaheera),Jeskai Blink,1,1,0,2,50.0
+Azorius Control (Kaheera),Colorless Tron,2,0,0,2,100.0
+Izzet Aggro,Simic Birthing Ritual,2,3,0,5,40.0
+Izzet Aggro,Mono-Red Burn,1,0,0,1,100.0
+Izzet Aggro,Izzet Affinity,5,2,0,7,71.4
+Izzet Aggro,Mono-Green Amulet Titan,1,1,0,2,50.0
+Izzet Aggro,Mono-Blue Belcher,1,1,0,2,50.0
+Izzet Aggro,Simic Amulet Titan,1,1,0,2,50.0
+Izzet Aggro,Simic Titan,0,2,0,2,0.0
+Izzet Aggro,Gruul Broodscale,1,0,0,1,100.0
+Izzet Aggro,Boros Energy,5,1,0,6,83.3
+Izzet Aggro,Simic Neoform,1,1,0,2,50.0
+Izzet Affinity,Esper Blink,2,4,0,6,33.3
+Izzet Affinity,Colorless Eldrazi,2,0,0,2,100.0
+Izzet Affinity,Jeskai Midrange,2,2,0,4,50.0
+Izzet Affinity,Mono-Red Burn,1,1,0,2,50.0
+Izzet Affinity,Simic Neoform,1,2,0,3,33.3
+Izzet Affinity,Mono-Blue Belcher,6,4,0,10,60.0
+Izzet Affinity,Simic Amulet Titan,5,7,0,12,41.7
+Mono-Green Amulet Titan,Mono-Green Eldrazi,2,2,0,4,50.0
+Mono-Green Amulet Titan,W-U-R-G Control,2,0,0,2,100.0
+Mono-Green Amulet Titan,Simic Amulet Titan,5,4,0,9,55.6
+Mono-Green Amulet Titan,Boros Aggro,1,2,0,3,33.3
+Izzet Affinity,Boros Burn,1,1,0,2,50.0
+Izzet Affinity,Izzet Prowess,7,2,0,9,77.8
+Izzet Affinity,Mono-Red Storm,1,3,0,4,25.0
+Izzet Affinity,Izzet Aggro,2,5,0,7,28.6
+Izzet Affinity,Golgari Birthing Ritual,1,0,0,1,100.0
+Izzet Aggro,Gruul Eldrazi Ramp,0,2,0,2,0.0
+Izzet Aggro,W-U-R-G Domain Zoo,3,1,0,4,75.0
+Izzet Aggro,W-U-B-R-G Birthing Ritual,1,0,0,1,100.0
+Izzet Aggro,Grixis Midrange,1,0,0,1,100.0
+Jeskai Blink,Dimir Mill,0,1,0,1,0.0
+Jeskai Blink,Izzet Prowess,15,12,0,27,55.6
+Jeskai Blink,Simic Neoform,8,5,0,13,61.5
+Jeskai Midrange,Jeskai Blink,6,4,0,10,60.0
+Jeskai Midrange,W-U-B-R-G Birthing Ritual,0,1,0,1,0.0
+Jeskai Midrange,Simic Amulet Titan,2,0,0,2,100.0
+Jeskai Midrange,W-U-R-G Domain Zoo,2,1,0,3,66.7
+Jeskai Midrange,Izzet Prowess,3,0,0,3,100.0
+Jeskai Midrange,Esper Blink,1,0,0,1,100.0
+Jeskai Midrange,Izzet Affinity,2,2,0,4,50.0
+Jeskai Midrange,Azorius Control (Kaheera),0,1,0,1,0.0
+Jeskai Midrange,Azorius (Kaheera),1,0,0,1,100.0
+Jeskai Midrange,Mono-Blue Belcher,2,0,0,2,100.0
+Simic Birthing Ritual,Abzan Enchantress,1,0,0,1,100.0
+Simic Birthing Ritual,Azorius Blink,0,2,0,2,0.0
+Simic Birthing Ritual,Gruul Eldrazi Ramp,2,0,0,2,100.0
+Simic Birthing Ritual,Gruul Broodscale,4,3,0,7,57.1
+W-U-R-G Domain Zoo,Simic Amulet Titan,4,5,0,9,44.4
+W-U-R-G Domain Zoo,Izzet Aggro,1,3,0,4,25.0
+W-U-R-G Domain Zoo,Gruul Eldrazi Ramp,2,5,0,7,28.6
+W-U-R-G Domain Zoo,Izzet Control,1,0,0,1,100.0
+W-U-R-G Domain Zoo,Gruul Eldrazi Aggro,2,2,0,4,50.0
+W-U-R-G Domain Zoo,Simic Neoform,2,2,0,4,50.0
+W-U-R-G Domain Zoo,Jeskai Midrange,1,2,0,3,33.3
+W-U-R-G Domain Zoo,Boros Energy,4,7,0,11,36.4
+W-U-R-G Domain Zoo,W-U-B-G Goryo's Vengeance,3,3,0,6,50.0
+Simic Neoform,Jeskai Blink,5,8,0,13,38.5
+Simic Neoform,Gruul Eldrazi Ramp,3,0,0,3,100.0
+Simic Neoform,Grixis Midrange,0,2,0,2,0.0
+Simic Neoform,Izzet Midrange,1,0,0,1,100.0
+Simic Neoform,Jeskai Midrange,1,2,0,3,33.3
+Simic Neoform,Boros Energy,3,2,0,5,60.0
+Simic Neoform,Izzet Prowess,9,1,0,10,90.0
+Simic Neoform,W-U-B-G Goryo's Vengeance,1,1,0,2,50.0
+Simic Neoform,Gruul Broodscale,1,1,0,2,50.0
+Simic Neoform,Simic Neoform,1,1,0,2,50.0
+Simic Neoform,W-U-R-G Domain Zoo,2,2,0,4,50.0
+Simic Neoform,Simic Birthing Ritual,1,3,0,4,25.0
+Boros Aggro,Mono-Red Storm,0,1,0,1,0.0
+Boros Aggro,Boros Energy,2,2,0,4,50.0
+Boros Aggro,W-U-R-G Domain Zoo,1,0,0,1,100.0
+Boros Aggro,Simic Birthing Ritual,2,1,0,3,66.7
+Boros Aggro,Jeskai (Obosh),1,0,0,1,100.0
+Boros Aggro,Izzet Affinity,0,2,0,2,0.0
+Boros Aggro,W-U-B-G Goryo's Vengeance,2,1,0,3,66.7
+Boros Aggro,Colorless Eldrazi,1,0,0,1,100.0
+Boros Aggro,Mono-Green Amulet Titan,2,1,0,3,66.7
+Boros Aggro,Grixis Midrange,1,0,0,1,100.0
+Boros Aggro,Simic Amulet Titan,2,0,0,2,100.0
+Simic Birthing Ritual,Azorius Control (Kaheera),1,2,0,3,33.3
+Simic Amulet Titan,Jeskai Blink,10,10,1,21,50.0
+Simic Amulet Titan,Mono-Red Storm,2,3,1,6,40.0
+Simic Amulet Titan,Mono-Green Amulet Titan,4,5,0,9,44.4
+Simic Amulet Titan,Izzet Affinity,7,5,0,12,58.3
+Simic Amulet Titan,Gruul Broodscale,1,2,1,4,33.3
+Simic Amulet Titan,Izzet Prowess,5,3,0,8,62.5
+Simic Amulet Titan,Azorius Blink,1,1,0,2,50.0
+Simic Amulet Titan,Simic Birthing Ritual,1,8,0,9,11.1
+Simic Amulet Titan,Mono-Blue Belcher,2,0,0,2,100.0
+Mono-Red Storm,Izzet Prowess,3,0,0,3,100.0
+Mono-Red Storm,Azorius (Kaheera),1,0,0,1,100.0
+Mono-Red Storm,W-U-R-G Domain Zoo,2,1,0,3,66.7
+Mono-Red Storm,Jeskai Blink,3,3,0,6,50.0
+Mono-Red Storm,Mono-Blue Belcher,0,1,0,1,0.0
+Mono-Red Storm,W-U-B-G Goryo's Vengeance,2,4,0,6,33.3
+Simic Birthing Ritual,W-U-B-G Goryo's Vengeance,3,0,0,3,100.0
+Simic Birthing Ritual,Dimir Mill,1,0,0,1,100.0
+Simic Birthing Ritual,Izzet,2,1,0,3,66.7
+Boros Energy,Simic Amulet Titan,5,3,0,8,62.5
+Boros Energy,W-U-B-R-G Birthing Ritual,2,1,0,3,66.7
+Boros Energy,Simic Neoform,2,3,0,5,40.0
+Boros Energy,Golgari Birthing Ritual,1,0,0,1,100.0
+Boros Energy,Azorius Blink,2,1,0,3,66.7
+Simic Birthing Ritual,Mono-Red Combo,1,0,0,1,100.0
+Simic Birthing Ritual,Simic Titan,1,0,0,1,100.0
+Colorless Tron,Esper Blink,1,1,0,2,50.0
+Colorless Tron,Jeskai Blink,2,1,0,3,66.7
+Colorless Tron,W-U-B-G Goryo's Vengeance,1,1,0,2,50.0
+Colorless Tron,Orzhov Aggro,1,0,0,1,100.0
+Colorless Tron,Boros Energy,2,0,0,2,100.0
+Colorless Tron,Mono-Green Amulet Titan,1,1,1,3,50.0
+Colorless Tron,Izzet Affinity,2,1,0,3,66.7
+Colorless Tron,Jeskai Midrange,0,2,0,2,0.0
+Colorless Tron,Azorius Control (Kaheera),0,2,0,2,0.0
+Colorless Tron,W-U-B-R-G Birthing Ritual,1,0,0,1,100.0
+Izzet Affinity,Grixis Midrange,2,0,0,2,100.0
+Izzet Affinity,Mono-Green Amulet Titan,3,7,0,10,30.0
+Izzet Affinity,Simic Titan,0,2,0,2,0.0
+Boros Energy,Jeskai Midrange,2,3,0,5,40.0
+Boros Energy,Jeskai Control,1,1,0,2,50.0
+Boros Energy,Grixis Midrange,2,0,0,2,100.0
+Boros Energy,W-U-B-G Goryo's Vengeance,6,5,1,12,54.5
+Izzet Affinity,W-U-B-G Goryo's Vengeance,9,3,0,12,75.0
+Jeskai Blink,Mono-Blue Belcher,4,6,0,10,40.0
+Jeskai Blink,Grixis Midrange,1,5,0,6,16.7
+Jeskai Blink,Golgari Birthing Ritual,0,1,0,1,0.0
+Mono-Blue Belcher,W-U-R-G Control,1,0,0,1,100.0
+Mono-Blue Belcher,Mono-Red Storm,1,0,0,1,100.0
+Mono-Blue Belcher,Mono-Green Broodscale,1,0,0,1,100.0
+Mono-Blue Belcher,Simic Amulet Titan,0,2,0,2,0.0
+Simic Neoform,Mono-Green Broodscale,1,0,0,1,100.0
+Simic Neoform,Mono-Green Eldrazi,1,0,0,1,100.0
+Simic Neoform,Izzet Affinity,2,1,0,3,66.7
+Simic Neoform,Boros Storm,1,0,0,1,100.0
+Simic Neoform,Golgari Birthing Ritual,1,0,0,1,100.0
+Azorius Control (Kaheera),Colorless Eldrazi,0,1,0,1,0.0
+Azorius Control (Kaheera),Mono-Blue Belcher,0,2,0,2,0.0
+Azorius Control (Kaheera),Izzet Storm,1,0,0,1,100.0
+Azorius Control (Kaheera),Simic Amulet Titan,1,1,0,2,50.0
+Mono-Blue Belcher,W-U-B-G Samwise Combo,1,0,0,1,100.0
+Mono-Blue Belcher,Azorius Control (Kaheera),2,0,0,2,100.0
+Mono-Blue Belcher,Izzet Prowess,4,0,0,4,100.0
+Mono-Blue Belcher,Grixis Midrange,0,1,0,1,0.0
+Mono-Blue Belcher,Gruul Broodscale,1,1,0,2,50.0
+Mono-Blue Belcher,W-U-B-R-G Birthing Ritual,1,0,0,1,100.0
+Mono-Blue Belcher,Jeskai Midrange,0,2,0,2,0.0
+Simic Neoform,W-U-R-G Control,1,0,0,1,100.0
+Simic Neoform,Simic Amulet Titan,2,1,0,3,66.7
+Simic Neoform,Mono-Green Amulet Titan,2,0,0,2,100.0
+Simic Neoform,Izzet Aggro,1,1,0,2,50.0
+Azorius Blink,Izzet Prowess,3,0,0,3,100.0
+Azorius Blink,Esper Blink,0,1,0,1,0.0
+Azorius Blink,Simic Birthing Ritual,2,0,0,2,100.0
+Azorius Blink,Jeskai Blink,2,5,0,7,28.6
+Azorius Blink,Mono-Red Storm,1,0,0,1,100.0
+Azorius Blink,Boros Energy,1,2,0,3,33.3
+Azorius Blink,Simic Amulet Titan,1,1,0,2,50.0
+Azorius Blink,Jeskai Midrange,3,0,0,3,100.0
+Esper Blink,Gruul Eldrazi Ramp,3,1,0,4,75.0
+Esper Blink,Izzet Affinity,4,2,0,6,66.7
+Esper Blink,Izzet Prowess,2,1,0,3,66.7
+Esper Blink,Mono-Green Amulet Titan,1,1,0,2,50.0
+Esper Blink,Simic Birthing Ritual,0,4,0,4,0.0
+Esper Blink,Mono-Red Storm,0,1,0,1,0.0
+Esper Blink,Jeskai Blink,1,3,0,4,25.0
+Esper Blink,Izzet Midrange,1,0,0,1,100.0
+Esper Blink,Simic Amulet Titan,1,1,0,2,50.0
+Esper Blink,Gruul Eldrazi Aggro,1,0,0,1,100.0
+Esper Blink,Golgari Birthing Ritual,1,0,0,1,100.0
+W-U-B-G Goryo's Vengeance,Jeskai Blink,5,11,1,17,31.2
+W-U-B-G Goryo's Vengeance,Mono-Blue Belcher,1,5,0,6,16.7
+W-U-B-G Goryo's Vengeance,Izzet Prowess,7,3,0,10,70.0
+W-U-B-G Goryo's Vengeance,W-U-B-G Goryo's,1,0,0,1,100.0
+W-U-B-G Goryo's Vengeance,Jeskai Control,1,0,0,1,100.0
+W-U-B-G Goryo's Vengeance,Esper Blink,3,0,0,3,100.0
+W-U-B-G Goryo's Vengeance,Boros Energy,5,6,1,12,45.5
+W-U-B-G Goryo's Vengeance,Mono-Red Storm,4,2,0,6,66.7
+W-U-B-G Goryo's Vengeance,Jeskai Midrange,2,0,0,2,100.0
+W-U-B-G Goryo's Vengeance,Izzet Affinity,3,9,0,12,25.0
+W-U-B-G Goryo's Vengeance,W-U-R-G Domain Zoo,3,3,0,6,50.0
+Simic Birthing Ritual,Simic,1,0,0,1,100.0
+Simic Birthing Ritual,Boros Aggro,1,2,0,3,33.3
+Simic Birthing Ritual,Mono-Green Eldrazi,1,0,0,1,100.0
+Izzet Prowess,Boros Energy,5,8,0,13,38.5
+Izzet Prowess,W-U-B-G Goryo's Vengeance,3,7,0,10,30.0
+Izzet Prowess,Mono-Green Amulet Titan,4,7,0,11,36.4
+Izzet Prowess,Izzet Storm,0,2,0,2,0.0
+Izzet Prowess,Jeskai Blink,12,15,0,27,44.4
+Izzet Prowess,Izzet Prowess,5,5,0,10,50.0
+Izzet Prowess,Jeskai Midrange,0,3,0,3,0.0
+Izzet Prowess,Gruul Aggro,2,0,0,2,100.0
+Izzet Prowess,Azorius Control (Kaheera),0,3,0,3,0.0
+Izzet Prowess,Gruul Broodscale,3,1,0,4,75.0
+Izzet Prowess,Simic Amulet Titan,3,5,0,8,37.5
+Izzet Prowess,Azorius (Kaheera),2,0,0,2,100.0
+Simic Amulet Titan,Jeskai (Obosh),1,1,0,2,50.0
+Simic Amulet Titan,W-U-B-G Samwise Combo,1,1,0,2,50.0
+Simic Amulet Titan,Colorless Eldrazi,2,1,0,3,66.7
+Simic Amulet Titan,Dimir Reanimator,1,0,0,1,100.0
+Simic Amulet Titan,Gruul Eldrazi Aggro,3,1,0,4,75.0
+Simic Amulet Titan,Azorius Control (Kaheera),1,1,0,2,50.0
+Simic Amulet Titan,Boros Aggro,0,2,0,2,0.0
+W-U-B-G Goryo's Vengeance,Simic Amulet Titan,3,2,0,5,60.0
+W-U-B-G Goryo's Vengeance,Gruul Broodscale,3,3,0,6,50.0
+W-U-B-G Goryo's Vengeance,Azorius Blink,2,1,0,3,66.7
+W-U-B-G Goryo's Vengeance,Simic Neoform,1,1,0,2,50.0
+W-U-B-G Goryo's Vengeance,Grixis Midrange,0,1,0,1,0.0
+Mono-Green Eldrazi,Boros Energy,1,1,0,2,50.0
+Mono-Green Eldrazi,Izzet Prowess,2,1,0,3,66.7
+Mono-Green Eldrazi,Mono-Red Storm,1,0,0,1,100.0
+Mono-Green Eldrazi,Mono-Green Amulet Titan,2,2,0,4,50.0
+Mono-Green Eldrazi,Colorless Tron,1,0,0,1,100.0
+Mono-Green Eldrazi,Gruul Eldrazi Aggro,1,0,0,1,100.0
+Mono-Green Eldrazi,W-U-R-G Control,1,0,0,1,100.0
+Mono-Green Eldrazi,Mono-Blue Belcher,0,1,0,1,0.0
+Mono-Green Eldrazi,Gruul Broodscale,0,1,0,1,0.0
+Mono-Green Eldrazi,W-U-B-G,1,0,0,1,100.0
+Mono-Green Eldrazi,Simic Birthing Ritual,0,1,0,1,0.0
+Boros Energy,Colorless Tron,0,2,0,2,0.0
+Boros Energy,Izzet Aggro,1,5,0,6,16.7
+Mono-Green Amulet Titan,Izzet,1,0,0,1,100.0
+Mono-Green Amulet Titan,Mono-Blue Belcher,1,0,0,1,100.0
+Mono-Green Amulet Titan,W-U-B-R-G Birthing Ritual,0,2,0,2,0.0
+Mono-Green Amulet Titan,Azorius Control (Kaheera),0,4,0,4,0.0
+Mono-Green Amulet Titan,Mono-Green Broodscale,1,0,0,1,100.0
+Grixis Midrange,Simic Amulet Titan,2,1,0,3,66.7
+Grixis Midrange,Colorless Eldrazi,1,0,0,1,100.0
+Grixis Midrange,Boros Energy,0,2,0,2,0.0
+Grixis Midrange,Mono-Blue Belcher,1,0,0,1,100.0
+Grixis Midrange,Izzet Aggro,0,1,0,1,0.0
+Grixis Midrange,W-U-B-G Goryo's Vengeance,1,0,0,1,100.0
+Grixis Midrange,Boros Aggro,0,1,0,1,0.0
+W-U-B-R-G Birthing Ritual,Jeskai Blink,2,0,0,2,100.0
+W-U-B-R-G Birthing Ritual,Jeskai Midrange,1,0,0,1,100.0
+W-U-B-R-G Birthing Ritual,Mono-Green Amulet Titan,2,0,0,2,100.0
+W-U-B-R-G Birthing Ritual,Mono-Red Storm,0,1,0,1,0.0
+W-U-B-R-G Birthing Ritual,Boros Energy,1,2,0,3,33.3
+W-U-B-R-G Birthing Ritual,W-U-R-G Domain Zoo,3,0,0,3,100.0
+W-U-B-R-G Birthing Ritual,Simic Amulet Titan,1,0,0,1,100.0
+W-U-B-R-G Birthing Ritual,Simic Birthing Ritual,0,2,0,2,0.0
+W-U-B-R-G Birthing Ritual,Simic Titan,0,1,0,1,0.0
+W-U-B-R-G Birthing Ritual,Mono-Blue Belcher,0,1,0,1,0.0
+W-U-B-R-G Birthing Ritual,Colorless Tron,0,1,0,1,0.0
+Boros Energy,Mono-Green Eldrazi,1,1,0,2,50.0
+Boros Energy,W-U-R-G Domain Zoo,7,4,0,11,63.6
+Boros Energy,Mono-Green Broodscale,1,0,0,1,100.0
+Boros Energy,Boros Aggro,2,2,0,4,50.0
+Boros Energy,Azorius (Kaheera),0,1,0,1,0.0
+Izzet Prowess,W-U-B-R-G Birthing Ritual,1,0,0,1,100.0
+Izzet Prowess,Gruul Eldrazi Aggro,2,1,0,3,66.7
+Izzet Prowess,Simic Neoform,1,9,0,10,10.0
+Izzet Prowess,Simic Birthing Ritual,9,3,0,12,75.0
+Izzet Prowess,Izzet Affinity,2,7,0,9,22.2
+Izzet Prowess,Esper Blink,1,2,0,3,33.3
+Boros Energy,Dimir Mill,1,0,0,1,100.0
+Boros Energy,W-U-B-G,0,3,0,3,0.0
+Boros Energy,Dimir Murktide,1,0,0,1,100.0
+Jeskai Blink,Mono-Green Eldrazi,1,2,0,3,33.3
+Jeskai Blink,Colorless Eldrazi,4,0,0,4,100.0
+Jeskai Blink,W-U-R-G Control,1,1,0,2,50.0
+Jeskai Blink,Esper Blink,3,1,0,4,75.0
+Jeskai Blink,W-U-B-G,2,0,0,2,100.0
+Golgari Birthing Ritual,Colorless Tron,0,1,0,1,0.0
+Golgari Birthing Ritual,W-U-R-G Domain Zoo,1,0,0,1,100.0
+Golgari Birthing Ritual,Izzet Prowess,2,0,0,2,100.0
+Golgari Birthing Ritual,Simic Amulet Titan,1,0,0,1,100.0
+Golgari Birthing Ritual,Mono-Blue Belcher,0,1,0,1,0.0
+Golgari Birthing Ritual,Azorius Control (Kaheera),1,0,0,1,100.0
+Golgari Birthing Ritual,Sultai Living End,1,0,0,1,100.0
+Golgari Birthing Ritual,Boros Energy,0,1,0,1,0.0
+Golgari Birthing Ritual,Jeskai Blink,1,0,0,1,100.0
+Golgari Birthing Ritual,Izzet Affinity,0,1,0,1,0.0
+Golgari Birthing Ritual,Simic Neoform,0,1,0,1,0.0
+Golgari Birthing Ritual,W-U-B-G,1,0,0,1,100.0
+Golgari Birthing Ritual,Esper Blink,0,1,0,1,0.0
+Azorius (Kaheera),Jeskai Blink,3,0,0,3,100.0
+Azorius (Kaheera),Mono-Red Storm,0,1,0,1,0.0
+Azorius (Kaheera),Boros Storm,1,0,0,1,100.0
+Azorius (Kaheera),Simic Birthing Ritual,1,0,0,1,100.0
+Azorius (Kaheera),Azorius Blink,0,1,0,1,0.0
+Azorius (Kaheera),Izzet Prowess,0,2,0,2,0.0
+Azorius (Kaheera),W-U-B-G Goryo's Vengeance,1,0,0,1,100.0
+Azorius (Kaheera),Izzet Affinity,1,0,0,1,100.0
+Azorius (Kaheera),Mono-Green Amulet Titan,0,1,0,1,0.0
+Azorius (Kaheera),Boros Energy,1,0,0,1,100.0
+Azorius (Kaheera),Jeskai Midrange,0,1,0,1,0.0
+Gruul Broodscale,Rakdos Lantern Control,1,0,0,1,100.0
+Gruul Broodscale,Izzet Prowess,1,3,0,4,25.0
+Gruul Broodscale,Izzet Midrange,1,0,0,1,100.0
+Gruul Broodscale,Boros Energy,2,6,0,8,25.0
+Gruul Broodscale,Simic Birthing Ritual,3,4,0,7,42.9
+Gruul Broodscale,W-U-B-G Goryo's Vengeance,3,3,0,6,50.0
+Gruul Broodscale,Simic Amulet Titan,2,1,1,4,66.7
+Gruul Broodscale,Mono-Blue Belcher,1,1,0,2,50.0
+Gruul Broodscale,Jeskai Blink,7,0,1,8,100.0
+Gruul Broodscale,Gruul Broodscale,3,3,0,6,50.0
+Mono-Green Amulet Titan,W-U-R-G Domain Zoo,5,6,0,11,45.5
+Mono-Green Amulet Titan,Simic Neoform,0,2,0,2,0.0
+Mono-Green Amulet Titan,Azorius (Kaheera),1,0,0,1,100.0
+Jeskai Blink,Gruul Eldrazi Ramp,6,5,1,12,54.5
+Jeskai Blink,Gruul Broodscale,0,7,1,8,0.0
+Jeskai Blink,Mono-Green Amulet Titan,4,6,2,12,40.0
+Jeskai Blink,Azorius (Kaheera),0,3,0,3,0.0
+Jeskai Blink,Jeskai Control,2,1,0,3,66.7
+Jeskai Blink,Colorless Tron,1,2,0,3,33.3
+Izzet Affinity,Sultai Living End,1,0,0,1,100.0
+Izzet Affinity,Boros Storm,1,1,0,2,50.0
+Simic Birthing Ritual,Abzan Samwise Birthing Ritual,1,0,0,1,100.0
+Simic Amulet Titan,Dimir Midrange,2,0,0,2,100.0
+Simic Amulet Titan,Boros Energy,3,5,0,8,37.5
+Simic Amulet Titan,Simic Neoform,1,2,0,3,33.3
+Simic Amulet Titan,Izzet Aggro,1,1,0,2,50.0
+Simic Amulet Titan,W-U-B-R-G Birthing Ritual,0,1,0,1,0.0
+Simic Amulet Titan,Esper Blink,1,1,0,2,50.0
+Azorius Blink,Colorless Eldrazi,1,0,0,1,100.0
+Azorius Blink,Azorius (Kaheera),1,0,0,1,100.0
+Azorius Blink,Mono-Green Amulet Titan,1,0,1,2,100.0
+Azorius Blink,Azorius Control (Kaheera),0,1,0,1,0.0
+Jeskai Midrange,Mono-Red Storm,2,0,0,2,100.0
+Jeskai Midrange,Colorless Tron,2,0,0,2,100.0
+Jeskai Midrange,Azorius Blink,0,3,0,3,0.0
+Jeskai Midrange,Boros Energy,3,2,0,5,60.0
+Jeskai Midrange,Simic Neoform,2,1,0,3,66.7
+Jeskai Midrange,Mono-Green Amulet Titan,0,2,0,2,0.0
+Simic Neoform,Mono-Blue Belcher,0,1,0,1,0.0
+Simic Neoform,Izzet,1,0,0,1,100.0
+Simic Neoform,Boros Aggro,1,0,0,1,100.0
+Simic Neoform,Jeskai Control,2,0,0,2,100.0
+Mono-Green Amulet Titan,Gruul Broodscale,1,1,0,2,50.0
+W-U-B-G Goryo's Vengeance,Mono-Green Eldrazi,0,1,0,1,0.0
+W-U-B-G Goryo's Vengeance,Mono-Green Amulet Titan,6,7,0,13,46.2
+W-U-B-G Goryo's Vengeance,Izzet Wizards,0,1,1,2,0.0
+W-U-B-G Goryo's Vengeance,W-U-B-G Goryo's Vengeance,3,3,0,6,50.0
+W-U-B-G Goryo's Vengeance,Azorius Control (Kaheera),0,1,1,2,0.0
+W-U-B-G Goryo's Vengeance,Jeskai Control (Kaheera),1,1,0,2,50.0
+W-U-B-G Goryo's Vengeance,W-U-B-G Blink,1,1,0,2,50.0
+Boros Energy,Abzan Samwise Birthing Ritual,0,0,1,1,
+Boros Energy,Colorless Eldrazi,1,2,0,3,33.3
+Jeskai Blink,W-U-R-G Aggro,2,0,0,2,100.0
+Mono-Green Broodscale,Simic Amulet Titan,2,0,0,2,100.0
+Mono-Green Broodscale,Colorless Eldrazi,1,0,0,1,100.0
+Mono-Green Broodscale,Jeskai Blink,1,0,0,1,100.0
+Mono-Green Broodscale,Simic Neoform,0,1,0,1,0.0
+Mono-Green Broodscale,W-U-B-G Goryo's Vengeance,1,0,0,1,100.0
+Mono-Green Broodscale,Boros Energy,0,1,0,1,0.0
+Mono-Green Broodscale,Izzet Affinity,0,1,0,1,0.0
+Mono-Green Broodscale,Gruul Broodscale,1,0,0,1,100.0
+Mono-Green Broodscale,Jeskai Control,1,0,0,1,100.0
+Mono-Green Broodscale,Mono-Blue Belcher,0,1,0,1,0.0
+Mono-Green Broodscale,Mono-Green Amulet Titan,0,1,0,1,0.0
+Izzet Affinity,Azorius Blink,2,0,1,3,100.0
+Izzet Affinity,Izzet Control,1,0,0,1,100.0
+Izzet Affinity,Colorless Tron,1,2,0,3,33.3
+W-U-B-G,Simic Birthing Ritual,1,0,0,1,100.0
+W-U-B-G,Boros Energy,3,0,0,3,100.0
+W-U-B-G,Jeskai Blink,0,2,0,2,0.0
+W-U-B-G,Simic Amulet Titan,1,0,0,1,100.0
+W-U-B-G,Jeskai Midrange,1,0,0,1,100.0
+W-U-B-G,W-U-R-G Domain Zoo,0,1,0,1,0.0
+W-U-B-G,Izzet Aggro,1,0,0,1,100.0
+W-U-B-G,Mono-Green Amulet Titan,0,1,0,1,0.0
+W-U-B-G,Mono-Green Eldrazi,0,1,0,1,0.0
+W-U-B-G,Golgari Birthing Ritual,0,1,0,1,0.0
+Simic Amulet Titan,Grixis Midrange,1,2,0,3,33.3
+Jeskai Control (Kaheera),Colorless Eldrazi,0,1,1,2,0.0
+Jeskai Control (Kaheera),Dimir Midrange,1,0,0,1,100.0
+Jeskai Control (Kaheera),Jeskai,1,0,0,1,100.0
+Jeskai Control (Kaheera),Izzet Wizards,0,1,0,1,0.0
+Jeskai Control (Kaheera),W-U-B-G Goryo's Vengeance,1,1,0,2,50.0
+Jeskai Control (Kaheera),Abzan Samwise Birthing Ritual,1,0,0,1,100.0
+Jeskai Control (Kaheera),Gruul Broodscale,1,0,0,1,100.0
+Gruul Broodscale,Colorless Eldrazi,0,1,0,1,0.0
+Gruul Broodscale,Simic Neoform,1,1,0,2,50.0
+Gruul Broodscale,Izzet Affinity,2,3,0,5,40.0
+Gruul Broodscale,Azorius Control,1,0,0,1,100.0
+Gruul Broodscale,Dimir Murktide,1,0,0,1,100.0
+Gruul Broodscale,Izzet Aggro,0,1,0,1,0.0
+Gruul Broodscale,Mono-Green Eldrazi,1,0,0,1,100.0
+Gruul Broodscale,Azorius Control (Kaheera),0,2,0,2,0.0
+Simic Amulet Titan,W-U-R-G Domain Zoo,5,4,0,9,55.6
+Simic Amulet Titan,Gruul Eldrazi Ramp,3,0,0,3,100.0
+Simic Amulet Titan,Golgari Birthing Ritual,0,1,0,1,0.0
+Simic Amulet Titan,Orzhov Aggro,1,0,0,1,100.0
+Simic Amulet Titan,Dimir Murktide,0,1,0,1,0.0
+Simic Amulet Titan,Esper Goryo's Vengeance,1,0,0,1,100.0
+Simic Amulet Titan,Jeskai Control,1,0,0,1,100.0
+Mono-Green Amulet Titan,Grixis Reanimator,1,0,0,1,100.0
+Mono-Green Amulet Titan,Simic Titan,1,0,0,1,100.0
+Mono-Red Burn,Jeskai Blink,1,0,0,1,100.0
+Mono-Red Burn,Izzet Aggro,0,1,0,1,0.0
+Mono-Red Burn,Simic Birthing Ritual,1,0,0,1,100.0
+Mono-Red Burn,W-U-R-G Control,1,0,0,1,100.0
+Mono-Red Burn,Izzet Affinity,1,1,0,2,50.0
+Mono-Red Burn,Boros Energy,0,1,0,1,0.0
+Mono-Red Burn,Simic Amulet Titan,1,0,0,1,100.0
+Mono-Red Burn,Grixis Midrange,0,1,0,1,0.0
+Gruul Eldrazi Aggro,Sultai Living End,0,1,0,1,0.0
+Gruul Eldrazi Aggro,Jeskai Blink,2,1,0,3,66.7
+Gruul Eldrazi Aggro,Simic Neoform,1,0,0,1,100.0
+Gruul Eldrazi Aggro,Izzet Prowess,1,2,0,3,33.3
+Gruul Eldrazi Aggro,Mono-Green Eldrazi,0,1,0,1,0.0
+Gruul Eldrazi Aggro,Izzet Affinity,1,0,0,1,100.0
+Gruul Eldrazi Aggro,W-U-R-G Control,1,0,0,1,100.0
+Gruul Eldrazi Aggro,Simic Birthing Ritual,1,0,0,1,100.0
+Gruul Eldrazi Aggro,Jeskai Midrange,1,0,0,1,100.0
+Gruul Eldrazi Aggro,Simic Amulet Titan,1,3,0,4,25.0
+Gruul Eldrazi Aggro,Esper Blink,0,1,0,1,0.0
+Colorless Eldrazi,Simic Birthing Ritual,1,0,0,1,100.0
+Colorless Eldrazi,Simic Amulet Titan,1,2,0,3,33.3
+Colorless Eldrazi,Azorius Control (Kaheera),1,0,0,1,100.0
+Colorless Eldrazi,Grixis Midrange,0,1,0,1,0.0
+Colorless Eldrazi,Izzet Affinity,0,2,0,2,0.0
+Colorless Eldrazi,Mono-Green Eldrazi,1,0,0,1,100.0
+Colorless Eldrazi,Izzet Prowess,1,2,0,3,33.3
+Colorless Eldrazi,Boros Energy,2,1,0,3,66.7
+Colorless Eldrazi,Boros Aggro,0,1,0,1,0.0
+W-U-R-G Domain Zoo,W-U-R-G Domain Zoo,2,2,0,4,50.0
+W-U-R-G Domain Zoo,Dimir Mill,1,0,0,1,100.0
+W-U-R-G Domain Zoo,W-U-B-R-G Birthing Ritual,0,3,0,3,0.0
+Simic Birthing Ritual,Dimir Midrange,1,1,0,2,50.0
+Simic Birthing Ritual,W-B-R-G Domain Zoo,1,0,0,1,100.0
+Simic Birthing Ritual,Gruul Eldrazi Aggro,0,1,0,1,0.0
+Gruul Broodscale,W-U-R-G Domain Zoo,3,0,0,3,100.0
+Izzet Prowess,W-B-R-G Domain Zoo,1,2,0,3,33.3
+Jeskai Blink,Mono-Green Broodscale,0,1,0,1,0.0
+Boros Energy,Jeskai,1,0,0,1,100.0
+Boros Energy,Esper Blink,3,0,0,3,100.0
+Izzet Affinity,Gruul Eldrazi Ramp,3,1,0,4,75.0
+W-U-R-G Domain Zoo,Mono-Red Storm,1,2,0,3,33.3
+Jeskai Midrange,W-U-B-G Goryo's Vengeance,0,2,0,2,0.0
+Jeskai Midrange,Gruul Eldrazi Aggro,0,1,0,1,0.0
+Jeskai Blink,Azorius Energy,2,0,0,2,100.0
+Izzet Affinity,Mono-Green Eldrazi,1,0,0,1,100.0
+Dimir Murktide,Mono-Red Storm,1,0,0,1,100.0
+Dimir Murktide,Esper Blink,1,0,0,1,100.0
+Dimir Murktide,W-U-B-G Goryo's Vengeance,1,0,0,1,100.0
+Dimir Murktide,Simic Birthing Ritual,0,1,0,1,0.0
+Dimir Murktide,Mono-Green Amulet Titan,0,1,0,1,0.0
+Dimir Murktide,Simic Amulet Titan,1,0,0,1,100.0
+Dimir Murktide,Gruul Broodscale,0,1,0,1,0.0
+Dimir Murktide,Jeskai Blink,1,0,0,1,100.0
+Dimir Murktide,Boros Energy,0,1,0,1,0.0
+Boros Energy,Izzet Midrange,4,0,0,4,100.0
+Boros Energy,Golgari Yawgmoth,1,0,0,1,100.0
+Simic Neoform,Mono-Red Storm,0,1,0,1,0.0
+Simic Neoform,Golgari Broodscale,0,1,0,1,0.0
+Boros Storm,W-U-R-G Control,0,1,0,1,0.0
+Boros Storm,Jeskai Blink,1,0,0,1,100.0
+Boros Storm,Azorius (Kaheera),0,1,0,1,0.0
+Boros Storm,Gruul Eldrazi Ramp,1,0,0,1,100.0
+Boros Storm,Simic Birthing Ritual,1,1,0,2,50.0
+Boros Storm,Mono-Green Amulet Titan,1,0,0,1,100.0
+Boros Storm,Jeskai Midrange,1,0,0,1,100.0
+Boros Storm,Izzet Affinity,1,1,0,2,50.0
+Boros Storm,Simic Neoform,0,1,0,1,0.0
+Izzet Prowess,Gruul Eldrazi Ramp,6,2,0,8,75.0
+Mono-Green Amulet Titan,Mono-Green Scapeshift,1,0,0,1,100.0
+Mono-Green Amulet Titan,Esper Blink,1,1,0,2,50.0
+Jeskai Control,Jeskai Blink,1,2,0,3,33.3
+Jeskai Control,Mono-Green Amulet Titan,0,1,0,1,0.0
+Jeskai Control,Izzet Prowess,5,1,0,6,83.3
+Jeskai Control,W-U-B-G Goryo's Vengeance,0,1,0,1,0.0
+Jeskai Control,Mono-Green Scapeshift,1,0,0,1,100.0
+Jeskai Control,Izzet Affinity,2,0,0,2,100.0
+Jeskai Control,Mono-Green Broodscale,0,1,0,1,0.0
+Jeskai Control,Simic Amulet Titan,0,1,0,1,0.0
+Jeskai Control,Simic Neoform,0,2,0,2,0.0
+Izzet Affinity,Boros Aggro,2,0,0,2,100.0
+Izzet Affinity,Jeskai Control,0,2,0,2,0.0
+Mono-Green Eldrazi,W-U-B-G Goryo's Vengeance,1,0,0,1,100.0
+Mono-Green Eldrazi,Gruul Eldrazi Ramp,1,1,0,2,50.0
+Mono-Green Eldrazi,Grixis Midrange,0,1,0,1,0.0
+Mono-Green Eldrazi,Boros Aggro,1,0,0,1,100.0
+Mono-Green Eldrazi,Colorless Eldrazi,0,1,0,1,0.0
+Mono-Green Eldrazi,Jeskai Blink,2,1,0,3,66.7
+Mono-Green Eldrazi,Simic Neoform,0,1,0,1,0.0
+Mono-Green Eldrazi,Dimir Reanimator,1,0,0,1,100.0
+Izzet Prowess,Mono-Red Storm,0,3,0,3,0.0
+Izzet Prowess,Rakdos Lantern Control,1,0,0,1,100.0
+Izzet Prowess,Colorless Eldrazi,2,1,0,3,66.7
+Izzet Prowess,Mono-Blue Belcher,0,4,0,4,0.0
+Izzet Prowess,Golgari Birthing Ritual,0,2,0,2,0.0
+Izzet Affinity,Dimir Midrange,1,1,0,2,50.0
+Izzet Prowess,W-U-R-G Control,2,1,0,3,66.7
+Izzet Prowess,Mono-Green Eldrazi,1,2,0,3,33.3
+Mono-Red Storm,W-U-B-R-G Midrange,1,0,0,1,100.0
+Mono-Red Storm,W-U-R-G Control,0,1,0,1,0.0
+Mono-Red Storm,Esper Blink,1,0,0,1,100.0
+Mono-Red Storm,Azorius Blink,0,1,0,1,0.0
+Gruul Eldrazi Aggro,W-U-R-G Domain Zoo,2,2,0,4,50.0
+Gruul Eldrazi Aggro,Mono-Blue Merfolk,1,0,0,1,100.0
+Gruul Eldrazi Aggro,Mono-Green Amulet Titan,0,2,0,2,0.0
+Simic Amulet Titan,Izzet,1,0,0,1,100.0
+Simic Amulet Titan,W-U-B-G Goryo's Vengeance,2,3,0,5,40.0
+Simic Amulet Titan,Mono-Green Broodscale,0,2,0,2,0.0
+Jeskai Blink,Rakdos Sacrifice,2,0,0,2,100.0
+Jeskai Blink,Dimir Murktide,0,1,0,1,0.0
+Jeskai Blink,Grixis Reanimator,1,1,0,2,50.0
+Jeskai Blink,Sultai Living End,1,2,0,3,33.3
+Jeskai Blink,Boros Aggro,1,2,0,3,33.3
+Boros Aggro,Gruul Aggro,0,1,0,1,0.0
+Boros Aggro,Jeskai Blink,2,1,0,3,66.7
+Boros Aggro,Mono-Green Eldrazi,0,1,0,1,0.0
+Boros Aggro,Simic Neoform,0,1,0,1,0.0
+W-U-R-G Control,W-U-B-G Goryo's Vengeance,2,0,0,2,100.0
+W-U-R-G Control,Simic Neoform,0,1,0,1,0.0
+W-U-R-G Control,Mono-Blue Merfolk,1,0,0,1,100.0
+W-U-R-G Control,Mono-Red Burn,0,1,0,1,0.0
+W-U-R-G Control,Izzet Prowess,1,2,0,3,33.3
+W-U-R-G Control,Gruul Broodscale,0,1,0,1,0.0
+W-U-R-G Control,W-U-R-G Domain Zoo,1,0,0,1,100.0
+W-U-R-G Control,Jeskai Blink,1,1,0,2,50.0
+Izzet Prowess,Azorius Blink,0,3,0,3,0.0
+Izzet Prowess,W-U-R-G Domain Zoo,5,4,0,9,55.6
+Gruul Broodscale,W-U-B-G Goryo's,0,1,0,1,0.0
+Gruul Broodscale,Mono-Green Amulet Titan,1,1,0,2,50.0
+Gruul Broodscale,W-U-R-G Aggro,1,0,0,1,100.0
+Gruul Broodscale,W-B-R-G Domain Zoo,1,0,0,1,100.0
+Gruul Broodscale,W-U-R-G Control,1,0,0,1,100.0
+Boros Energy,Rakdos Lantern Control,1,0,0,1,100.0
+Jeskai Blink,Azorius Control,2,0,0,2,100.0
+W-U-B-G Goryo's Vengeance,Colorless Eldrazi,2,1,0,3,66.7
+W-U-B-G Goryo's Vengeance,Izzet Storm,1,0,0,1,100.0
+Simic Amulet Titan,W-U-B-G Blink,1,0,0,1,100.0
+Simic Amulet Titan,Jeskai Midrange,0,2,0,2,0.0
+Gruul Broodscale,Golgari Broodscale,1,0,0,1,100.0
+Gruul Broodscale,Mono-Green Broodscale,0,1,0,1,0.0
+Gruul Eldrazi Ramp,Jeskai Blink,5,6,1,12,45.5
+Gruul Eldrazi Ramp,Boros Energy,3,5,0,8,37.5
+Gruul Eldrazi Ramp,Grixis Midrange,0,0,1,1,
+Gruul Eldrazi Ramp,Dimir Reanimator,0,0,1,1,
+Gruul Eldrazi Ramp,W-U-R-G Domain Zoo,5,2,0,7,71.4
+Gruul Eldrazi Ramp,Simic Birthing Ritual,0,2,0,2,0.0
+Izzet Aggro,Mono-Red Storm,1,0,0,1,100.0
+Izzet Aggro,W-U-B-G Goryo's,1,0,0,1,100.0
+Izzet Aggro,W-U-B-G Goryo's Vengeance,1,3,0,4,25.0
+Izzet Aggro,Jeskai Control,1,0,0,1,100.0
+Izzet Aggro,W-U-B-G,0,1,0,1,0.0
+Jeskai Control,Boros Energy,1,1,0,2,50.0
+Jeskai Control,W-U-R-G Domain Zoo,0,3,0,3,0.0
+Jeskai Control,Dimir Mill,1,0,0,1,100.0
+Jeskai Control,Izzet Aggro,0,1,0,1,0.0
+W-U-B-G Goryo's Vengeance,Colorless Tron,1,1,0,2,50.0
+W-U-B-G Goryo's Vengeance,W-U-R-G Control,0,2,0,2,0.0
+W-U-B-G Goryo's Vengeance,Orzhov Aggro,1,1,0,2,50.0
+W-U-B-G Goryo's Vengeance,Boros Aggro,1,2,0,3,33.3
+Jeskai Blink,Izzet Control,1,1,0,2,50.0
+Simic Amulet Titan,Mono-Blue Merfolk,0,2,0,2,0.0
+Simic Amulet Titan,Mono-Green Scapeshift,1,1,0,2,50.0
+Simic Amulet Titan,Boros Burn,1,0,0,1,100.0
+Simic Amulet Titan,Mono-Red Burn,0,1,0,1,0.0
+Simic Birthing Ritual,Colorless Eldrazi,0,1,0,1,0.0
+Simic Birthing Ritual,Izzet Storm,1,1,0,2,50.0
+Izzet Affinity,Azorius Control,1,1,0,2,50.0
+Izzet Affinity,Mono-Red Combo,1,0,0,1,100.0
+Izzet Affinity,Mono-Blue Merfolk,3,0,0,3,100.0
+Esper Goryo's Vengeance,Boros Energy,1,0,0,1,100.0
+Esper Goryo's Vengeance,Izzet Midrange,0,1,0,1,0.0
+Esper Goryo's Vengeance,Simic Birthing Ritual,0,1,0,1,0.0
+Esper Goryo's Vengeance,W-U-B-R-G Midrange,0,1,0,1,0.0
+Esper Goryo's Vengeance,Rakdos Sacrifice,1,0,0,1,100.0
+Esper Goryo's Vengeance,Izzet Prowess,1,0,0,1,100.0
+Esper Goryo's Vengeance,Simic Neoform,1,0,0,1,100.0
+Esper Goryo's Vengeance,Mono-Red Storm,1,0,0,1,100.0
+Esper Goryo's Vengeance,Simic Amulet Titan,0,1,0,1,0.0
+Izzet Midrange,Izzet Prowess,2,2,0,4,50.0
+Izzet Midrange,Boros Energy,0,4,0,4,0.0
+Izzet Midrange,Jeskai Midrange,1,0,0,1,100.0
+Izzet Midrange,Mono-Green Amulet Titan,1,2,0,3,33.3
+Izzet Midrange,Jeskai Blink,1,1,0,2,50.0
+Izzet Midrange,W-U-B-G Goryo's Vengeance,1,0,0,1,100.0
+Izzet Midrange,Esper Blink,0,1,0,1,0.0
+Grixis Midrange,Gruul Eldrazi Ramp,0,0,1,1,
+Gruul Broodscale,Esper Blink,1,0,0,1,100.0
+Gruul Broodscale,Jeskai Control (Kaheera),0,1,0,1,0.0
+Mono-Red Storm,Simic Neoform,1,0,0,1,100.0
+Mono-Red Storm,Mono-Green Scapeshift,0,1,0,1,0.0
+Mono-Red Storm,W-U-B-G Goryo's,1,0,0,1,100.0
+Mono-Red Storm,Golgari Broodscale,1,0,0,1,100.0
+Mono-Red Storm,Esper Goryo's Vengeance,0,1,0,1,0.0
+Mono-Red Storm,Orzhov Midrange,0,0,1,1,
+Jeskai Blink,Izzet Wizards,1,0,0,1,100.0
+Orzhov Midrange,Mono-Blue Belcher,0,1,0,1,0.0
+Orzhov Midrange,Izzet Aggro,1,0,0,1,100.0
+Orzhov Midrange,Mono-Green Amulet Titan,0,1,0,1,0.0
+Orzhov Midrange,Gruul Eldrazi Ramp,0,1,0,1,0.0
+Orzhov Midrange,Simic Amulet Titan,1,0,0,1,100.0
+Orzhov Midrange,Jeskai Blink,2,0,0,2,100.0
+Orzhov Midrange,Colorless Eldrazi,0,1,0,1,0.0
+Orzhov Midrange,Mono-Red Storm,0,0,1,1,
+W-U-R-G Control,Boros Storm,1,0,0,1,100.0
+W-U-R-G Control,Mono-Red Storm,1,0,0,1,100.0
+W-U-R-G Control,Izzet Affinity,2,1,0,3,66.7
+W-U-R-G Control,Mono-Blue Belcher,0,1,0,1,0.0
+W-U-R-G Control,Mono-Green Amulet Titan,0,2,0,2,0.0
+W-U-R-G Control,Mono-Green Eldrazi,0,1,0,1,0.0
+W-U-R-G Control,Gruul Eldrazi Aggro,0,1,0,1,0.0
+Sultai Living End,Gruul Eldrazi Aggro,1,0,0,1,100.0
+Sultai Living End,Boros Energy,1,1,0,2,50.0
+Sultai Living End,Jeskai Blink,2,1,0,3,66.7
+Sultai Living End,Izzet Affinity,0,1,0,1,0.0
+Sultai Living End,Golgari Birthing Ritual,0,1,0,1,0.0
+Izzet Storm,Golgari Yawgmoth,1,0,0,1,100.0
+Izzet Storm,Mono-Red Storm,0,1,0,1,0.0
+Izzet Storm,Simic Birthing Ritual,1,1,0,2,50.0
+Izzet Storm,Izzet Prowess,2,0,0,2,100.0
+Izzet Storm,Simic Titan,0,1,0,1,0.0
+Izzet Storm,Azorius Control (Kaheera),0,1,0,1,0.0
+Izzet Storm,W-U-B-G Goryo's Vengeance,0,1,0,1,0.0
+Gruul Eldrazi Ramp,Mono-Blue Belcher,1,0,0,1,100.0
+Gruul Eldrazi Ramp,Izzet Aggro,2,0,0,2,100.0
+Gruul Eldrazi Ramp,Simic Neoform,0,3,0,3,0.0
+Jeskai Blink,W-U-B-R-G Birthing Ritual,0,2,0,2,0.0
+Izzet Prowess,Mono-Blue Merfolk,3,0,0,3,100.0
+Izzet Prowess,Jeskai Control,1,5,0,6,16.7
+W-U-B-G Goryo's Vengeance,Boros Burn,1,0,0,1,100.0
+Izzet Affinity,Gruul Aggro,1,0,0,1,100.0
+W-U-B-G Goryo's Vengeance,Dimir Murktide,0,1,0,1,0.0
+Jeskai Midrange,W-U-B-G,0,1,0,1,0.0
+Jeskai Midrange,Izzet,0,1,0,1,0.0
+Jeskai Midrange,Boros Storm,0,1,0,1,0.0
+W-U-R-G Domain Zoo,Colorless Eldrazi,2,1,0,3,66.7
+W-U-R-G Domain Zoo,W-U-R-G Control,0,1,0,1,0.0
+Izzet,Mono-Blue Merfolk,1,0,0,1,100.0
+Izzet,W-U-R-G Domain Zoo,0,1,0,1,0.0
+Izzet,Simic Birthing Ritual,1,2,0,3,33.3
+Izzet,Boros Energy,1,0,0,1,100.0
+Izzet,Mono-Green Amulet Titan,0,1,0,1,0.0
+Izzet,Jeskai Midrange,1,0,0,1,100.0
+Izzet,Simic Neoform,0,1,0,1,0.0
+Boros Energy,Dimir Midrange,1,0,0,1,100.0
+Boros Energy,Azorius Control,1,0,0,1,100.0
+Azorius Control (Kaheera),Golgari Birthing Ritual,0,1,0,1,0.0
+Mono-Blue Merfolk,Simic Amulet Titan,2,0,0,2,100.0
+Mono-Blue Merfolk,Simic Birthing Ritual,1,0,0,1,100.0
+Mono-Blue Merfolk,W-U-R-G Domain Zoo,0,2,0,2,0.0
+Mono-Blue Merfolk,Izzet Prowess,0,3,0,3,0.0
+Mono-Blue Merfolk,Boros Energy,0,1,0,1,0.0
+Mono-Blue Merfolk,Mono-Green Amulet Titan,1,0,0,1,100.0
+Mono-Blue Merfolk,Gruul Eldrazi Ramp,2,0,0,2,100.0
+Mono-Blue Merfolk,Izzet Affinity,0,3,0,3,0.0
+Esper Blink,Boros Energy,0,3,0,3,0.0
+Esper Blink,W-U-B-R-G Midrange,1,0,0,1,100.0
+Esper Blink,Colorless Tron,1,1,0,2,50.0
+Esper Blink,Esper Blink,1,1,0,2,50.0
+Esper Blink,Simic Titan,0,1,0,1,0.0
+Esper Blink,Jeskai Midrange,0,1,0,1,0.0
+Boros Energy,W-B-R-G Domain Zoo,0,1,0,1,0.0
+Gruul Aggro,Boros Aggro,1,0,0,1,100.0
+Gruul Aggro,Izzet Affinity,0,1,0,1,0.0
+Gruul Aggro,Mono-Blue Belcher,1,0,0,1,100.0
+Gruul Aggro,Izzet Prowess,0,2,0,2,0.0
+Gruul Aggro,W-U-B-G Goryo's Vengeance,0,1,0,1,0.0
+Gruul Aggro,Mono-Green Amulet Titan,1,0,0,1,100.0
+Gruul Aggro,W-U-R-G Domain Zoo,1,0,0,1,100.0
+Jeskai Blink,Izzet Midrange,1,1,0,2,50.0
+Boros Burn,W-U-B-G Goryo's Vengeance,0,1,0,1,0.0
+Boros Burn,Izzet Affinity,1,1,0,2,50.0
+Boros Burn,Jeskai Midrange,1,0,0,1,100.0
+Boros Burn,W-U-B-R-G Midrange,1,0,0,1,100.0
+Boros Burn,Simic Amulet Titan,0,1,0,1,0.0
+Boros Burn,W-U-R-G Domain Zoo,0,1,0,1,0.0
+Boros Burn,Mono-Green Amulet Titan,0,1,0,1,0.0
+Boros Burn,Jeskai Blink,1,0,0,1,100.0
+W-U-R-G Domain Zoo,Jeskai Control,3,0,0,3,100.0
+W-U-R-G Domain Zoo,Gruul Broodscale,0,3,0,3,0.0
+W-U-R-G Domain Zoo,Esper Blink,1,1,0,2,50.0
+W-U-R-G Domain Zoo,W-U-B-G Samwise Combo,1,0,0,1,100.0
+W-U-R-G Domain Zoo,Boros Burn,1,0,0,1,100.0
+Colorless Eldrazi,W-U-B-R-G Goryo's Vengeance,1,0,0,1,100.0
+Colorless Eldrazi,W-U-B-G Goryo's Vengeance,1,2,0,3,33.3
+Colorless Eldrazi,W-U-R-G Domain Zoo,1,2,0,3,33.3
+Colorless Eldrazi,Jeskai Blink,0,4,0,4,0.0
+Colorless Eldrazi,Orzhov Midrange,1,0,0,1,100.0
+Dimir Reanimator,Jeskai Blink,0,0,2,2,
+Dimir Reanimator,Esper Combo,1,0,0,1,100.0
+Dimir Reanimator,Abzan Samwise Birthing Ritual,0,1,0,1,0.0
+Dimir Reanimator,Mono-Blue Belcher,1,0,0,1,100.0
+Dimir Reanimator,Boros Energy,1,0,0,1,100.0
+Dimir Reanimator,Gruul Eldrazi Ramp,0,0,1,1,
+Dimir Reanimator,Simic Amulet Titan,0,1,0,1,0.0
+Dimir Reanimator,Mono-Green Eldrazi,0,1,0,1,0.0
+Jeskai Blink,Boros Burn,0,1,0,1,0.0
+Jeskai Blink,Mono-Red Burn,0,1,0,1,0.0
+Jeskai Blink,Gruul Eldrazi Aggro,1,2,0,3,33.3
+Jeskai Blink,Dimir Midrange,1,0,0,1,100.0
+Jeskai Blink,Orzhov Midrange,0,2,0,2,0.0
+Simic Amulet Titan,Simic Amulet Titan,1,1,0,2,50.0
+Simic Amulet Titan,Colorless Tron,1,0,0,1,100.0
+Boros Energy,Esper Goryo's Vengeance,0,1,0,1,0.0
+Boros Energy,Mono-Blue Merfolk,1,0,0,1,100.0
+Boros Energy,Dimir Reanimator,0,1,0,1,0.0
+Azorius Blink,Izzet Aggro,0,1,0,1,0.0
+Azorius Blink,Izzet Affinity,0,2,1,3,0.0
+Azorius Blink,Grixis Reanimator,1,0,0,1,100.0
+Azorius Blink,W-U-B-G Goryo's Vengeance,1,2,0,3,33.3
+Mono-Green Amulet Titan,Azorius Energy,1,1,0,2,50.0
+Mono-Green Amulet Titan,Gruul Aggro,0,1,0,1,0.0
+Mono-Green Amulet Titan,Mono-Blue Merfolk,0,1,0,1,0.0
+Izzet Affinity,Azorius (Kaheera),0,1,0,1,0.0
+Azorius Control,Jeskai Blink,0,2,0,2,0.0
+Azorius Control,Izzet Affinity,1,1,0,2,50.0
+Azorius Control,Colorless Eldrazi,1,0,0,1,100.0
+Azorius Control,Gruul Broodscale,0,1,0,1,0.0
+Azorius Control,Gruul Eldrazi Ramp,1,0,0,1,100.0
+Azorius Control,Boros Energy,0,1,0,1,0.0
+Azorius Control,W-U-R-G Domain Zoo,1,0,0,1,100.0
+Izzet Affinity,Dimir Mill,1,0,0,1,100.0
+W-B-R-G Domain Zoo,Izzet Prowess,2,1,0,3,66.7
+W-B-R-G Domain Zoo,Boros Energy,1,0,0,1,100.0
+W-B-R-G Domain Zoo,Simic Birthing Ritual,0,1,0,1,0.0
+W-B-R-G Domain Zoo,Gruul Broodscale,0,1,0,1,0.0
+W-B-R-G Domain Zoo,Izzet Affinity,0,1,0,1,0.0
+W-B-R-G Domain Zoo,W-U-B-G Goryo's Vengeance,1,0,0,1,100.0
+Simic Birthing Ritual,Boros Storm,1,1,0,2,50.0
+Simic Birthing Ritual,Mono-Blue Merfolk,0,1,0,1,0.0
+Simic Birthing Ritual,Mono-Red Burn,0,1,0,1,0.0
+Simic Birthing Ritual,W-U-R-G Aggro,1,0,0,1,100.0
+W-U-R-G Domain Zoo,Dimir Midrange,1,1,0,2,50.0
+W-U-R-G Domain Zoo,Mono-Red Combo,1,0,0,1,100.0
+W-U-R-G Domain Zoo,Azorius Energy,1,0,0,1,100.0
+Mono-Green Amulet Titan,Dimir Midrange,2,2,0,4,50.0
+Mono-Green Amulet Titan,Golgari Broodscale,0,1,0,1,0.0
+Mono-Green Amulet Titan,Boros Burn,1,0,0,1,100.0
+Gruul Eldrazi Ramp,Izzet Prowess,2,6,0,8,25.0
+Gruul Eldrazi Ramp,Mono-Blue Merfolk,0,2,0,2,0.0
+Gruul Eldrazi Ramp,Izzet Affinity,1,3,0,4,25.0
+Gruul Eldrazi Ramp,Esper Blink,1,3,0,4,25.0
+Gruul Eldrazi Ramp,Simic Amulet Titan,0,3,0,3,0.0
+Mono-Blue Belcher,Gruul Eldrazi Ramp,0,1,0,1,0.0
+Mono-Blue Belcher,Gruul Aggro,0,1,0,1,0.0
+Mono-Blue Belcher,Dimir Midrange,1,0,0,1,100.0
+W-U-B-G Goryo's Vengeance,W-U-B-R-G Goryo's Vengeance,2,0,0,2,100.0
+W-U-B-G Goryo's Vengeance,Izzet Control,1,0,0,1,100.0
+W-U-B-G Goryo's Vengeance,Izzet Midrange,0,1,0,1,0.0
+W-U-R-G Domain Zoo,Jeskai,1,1,0,2,50.0
+W-U-R-G Domain Zoo,Azorius Control,0,1,0,1,0.0
+W-U-B-G Goryo's Vengeance,W-U-B-R-G Birthing Ritual,0,1,0,1,0.0
+W-U-B-G Goryo's Vengeance,W-B-R-G Domain Zoo,0,1,0,1,0.0
+W-U-B-G Goryo's Vengeance,Izzet Aggro,3,1,0,4,75.0
+Jeskai Blink,Abzan Samwise Birthing Ritual,0,2,1,3,0.0
+Abzan Samwise Birthing Ritual,Jeskai Blink,2,0,1,3,100.0
+Abzan Samwise Birthing Ritual,Boros Energy,0,0,1,1,
+Abzan Samwise Birthing Ritual,Dimir Reanimator,1,0,0,1,100.0
+Abzan Samwise Birthing Ritual,Colorless Eldrazi,0,1,0,1,0.0
+Abzan Samwise Birthing Ritual,Simic Birthing Ritual,0,1,0,1,0.0
+Abzan Samwise Birthing Ritual,Jeskai Control (Kaheera),0,1,0,1,0.0
+Izzet Wizards,W-U-B-G Goryo's Vengeance,1,0,1,2,100.0
+Izzet Wizards,Izzet Affinity,0,2,0,2,0.0
+Izzet Wizards,Azorius Blink,1,0,0,1,100.0
+Izzet Wizards,Jeskai Control (Kaheera),1,0,0,1,100.0
+Izzet Wizards,Jeskai Blink,0,1,0,1,0.0
+Jeskai Blink,Dimir Reanimator,0,0,2,2,
+Jeskai Blink,W-U-B-G Blink,1,0,1,2,100.0
+Colorless Eldrazi,Jeskai Control (Kaheera),1,0,1,2,100.0
+Colorless Eldrazi,Esper Combo,1,0,0,1,100.0
+Colorless Eldrazi,Abzan Samwise Birthing Ritual,1,0,0,1,100.0
+Izzet Prowess,Izzet Midrange,2,2,0,4,50.0
+Gruul Eldrazi Ramp,Mono-Green Eldrazi,1,1,0,2,50.0
+Gruul Eldrazi Ramp,Boros Storm,0,1,0,1,0.0
+Gruul Eldrazi Ramp,Gruul Eldrazi Ramp,2,2,0,4,50.0
+Gruul Eldrazi Ramp,Dimir Mill,1,1,0,2,50.0
+W-U-B-G Blink,Simic Amulet Titan,0,1,0,1,0.0
+W-U-B-G Blink,Izzet Affinity,1,0,0,1,100.0
+W-U-B-G Blink,Jeskai Blink,0,1,1,2,0.0
+W-U-B-G Blink,Mono-Red Storm,1,0,0,1,100.0
+W-U-B-G Blink,W-U-B-G Goryo's Vengeance,1,1,0,2,50.0
+W-U-B-R-G Birthing Ritual,Izzet Prowess,0,1,0,1,0.0
+W-U-B-R-G Birthing Ritual,W-U-B-G Goryo's Vengeance,1,0,0,1,100.0
+W-U-B-R-G Birthing Ritual,Izzet Aggro,0,1,0,1,0.0
+W-U-B-G Goryo's Vengeance,Jeskai (Obosh),1,0,0,1,100.0
+W-U-B-G Goryo's Vengeance,Mono-Green Broodscale,0,1,0,1,0.0
+W-U-B-G Goryo's Vengeance,Simic Birthing Ritual,0,3,0,3,0.0
+Izzet Affinity,Gruul Eldrazi Aggro,0,1,0,1,0.0
+Esper Blink,W-U-R-G Domain Zoo,1,1,0,2,50.0
+Esper Blink,Azorius Blink,1,0,0,1,100.0
+Esper Blink,W-U-B-G Goryo's Vengeance,0,3,0,3,0.0
+Mono-Red Storm,Boros Aggro,1,0,0,1,100.0
+Mono-Red Storm,Gruul Eldrazi Ramp,1,0,0,1,100.0
+Mono-Red Storm,Jeskai Midrange,0,2,0,2,0.0
+W-U-R-G Domain Zoo,Izzet,1,0,0,1,100.0
+Jeskai Blink,Boros Storm,0,1,0,1,0.0
+W-U-B-G Goryo's Vengeance,Mono-Blue Merfolk,1,0,0,1,100.0
+W-U-B-G Goryo's Vengeance,Dimir Mill,1,0,0,1,100.0
+Colorless Tron,Golgari Birthing Ritual,1,0,0,1,100.0
+Colorless Tron,W-U-B-G Samwise Combo,1,0,0,1,100.0
+Mono-Green Amulet Titan,Boros Storm,0,1,0,1,0.0
+W-U-B-G Goryo's Vengeance,Gruul Eldrazi Ramp,1,0,0,1,100.0
+W-U-B-G Goryo's Vengeance,Azorius (Kaheera),0,1,0,1,0.0
+Gruul Eldrazi Ramp,W-U-B-G Goryo's Vengeance,0,1,0,1,0.0
+Gruul Eldrazi Ramp,W-U-R-G Aggro,1,0,0,1,100.0
+Gruul Eldrazi Ramp,Mono-Green Amulet Titan,1,0,0,1,100.0
+Esper Blink,Dimir Murktide,0,1,0,1,0.0
+Esper Blink,Mono-Blue Belcher,0,2,0,2,0.0
+Esper Blink,Simic,1,0,0,1,100.0
+Mono-Blue Belcher,Orzhov Midrange,1,0,0,1,100.0
+Mono-Blue Belcher,Dimir Reanimator,0,1,0,1,0.0
+Mono-Blue Belcher,Jeskai (Obosh),1,0,0,1,100.0
+Izzet Midrange,Golgari Broodscale,1,0,0,1,100.0
+Izzet Midrange,Esper Goryo's Vengeance,1,0,0,1,100.0
+Izzet Midrange,Gruul Broodscale,0,1,0,1,0.0
+Izzet Midrange,Simic Neoform,0,1,0,1,0.0
+Izzet Midrange,W-U-R-G Domain Zoo,1,0,0,1,100.0
+W-U-B-G Goryo's Vengeance,Gruul Aggro,1,0,0,1,100.0
+Mono-Blue Belcher,Jeskai,2,0,0,2,100.0
+W-U-R-G Domain Zoo,Simic,2,0,0,2,100.0
+Izzet Affinity,W-B-R-G Domain Zoo,1,0,0,1,100.0
+Izzet Aggro,Azorius Blink,1,0,0,1,100.0
+Jeskai Blink,Simic Titan,0,1,0,1,0.0
+Jeskai Blink,Mono-Blue Merfolk,3,1,0,4,75.0
+Mono-Blue Merfolk,W-U-B-G Goryo's Vengeance,0,1,0,1,0.0
+Mono-Blue Merfolk,W-U-R-G Control,0,1,0,1,0.0
+Mono-Blue Merfolk,Mono-Green Scapeshift,1,0,0,1,100.0
+Mono-Blue Merfolk,Gruul Eldrazi Aggro,0,1,0,1,0.0
+Izzet Prowess,Izzet,1,0,0,1,100.0
+Jeskai (Obosh),W-U-B-G Goryo's Vengeance,0,1,0,1,0.0
+Jeskai (Obosh),Izzet Affinity,1,0,0,1,100.0
+Jeskai (Obosh),Simic Amulet Titan,1,1,0,2,50.0
+Jeskai (Obosh),Boros Aggro,0,1,0,1,0.0
+Jeskai (Obosh),Mono-Blue Belcher,0,1,0,1,0.0
+Jeskai (Obosh),W-U-B-G Samwise Combo,1,0,0,1,100.0
+Dimir Midrange,Simic Amulet Titan,0,2,0,2,0.0
+Dimir Midrange,W-U-B-R-G Midrange,0,1,0,1,0.0
+Dimir Midrange,Izzet Affinity,1,1,0,2,50.0
+Dimir Midrange,Mono-Green Amulet Titan,2,2,0,4,50.0
+Dimir Midrange,Boros Energy,0,1,0,1,0.0
+Dimir Midrange,Mono-Blue Belcher,0,1,0,1,0.0
+Dimir Midrange,Jeskai Blink,0,1,0,1,0.0
+Dimir Midrange,W-U-R-G Aggro,1,0,0,1,100.0
+Dimir Midrange,W-U-R-G Domain Zoo,1,1,0,2,50.0
+Gruul Eldrazi Ramp,Orzhov Midrange,1,0,0,1,100.0
+Gruul Eldrazi Ramp,Grixis Reanimator,1,0,0,1,100.0
+W-U-R-G Domain Zoo,Orzhov Aggro,0,1,0,1,0.0
+W-U-R-G Domain Zoo,Golgari Broodscale,1,0,0,1,100.0
+W-U-R-G Domain Zoo,Gruul Aggro,0,1,0,1,0.0
+Azorius Energy,Jeskai Blink,0,2,0,2,0.0
+Azorius Energy,Mono-Green Amulet Titan,1,1,0,2,50.0
+Azorius Energy,Simic Birthing Ritual,1,0,0,1,100.0
+Azorius Energy,Izzet Prowess,1,0,0,1,100.0
+Azorius Energy,W-U-R-G Domain Zoo,0,1,0,1,0.0
+Mono-Blue Belcher,W-U-R-G Aggro,0,1,0,1,0.0
+Mono-Blue Belcher,W-U-R-G Domain Zoo,0,1,0,1,0.0
+Simic Neoform,Colorless Tron,0,1,0,1,0.0
+Simic Neoform,Esper Goryo's Vengeance,0,1,0,1,0.0
+Izzet Affinity,W-U-B-G Blink,0,1,0,1,0.0
+Simic Birthing Ritual,W-U-B-R-G Goryo's Vengeance,1,0,0,1,100.0
+Simic Birthing Ritual,Jeskai Control,1,0,0,1,100.0
+Dimir Midrange,Izzet Prowess,0,0,1,1,
+Dimir Midrange,Jeskai Control (Kaheera),0,1,0,1,0.0
+Dimir Midrange,Simic Birthing Ritual,1,1,0,2,50.0
+W-U-B-G Goryo's Vengeance,Esper Combo,1,0,0,1,100.0
+Simic Birthing Ritual,Esper Goryo's Vengeance,1,0,0,1,100.0
+Simic Birthing Ritual,Azorius (Kaheera),0,1,0,1,0.0
+Izzet Prowess,Grixis Midrange,1,0,0,1,100.0
+Orzhov Aggro,Boros Energy,0,1,0,1,0.0
+Orzhov Aggro,W-U-B-G Goryo's Vengeance,1,1,0,2,50.0
+Orzhov Aggro,W-U-R-G Domain Zoo,1,0,0,1,100.0
+Orzhov Aggro,Colorless Tron,0,1,0,1,0.0
+Orzhov Aggro,Simic Amulet Titan,0,1,0,1,0.0
+Simic Amulet Titan,W-U-B-G,0,1,0,1,0.0
+Dimir Mill,Jeskai Blink,1,0,0,1,100.0
+Dimir Mill,Gruul Eldrazi Ramp,1,1,0,2,50.0
+Dimir Mill,Boros Energy,0,1,0,1,0.0
+Dimir Mill,W-U-B-G Goryo's Vengeance,0,1,0,1,0.0
+Dimir Mill,Simic Birthing Ritual,0,1,0,1,0.0
+Izzet Prowess,Azorius Energy,0,1,0,1,0.0
+Boros Energy,Izzet,0,1,0,1,0.0
+Izzet Control,Jeskai Blink,1,1,0,2,50.0
+Izzet Control,Simic Birthing Ritual,1,0,0,1,100.0
+Izzet Control,Izzet Affinity,0,1,0,1,0.0
+Izzet Control,W-U-R-G Domain Zoo,0,1,0,1,0.0
+Izzet Control,W-U-B-G Goryo's Vengeance,0,1,0,1,0.0
+Colorless Tron,Simic Neoform,1,0,0,1,100.0
+Colorless Tron,Grixis Midrange,0,1,0,1,0.0
+Colorless Tron,Mono-Green Eldrazi,0,1,0,1,0.0
+Colorless Tron,Simic Amulet Titan,0,1,0,1,0.0
+Mono-Green Scapeshift,Simic Amulet Titan,1,1,0,2,50.0
+Mono-Green Scapeshift,Mono-Red Storm,1,0,0,1,100.0
+Mono-Green Scapeshift,Mono-Green Amulet Titan,0,1,0,1,0.0
+Mono-Green Scapeshift,Mono-Blue Merfolk,0,1,0,1,0.0
+Mono-Green Scapeshift,Jeskai Control,0,1,0,1,0.0
+W-U-B-G Samwise Combo,Mono-Green Amulet Titan,1,0,0,1,100.0
+W-U-B-G Samwise Combo,Mono-Blue Belcher,0,1,0,1,0.0
+W-U-B-G Samwise Combo,Simic Amulet Titan,1,1,0,2,50.0
+W-U-B-G Samwise Combo,Colorless Tron,0,1,0,1,0.0
+W-U-B-G Samwise Combo,W-U-R-G Domain Zoo,0,1,0,1,0.0
+W-U-B-G Samwise Combo,Jeskai (Obosh),0,1,0,1,0.0
+Golgari Broodscale,Izzet Midrange,0,1,0,1,0.0
+Golgari Broodscale,Simic Neoform,1,0,0,1,100.0
+Golgari Broodscale,Gruul Broodscale,0,1,0,1,0.0
+Golgari Broodscale,W-U-R-G Domain Zoo,0,1,0,1,0.0
+Golgari Broodscale,Mono-Green Amulet Titan,1,0,0,1,100.0
+Golgari Broodscale,Mono-Red Storm,0,1,0,1,0.0
+Izzet Midrange,Grixis Midrange,1,0,0,1,100.0
+W-U-R-G Domain Zoo,Mono-Blue Belcher,1,0,0,1,100.0
+W-U-R-G Domain Zoo,Izzet Midrange,0,1,0,1,0.0
+Mono-Green Amulet Titan,Orzhov Midrange,1,0,0,1,100.0
+Izzet Prowess,Esper Goryo's Vengeance,0,1,0,1,0.0
+W-U-B-R-G Midrange,Mono-Red Storm,0,1,0,1,0.0
+W-U-B-R-G Midrange,Dimir Midrange,1,0,0,1,100.0
+W-U-B-R-G Midrange,Esper Blink,0,1,0,1,0.0
+W-U-B-R-G Midrange,Esper Goryo's Vengeance,1,0,0,1,100.0
+W-U-B-R-G Midrange,Boros Burn,0,1,0,1,0.0
+Colorless Eldrazi,W-U-R-G Aggro,1,0,0,1,100.0
+Mono-Green Amulet Titan,Gruul Eldrazi Ramp,0,1,0,1,0.0
+Mono-Green Eldrazi,Izzet Affinity,0,1,0,1,0.0
+Mono-Green Amulet Titan,Simic,1,0,0,1,100.0
+Grixis Reanimator,Mono-Green Amulet Titan,0,1,0,1,0.0
+Grixis Reanimator,Izzet Prowess,1,0,0,1,100.0
+Grixis Reanimator,Jeskai Blink,1,1,0,2,50.0
+Grixis Reanimator,Azorius Blink,0,1,0,1,0.0
+Grixis Reanimator,Gruul Eldrazi Ramp,0,1,0,1,0.0
+Izzet Prowess,Rakdos Sacrifice,1,1,0,2,50.0
+Gruul Eldrazi Ramp,Mono-Red Storm,0,1,0,1,0.0
+Gruul Eldrazi Ramp,Azorius Control,0,1,0,1,0.0
+W-U-R-G Aggro,Mono-Blue Belcher,1,0,0,1,100.0
+W-U-R-G Aggro,Jeskai Blink,0,2,0,2,0.0
+W-U-R-G Aggro,Colorless Eldrazi,0,1,0,1,0.0
+W-U-R-G Aggro,Gruul Broodscale,0,1,0,1,0.0
+W-U-R-G Aggro,Gruul Eldrazi Ramp,0,1,0,1,0.0
+W-U-R-G Aggro,W-U-B-G Goryo's,1,0,0,1,100.0
+W-U-R-G Aggro,Simic Birthing Ritual,0,1,0,1,0.0
+W-U-R-G Aggro,Dimir Midrange,0,1,0,1,0.0
+Izzet Prowess,Grixis Reanimator,0,1,0,1,0.0
+Izzet Prowess,Golgari Yawgmoth,0,1,0,1,0.0
+Golgari Yawgmoth,Izzet Storm,0,1,0,1,0.0
+Golgari Yawgmoth,Simic Amulet Titan,0,1,0,1,0.0
+Golgari Yawgmoth,Mono-Green Amulet Titan,0,1,0,1,0.0
+Golgari Yawgmoth,Izzet Prowess,1,0,0,1,100.0
+Golgari Yawgmoth,Dimir Midrange,1,0,0,1,100.0
+Golgari Yawgmoth,Boros Energy,0,1,0,1,0.0
+Jeskai Blink,Jeskai,0,1,1,2,0.0
+Azorius Blink,Mono-Red Combo,1,0,0,1,100.0
+Azorius Blink,Izzet Wizards,0,1,0,1,0.0
+Izzet Prowess,Dimir Midrange,0,0,1,1,
+Jeskai,W-U-R-G Domain Zoo,1,1,0,2,50.0
+Jeskai,Boros Energy,0,1,0,1,0.0
+Jeskai,Jeskai Blink,1,0,1,2,100.0
+Jeskai,Jeskai Control (Kaheera),0,1,0,1,0.0
+Mono-Red Storm,Izzet Aggro,0,1,0,1,0.0
+Mono-Red Storm,Abzan Enchantress,0,0,1,1,
+Mono-Red Storm,W-U-B-G Blink,0,1,0,1,0.0
+Simic Amulet Titan,Abzan Enchantress,1,0,0,1,100.0
+Esper Combo,Esper Blink,0,0,1,1,
+Esper Combo,Dimir Reanimator,0,1,0,1,0.0
+Esper Combo,Colorless Eldrazi,0,1,0,1,0.0
+Esper Combo,Dimir Mill,1,0,0,1,100.0
+Esper Combo,W-U-B-G Goryo's Vengeance,0,1,0,1,0.0
+Colorless Eldrazi,Gruul Broodscale,1,0,0,1,100.0
+Colorless Eldrazi,Mono-Green Broodscale,0,1,0,1,0.0
+Simic Neoform,Gruul Eldrazi Aggro,0,1,0,1,0.0
+W-U-B-G Goryo's,Gruul Broodscale,1,0,0,1,100.0
+W-U-B-G Goryo's,Simic Birthing Ritual,0,1,0,1,0.0
+W-U-B-G Goryo's,Izzet Aggro,0,1,0,1,0.0
+W-U-B-G Goryo's,W-U-B-G Goryo's Vengeance,0,1,0,1,0.0
+W-U-B-G Goryo's,Mono-Red Storm,0,1,0,1,0.0
+W-U-B-G Goryo's,W-U-R-G Aggro,0,1,0,1,0.0
+Jeskai Midrange,Simic Titan,0,1,0,1,0.0
+Jeskai Midrange,Boros Burn,0,1,0,1,0.0
+Jeskai Midrange,Izzet Midrange,0,1,0,1,0.0
+Simic Birthing Ritual,W-U-B-G,0,1,0,1,0.0
+Simic Birthing Ritual,Izzet Control,0,1,0,1,0.0
+Mono-Red Storm,Dimir Murktide,0,1,0,1,0.0
+Mono-Red Storm,Mono-Green Eldrazi,0,1,0,1,0.0
+Colorless Eldrazi,Azorius Blink,0,1,0,1,0.0
+Colorless Eldrazi,Azorius Control,0,1,0,1,0.0
+Simic Amulet Titan,Golgari Yawgmoth,1,0,0,1,100.0
+Simic Amulet Titan,Orzhov Midrange,0,1,0,1,0.0
+Mono-Green Amulet Titan,Golgari Yawgmoth,1,0,0,1,100.0
+Mono-Green Amulet Titan,W-U-B-G Samwise Combo,0,1,0,1,0.0
+Mono-Green Amulet Titan,Jeskai Control,1,0,0,1,100.0
+Jeskai,Mono-Green Amulet Titan,0,1,0,1,0.0
+Jeskai,Mono-Blue Belcher,0,2,0,2,0.0
+Simic Birthing Ritual,Azorius Energy,0,1,0,1,0.0
+Simic,Simic Birthing Ritual,0,1,0,1,0.0
+Simic,W-U-R-G Domain Zoo,0,2,0,2,0.0
+Simic,Gruul Eldrazi Ramp,1,0,0,1,100.0
+Simic,Mono-Green Amulet Titan,0,1,0,1,0.0
+Simic,Esper Blink,0,1,0,1,0.0
+Jeskai Control,Rakdos Lantern Control,1,0,0,1,100.0
+Jeskai Control,Simic Birthing Ritual,0,1,0,1,0.0
+Dimir Midrange,Golgari Yawgmoth,0,1,0,1,0.0
+Rakdos Sacrifice,Jeskai Blink,0,2,0,2,0.0
+Rakdos Sacrifice,Izzet Prowess,1,1,0,2,50.0
+Rakdos Sacrifice,Esper Goryo's Vengeance,0,1,0,1,0.0
+Grixis Midrange,Izzet Prowess,0,1,0,1,0.0
+Grixis Midrange,Izzet Midrange,0,1,0,1,0.0
+Mono-Blue Merfolk,Izzet,0,1,0,1,0.0
+Mono-Blue Merfolk,Jeskai Blink,1,3,0,4,25.0
+Esper Blink,Esper Combo,0,0,1,1,
+Esper Blink,Gruul Broodscale,0,1,0,1,0.0
+Abzan Enchantress,Simic Birthing Ritual,0,1,0,1,0.0
+Abzan Enchantress,Mono-Red Storm,0,0,1,1,
+Abzan Enchantress,Simic Amulet Titan,0,1,0,1,0.0
+Izzet Aggro,Orzhov Midrange,0,1,0,1,0.0
+Rakdos Lantern Control,Gruul Broodscale,0,1,0,1,0.0
+Rakdos Lantern Control,Izzet Prowess,0,1,0,1,0.0
+Rakdos Lantern Control,Boros Energy,0,1,0,1,0.0
+Rakdos Lantern Control,Jeskai Control,0,1,0,1,0.0
+Mono-Red Combo,Azorius Blink,0,1,0,1,0.0
+Mono-Red Combo,Simic Birthing Ritual,0,1,0,1,0.0
+Mono-Red Combo,Izzet Affinity,0,1,0,1,0.0
+Mono-Red Combo,W-U-R-G Domain Zoo,0,1,0,1,0.0
+Dimir Mill,Izzet Affinity,0,1,0,1,0.0
+Dimir Mill,W-U-R-G Domain Zoo,0,1,0,1,0.0
+Dimir Mill,Jeskai Control,0,1,0,1,0.0
+Dimir Mill,Esper Combo,0,1,0,1,0.0
+W-U-R-G Domain Zoo,Golgari Birthing Ritual,0,1,0,1,0.0
+W-U-R-G Domain Zoo,Boros Aggro,0,1,0,1,0.0
+Izzet Affinity,Jeskai (Obosh),0,1,0,1,0.0
+Izzet,Simic Amulet Titan,0,1,0,1,0.0
+Izzet,Izzet Prowess,0,1,0,1,0.0
+W-U-B-R-G Goryo's Vengeance,Colorless Eldrazi,0,1,0,1,0.0
+W-U-B-R-G Goryo's Vengeance,W-U-B-G Goryo's Vengeance,0,2,0,2,0.0
+W-U-B-R-G Goryo's Vengeance,Simic Birthing Ritual,0,1,0,1,0.0
+Gruul Eldrazi Ramp,Simic,0,1,0,1,0.0

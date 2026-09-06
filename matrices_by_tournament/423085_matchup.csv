@@ -1,0 +1,283 @@
+archetype_a,archetype_b,win,loss,draw,games,winrate
+W-U-B-G Goryo's,Izzet Prowess,1,0,1,2,100.0
+W-U-B-G Goryo's,Izzet Affinity,2,1,0,3,66.7
+W-U-B-G Goryo's,W-U-B-R-G Domain Zoo,1,0,0,1,100.0
+W-U-B-G Goryo's,Dimir Affinity,1,1,0,2,50.0
+W-U-B-G Goryo's,Dimir Midrange,0,2,0,2,0.0
+W-U-B-G Goryo's,Mono-Green Tron,2,0,0,2,100.0
+W-U-B-G Goryo's,Jeskai Combo,0,1,1,2,0.0
+Izzet Eldrazi Breach,Jeskai Blink,3,0,0,3,100.0
+Izzet Eldrazi Breach,W-U-B-R-G Domain Zoo,0,1,0,1,0.0
+Izzet Eldrazi Breach,Gruul Ruby Storm,1,0,0,1,100.0
+Izzet Eldrazi Breach,Jeskai,1,0,0,1,100.0
+Izzet Eldrazi Breach,W-U-B-G Goryo's,0,1,0,1,0.0
+U-B-R-G Dredge,W-U-R-G Domain Zoo,1,0,0,1,100.0
+U-B-R-G Dredge,Dimir Midrange,0,0,1,1,
+U-B-R-G Dredge,Izzet,1,0,0,1,100.0
+U-B-R-G Dredge,Boros Energy,1,0,0,1,100.0
+U-B-R-G Dredge,W-U-B-R-G Domain Zoo,1,0,0,1,100.0
+U-B-R-G Dredge,Izzet Affinity,0,1,1,2,0.0
+Dimir Midrange,Boros Aggro,1,0,0,1,100.0
+Dimir Midrange,U-B-R-G Dredge,0,0,1,1,
+Dimir Midrange,W-U-B-G Goryo's,2,0,0,2,100.0
+Dimir Midrange,Colorless Burn,1,0,0,1,100.0
+Dimir Midrange,Simic Ritual,1,0,1,2,100.0
+Dimir Midrange,Jeskai Combo,0,1,0,1,0.0
+Simic Ritual,Mono-Green,1,0,0,1,100.0
+Simic Ritual,Gruul Ruby Storm,1,0,0,1,100.0
+Simic Ritual,Abzan Samwise Gamgee Combo,1,0,0,1,100.0
+Simic Ritual,Jeskai Combo,1,0,0,1,100.0
+Simic Ritual,Izzet Affinity,0,0,1,1,
+Simic Ritual,Dimir Midrange,0,1,1,2,0.0
+Izzet Affinity,Mono-Red Storm,1,0,0,1,100.0
+Izzet Affinity,Golgari,1,0,0,1,100.0
+Izzet Affinity,Dimir Combo,1,1,0,2,50.0
+Izzet Affinity,Jeskai Blink,2,0,0,2,100.0
+Izzet Affinity,Simic Ritual,0,0,1,1,
+Izzet Affinity,U-B-R-G Dredge,1,0,1,2,100.0
+Izzet Affinity,W-U-B-G Goryo's,1,2,0,3,33.3
+Izzet Affinity,Jeskai Combo,1,0,0,1,100.0
+W-U-B-G Goryo's,Mono-Blue Eldrazi,1,0,0,1,100.0
+W-U-B-G Goryo's,W-U-R-G Domain Zoo,1,0,0,1,100.0
+W-U-B-G Goryo's,Dimir Combo,1,0,0,1,100.0
+W-U-B-G Goryo's,Izzet Eldrazi Breach,1,0,0,1,100.0
+Jeskai Combo,Boros Energy,2,0,0,2,100.0
+Jeskai Combo,Golgari Miracles,1,0,0,1,100.0
+Jeskai Combo,Simic Ritual,0,1,0,1,0.0
+Jeskai Combo,Dimir Affinity,1,0,0,1,100.0
+Jeskai Combo,W-U-B-G Goryo's,1,0,1,2,100.0
+Jeskai Combo,Dimir Midrange,1,0,0,1,100.0
+Jeskai Combo,Izzet Affinity,0,1,0,1,0.0
+Izzet Prowess,Mono-Green Broodscale,1,0,0,1,100.0
+Izzet Prowess,W-U-B-G Goryo's,0,1,1,2,0.0
+Izzet Prowess,Colorless Burn,0,1,0,1,0.0
+Izzet Prowess,Grixis Burn,1,0,0,1,100.0
+Izzet Prowess,Boros Energy,1,1,0,2,50.0
+Izzet Prowess,Izzet Affinity,1,0,0,1,100.0
+Boros Energy,Grixis Reanimator,0,0,1,1,
+Boros Energy,Azorius Metalcraft,3,0,0,3,100.0
+Boros Energy,Izzet Affinity,1,0,1,2,100.0
+Boros Energy,U-B-R-G Dredge,0,1,0,1,0.0
+Boros Energy,Colorless Burn,1,0,0,1,100.0
+Boros Energy,Dimir Control,1,0,0,1,100.0
+Dimir Affinity,Jeskai Wizards,1,0,0,1,100.0
+Dimir Affinity,W-U-B-R-G Domain Zoo,1,0,0,1,100.0
+Dimir Affinity,W-U-B-G Goryo's,1,1,0,2,50.0
+Dimir Affinity,Jeskai Combo,0,1,0,1,0.0
+Dimir Affinity,Jeskai Blink,1,0,0,1,100.0
+Abzan Samwise Gamgee Combo,Grixis Burn,1,0,0,1,100.0
+Abzan Samwise Gamgee Combo,Jeskai Blink,1,0,0,1,100.0
+Abzan Samwise Gamgee Combo,Simic Ritual,0,1,0,1,0.0
+Abzan Samwise Gamgee Combo,W-U-B-R-G Domain Zoo,0,1,0,1,0.0
+Abzan Samwise Gamgee Combo,Jeskai,1,0,0,1,100.0
+Abzan Samwise Gamgee Combo,Boros Energy,1,0,0,1,100.0
+Mono-Green Tron,Jeskai Blink,1,0,0,1,100.0
+Mono-Green Tron,W-U-B-G Goryo's,0,2,0,2,0.0
+Mono-Green Tron,Golgari Miracles,1,0,0,1,100.0
+Mono-Green Tron,Izzet Aggro,1,0,0,1,100.0
+Mono-Green Tron,Boros Energy,1,0,0,1,100.0
+Dimir Combo,Sultai Living End,1,0,0,1,100.0
+Dimir Combo,Izzet Affinity,1,1,0,2,50.0
+Dimir Combo,W-U-R-G Domain Zoo,1,0,0,1,100.0
+Dimir Combo,W-U-B-G Goryo's,0,1,0,1,0.0
+Dimir Combo,Izzet Aggro,1,0,0,1,100.0
+Mono-Green Broodscale,Izzet Prowess,0,1,0,1,0.0
+Mono-Green Broodscale,Izzet Affinity,0,1,0,1,0.0
+Mono-Green Broodscale,Jeskai Blink,1,0,0,1,100.0
+Mono-Green Broodscale,Boros Burn,1,0,0,1,100.0
+Mono-Green Broodscale,Sultai Living End,1,0,0,1,100.0
+Mono-Green Broodscale,Boros Aggro,1,0,0,1,100.0
+Jeskai Blink,Colorless Eldrazi Tron,2,0,0,2,100.0
+Jeskai Blink,Abzan Samwise Gamgee Combo,0,1,0,1,0.0
+Jeskai Blink,Sultai Living End,0,1,0,1,0.0
+Jeskai Blink,Golgari Miracles,1,0,0,1,100.0
+Jeskai Blink,W-U-R-G Domain Zoo,2,2,0,4,50.0
+Jeskai Blink,Boros Energy,2,1,0,3,66.7
+Jeskai Control,W-U-B-R-G Domain Zoo,0,1,0,1,0.0
+Jeskai Control,Gruul Eldrazi Ramp,1,0,0,1,100.0
+Jeskai Control,Boros Energy,0,1,0,1,0.0
+Jeskai Control,Golgari,1,0,0,1,100.0
+Jeskai Control,Colorless Eldrazi Tron,1,0,0,1,100.0
+Jeskai Control,Colorless Burn,1,0,0,1,100.0
+Izzet Affinity,Mono-Green Broodscale,1,0,0,1,100.0
+Izzet Affinity,Boros Energy,0,1,1,2,0.0
+Izzet Affinity,Mono-Blue Tron,1,0,0,1,100.0
+Izzet Affinity,Boros Aggro,1,0,0,1,100.0
+Izzet Affinity,Izzet Prowess,0,1,0,1,0.0
+Boros Energy,Jeskai Combo,0,2,0,2,0.0
+Boros Energy,Izzet Prowess,1,1,0,2,50.0
+Boros Energy,W-U-B-G Goryo's,1,0,0,1,100.0
+Jeskai Blink,Dimir Mill,1,0,0,1,100.0
+Jeskai Blink,Boros Burn,2,1,0,3,66.7
+Jeskai Blink,Dimir Control,0,0,1,1,
+Jeskai Blink,Izzet Eldrazi Breach,0,3,0,3,0.0
+Dimir Control,Izzet Aggro,0,1,0,1,0.0
+Dimir Control,Grixis Reanimator,1,0,0,1,100.0
+Dimir Control,W-U-B-R-G Domain Zoo,1,0,0,1,100.0
+Dimir Control,Boros Aggro,1,0,0,1,100.0
+Dimir Control,Jeskai Blink,0,0,1,1,
+Dimir Control,Boros Energy,0,1,0,1,0.0
+Grixis Burn,Abzan Samwise Gamgee Combo,0,1,0,1,0.0
+Grixis Burn,Mono-Green Amulet Titan,0,0,1,1,
+Grixis Burn,Grixis Reanimator,1,0,0,1,100.0
+Grixis Burn,Izzet Prowess,0,1,0,1,0.0
+Grixis Burn,Golgari Miracles,1,0,0,1,100.0
+Grixis Burn,Mono-Blue Tron,1,0,0,1,100.0
+W-U-B-R-G Domain Zoo,Jeskai Control,1,0,0,1,100.0
+W-U-B-R-G Domain Zoo,Izzet Eldrazi Breach,1,0,0,1,100.0
+W-U-B-R-G Domain Zoo,W-U-B-G Goryo's,0,1,0,1,0.0
+W-U-B-R-G Domain Zoo,Abzan Samwise Gamgee Combo,1,0,0,1,100.0
+W-U-B-R-G Domain Zoo,U-B-R-G Dredge,0,1,0,1,0.0
+Jeskai Blink,Izzet Aggro,1,0,0,1,100.0
+Jeskai Blink,Izzet Affinity,0,2,0,2,0.0
+Jeskai Blink,Dimir Affinity,0,1,0,1,0.0
+Boros Energy,Gruul Eldrazi Ramp,1,0,0,1,100.0
+Boros Energy,Jeskai Blink,1,2,0,3,33.3
+Boros Energy,Mono-Green Tron,0,1,0,1,0.0
+Boros Energy,Abzan Samwise Gamgee Combo,0,1,0,1,0.0
+Sultai Living End,Dimir Combo,0,1,0,1,0.0
+Sultai Living End,Colorless Eldrazi Tron,1,0,0,1,100.0
+Sultai Living End,Jeskai Blink,1,0,0,1,100.0
+Sultai Living End,Boros Aggro,0,1,0,1,0.0
+Sultai Living End,Mono-Green Broodscale,0,1,0,1,0.0
+Sultai Living End,Jeskai,1,0,0,1,100.0
+Boros Aggro,Dimir Midrange,0,1,0,1,0.0
+Boros Aggro,Jeskai Blink,1,0,0,1,100.0
+Boros Aggro,Golgari,1,0,0,1,100.0
+Boros Aggro,Sultai Living End,1,0,0,1,100.0
+Boros Aggro,Izzet Affinity,0,1,0,1,0.0
+Boros Aggro,Mono-Green Broodscale,0,1,0,1,0.0
+Izzet Aggro,Dimir Control,1,0,0,1,100.0
+Izzet Aggro,Jeskai,1,0,0,1,100.0
+Izzet Aggro,Jeskai Blink,0,1,0,1,0.0
+Izzet Aggro,Mono-Green Tron,0,1,0,1,0.0
+Izzet Aggro,Mono-Red Storm,1,0,0,1,100.0
+Izzet Aggro,Dimir Combo,0,1,0,1,0.0
+Boros Energy,Golgari,0,1,0,1,0.0
+Boros Energy,Jeskai Wizards,1,0,0,1,100.0
+Boros Energy,Jeskai Control,1,0,0,1,100.0
+Boros Energy,W-U-B-R-G Domain Zoo,1,1,0,2,50.0
+Mono-Blue Eldrazi,W-U-B-G Goryo's,0,1,0,1,0.0
+Mono-Blue Eldrazi,Jeskai Blink,1,0,0,1,100.0
+Mono-Blue Eldrazi,Boros Aggro,0,1,0,1,0.0
+Mono-Blue Eldrazi,Izzet Affinity,1,0,0,1,100.0
+Mono-Blue Eldrazi,Azorius Metalcraft,0,1,0,1,0.0
+Mono-Blue Eldrazi,Boros Burn,1,0,0,1,100.0
+Jeskai Blink,Mono-Green Tron,0,1,0,1,0.0
+Jeskai Blink,Mono-Blue Eldrazi,0,1,0,1,0.0
+Jeskai Blink,Jeskai Blink,1,1,0,2,50.0
+Jeskai Blink,Mono-Red Storm,0,1,0,1,0.0
+Jeskai Blink,Grixis Reanimator,1,0,0,1,100.0
+Colorless Burn,Izzet,0,0,1,1,
+Colorless Burn,Grixis Reanimator,1,0,0,1,100.0
+Colorless Burn,Izzet Prowess,1,0,0,1,100.0
+Colorless Burn,Dimir Midrange,0,1,0,1,0.0
+Colorless Burn,Boros Energy,0,1,0,1,0.0
+Colorless Burn,Jeskai Control,0,1,0,1,0.0
+Azorius Metalcraft,Mono-Blue Tron,0,0,1,1,
+Azorius Metalcraft,Boros Energy,0,3,0,3,0.0
+Azorius Metalcraft,Mono-Green Amulet Titan,1,0,0,1,100.0
+Azorius Metalcraft,Mono-Blue Eldrazi,1,0,0,1,100.0
+Mono-Blue Tron,Azorius Metalcraft,0,0,1,1,
+Mono-Blue Tron,Izzet,0,1,0,1,0.0
+Mono-Blue Tron,Jeskai Blink,1,0,0,1,100.0
+Mono-Blue Tron,Izzet Affinity,0,1,0,1,0.0
+Mono-Blue Tron,W-U-B-G Goryo's,1,0,0,1,100.0
+Mono-Blue Tron,Grixis Burn,0,1,0,1,0.0
+W-U-R-G Domain Zoo,U-B-R-G Dredge,0,1,0,1,0.0
+W-U-R-G Domain Zoo,Jeskai Blink,2,2,0,4,50.0
+W-U-R-G Domain Zoo,Izzet Affinity,1,0,0,1,100.0
+W-U-R-G Domain Zoo,W-U-B-G Goryo's,0,1,0,1,0.0
+Jeskai,Boros Aggro,1,0,0,1,100.0
+Jeskai,Izzet Aggro,0,1,0,1,0.0
+Jeskai,Dimir Mill,1,0,0,1,100.0
+Jeskai,Izzet Eldrazi Breach,0,1,0,1,0.0
+Jeskai,Abzan Samwise Gamgee Combo,0,1,0,1,0.0
+Jeskai,Sultai Living End,0,1,0,1,0.0
+Izzet Affinity,Mono-Blue Eldrazi,0,1,0,1,0.0
+Izzet Affinity,Mono-Green,1,0,0,1,100.0
+Mono-Red Storm,Izzet Affinity,0,1,0,1,0.0
+Mono-Red Storm,Boros Aggro,0,1,0,1,0.0
+Mono-Red Storm,Jeskai Wizards,1,0,0,1,100.0
+Mono-Red Storm,Jeskai Blink,1,0,0,1,100.0
+Mono-Red Storm,Izzet Aggro,0,1,0,1,0.0
+Golgari,Boros Energy,1,0,0,1,100.0
+Golgari,Izzet Affinity,0,1,0,1,0.0
+Golgari,Boros Aggro,0,1,0,1,0.0
+Golgari,Jeskai Control,0,1,0,1,0.0
+Golgari,Boros Burn,0,1,0,1,0.0
+Golgari,Golgari Miracles,1,0,0,1,100.0
+Colorless Eldrazi Tron,Jeskai Blink,0,2,0,2,0.0
+Colorless Eldrazi Tron,Sultai Living End,0,1,0,1,0.0
+Colorless Eldrazi Tron,Colorless Eldrazi Tron,1,1,0,2,50.0
+Colorless Eldrazi Tron,Gruul Ruby Storm,2,0,0,2,100.0
+Colorless Eldrazi Tron,Jeskai Control,0,1,0,1,0.0
+Gruul Ruby Storm,Mono-Green Amulet Titan,1,0,0,1,100.0
+Gruul Ruby Storm,Simic Ritual,0,1,0,1,0.0
+Gruul Ruby Storm,Izzet Eldrazi Breach,0,1,0,1,0.0
+Gruul Ruby Storm,Colorless Eldrazi Tron,0,2,0,2,0.0
+Gruul Ruby Storm,Mono-Green,1,0,0,1,100.0
+Boros Burn,Jeskai Blink,1,2,0,3,33.3
+Boros Burn,Mono-Green Broodscale,0,1,0,1,0.0
+Boros Burn,Golgari,1,0,0,1,100.0
+Boros Burn,Mono-Blue Eldrazi,0,1,0,1,0.0
+W-U-B-R-G Domain Zoo,Colorless Eldrazi Tron,1,0,0,1,100.0
+W-U-B-R-G Domain Zoo,Dimir Affinity,0,1,0,1,0.0
+W-U-B-R-G Domain Zoo,Dimir Control,0,1,0,1,0.0
+W-U-B-R-G Domain Zoo,Boros Energy,1,1,0,2,50.0
+W-U-R-G Domain Zoo,Boros Energy,1,0,0,1,100.0
+W-U-R-G Domain Zoo,Dimir Combo,0,1,0,1,0.0
+Boros Aggro,Jeskai,0,1,0,1,0.0
+Boros Aggro,Mono-Red Storm,1,0,0,1,100.0
+Boros Aggro,Mono-Blue Eldrazi,1,0,0,1,100.0
+Boros Aggro,Dimir Control,0,1,0,1,0.0
+W-U-B-G Goryo's,Boros Energy,0,1,0,1,0.0
+W-U-B-G Goryo's,Mono-Blue Tron,0,1,0,1,0.0
+Izzet,Colorless Burn,0,0,1,1,
+Izzet,Mono-Blue Tron,1,0,0,1,100.0
+Izzet,U-B-R-G Dredge,0,1,0,1,0.0
+Grixis Reanimator,Boros Energy,0,0,1,1,
+Grixis Reanimator,Colorless Burn,0,1,0,1,0.0
+Grixis Reanimator,Grixis Burn,0,1,0,1,0.0
+Grixis Reanimator,Gruul Eldrazi Ramp,1,0,0,1,100.0
+Grixis Reanimator,Jeskai Blink,0,1,0,1,0.0
+Golgari Miracles,Boros Energy,1,0,0,1,100.0
+Golgari Miracles,Jeskai Combo,0,1,0,1,0.0
+Golgari Miracles,Mono-Green Tron,0,1,0,1,0.0
+Golgari Miracles,Jeskai Blink,0,1,0,1,0.0
+Golgari Miracles,Grixis Burn,0,1,0,1,0.0
+Golgari Miracles,Golgari,0,1,0,1,0.0
+Jeskai Blink,Mono-Blue Tron,0,1,0,1,0.0
+Jeskai Blink,Jeskai Wizards,1,0,0,1,100.0
+Izzet Affinity,Grixis Reanimator,1,0,0,1,100.0
+Izzet Affinity,W-U-R-G Domain Zoo,0,1,0,1,0.0
+Gruul Eldrazi Ramp,Boros Energy,0,1,0,1,0.0
+Gruul Eldrazi Ramp,Jeskai Control,0,1,0,1,0.0
+Gruul Eldrazi Ramp,Mono-Green,1,0,0,1,100.0
+Gruul Eldrazi Ramp,Grixis Reanimator,0,1,0,1,0.0
+Mono-Green,Simic Ritual,0,1,0,1,0.0
+Mono-Green,Dimir Mill,0,1,0,1,0.0
+Mono-Green,Gruul Eldrazi Ramp,0,1,0,1,0.0
+Mono-Green,Colorless Eldrazi Tron,1,0,0,1,100.0
+Mono-Green,Izzet Affinity,0,1,0,1,0.0
+Mono-Green,Gruul Ruby Storm,0,1,0,1,0.0
+Dimir Mill,Jeskai Blink,0,1,0,1,0.0
+Dimir Mill,Mono-Green,1,0,0,1,100.0
+Dimir Mill,Jeskai,0,1,0,1,0.0
+Boros Energy,Golgari Miracles,0,1,0,1,0.0
+Boros Energy,Colorless Eldrazi Tron,1,0,0,1,100.0
+Boros Energy,W-U-R-G Domain Zoo,0,1,0,1,0.0
+Colorless Eldrazi Tron,W-U-B-R-G Domain Zoo,0,1,0,1,0.0
+Colorless Eldrazi Tron,Boros Energy,0,1,0,1,0.0
+Colorless Eldrazi Tron,Mono-Green,0,1,0,1,0.0
+Mono-Green Amulet Titan,Gruul Ruby Storm,0,1,0,1,0.0
+Mono-Green Amulet Titan,Grixis Burn,0,0,1,1,
+Mono-Green Amulet Titan,Azorius Metalcraft,0,1,0,1,0.0
+Jeskai Blink,Boros Aggro,0,1,0,1,0.0
+Jeskai Blink,Mono-Green Broodscale,0,1,0,1,0.0
+Jeskai Wizards,Dimir Affinity,0,1,0,1,0.0
+Jeskai Wizards,Boros Energy,0,1,0,1,0.0
+Jeskai Wizards,Mono-Red Storm,0,1,0,1,0.0
+Jeskai Wizards,Jeskai Blink,0,1,0,1,0.0
+Grixis Reanimator,Izzet Affinity,0,1,0,1,0.0
+Grixis Reanimator,Dimir Control,0,1,0,1,0.0

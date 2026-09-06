@@ -1,0 +1,73 @@
+archetype_a,archetype_b,win,loss,draw,games,winrate
+Boros,Mono-Blue Merfolk,1,0,0,1,100.0
+Boros,Izzet Affinity,1,0,0,1,100.0
+Boros,Izzet Prowess,1,0,0,1,100.0
+Boros,Boros Energy,1,0,0,1,100.0
+Boros,Mono-Green Eldrazi,1,0,1,2,100.0
+Boros,Izzet,1,0,0,1,100.0
+Boros,Jeskai Control (Kaheera),0,1,0,1,0.0
+Jeskai Control (Kaheera),Boros Energy,2,0,0,2,100.0
+Jeskai Control (Kaheera),Selesnya,2,0,0,2,100.0
+Jeskai Control (Kaheera),Mono-Green Eldrazi,0,1,0,1,0.0
+Jeskai Control (Kaheera),Izzet Prowess,1,0,0,1,100.0
+Jeskai Control (Kaheera),Izzet Affinity,1,0,0,1,100.0
+Jeskai Control (Kaheera),Boros,1,0,0,1,100.0
+Selesnya,Izzet,1,0,0,1,100.0
+Selesnya,Jeskai Control (Kaheera),0,2,0,2,0.0
+Selesnya,Izzet Prowess,3,0,0,3,100.0
+Selesnya,Izzet Affinity,1,0,0,1,100.0
+Mono-Green Eldrazi,Gruul,1,0,0,1,100.0
+Mono-Green Eldrazi,Boros Energy,1,0,0,1,100.0
+Mono-Green Eldrazi,Jeskai Control (Kaheera),1,0,0,1,100.0
+Mono-Green Eldrazi,Mono-Red Ruby Storm,1,0,1,2,100.0
+Mono-Green Eldrazi,Boros,0,1,1,2,0.0
+Mono-Red Ruby Storm,Izzet Affinity,2,0,0,2,100.0
+Mono-Red Ruby Storm,Mono-Blue Merfolk,1,0,0,1,100.0
+Mono-Red Ruby Storm,Mono-Green Eldrazi,0,1,1,2,0.0
+Mono-Red Ruby Storm,Izzet Prowess,0,0,1,1,
+Izzet Prowess,W-U-B-R-G,1,0,0,1,100.0
+Izzet Prowess,Izzet Prowess,2,2,0,4,50.0
+Izzet Prowess,Boros,0,1,0,1,0.0
+Izzet Prowess,Izzet Affinity,2,0,0,2,100.0
+Izzet Prowess,Mono-Red Ruby Storm,0,0,1,1,
+Izzet Prowess,Selesnya,0,3,0,3,0.0
+Boros Energy,Izzet Affinity,0,1,0,1,0.0
+Boros Energy,Gruul,1,0,0,1,100.0
+Boros Energy,Esper Midrange,1,0,0,1,100.0
+Boros Energy,Boros,0,1,0,1,0.0
+Boros Energy,Izzet Prowess,1,0,0,1,100.0
+Boros Energy,Jeskai Control (Kaheera),0,2,0,2,0.0
+Izzet,Selesnya,0,1,0,1,0.0
+Izzet,Izzet Affinity,2,1,0,3,66.7
+Izzet,W-U-B-R-G,1,0,0,1,100.0
+Izzet,Boros,0,1,0,1,0.0
+Izzet Affinity,Boros Energy,1,0,0,1,100.0
+Izzet Affinity,Boros,0,1,0,1,0.0
+Izzet Affinity,Izzet,1,2,0,3,33.3
+Izzet Affinity,Izzet Prowess,0,2,0,2,0.0
+Izzet Affinity,Jeskai Control (Kaheera),0,1,0,1,0.0
+Izzet Prowess,Jeskai Control (Kaheera),0,1,0,1,0.0
+Izzet Prowess,Esper Midrange,1,0,0,1,100.0
+Izzet Prowess,Mono-Blue Merfolk,1,0,0,1,100.0
+Izzet Prowess,Boros Energy,0,1,0,1,0.0
+W-U-B-R-G,Izzet Prowess,0,1,0,1,0.0
+W-U-B-R-G,Mono-Blue Merfolk,0,1,0,1,0.0
+W-U-B-R-G,Boros Energy,1,0,0,1,100.0
+W-U-B-R-G,Izzet,0,1,0,1,0.0
+Izzet Affinity,Esper Midrange,1,0,0,1,100.0
+Izzet Affinity,Mono-Red Ruby Storm,0,2,0,2,0.0
+Izzet Affinity,Izzet Affinity,1,1,0,2,50.0
+Mono-Blue Merfolk,Boros,0,1,0,1,0.0
+Mono-Blue Merfolk,W-U-B-R-G,1,0,0,1,100.0
+Mono-Blue Merfolk,Mono-Red Ruby Storm,0,1,0,1,0.0
+Mono-Blue Merfolk,Izzet Prowess,0,1,0,1,0.0
+Izzet Affinity,Gruul,1,0,0,1,100.0
+Izzet Affinity,Selesnya,0,1,0,1,0.0
+Boros Energy,Mono-Green Eldrazi,0,1,0,1,0.0
+Boros Energy,W-U-B-R-G,0,1,0,1,0.0
+Gruul,Mono-Green Eldrazi,0,1,0,1,0.0
+Gruul,Boros Energy,0,1,0,1,0.0
+Gruul,Izzet Affinity,0,1,0,1,0.0
+Esper Midrange,Izzet Affinity,0,1,0,1,0.0
+Esper Midrange,Izzet Prowess,0,1,0,1,0.0
+Esper Midrange,Boros Energy,0,1,0,1,0.0

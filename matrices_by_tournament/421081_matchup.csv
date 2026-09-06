@@ -1,0 +1,52 @@
+archetype_a,archetype_b,win,loss,draw,games,winrate
+Mono-Green Amulet Titan,Temur,1,0,0,1,100.0
+Mono-Green Amulet Titan,Mono-Red Combo,1,0,0,1,100.0
+Mono-Green Amulet Titan,Izzet Affinity,1,0,0,1,100.0
+Mono-Green Amulet Titan,Jeskai Blink,1,0,1,2,100.0
+Mono-Green Amulet Titan,Izzet Prowess,1,0,1,2,100.0
+Jeskai Blink,Izzet Affinity,1,0,0,1,100.0
+Jeskai Blink,Colorless,2,0,0,2,100.0
+Jeskai Blink,Jeskai,1,1,0,2,50.0
+Jeskai Blink,Mono-Green Amulet Titan,0,1,1,2,0.0
+Jeskai Blink,Jeskai Blink,1,1,2,4,50.0
+Jeskai Blink,Grixis Reanimator,1,0,0,1,100.0
+Jeskai Blink,Mono-Red Combo,1,0,0,1,100.0
+Izzet Prowess,Mono-Red Combo,0,1,0,1,0.0
+Izzet Prowess,W-U-B-G Reanimator,1,0,0,1,100.0
+Izzet Prowess,Mono-Red Ruby Storm,1,0,0,1,100.0
+Izzet Prowess,Jeskai,1,0,0,1,100.0
+Izzet Prowess,Mono-Green Amulet Titan,0,1,1,2,0.0
+Grixis Reanimator,Jeskai Blink,0,1,0,1,0.0
+Grixis Reanimator,Izzet Affinity,0,1,0,1,0.0
+Grixis Reanimator,W-U-B-G Reanimator,1,0,0,1,100.0
+Grixis Reanimator,Mono-Red Combo,1,0,0,1,100.0
+Grixis Reanimator,Colorless,1,0,0,1,100.0
+Jeskai,Mono-Red Ruby Storm,1,0,0,1,100.0
+Jeskai,Jeskai Blink,1,1,0,2,50.0
+Jeskai,Izzet Prowess,0,1,0,1,0.0
+Jeskai,Temur,0,0,1,1,
+Temur,Mono-Green Amulet Titan,0,1,0,1,0.0
+Temur,Mono-Red Ruby Storm,0,1,0,1,0.0
+Temur,Colorless,1,0,0,1,100.0
+Temur,Izzet Affinity,1,0,0,1,100.0
+Temur,Jeskai,0,0,1,1,
+Izzet Affinity,Jeskai Blink,0,1,0,1,0.0
+Izzet Affinity,Grixis Reanimator,1,0,0,1,100.0
+Izzet Affinity,Mono-Green Amulet Titan,0,1,0,1,0.0
+Izzet Affinity,Temur,0,1,0,1,0.0
+Mono-Red Combo,Izzet Prowess,1,0,0,1,100.0
+Mono-Red Combo,Mono-Green Amulet Titan,0,1,0,1,0.0
+Mono-Red Combo,Jeskai Blink,0,1,0,1,0.0
+Mono-Red Combo,Grixis Reanimator,0,1,0,1,0.0
+Mono-Red Combo,W-U-B-G Reanimator,1,0,0,1,100.0
+Colorless,W-U-B-G Reanimator,1,0,0,1,100.0
+Colorless,Jeskai Blink,0,2,0,2,0.0
+Colorless,Temur,0,1,0,1,0.0
+Colorless,Grixis Reanimator,0,1,0,1,0.0
+Mono-Red Ruby Storm,Jeskai,0,1,0,1,0.0
+Mono-Red Ruby Storm,Temur,1,0,0,1,100.0
+Mono-Red Ruby Storm,Izzet Prowess,0,1,0,1,0.0
+W-U-B-G Reanimator,Colorless,0,1,0,1,0.0
+W-U-B-G Reanimator,Izzet Prowess,0,1,0,1,0.0
+W-U-B-G Reanimator,Grixis Reanimator,0,1,0,1,0.0
+W-U-B-G Reanimator,Mono-Red Combo,0,1,0,1,0.0

@@ -1,0 +1,23 @@
+archetype_a,archetype_b,win,loss,draw,games,winrate
+Boros Energy,Bant Combo,1,0,0,1,100.0
+Boros Energy,Esper Oculus,1,0,0,1,100.0
+Boros Energy,Izzet Murktide,0,0,1,1,
+Izzet Murktide,U-B-R-G Merfolk,1,0,0,1,100.0
+Izzet Murktide,Boros Affinity,1,0,0,1,100.0
+Izzet Murktide,Boros Energy,0,0,1,1,
+Esper Oculus,Mono-Green Eldrazi,1,0,0,1,100.0
+Esper Oculus,Boros Energy,0,1,0,1,0.0
+Esper Oculus,Boros Affinity,1,0,0,1,100.0
+U-B-R-G Merfolk,Izzet Murktide,0,1,0,1,0.0
+U-B-R-G Merfolk,Mono-Green Eldrazi,1,0,0,1,100.0
+U-B-R-G Merfolk,Bant Combo,1,0,0,1,100.0
+Boros Affinity,Boros Aggro,1,0,0,1,100.0
+Boros Affinity,Izzet Murktide,0,1,0,1,0.0
+Boros Affinity,Esper Oculus,0,1,0,1,0.0
+Bant Combo,Boros Energy,0,1,0,1,0.0
+Bant Combo,Boros Aggro,1,0,0,1,100.0
+Bant Combo,U-B-R-G Merfolk,0,1,0,1,0.0
+Boros Aggro,Boros Affinity,0,1,0,1,0.0
+Boros Aggro,Bant Combo,0,1,0,1,0.0
+Mono-Green Eldrazi,Esper Oculus,0,1,0,1,0.0
+Mono-Green Eldrazi,U-B-R-G Merfolk,0,1,0,1,0.0

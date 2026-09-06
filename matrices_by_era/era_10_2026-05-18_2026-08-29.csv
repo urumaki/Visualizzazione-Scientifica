@@ -1,0 +1,345 @@
+archetype_a,archetype_b,win,loss,draw,games,winrate
+Other,Other,207,207,26,440,50.0
+Other,Boros Energy,30,33,2,65,47.6
+Other,W-U-B-G Goryo's Vengeance,36,34,6,76,51.4
+Other,Izzet Affinity,35,30,5,70,53.8
+Boros,W-U-B-G Goryo's Vengeance,3,1,1,5,75.0
+Boros,Boros Energy,2,1,0,3,66.7
+Boros,Other,8,7,3,18,53.3
+Boros,Dimir Midrange,0,0,1,1,
+Dimir Midrange,Other,13,9,2,24,59.1
+Dimir Midrange,Boros Energy,2,1,0,3,66.7
+Dimir Midrange,Boros,0,0,1,1,
+Other,Amulet Titan,22,15,3,40,59.5
+Other,Boros,7,8,3,18,46.7
+Other,Dimir Midrange,9,13,2,24,40.9
+Other,Mono-Red Storm,5,12,0,17,29.4
+Other,Golgari Yawgmoth,7,13,3,23,35.0
+Boros Energy,W-U-B-G Goryo's Vengeance,5,7,1,13,41.7
+Boros Energy,Other,33,30,2,65,52.4
+Boros Energy,Boros,1,2,0,3,33.3
+Boros Energy,Amulet Titan,4,2,0,6,66.7
+Boros Energy,Dimir Midrange,1,2,0,3,33.3
+Mono-Red Storm,Other,12,5,0,17,70.6
+Mono-Red Storm,W-U-B-G Goryo's Vengeance,2,2,0,4,50.0
+Mono-Red Storm,Dimir Midrange,1,1,0,2,50.0
+W-U-B-G Goryo's Vengeance,Other,34,36,6,76,48.6
+W-U-B-G Goryo's Vengeance,Mono-Red Storm,2,2,0,4,50.0
+W-U-B-G Goryo's Vengeance,Amulet Titan,1,6,1,8,14.3
+Other,Ruby Storm,18,9,1,28,66.7
+Amulet Titan,Other,15,22,3,40,40.5
+Amulet Titan,Boros Energy,2,4,0,6,33.3
+Boros Energy,Esper Blink,2,2,1,5,50.0
+Boros Energy,Boros Energy,4,4,0,8,50.0
+Dimir Midrange,Mono-Red Storm,1,1,0,2,50.0
+Amulet Titan,Izzet Prowess,2,2,0,4,50.0
+Amulet Titan,W-U-B-G Goryo's Vengeance,6,1,1,8,85.7
+Izzet Affinity,Other,30,35,5,70,46.2
+Izzet Affinity,Izzet Prowess,5,4,0,9,55.6
+W-U-B-G Goryo's Vengeance,Boros,1,3,1,5,25.0
+W-U-B-G Goryo's Vengeance,W-U-B-G Goryo's Vengeance,6,6,10,22,50.0
+W-U-B-G Goryo's Vengeance,Izzet Prowess,4,3,0,7,57.1
+Boros Energy,Izzet Affinity,8,5,1,14,61.5
+Golgari Yawgmoth,Boros Energy,1,2,1,4,33.3
+Golgari Yawgmoth,Izzet Prowess,2,0,0,2,100.0
+Golgari Yawgmoth,Other,13,7,3,23,65.0
+Izzet Prowess,W-U-B-G Goryo's Vengeance,3,4,0,7,42.9
+Izzet Prowess,Golgari Yawgmoth,0,2,0,2,0.0
+Izzet Prowess,Other,22,20,1,43,52.4
+Boros Energy,Golgari Yawgmoth,2,1,1,4,66.7
+W-U-B-G Goryo's Vengeance,Boros Energy,7,5,1,13,58.3
+Other,Izzet Prowess,20,22,1,43,47.6
+Izzet Prowess,Amulet Titan,2,2,0,4,50.0
+Izzet Prowess,Izzet Affinity,4,5,0,9,44.4
+Other,Esper Blink,9,9,2,20,50.0
+Izzet Affinity,Boros Energy,5,8,1,14,38.5
+Ruby Storm,Other,9,18,1,28,33.3
+Esper Blink,Boros Energy,2,2,1,5,50.0
+Esper Blink,Other,9,9,2,20,50.0
+W-U-B-G Goryo's Vengeance,Golgari Yawgmoth,6,2,1,9,75.0
+Boros,Izzet Prowess,4,1,0,5,80.0
+Boros,Ruby Storm,1,0,0,1,100.0
+Other,Gruul Broodscale,6,4,1,11,60.0
+Golgari Yawgmoth,W-U-B-G Goryo's Vengeance,2,6,1,9,25.0
+Izzet Prowess,Ruby Storm,1,0,1,2,100.0
+Other,Domain Zoo,11,14,0,25,44.0
+W-U-B-G Goryo's Vengeance,Esper Blink,0,1,1,2,0.0
+Esper Blink,Gruul Broodscale,2,0,0,2,100.0
+Esper Blink,W-U-B-G Goryo's Vengeance,1,0,1,2,100.0
+Ruby Storm,Golgari Yawgmoth,2,0,0,2,100.0
+Ruby Storm,Boros,0,1,0,1,0.0
+Ruby Storm,Izzet Prowess,0,1,1,2,0.0
+Boros,Golgari Yawgmoth,1,0,0,1,100.0
+Gruul Broodscale,Boros Energy,2,0,0,2,100.0
+Gruul Broodscale,Esper Blink,0,2,0,2,0.0
+Gruul Broodscale,Gruul Broodscale,1,1,0,2,50.0
+Gruul Broodscale,Other,4,6,1,11,40.0
+Dimir Midrange,Gruul Eldrazi Ramp,1,0,0,1,100.0
+Boros Energy,Gruul Broodscale,0,2,0,2,0.0
+Domain Zoo,Other,14,11,0,25,56.0
+Domain Zoo,Izzet Prowess,1,1,1,3,50.0
+Izzet Prowess,Boros,1,4,0,5,20.0
+Izzet Prowess,Gruul Eldrazi Ramp,3,0,0,3,100.0
+Other,Izzet,15,7,0,22,68.2
+Amulet Titan,Izzet,2,0,0,2,100.0
+Gruul Broodscale,Izzet,1,0,0,1,100.0
+Golgari Yawgmoth,Ruby Storm,0,2,0,2,0.0
+Golgari Yawgmoth,Boros,0,1,0,1,0.0
+Izzet Prowess,Domain Zoo,1,1,1,3,50.0
+Gruul Eldrazi Ramp,Dimir Midrange,0,1,0,1,0.0
+Gruul Eldrazi Ramp,Izzet Prowess,0,3,0,3,0.0
+Izzet,Other,7,15,0,22,31.8
+Izzet,Gruul Broodscale,0,1,0,1,0.0
+Izzet,Amulet Titan,0,2,0,2,0.0
+Boros Aggro,Boros Energy,4,4,0,8,50.0
+Boros Aggro,Izzet Affinity,7,4,1,12,63.6
+Boros Aggro,Mono-Red Storm,1,1,0,2,50.0
+Boros Aggro,Other,11,15,1,27,42.3
+Boros Aggro,Boros Aggro,2,2,0,4,50.0
+Boros Energy,Boros Aggro,4,4,0,8,50.0
+Boros Energy,Mono-Red Storm,3,1,0,4,75.0
+Mono-Red Storm,Boros Aggro,1,1,0,2,50.0
+Mono-Red Storm,Boros Energy,1,3,0,4,25.0
+Izzet Affinity,Boros Aggro,4,7,1,12,36.4
+Other,Boros Aggro,15,11,1,27,57.7
+Boros,Izzet Affinity,2,0,0,2,100.0
+Boros,Izzet,1,0,0,1,100.0
+Ruby Storm,Izzet Affinity,2,0,0,2,100.0
+Izzet Prowess,Izzet Prowess,4,4,2,10,50.0
+Boros Energy,Izzet Prowess,3,2,0,5,60.0
+Izzet,Izzet Affinity,4,2,0,6,66.7
+Izzet,Boros,0,1,0,1,0.0
+Izzet Affinity,Boros,0,2,0,2,0.0
+Izzet Affinity,Izzet,2,4,0,6,33.3
+Izzet Prowess,Boros Energy,2,3,0,5,40.0
+Izzet Affinity,Ruby Storm,0,2,0,2,0.0
+Izzet Affinity,Izzet Affinity,3,3,0,6,50.0
+Dimir Midrange,Boros Aggro,1,1,0,2,50.0
+Boros Aggro,Golgari Yawgmoth,2,0,0,2,100.0
+Boros Aggro,W-U-B-G Goryo's Vengeance,2,2,0,4,50.0
+Boros Aggro,Dimir Midrange,1,1,0,2,50.0
+Golgari Yawgmoth,Domain Zoo,4,1,0,5,80.0
+Golgari Yawgmoth,Boros Aggro,0,2,0,2,0.0
+Golgari Yawgmoth,Mono-Red Storm,1,0,0,1,100.0
+W-U-B-G Goryo's Vengeance,Boros Aggro,2,2,0,4,50.0
+Mono-Red Storm,Golgari Yawgmoth,0,1,0,1,0.0
+Mono-Red Storm,Domain Zoo,1,0,0,1,100.0
+Domain Zoo,Golgari Yawgmoth,1,4,0,5,20.0
+Domain Zoo,Mono-Red Storm,0,1,0,1,0.0
+Boros Energy,Izzet,1,1,0,2,50.0
+Mono-Red Storm,Amulet Titan,2,0,0,2,100.0
+Amulet Titan,Boros Aggro,3,0,0,3,100.0
+Boros Aggro,Amulet Titan,0,3,0,3,0.0
+Boros Aggro,Izzet,1,1,0,2,50.0
+Izzet,Boros Energy,1,1,0,2,50.0
+Izzet,Boros Aggro,1,1,0,2,50.0
+Izzet,W-U-B-G Goryo's Vengeance,3,0,0,3,100.0
+Izzet Affinity,W-U-B-G Goryo's Vengeance,4,2,1,7,66.7
+Izzet Affinity,Amulet Titan,2,2,0,4,50.0
+Amulet Titan,Mono-Red Storm,0,2,0,2,0.0
+Amulet Titan,Izzet Affinity,2,2,0,4,50.0
+W-U-B-G Goryo's Vengeance,Izzet,0,3,0,3,0.0
+W-U-B-G Goryo's Vengeance,Izzet Affinity,2,4,1,7,33.3
+Domain Zoo,Azorius Blink,2,0,0,2,100.0
+Domain Zoo,Amulet Titan,2,3,1,6,40.0
+Amulet Titan,Domain Zoo,3,2,1,6,60.0
+Izzet,Domain Zoo,2,2,0,4,50.0
+Boros Energy,Grixis Reanimator,3,0,0,3,100.0
+Domain Zoo,Izzet,2,2,0,4,50.0
+Grixis Reanimator,Other,9,4,1,14,69.2
+Grixis Reanimator,Boros Energy,0,3,0,3,0.0
+Other,Grixis Reanimator,4,9,1,14,30.8
+Azorius Blink,Golgari Yawgmoth,2,1,0,3,66.7
+Azorius Blink,Domain Zoo,0,2,0,2,0.0
+Golgari Yawgmoth,Azorius Blink,1,2,0,3,33.3
+Other,Mono-Blue Belcher,3,7,1,11,30.0
+Mono-Blue Belcher,Boros Energy,0,2,1,3,0.0
+Mono-Blue Belcher,Ruby Storm,1,0,0,1,100.0
+Mono-Blue Belcher,Other,7,3,1,11,70.0
+Mono-Blue Belcher,Grixis Reanimator,2,0,0,2,100.0
+Grixis Reanimator,Izzet Prowess,1,1,0,2,50.0
+Grixis Reanimator,Mono-Blue Belcher,0,2,0,2,0.0
+Grixis Reanimator,W-U-B-G Goryo's Vengeance,0,1,2,3,0.0
+W-U-B-G Goryo's Vengeance,Grixis Reanimator,1,0,2,3,100.0
+Boros Energy,Mono-Blue Belcher,2,0,1,3,100.0
+Boros Energy,Ruby Storm,3,0,0,3,100.0
+Izzet Prowess,Grixis Reanimator,1,1,0,2,50.0
+Ruby Storm,Mono-Blue Belcher,0,1,0,1,0.0
+Ruby Storm,Boros Energy,0,3,0,3,0.0
+Domain Zoo,Boros,1,0,0,1,100.0
+Boros,Domain Zoo,0,1,0,1,0.0
+Other,Azorius Blink,8,11,2,21,42.1
+Azorius Blink,Other,11,8,2,21,57.9
+Azorius Blink,Ruby Storm,1,2,1,4,33.3
+Ruby Storm,Azorius Blink,2,1,1,4,66.7
+Amulet Titan,Grixis Reanimator,1,1,0,2,50.0
+Grixis Reanimator,Amulet Titan,1,1,0,2,50.0
+Gruul Eldrazi Ramp,Boros Aggro,1,0,0,1,100.0
+Gruul Eldrazi Ramp,Domain Zoo,1,1,0,2,50.0
+Gruul Eldrazi Ramp,Other,8,5,1,14,61.5
+Gruul Eldrazi Ramp,Boros Energy,2,1,0,3,66.7
+Domain Zoo,Boros Energy,3,2,0,5,60.0
+Domain Zoo,Gruul Eldrazi Ramp,1,1,0,2,50.0
+Domain Zoo,Esper Blink,1,0,0,1,100.0
+Domain Zoo,Izzet Affinity,0,2,0,2,0.0
+Other,Gruul Eldrazi Ramp,5,8,1,14,38.5
+Izzet Affinity,Domain Zoo,2,0,0,2,100.0
+Boros Energy,Domain Zoo,2,3,0,5,40.0
+Boros Energy,Gruul Eldrazi Ramp,1,2,0,3,33.3
+Temur Living End,Boros Aggro,2,1,0,3,66.7
+Temur Living End,Azorius Blink,1,1,1,3,50.0
+Temur Living End,W-U-B-G Goryo's Vengeance,1,1,0,2,50.0
+Temur Living End,Izzet Prowess,1,2,0,3,33.3
+Temur Living End,Other,11,6,1,18,64.7
+Boros Aggro,Temur Living End,1,2,0,3,33.3
+Izzet,Izzet Prowess,1,0,0,1,100.0
+W-U-B-G Goryo's Vengeance,Azorius Blink,1,1,0,2,50.0
+W-U-B-G Goryo's Vengeance,Temur Living End,1,1,0,2,50.0
+Other,Temur Living End,6,11,1,18,35.3
+Azorius Blink,W-U-B-G Goryo's Vengeance,1,1,0,2,50.0
+Azorius Blink,Temur Living End,1,1,1,3,50.0
+Azorius Blink,Boros Aggro,1,0,0,1,100.0
+Azorius Blink,Izzet Prowess,3,1,0,4,75.0
+Boros Aggro,Gruul Eldrazi Ramp,0,1,0,1,0.0
+Boros Aggro,Azorius Blink,0,1,0,1,0.0
+Izzet Prowess,Izzet,0,1,0,1,0.0
+Izzet Prowess,Temur Living End,2,1,0,3,66.7
+Izzet Prowess,Esper Blink,4,1,0,5,80.0
+Izzet Prowess,Azorius Blink,1,3,0,4,25.0
+Esper Blink,Izzet Prowess,1,4,0,5,20.0
+Esper Blink,Domain Zoo,0,1,0,1,0.0
+Boros Energy,Azorius Blink,4,2,0,6,66.7
+Izzet Affinity,Temur Living End,1,0,1,2,100.0
+Izzet Affinity,Grixis Reanimator,1,1,0,2,50.0
+Izzet Affinity,Azorius Blink,1,0,0,1,100.0
+Izzet Affinity,Golgari Yawgmoth,1,0,0,1,100.0
+Izzet Affinity,Gruul Broodscale,1,2,1,4,33.3
+Azorius Blink,Esper Blink,2,1,0,3,66.7
+Azorius Blink,Boros Energy,2,4,0,6,33.3
+Gruul Broodscale,Azorius Blink,2,1,0,3,66.7
+Gruul Broodscale,W-U-B-G Goryo's Vengeance,1,1,0,2,50.0
+Gruul Broodscale,Mono-Blue Belcher,2,1,0,3,66.7
+Gruul Broodscale,Izzet Affinity,2,1,1,4,66.7
+Boros Energy,Temur Living End,5,0,0,5,100.0
+Grixis Reanimator,Izzet Affinity,1,1,0,2,50.0
+Grixis Reanimator,Mono-Red Storm,1,0,0,1,100.0
+Grixis Reanimator,Gruul Eldrazi Ramp,2,1,0,3,66.7
+Izzet Affinity,Mono-Blue Belcher,2,1,0,3,66.7
+Izzet Affinity,Mono-Red Storm,1,0,0,1,100.0
+Temur Living End,Temur Living End,1,1,0,2,50.0
+Temur Living End,Izzet Affinity,0,1,1,2,0.0
+Azorius Blink,Gruul Eldrazi Ramp,0,0,1,1,
+Boros Aggro,Gruul Broodscale,2,0,0,2,100.0
+Boros Aggro,Izzet Prowess,1,1,0,2,50.0
+Amulet Titan,Gruul Eldrazi Ramp,1,1,0,2,50.0
+Domain Zoo,W-U-B-G Goryo's Vengeance,2,0,0,2,100.0
+Esper Blink,Amulet Titan,1,1,1,3,50.0
+Esper Blink,Mono-Blue Belcher,3,0,0,3,100.0
+Esper Blink,Mono-Red Storm,1,0,0,1,100.0
+Esper Blink,Azorius Blink,1,2,0,3,33.3
+Esper Blink,Temur Living End,2,0,0,2,100.0
+Esper Blink,Gruul Eldrazi Ramp,1,0,0,1,100.0
+W-U-B-G Goryo's Vengeance,Gruul Broodscale,1,1,0,2,50.0
+W-U-B-G Goryo's Vengeance,Gruul Eldrazi Ramp,1,1,0,2,50.0
+Golgari Yawgmoth,Amulet Titan,1,0,0,1,100.0
+Golgari Yawgmoth,Izzet Affinity,0,1,0,1,0.0
+Azorius Blink,Gruul Broodscale,1,2,0,3,33.3
+Izzet Affinity,Dimir Midrange,1,0,0,1,100.0
+Azorius Blink,Izzet Affinity,0,1,0,1,0.0
+Azorius Blink,Amulet Titan,2,0,0,2,100.0
+Gruul Eldrazi Ramp,Gruul Broodscale,0,1,0,1,0.0
+Gruul Eldrazi Ramp,Mono-Blue Belcher,1,2,0,3,33.3
+Gruul Eldrazi Ramp,Grixis Reanimator,1,2,0,3,33.3
+Ruby Storm,Mono-Red Storm,1,1,0,2,50.0
+Ruby Storm,Izzet,0,1,0,1,0.0
+Ruby Storm,W-U-B-G Goryo's Vengeance,1,0,0,1,100.0
+Mono-Red Storm,Ruby Storm,1,1,0,2,50.0
+Mono-Red Storm,Grixis Reanimator,0,1,0,1,0.0
+Mono-Red Storm,Esper Blink,0,1,0,1,0.0
+Gruul Broodscale,Gruul Eldrazi Ramp,1,0,0,1,100.0
+Gruul Broodscale,Boros Aggro,0,2,0,2,0.0
+Gruul Broodscale,Temur Living End,1,2,0,3,33.3
+Gruul Broodscale,Izzet Prowess,1,1,0,2,50.0
+Izzet,Mono-Blue Belcher,1,1,0,2,50.0
+Izzet,Ruby Storm,1,0,0,1,100.0
+Mono-Blue Belcher,Gruul Eldrazi Ramp,2,1,0,3,66.7
+Mono-Blue Belcher,Temur Living End,2,1,0,3,66.7
+Mono-Blue Belcher,Esper Blink,0,3,0,3,0.0
+Mono-Blue Belcher,W-U-B-G Goryo's Vengeance,1,0,0,1,100.0
+Mono-Blue Belcher,Izzet Affinity,1,2,0,3,33.3
+Mono-Blue Belcher,Izzet,1,1,0,2,50.0
+Mono-Blue Belcher,Gruul Broodscale,1,2,0,3,33.3
+Gruul Eldrazi Ramp,Temur Living End,1,1,0,2,50.0
+Gruul Eldrazi Ramp,Gruul Eldrazi Ramp,1,1,0,2,50.0
+Gruul Eldrazi Ramp,Ruby Storm,1,0,0,1,100.0
+Gruul Eldrazi Ramp,Amulet Titan,1,1,0,2,50.0
+Temur Living End,Gruul Eldrazi Ramp,1,1,0,2,50.0
+Temur Living End,Esper Blink,0,2,0,2,0.0
+Temur Living End,Gruul Broodscale,2,1,0,3,66.7
+Temur Living End,Mono-Blue Belcher,1,2,0,3,33.3
+Temur Living End,Golgari Yawgmoth,1,0,0,1,100.0
+Boros Aggro,Domain Zoo,1,0,0,1,100.0
+Izzet Prowess,Gruul Broodscale,1,1,0,2,50.0
+Izzet Prowess,Boros Aggro,1,1,0,2,50.0
+Domain Zoo,Domain Zoo,1,1,0,2,50.0
+Gruul Eldrazi Ramp,Izzet Affinity,0,2,0,2,0.0
+Gruul Eldrazi Ramp,W-U-B-G Goryo's Vengeance,1,1,0,2,50.0
+Gruul Eldrazi Ramp,Azorius Blink,0,0,1,1,
+Gruul Eldrazi Ramp,Esper Blink,0,1,0,1,0.0
+Temur Living End,Boros Energy,0,5,0,5,0.0
+Temur Living End,Izzet,0,0,1,1,
+Izzet Affinity,Gruul Eldrazi Ramp,2,0,0,2,100.0
+W-U-B-G Goryo's Vengeance,Ruby Storm,0,1,0,1,0.0
+Temur Living End,Ruby Storm,1,0,0,1,100.0
+Amulet Titan,Ruby Storm,1,1,0,2,50.0
+Amulet Titan,Azorius Blink,0,2,0,2,0.0
+Domain Zoo,Boros Aggro,0,1,0,1,0.0
+W-U-B-G Goryo's Vengeance,Domain Zoo,0,2,0,2,0.0
+W-U-B-G Goryo's Vengeance,Mono-Blue Belcher,0,1,0,1,0.0
+Mono-Red Storm,Gruul Broodscale,1,0,0,1,100.0
+Mono-Red Storm,Izzet Affinity,0,1,0,1,0.0
+Mono-Red Storm,Izzet,1,0,0,1,100.0
+Ruby Storm,Amulet Titan,1,1,0,2,50.0
+Ruby Storm,Ruby Storm,1,1,0,2,50.0
+Golgari Yawgmoth,Temur Living End,0,1,0,1,0.0
+Gruul Broodscale,Golgari Yawgmoth,0,1,0,1,0.0
+Grixis Reanimator,Izzet,1,0,0,1,100.0
+Izzet,Temur Living End,0,0,1,1,
+Mono-Blue Belcher,Domain Zoo,1,0,0,1,100.0
+Ruby Storm,Gruul Eldrazi Ramp,0,1,0,1,0.0
+Ruby Storm,Temur Living End,0,1,0,1,0.0
+Amulet Titan,Amulet Titan,1,1,0,2,50.0
+Izzet,Grixis Reanimator,0,1,0,1,0.0
+Izzet,Mono-Red Storm,0,1,0,1,0.0
+Amulet Titan,Esper Blink,1,1,1,3,50.0
+W-U-B-G Goryo's Vengeance,Dimir Midrange,1,0,0,1,100.0
+Golgari Yawgmoth,Gruul Broodscale,1,0,0,1,100.0
+Gruul Broodscale,Mono-Red Storm,0,1,0,1,0.0
+Amulet Titan,Dimir Midrange,1,0,0,1,100.0
+Amulet Titan,Golgari Yawgmoth,0,1,0,1,0.0
+Domain Zoo,Dimir Midrange,1,0,0,1,100.0
+Domain Zoo,Mono-Blue Belcher,0,1,0,1,0.0
+Dimir Midrange,Amulet Titan,0,1,0,1,0.0
+Dimir Midrange,Izzet Affinity,0,1,0,1,0.0
+Dimir Midrange,Domain Zoo,0,1,0,1,0.0
+Dimir Midrange,W-U-B-G Goryo's Vengeance,0,1,0,1,0.0
+Izzet Affinity,Esper Blink,2,2,1,5,50.0
+Esper Blink,Izzet Affinity,2,2,1,5,50.0
+Azorius Blink,Grixis Reanimator,1,0,0,1,100.0
+Azorius Blink,Izzet,1,0,0,1,100.0
+Esper Blink,Grixis Reanimator,0,1,0,1,0.0
+Gruul Broodscale,Dimir Midrange,1,1,0,2,50.0
+Grixis Reanimator,Domain Zoo,1,0,0,1,100.0
+Grixis Reanimator,Azorius Blink,0,1,0,1,0.0
+Grixis Reanimator,Dimir Midrange,1,0,0,1,100.0
+Izzet,Azorius Blink,0,1,0,1,0.0
+Domain Zoo,Grixis Reanimator,0,1,0,1,0.0
+Grixis Reanimator,Esper Blink,1,0,0,1,100.0
+Dimir Midrange,Gruul Broodscale,1,1,0,2,50.0
+Dimir Midrange,Grixis Reanimator,0,1,0,1,0.0
+Gruul Broodscale,Ruby Storm,1,0,0,1,100.0
+Ruby Storm,Gruul Broodscale,0,1,0,1,0.0
+Temur Living End,Amulet Titan,1,0,0,1,100.0
+Temur Living End,Grixis Reanimator,1,0,0,1,100.0
+Grixis Reanimator,Temur Living End,0,1,0,1,0.0
+Amulet Titan,Temur Living End,0,1,0,1,0.0

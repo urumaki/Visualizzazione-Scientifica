@@ -1,0 +1,35 @@
+archetype_a,archetype_b,win,loss,draw,games,winrate
+Mono-Green Amulet Titan,Temur Amulet Titan,1,0,0,1,100.0
+Mono-Green Amulet Titan,Temur Eldrazi,1,0,0,1,100.0
+Mono-Green Amulet Titan,Boros Aggro,0,1,1,2,0.0
+Mono-Green Amulet Titan,Mono-Black Eldrazi,2,0,0,2,100.0
+Boros Aggro,Izzet Burn,1,0,0,1,100.0
+Boros Aggro,Mono-Black Eldrazi,1,0,0,1,100.0
+Boros Aggro,Mono-Green Amulet Titan,1,0,1,2,100.0
+Boros Aggro,Temur Amulet Titan,1,0,0,1,100.0
+Boros Aggro,Temur Eldrazi,1,0,0,1,100.0
+Temur Eldrazi,Rakdos Burn,1,0,0,1,100.0
+Temur Eldrazi,Mono-Green Amulet Titan,0,1,0,1,0.0
+Temur Eldrazi,Mono-Blue Control,1,0,0,1,100.0
+Temur Eldrazi,Orzhov Midrange,1,0,0,1,100.0
+Temur Eldrazi,Boros Aggro,0,1,0,1,0.0
+Mono-Black Eldrazi,Mono-Blue Control,1,0,0,1,100.0
+Mono-Black Eldrazi,Boros Aggro,0,1,0,1,0.0
+Mono-Black Eldrazi,Orzhov Midrange,1,0,0,1,100.0
+Mono-Black Eldrazi,Mono-Green Amulet Titan,0,2,0,2,0.0
+Temur Amulet Titan,Mono-Green Amulet Titan,0,1,0,1,0.0
+Temur Amulet Titan,Orzhov Midrange,1,0,0,1,100.0
+Temur Amulet Titan,Izzet Burn,1,0,0,1,100.0
+Temur Amulet Titan,Boros Aggro,0,1,0,1,0.0
+Izzet Burn,Boros Aggro,0,1,0,1,0.0
+Izzet Burn,Rakdos Burn,1,0,0,1,100.0
+Izzet Burn,Temur Amulet Titan,0,1,0,1,0.0
+Mono-Blue Control,Mono-Black Eldrazi,0,1,0,1,0.0
+Mono-Blue Control,Temur Eldrazi,0,1,0,1,0.0
+Mono-Blue Control,Rakdos Burn,1,0,0,1,100.0
+Rakdos Burn,Temur Eldrazi,0,1,0,1,0.0
+Rakdos Burn,Izzet Burn,0,1,0,1,0.0
+Rakdos Burn,Mono-Blue Control,0,1,0,1,0.0
+Orzhov Midrange,Temur Amulet Titan,0,1,0,1,0.0
+Orzhov Midrange,Mono-Black Eldrazi,0,1,0,1,0.0
+Orzhov Midrange,Temur Eldrazi,0,1,0,1,0.0

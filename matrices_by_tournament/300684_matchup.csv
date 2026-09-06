@@ -1,0 +1,43 @@
+archetype_a,archetype_b,win,loss,draw,games,winrate
+Bant Combo,Gruul Aggro,1,0,0,1,100.0
+Bant Combo,Mono-Green Eldrazi,1,0,0,1,100.0
+Bant Combo,Dimir Murktide,1,0,0,1,100.0
+Bant Combo,Boros Aggro,1,0,0,1,100.0
+Boros Aggro,Esper Control,1,0,0,1,100.0
+Boros Aggro,W-U-B-R-G,1,0,0,1,100.0
+Boros Aggro,Bant Combo,0,1,0,1,0.0
+Boros Aggro,Gruul Eldrazi,1,0,0,1,100.0
+Boros Aggro,Mono-Green Eldrazi,1,0,0,1,100.0
+Mono-Green Eldrazi,Bant Combo,0,1,0,1,0.0
+Mono-Green Eldrazi,Boros Storm,1,0,0,1,100.0
+Mono-Green Eldrazi,Bant,1,0,0,1,100.0
+Mono-Green Eldrazi,W-U-B-R-G,1,0,0,1,100.0
+Mono-Green Eldrazi,Boros Aggro,0,1,0,1,0.0
+Gruul Eldrazi,Bant,0,1,0,1,0.0
+Gruul Eldrazi,Esper Control,1,0,0,1,100.0
+Gruul Eldrazi,Gruul Aggro,1,0,0,1,100.0
+Gruul Eldrazi,Boros Aggro,0,1,0,1,0.0
+Temur,W-U-B-R-G,0,1,0,1,0.0
+Temur,Esper Control,0,1,0,1,0.0
+Temur,Bant,1,0,0,1,100.0
+W-U-B-R-G,Temur,1,0,0,1,100.0
+W-U-B-R-G,Boros Aggro,0,1,0,1,0.0
+W-U-B-R-G,Bant,0,1,0,1,0.0
+W-U-B-R-G,Mono-Green Eldrazi,0,1,0,1,0.0
+Dimir Murktide,Bant,1,0,0,1,100.0
+Dimir Murktide,Bant Combo,0,1,0,1,0.0
+Bant,Gruul Eldrazi,1,0,0,1,100.0
+Bant,Dimir Murktide,0,1,0,1,0.0
+Bant,W-U-B-R-G,1,0,0,1,100.0
+Bant,Mono-Green Eldrazi,0,1,0,1,0.0
+Bant,Temur,0,1,0,1,0.0
+Gruul Aggro,Bant Combo,0,1,0,1,0.0
+Gruul Aggro,Gruul Amulet Titan,1,0,0,1,100.0
+Gruul Aggro,Gruul Eldrazi,0,1,0,1,0.0
+Boros Storm,Mono-Green Eldrazi,0,1,0,1,0.0
+Boros Storm,Esper Control,1,0,0,1,100.0
+Esper Control,Boros Aggro,0,1,0,1,0.0
+Esper Control,Temur,1,0,0,1,100.0
+Esper Control,Gruul Eldrazi,0,1,0,1,0.0
+Esper Control,Boros Storm,0,1,0,1,0.0
+Gruul Amulet Titan,Gruul Aggro,0,1,0,1,0.0

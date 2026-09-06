@@ -1,0 +1,54 @@
+archetype_a,archetype_b,win,loss,draw,games,winrate
+Jeskai Aggro,Azorius (Kaheera),1,0,0,1,100.0
+Jeskai Aggro,W-U-B-G Goryo's Vengeance,1,0,0,1,100.0
+Jeskai Aggro,Mono-Green Eldrazi,1,0,0,1,100.0
+Jeskai Aggro,W-U-B-R-G Domain,0,1,0,1,0.0
+W-U-B-G,Dimir Murktide,1,0,0,1,100.0
+W-U-B-G,Dimir Oculus,1,1,0,2,50.0
+W-U-B-G,W-U-B-R-G Aggro,0,0,1,1,
+W-U-B-G,W-U-B-R-G Domain,0,0,1,1,
+Mono-Blue Combo,Jeskai Combo,1,0,0,1,100.0
+Mono-Blue Combo,W-U-B-R-G Domain,0,0,1,1,
+Mono-Blue Combo,W-U-B-R-G Aggro,0,0,1,1,
+W-U-B-R-G Aggro,W-U-B-G,0,0,1,1,
+W-U-B-R-G Aggro,Mono-Blue Combo,0,0,1,1,
+W-U-B-R-G Aggro,W-U-B-R-G Domain,0,1,0,1,0.0
+W-U-B-R-G Domain,Abzan Combo,1,0,0,1,100.0
+W-U-B-R-G Domain,Mono-Green Eldrazi,1,0,0,1,100.0
+W-U-B-R-G Domain,Mono-Blue Combo,0,0,1,1,
+W-U-B-R-G Domain,W-U-B-G,0,0,1,1,
+W-U-B-R-G Domain,W-U-B-R-G Aggro,1,0,0,1,100.0
+W-U-B-R-G Domain,Jeskai Aggro,1,0,0,1,100.0
+Dimir Oculus,Rakdos Aggro,1,0,0,1,100.0
+Dimir Oculus,W-U-B-G,1,1,0,2,50.0
+Dimir Oculus,Abzan Combo,1,0,0,1,100.0
+Mono-Green Eldrazi,Dimir Mill,1,0,0,1,100.0
+Mono-Green Eldrazi,W-U-B-R-G Domain,0,1,0,1,0.0
+Mono-Green Eldrazi,Jeskai Combo,1,0,0,1,100.0
+Mono-Green Eldrazi,Jeskai Aggro,0,1,0,1,0.0
+Jeskai Combo,Temur Amulet Titan,1,0,0,1,100.0
+Jeskai Combo,Mono-Blue Combo,0,1,0,1,0.0
+Jeskai Combo,Mono-Green Eldrazi,0,1,0,1,0.0
+W-U-B-G Goryo's Vengeance,Temur Amulet Titan,1,0,0,1,100.0
+W-U-B-G Goryo's Vengeance,Jeskai Aggro,0,1,0,1,0.0
+Dimir Murktide,W-U-B-G,0,1,0,1,0.0
+Dimir Murktide,Dimir Murktide,1,1,0,2,50.0
+Dimir Murktide,Dimir Mill,1,0,0,1,100.0
+Abzan Combo,W-U-B-R-G Domain,0,1,0,1,0.0
+Abzan Combo,Azorius (Kaheera),1,0,0,1,100.0
+Abzan Combo,Dimir Mill,1,0,0,1,100.0
+Abzan Combo,Dimir Oculus,0,1,0,1,0.0
+Dimir Mill,Mono-Green Eldrazi,0,1,0,1,0.0
+Dimir Mill,Abzan Combo,0,1,0,1,0.0
+Dimir Mill,Azorius (Kaheera),1,0,0,1,100.0
+Dimir Mill,Dimir Murktide,0,1,0,1,0.0
+Jund Creativity,Rakdos Aggro,1,0,0,1,100.0
+Rakdos Aggro,Dimir Oculus,0,1,0,1,0.0
+Rakdos Aggro,Jund Creativity,0,1,0,1,0.0
+Azorius (Kaheera),Jeskai Aggro,0,1,0,1,0.0
+Azorius (Kaheera),Abzan Combo,0,1,0,1,0.0
+Azorius (Kaheera),Boros Energy,1,0,0,1,100.0
+Azorius (Kaheera),Dimir Mill,0,1,0,1,0.0
+Temur Amulet Titan,Jeskai Combo,0,1,0,1,0.0
+Temur Amulet Titan,W-U-B-G Goryo's Vengeance,0,1,0,1,0.0
+Boros Energy,Azorius (Kaheera),0,1,0,1,0.0
