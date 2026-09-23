@@ -1,0 +1,89 @@
+archetype_a,archetype_b,win,loss,draw,games,winrate
+Mono-Green Amulet Titan,Esper Control,0,1,0,1,0.0
+Mono-Green Amulet Titan,Colorless Eldrazi Tron,1,0,0,1,100.0
+Mono-Green Amulet Titan,Azorius Burn,1,0,0,1,100.0
+Mono-Green Amulet Titan,W-U-B-R-G Domain Zoo,1,0,0,1,100.0
+Mono-Green Amulet Titan,Esper Blink,1,0,0,1,100.0
+Mono-Green Amulet Titan,Azorius,0,1,0,1,0.0
+Golgari,W-U-B-R-G Domain Zoo,1,0,0,1,100.0
+Golgari,Azorius,2,0,0,2,100.0
+Golgari,Boros Aggro,1,0,0,1,100.0
+Golgari,Izzet Affinity,0,0,2,2,
+Golgari,Golgari Necro,1,0,0,1,100.0
+Golgari,Azorius Burn,1,0,0,1,100.0
+Izzet Affinity,U-B-R-G Combo,1,0,0,1,100.0
+Izzet Affinity,Esper Control,1,0,0,1,100.0
+Izzet Affinity,Golgari Necro,1,1,0,2,50.0
+Izzet Affinity,Golgari,0,0,2,2,
+Izzet Affinity,Boros Aggro,0,1,1,2,0.0
+Izzet Affinity,Azorius Burn,0,2,0,2,0.0
+Boros Aggro,Mono-Red,1,0,0,1,100.0
+Boros Aggro,Boros Energy,1,0,0,1,100.0
+Boros Aggro,Golgari,0,1,0,1,0.0
+Boros Aggro,Azorius,1,1,0,2,50.0
+Boros Aggro,Izzet Affinity,1,0,1,2,100.0
+Izzet Affinity,Mono-Red Combo,1,0,0,1,100.0
+Izzet Affinity,Esper Blink,1,0,0,1,100.0
+Izzet Affinity,Boros Energy,1,1,0,2,50.0
+Azorius Burn,Esper Blink,0,0,1,1,
+Azorius Burn,Izzet Affinity,2,0,0,2,100.0
+Azorius Burn,Mono-Green Amulet Titan,0,1,0,1,0.0
+Azorius Burn,Boros Burn,1,0,0,1,100.0
+Azorius Burn,W-U-B-R-G Domain Zoo,1,0,0,1,100.0
+Azorius Burn,Golgari,0,1,0,1,0.0
+Golgari Necro,Colorless Eldrazi Tron,1,0,0,1,100.0
+Golgari Necro,Izzet Affinity,1,1,0,2,50.0
+Golgari Necro,Esper Blink,0,1,0,1,0.0
+Golgari Necro,Esper Control,1,0,0,1,100.0
+Golgari Necro,Golgari,0,1,0,1,0.0
+Azorius,Boros Burn,1,0,0,1,100.0
+Azorius,Golgari,0,2,0,2,0.0
+Azorius,Izzet Affinity,1,0,0,1,100.0
+Azorius,Boros Aggro,1,1,0,2,50.0
+Azorius,Boros Energy,1,0,0,1,100.0
+Azorius,Mono-Green Amulet Titan,1,0,0,1,100.0
+Esper Blink,Azorius Burn,0,0,1,1,
+Esper Blink,U-B-R-G Combo,1,0,0,1,100.0
+Esper Blink,Izzet Affinity,0,1,0,1,0.0
+Esper Blink,Golgari Necro,1,0,0,1,100.0
+Esper Blink,Mono-Green Amulet Titan,0,1,0,1,0.0
+W-U-B-R-G Domain Zoo,Golgari,0,1,0,1,0.0
+W-U-B-R-G Domain Zoo,Mono-Red Combo,1,0,0,1,100.0
+W-U-B-R-G Domain Zoo,Esper Control,1,0,0,1,100.0
+W-U-B-R-G Domain Zoo,Mono-Green Amulet Titan,0,1,0,1,0.0
+W-U-B-R-G Domain Zoo,Azorius Burn,0,1,0,1,0.0
+Esper Control,Mono-Green Amulet Titan,1,0,0,1,100.0
+Esper Control,Izzet Affinity,0,1,0,1,0.0
+Esper Control,W-U-B-R-G Domain Zoo,0,1,0,1,0.0
+Esper Control,U-B-R-G Combo,1,0,0,1,100.0
+Esper Control,Golgari Necro,0,1,0,1,0.0
+Boros Energy,Izzet Affinity,1,1,0,2,50.0
+Boros Energy,Boros Aggro,0,1,0,1,0.0
+Boros Energy,Boros Burn,1,0,0,1,100.0
+Boros Energy,Azorius,0,1,0,1,0.0
+Colorless Eldrazi Tron,Golgari Necro,0,1,0,1,0.0
+Colorless Eldrazi Tron,Mono-Green Amulet Titan,0,1,0,1,0.0
+Colorless Eldrazi Tron,U-B-R-G Combo,1,0,0,1,100.0
+Colorless Eldrazi Tron,Mono-Red Combo,0,1,0,1,0.0
+Colorless Eldrazi Tron,Mono-Red,1,0,0,1,100.0
+Boros Burn,Azorius,0,1,0,1,0.0
+Boros Burn,Mono-Red,1,0,0,1,100.0
+Boros Burn,Boros Energy,0,1,0,1,0.0
+Boros Burn,Azorius Burn,0,1,0,1,0.0
+Boros Burn,Mono-Red Combo,1,0,0,1,100.0
+Mono-Red Combo,Izzet Affinity,0,1,0,1,0.0
+Mono-Red Combo,W-U-B-R-G Domain Zoo,0,1,0,1,0.0
+Mono-Red Combo,Mono-Red,1,0,0,1,100.0
+Mono-Red Combo,Colorless Eldrazi Tron,1,0,0,1,100.0
+Mono-Red Combo,Boros Burn,0,1,0,1,0.0
+Mono-Red,Boros Aggro,0,1,0,1,0.0
+Mono-Red,Boros Burn,0,1,0,1,0.0
+Mono-Red,Mono-Red Combo,0,1,0,1,0.0
+Mono-Red,Izzet Affinity,1,0,0,1,100.0
+Mono-Red,Colorless Eldrazi Tron,0,1,0,1,0.0
+U-B-R-G Combo,Izzet Affinity,0,1,0,1,0.0
+U-B-R-G Combo,Esper Blink,0,1,0,1,0.0
+U-B-R-G Combo,Colorless Eldrazi Tron,0,1,0,1,0.0
+U-B-R-G Combo,Esper Control,0,1,0,1,0.0
+Izzet Affinity,Azorius,0,1,0,1,0.0
+Izzet Affinity,Mono-Red,0,1,0,1,0.0

@@ -1,0 +1,48 @@
+archetype_a,archetype_b,win,loss,draw,games,winrate
+Grixis Reanimator,Mono-Red Storm,1,0,0,1,100.0
+Grixis Reanimator,Colorless Tron,1,0,0,1,100.0
+Grixis Reanimator,Jeskai Blink,1,0,1,2,100.0
+Grixis Reanimator,Jeskai,1,0,0,1,100.0
+Grixis Reanimator,Gruul Eldrazi Breach,0,1,0,1,0.0
+Jeskai Blink,Boros,1,0,0,1,100.0
+Jeskai Blink,Mono-Green Amulet Titan,1,1,0,2,50.0
+Jeskai Blink,Jeskai,1,1,0,2,50.0
+Jeskai Blink,Jeskai Blink,1,1,0,2,50.0
+Jeskai Blink,Grixis Reanimator,0,1,1,2,0.0
+Mono-Green Amulet Titan,Jeskai,1,0,0,1,100.0
+Mono-Green Amulet Titan,Jeskai Blink,1,1,0,2,50.0
+Mono-Green Amulet Titan,Boros,1,0,0,1,100.0
+Mono-Green Amulet Titan,Izzet Affinity,1,0,0,1,100.0
+Mono-Green Amulet Titan,Gruul Eldrazi Breach,0,1,1,2,0.0
+Gruul Eldrazi Breach,Izzet Affinity,1,0,0,1,100.0
+Gruul Eldrazi Breach,Jeskai Blink,0,1,0,1,0.0
+Gruul Eldrazi Breach,Temur Belcher,1,0,0,1,100.0
+Gruul Eldrazi Breach,Colorless Tron,1,0,0,1,100.0
+Gruul Eldrazi Breach,Mono-Green Amulet Titan,1,0,1,2,100.0
+Gruul Eldrazi Breach,Grixis Reanimator,1,0,0,1,100.0
+Jeskai Blink,Gruul Eldrazi Breach,1,0,0,1,100.0
+Boros,Jeskai Blink,0,1,0,1,0.0
+Boros,Mono-Green Amulet Titan,0,1,0,1,0.0
+Boros,Mono-Red Storm,1,0,0,1,100.0
+Boros,Colorless Tron,1,0,0,1,100.0
+Jeskai,Mono-Green Amulet Titan,0,1,0,1,0.0
+Jeskai,Temur Belcher,1,0,0,1,100.0
+Jeskai,Jeskai Blink,1,1,0,2,50.0
+Jeskai,Grixis Reanimator,0,1,0,1,0.0
+Colorless Tron,Temur Belcher,1,0,0,1,100.0
+Colorless Tron,Grixis Reanimator,0,1,0,1,0.0
+Colorless Tron,Mono-Red Storm,1,0,0,1,100.0
+Colorless Tron,Gruul Eldrazi Breach,0,1,0,1,0.0
+Colorless Tron,Boros,0,1,0,1,0.0
+Mono-Red Storm,Grixis Reanimator,0,1,0,1,0.0
+Mono-Red Storm,Izzet Affinity,1,0,0,1,100.0
+Mono-Red Storm,Colorless Tron,0,1,0,1,0.0
+Mono-Red Storm,Boros,0,1,0,1,0.0
+Temur Belcher,Colorless Tron,0,1,0,1,0.0
+Temur Belcher,Jeskai,0,1,0,1,0.0
+Temur Belcher,Gruul Eldrazi Breach,0,1,0,1,0.0
+Temur Belcher,Izzet Affinity,1,0,0,1,100.0
+Izzet Affinity,Gruul Eldrazi Breach,0,1,0,1,0.0
+Izzet Affinity,Mono-Red Storm,0,1,0,1,0.0
+Izzet Affinity,Mono-Green Amulet Titan,0,1,0,1,0.0
+Izzet Affinity,Temur Belcher,0,1,0,1,0.0

@@ -1,0 +1,23 @@
+archetype_a,archetype_b,win,loss,draw,games,winrate
+Izzet Aggro,Dimir Mill,1,0,0,1,100.0
+Izzet Aggro,Azorius Blink,1,0,0,1,100.0
+Izzet Aggro,Mono-Red Ruby Storm,2,0,0,2,100.0
+Izzet Aggro,Dimir Combo,2,0,0,2,100.0
+Izzet Aggro,Selesnya,1,0,0,1,100.0
+Azorius Blink,Izzet Aggro,0,1,0,1,0.0
+Azorius Blink,Golgari Combo,1,0,0,1,100.0
+Azorius Blink,Mono-Red Ruby Storm,0,1,1,2,0.0
+Mono-Red Ruby Storm,Selesnya,1,0,0,1,100.0
+Mono-Red Ruby Storm,Izzet Aggro,0,2,0,2,0.0
+Mono-Red Ruby Storm,Azorius Blink,1,0,1,2,100.0
+Mono-Red Ruby Storm,Golgari Combo,1,0,0,1,100.0
+Dimir Combo,Golgari Combo,0,0,1,1,
+Dimir Combo,Selesnya,1,0,0,1,100.0
+Dimir Combo,Izzet Aggro,0,2,0,2,0.0
+Selesnya,Mono-Red Ruby Storm,0,1,0,1,0.0
+Selesnya,Dimir Combo,0,1,0,1,0.0
+Selesnya,Izzet Aggro,0,1,0,1,0.0
+Golgari Combo,Dimir Combo,0,0,1,1,
+Golgari Combo,Azorius Blink,0,1,0,1,0.0
+Golgari Combo,Mono-Red Ruby Storm,0,1,0,1,0.0
+Dimir Mill,Izzet Aggro,0,1,0,1,0.0

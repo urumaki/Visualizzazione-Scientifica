@@ -1,0 +1,39 @@
+archetype_a,archetype_b,win,loss,draw,games,winrate
+Simic Amulet Titan,Boros Aggro,0,2,0,2,0.0
+Simic Amulet Titan,Mardu Blink,1,0,0,1,100.0
+Simic Amulet Titan,Izzet Affinity,1,0,0,1,100.0
+Simic Amulet Titan,Esper Blink,1,0,0,1,100.0
+Paper List,Paper List,2,2,2,6,50.0
+Paper List,Boros Aggro,2,0,0,2,100.0
+Paper List,Jeskai Combo,2,0,0,2,100.0
+Paper List,Sultai Living End,1,1,0,2,50.0
+Paper List,Mardu Blink,1,0,0,1,100.0
+Paper List,Izzet Affinity,1,0,0,1,100.0
+Paper List,Esper Blink,0,1,0,1,0.0
+Boros Aggro,Simic Amulet Titan,2,0,0,2,100.0
+Boros Aggro,Paper List,0,2,0,2,0.0
+Boros Aggro,U-B-R-G Dredge,1,0,0,1,100.0
+Boros Aggro,Sultai Living End,1,0,0,1,100.0
+Paper List,Boros,1,0,0,1,100.0
+Boros,U-B-R-G Dredge,0,1,0,1,0.0
+Boros,Paper List,0,1,0,1,0.0
+Boros,Jeskai Combo,1,0,0,1,100.0
+Boros,Izzet Affinity,1,0,0,1,100.0
+Esper Blink,Paper List,1,0,0,1,100.0
+Esper Blink,Simic Amulet Titan,0,1,0,1,0.0
+Sultai Living End,Jeskai Combo,1,0,0,1,100.0
+Sultai Living End,Paper List,1,1,0,2,50.0
+Sultai Living End,Boros Aggro,0,1,0,1,0.0
+U-B-R-G Dredge,Boros,1,0,0,1,100.0
+U-B-R-G Dredge,Boros Aggro,0,1,0,1,0.0
+U-B-R-G Dredge,Jeskai Combo,1,0,0,1,100.0
+Izzet Affinity,Boros,0,1,0,1,0.0
+Izzet Affinity,Izzet Affinity,1,1,0,2,50.0
+Izzet Affinity,Paper List,0,1,0,1,0.0
+Izzet Affinity,Simic Amulet Titan,0,1,0,1,0.0
+Mardu Blink,Paper List,0,1,0,1,0.0
+Mardu Blink,Simic Amulet Titan,0,1,0,1,0.0
+Jeskai Combo,Paper List,0,2,0,2,0.0
+Jeskai Combo,Sultai Living End,0,1,0,1,0.0
+Jeskai Combo,Boros,0,1,0,1,0.0
+Jeskai Combo,U-B-R-G Dredge,0,1,0,1,0.0

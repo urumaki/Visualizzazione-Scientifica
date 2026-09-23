@@ -1,0 +1,21 @@
+archetype_a,archetype_b,win,loss,draw,games,winrate
+Azorius Combo,Izzet Aggro,1,0,0,1,100.0
+Azorius Combo,W-B-R-G Combo,1,0,0,1,100.0
+Azorius Combo,Rakdos,1,0,0,1,100.0
+Rakdos,Mono-White Combo,1,0,0,1,100.0
+Rakdos,Mono-Green Amulet Titan,1,0,0,1,100.0
+Rakdos,Azorius Combo,0,1,0,1,0.0
+W-B-R-G Combo,Boros Aggro,1,0,0,1,100.0
+W-B-R-G Combo,Azorius Combo,0,1,0,1,0.0
+W-B-R-G Combo,Rakdos Burn (Obosh),1,0,0,1,100.0
+Mono-Green Amulet Titan,Rakdos Burn (Obosh),1,0,0,1,100.0
+Mono-Green Amulet Titan,Rakdos,0,1,0,1,0.0
+Mono-Green Amulet Titan,Boros Aggro,1,0,0,1,100.0
+Boros Aggro,W-B-R-G Combo,0,1,0,1,0.0
+Boros Aggro,Rakdos Burn (Obosh),1,0,0,1,100.0
+Boros Aggro,Mono-Green Amulet Titan,0,1,0,1,0.0
+Izzet Aggro,Azorius Combo,0,1,0,1,0.0
+Mono-White Combo,Rakdos,0,1,0,1,0.0
+Rakdos Burn (Obosh),Mono-Green Amulet Titan,0,1,0,1,0.0
+Rakdos Burn (Obosh),Boros Aggro,0,1,0,1,0.0
+Rakdos Burn (Obosh),W-B-R-G Combo,0,1,0,1,0.0

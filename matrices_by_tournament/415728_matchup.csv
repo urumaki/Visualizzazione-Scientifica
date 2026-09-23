@@ -1,0 +1,118 @@
+archetype_a,archetype_b,win,loss,draw,games,winrate
+Izzet Affinity,Rakdos Aggro,1,0,0,1,100.0
+Izzet Affinity,Izzet Prowess,2,0,0,2,100.0
+Izzet Affinity,Esper Blink,1,2,1,4,33.3
+Izzet Affinity,Gruul Broodscale,1,1,0,2,50.0
+Azorius Blink,Mono-Red Ruby Storm,1,0,0,1,100.0
+Azorius Blink,Gruul Broodscale,1,0,0,1,100.0
+Azorius Blink,Esper Blink,0,1,0,1,0.0
+Azorius Blink,Grixis Reanimator,1,0,0,1,100.0
+Azorius Blink,Izzet,1,0,0,1,100.0
+Azorius Blink,Izzet Prowess,0,1,0,1,0.0
+Esper Blink,Gruul Broodscale,1,0,0,1,100.0
+Esper Blink,Grixis Reanimator,0,1,0,1,0.0
+Esper Blink,Mono-Green Tron,1,0,0,1,100.0
+Esper Blink,Izzet Affinity,2,1,1,4,66.7
+Esper Blink,Temur Living End,1,0,0,1,100.0
+Esper Blink,Izzet Prowess,1,1,0,2,50.0
+Esper Blink,Boros Energy,0,0,1,1,
+Esper Blink,Azorius Blink,1,0,0,1,100.0
+Izzet Prowess,Temur Living End,1,0,0,1,100.0
+Izzet Prowess,Azorius Energy,1,0,0,1,100.0
+Izzet Prowess,Izzet Affinity,0,2,0,2,0.0
+Izzet Prowess,W-U-R-G Domain Zoo,1,0,0,1,100.0
+Izzet Prowess,Izzet Prowess,1,1,2,4,50.0
+Izzet Prowess,Esper Blink,1,1,0,2,50.0
+Izzet Prowess,Boros Aggro,1,0,0,1,100.0
+Izzet Prowess,Mono-Green Tron,1,0,0,1,100.0
+Izzet Prowess,Grixis Reanimator,1,0,0,1,100.0
+Izzet Prowess,Azorius Blink,1,0,0,1,100.0
+Gruul Broodscale,Izzet Affinity,1,1,0,2,50.0
+Gruul Broodscale,Azorius Blink,0,1,0,1,0.0
+Gruul Broodscale,Dimir Midrange,1,1,0,2,50.0
+Gruul Broodscale,Dimir Hollow One,1,0,0,1,100.0
+Grixis Reanimator,Rakdos Hollow One,1,0,0,1,100.0
+Grixis Reanimator,W-U-R-G Domain Zoo,1,0,0,1,100.0
+Grixis Reanimator,Azorius Blink,0,1,0,1,0.0
+Grixis Reanimator,Dimir Midrange,1,0,0,1,100.0
+Izzet,W-U-R-G Domain Zoo,0,1,0,1,0.0
+Izzet,Mono-Blue Tron,1,0,0,1,100.0
+Izzet,Azorius Energy,1,0,0,1,100.0
+Izzet,Azorius Blink,0,1,0,1,0.0
+W-U-R-G Domain Zoo,Izzet,1,0,0,1,100.0
+W-U-R-G Domain Zoo,Grixis Reanimator,0,1,0,1,0.0
+W-U-R-G Domain Zoo,Boros Energy,1,0,0,1,100.0
+W-U-R-G Domain Zoo,Izzet Prowess,0,1,0,1,0.0
+W-U-R-G Domain Zoo,Azorius Energy,1,0,0,1,100.0
+Mono-Green Tron,Dimir Midrange,1,0,0,1,100.0
+Mono-Green Tron,Izzet Prowess,0,1,0,1,0.0
+Mono-Green Tron,Esper Blink,0,1,0,1,0.0
+Mono-Green Tron,W-U-B-G Goryo's,1,0,0,1,100.0
+Mono-Green Tron,Izzet,1,0,0,1,100.0
+Izzet Affinity,Rakdos Hollow One,1,0,0,1,100.0
+Izzet Affinity,W-U-B-G Goryo's,1,0,0,1,100.0
+Izzet Affinity,Dimir Hollow One,1,0,0,1,100.0
+Mono-Blue Tron,Azorius Energy,0,1,0,1,0.0
+Mono-Blue Tron,Mono-Red Ruby Storm,1,0,0,1,100.0
+Mono-Blue Tron,Izzet,0,1,0,1,0.0
+Mono-Blue Tron,Gruul Broodscale,1,0,0,1,100.0
+Mono-Blue Tron,Boros Energy,1,0,0,1,100.0
+Boros Energy,Mardu Energy,1,0,0,1,100.0
+Boros Energy,Esper Blink,0,0,1,1,
+Boros Energy,W-U-R-G Domain Zoo,0,1,0,1,0.0
+Boros Energy,Grixis Reanimator,1,0,0,1,100.0
+Boros Energy,Mono-Blue Tron,0,1,0,1,0.0
+Temur Living End,Izzet Prowess,0,1,0,1,0.0
+Temur Living End,Mardu Energy,0,0,1,1,
+Temur Living End,Boros Aggro,1,0,0,1,100.0
+Temur Living End,Rakdos Aggro,1,0,0,1,100.0
+Temur Living End,Esper Blink,0,1,0,1,0.0
+Mardu Energy,Boros Energy,0,1,0,1,0.0
+Mardu Energy,Temur Living End,0,0,1,1,
+Mardu Energy,Rakdos Aggro,1,0,0,1,100.0
+Mardu Energy,Dimir Midrange,0,1,0,1,0.0
+Mardu Energy,W-U-B-G Goryo's,1,0,0,1,100.0
+Grixis Reanimator,Dimir Hollow One,1,0,0,1,100.0
+Grixis Reanimator,Esper Blink,1,0,0,1,100.0
+Grixis Reanimator,Izzet Prowess,0,1,0,1,0.0
+Grixis Reanimator,Boros Energy,0,1,0,1,0.0
+Azorius Energy,Mono-Blue Tron,1,0,0,1,100.0
+Azorius Energy,Izzet Prowess,0,1,0,1,0.0
+Azorius Energy,Izzet Affinity,1,0,0,1,100.0
+Azorius Energy,Izzet,0,1,0,1,0.0
+Azorius Energy,W-U-R-G Domain Zoo,0,1,0,1,0.0
+Dimir Midrange,Mono-Green Tron,0,1,0,1,0.0
+Dimir Midrange,Gruul Broodscale,1,1,0,2,50.0
+Dimir Midrange,Mardu Energy,1,0,0,1,100.0
+Dimir Midrange,Grixis Reanimator,0,1,0,1,0.0
+Gruul Broodscale,Esper Blink,0,1,0,1,0.0
+Gruul Broodscale,Mono-Red Ruby Storm,1,0,0,1,100.0
+Gruul Broodscale,Mono-Blue Tron,0,1,0,1,0.0
+Dimir Hollow One,Grixis Reanimator,0,1,0,1,0.0
+Dimir Hollow One,Mono-Red Ruby Storm,1,0,0,1,100.0
+Dimir Hollow One,Izzet,1,0,0,1,100.0
+Dimir Hollow One,Gruul Broodscale,0,1,0,1,0.0
+Dimir Hollow One,Izzet Affinity,0,1,0,1,0.0
+Izzet,W-U-B-G Goryo's,1,0,0,1,100.0
+Izzet,Dimir Hollow One,0,1,0,1,0.0
+Izzet,Mono-Green Tron,0,1,0,1,0.0
+Rakdos Aggro,Mono-Red Ruby Storm,1,0,0,1,100.0
+Rakdos Aggro,Izzet Affinity,0,1,0,1,0.0
+Rakdos Aggro,Mardu Energy,0,1,0,1,0.0
+Rakdos Aggro,Temur Living End,0,1,0,1,0.0
+W-U-B-G Goryo's,Izzet,0,1,0,1,0.0
+W-U-B-G Goryo's,Izzet Affinity,0,1,0,1,0.0
+W-U-B-G Goryo's,Mono-Green Tron,0,1,0,1,0.0
+W-U-B-G Goryo's,Mardu Energy,0,1,0,1,0.0
+Izzet Affinity,Boros Aggro,1,0,0,1,100.0
+Izzet Affinity,Azorius Energy,0,1,0,1,0.0
+Rakdos Hollow One,Grixis Reanimator,0,1,0,1,0.0
+Rakdos Hollow One,Izzet Affinity,0,1,0,1,0.0
+Mono-Red Ruby Storm,Azorius Blink,0,1,0,1,0.0
+Mono-Red Ruby Storm,Mono-Blue Tron,0,1,0,1,0.0
+Boros Aggro,Izzet Prowess,0,1,0,1,0.0
+Boros Aggro,Izzet Affinity,0,1,0,1,0.0
+Boros Aggro,Temur Living End,0,1,0,1,0.0
+Mono-Red Ruby Storm,Rakdos Aggro,0,1,0,1,0.0
+Mono-Red Ruby Storm,Dimir Hollow One,0,1,0,1,0.0
+Mono-Red Ruby Storm,Gruul Broodscale,0,1,0,1,0.0

@@ -1,0 +1,150 @@
+archetype_a,archetype_b,win,loss,draw,games,winrate
+Boros Aggro,Boros Energy,0,1,0,1,0.0
+Boros Aggro,Gruul Eldrazi,1,0,0,1,100.0
+Boros Aggro,W-U-R-G Domain,2,1,0,3,66.7
+Boros Aggro,W-U-B-R-G Domain,1,0,0,1,100.0
+Boros Aggro,Dimir Oculus,1,0,0,1,100.0
+Boros Aggro,Orzhov Midrange,1,1,0,2,50.0
+Boros Aggro,Mardu Energy,1,0,0,1,100.0
+Boros Energy,Mono-Green Eldrazi,1,0,0,1,100.0
+Boros Energy,Boros Aggro,1,0,0,1,100.0
+Boros Energy,Azorius Belcher,0,1,0,1,0.0
+Boros Energy,Boros Energy,1,1,0,2,50.0
+Boros Energy,Grixis Murktide,1,0,0,1,100.0
+Boros Energy,W-U-B-R-G Domain,1,0,0,1,100.0
+Boros Energy,W-U-R-G Domain,1,0,0,1,100.0
+Boros Energy,Jeskai Affinity,0,1,0,1,0.0
+Azorius Belcher,Boros Aggro,1,0,0,1,100.0
+Azorius Belcher,Boros,1,0,0,1,100.0
+Azorius Belcher,Boros Energy,1,0,0,1,100.0
+Azorius Belcher,Jeskai Affinity,1,1,0,2,50.0
+Azorius Belcher,Mardu Energy,0,0,1,1,
+Azorius Belcher,Grixis,0,0,1,1,
+Mardu Energy,Izzet Aggro,1,0,0,1,100.0
+Mardu Energy,Orzhov Hammer Time,1,0,0,1,100.0
+Mardu Energy,Esper Midrange,1,0,1,2,100.0
+Mardu Energy,Dimir Oculus,1,0,0,1,100.0
+Mardu Energy,Azorius Belcher,0,0,1,1,
+Mardu Energy,Jeskai Affinity,1,1,1,3,50.0
+Mardu Energy,Grixis,1,0,0,1,100.0
+Mardu Energy,Boros Aggro,0,1,0,1,0.0
+Grixis,Grixis Murktide,0,0,1,1,
+Grixis,Jeskai Affinity,1,0,0,1,100.0
+Grixis,Gruul Eldrazi,1,0,0,1,100.0
+Grixis,W-U-R-G Domain,1,0,0,1,100.0
+Grixis,Dimir Oculus,1,0,0,1,100.0
+Grixis,Azorius Belcher,0,0,1,1,
+Grixis,Mardu Energy,0,1,0,1,0.0
+Jeskai Affinity,W-U-R-G Domain,1,0,0,1,100.0
+Jeskai Affinity,Izzet Aggro,1,1,0,2,50.0
+Jeskai Affinity,W-U-B-R-G Domain,1,0,0,1,100.0
+Jeskai Affinity,Azorius Belcher,1,1,0,2,50.0
+Jeskai Affinity,Esper Midrange,3,0,0,3,100.0
+Jeskai Affinity,Mardu Energy,1,1,1,3,50.0
+Jeskai Affinity,Boros Energy,1,0,0,1,100.0
+W-U-R-G Domain,Jeskai Affinity,0,1,0,1,0.0
+W-U-R-G Domain,Boros Aggro,1,2,0,3,33.3
+W-U-R-G Domain,Orzhov Midrange,1,0,0,1,100.0
+W-U-R-G Domain,Boros,1,0,0,1,100.0
+W-U-R-G Domain,Esper Midrange,1,1,0,2,50.0
+W-U-R-G Domain,Boros Energy,0,1,0,1,0.0
+Orzhov Midrange,Dimir Murktide,1,0,0,1,100.0
+Orzhov Midrange,W-U-B-R-G Domain,0,1,0,1,0.0
+Orzhov Midrange,W-U-R-G Domain,0,1,0,1,0.0
+Orzhov Midrange,Izzet Aggro,1,0,0,1,100.0
+Orzhov Midrange,Jeskai Hammer Time,1,0,0,1,100.0
+Orzhov Midrange,Boros Aggro,1,1,0,2,50.0
+Dimir Murktide,Orzhov Midrange,0,1,0,1,0.0
+Dimir Murktide,Izzet Aggro,2,0,0,2,100.0
+Dimir Murktide,W-U-B-R-G Domain,0,1,0,1,0.0
+Dimir Murktide,Mono-Green Eldrazi,1,0,0,1,100.0
+Dimir Murktide,Orzhov Hammer Time,1,0,0,1,100.0
+Izzet Aggro,Esper Midrange,2,0,0,2,100.0
+Izzet Aggro,Jeskai Hammer Time,0,1,0,1,0.0
+Izzet Aggro,Dimir Murktide,0,2,0,2,0.0
+Izzet Aggro,Gruul Eldrazi,2,0,0,2,100.0
+Izzet Aggro,Izzet Aggro,1,1,0,2,50.0
+Izzet Aggro,Grixis Murktide,1,0,0,1,100.0
+Jeskai Affinity,Gruul Amulet Titan,1,0,1,2,100.0
+Jeskai Affinity,Boros,0,1,0,1,0.0
+Jeskai Affinity,Jeskai Hammer Time,1,1,0,2,50.0
+W-U-B-R-G Domain,Mardu Energy,1,0,0,1,100.0
+W-U-B-R-G Domain,Orzhov Midrange,1,0,0,1,100.0
+W-U-B-R-G Domain,Jeskai Affinity,0,1,0,1,0.0
+W-U-B-R-G Domain,Dimir Murktide,1,0,0,1,100.0
+W-U-B-R-G Domain,Boros Aggro,0,1,0,1,0.0
+W-U-B-R-G Domain,Boros Energy,0,1,0,1,0.0
+Dimir Oculus,Gruul Eldrazi,1,0,0,1,100.0
+Dimir Oculus,Boros Energy,1,0,0,1,100.0
+Dimir Oculus,Jeskai Hammer Time,1,0,0,1,100.0
+Dimir Oculus,Mardu Energy,0,1,0,1,0.0
+Dimir Oculus,Grixis,0,1,0,1,0.0
+Dimir Oculus,Boros Aggro,0,1,0,1,0.0
+Esper Midrange,W-U-R-G Domain,1,1,0,2,50.0
+Esper Midrange,Gruul Eldrazi,1,0,0,1,100.0
+Esper Midrange,Mardu Energy,0,1,1,2,0.0
+Esper Midrange,Jeskai Hammer Time,1,0,0,1,100.0
+Esper Midrange,Jeskai Affinity,0,3,0,3,0.0
+Boros Aggro,Azorius Belcher,0,1,0,1,0.0
+Boros Aggro,Mono-Green Eldrazi,1,1,0,2,50.0
+Boros Aggro,Orzhov Hammer Time,1,0,0,1,100.0
+Boros Aggro,Grixis Murktide,0,1,0,1,0.0
+Boros,Boros Aggro,1,0,0,1,100.0
+Boros,Azorius Belcher,0,1,0,1,0.0
+Boros,Grixis Murktide,0,1,0,1,0.0
+Boros,Jeskai Affinity,1,0,0,1,100.0
+Boros,W-U-R-G Domain,0,1,0,1,0.0
+Boros,Mono-Green Eldrazi,1,0,0,1,100.0
+Orzhov Hammer Time,Izzet Aggro,1,0,0,1,100.0
+Orzhov Hammer Time,Mardu Energy,0,1,0,1,0.0
+Orzhov Hammer Time,Boros Aggro,0,1,0,1,0.0
+Orzhov Hammer Time,Gruul Amulet Titan,1,0,0,1,100.0
+Orzhov Hammer Time,Boros Energy,1,0,0,1,100.0
+Orzhov Hammer Time,Dimir Murktide,0,1,0,1,0.0
+Grixis Murktide,Grixis,0,0,1,1,
+Grixis Murktide,Gruul Eldrazi,0,1,0,1,0.0
+Grixis Murktide,Boros,1,0,0,1,100.0
+Grixis Murktide,Boros Aggro,1,0,0,1,100.0
+Grixis Murktide,Boros Energy,0,1,0,1,0.0
+Grixis Murktide,Izzet Aggro,0,1,0,1,0.0
+Mardu Energy,W-U-B-R-G Domain,0,1,0,1,0.0
+Mardu Energy,Gruul Amulet Titan,0,1,0,1,0.0
+W-U-R-G Domain,Izzet Aggro,1,0,0,1,100.0
+W-U-R-G Domain,Grixis,0,1,0,1,0.0
+Jeskai Hammer Time,Jeskai Affinity,1,1,0,2,50.0
+Jeskai Hammer Time,Izzet Aggro,1,0,0,1,100.0
+Jeskai Hammer Time,Dimir Oculus,0,1,0,1,0.0
+Jeskai Hammer Time,Esper Midrange,0,1,0,1,0.0
+Jeskai Hammer Time,Orzhov Midrange,0,1,0,1,0.0
+Izzet Aggro,Jeskai Affinity,1,1,0,2,50.0
+Izzet Aggro,W-U-R-G Domain,0,1,0,1,0.0
+Gruul Eldrazi,Dimir Oculus,0,1,0,1,0.0
+Gruul Eldrazi,Grixis Murktide,1,0,0,1,100.0
+Gruul Eldrazi,Grixis,0,1,0,1,0.0
+Gruul Eldrazi,Izzet Aggro,0,2,0,2,0.0
+Gruul Eldrazi,Gruul Eldrazi,1,1,0,2,50.0
+Mono-Green Eldrazi,Boros Energy,0,1,0,1,0.0
+Mono-Green Eldrazi,Boros Aggro,1,1,0,2,50.0
+Mono-Green Eldrazi,Jeskai Affinity,1,0,0,1,100.0
+Mono-Green Eldrazi,Dimir Murktide,0,1,0,1,0.0
+Mono-Green Eldrazi,Boros,0,1,0,1,0.0
+Boros Energy,Esper Midrange,1,0,0,1,100.0
+Boros Energy,Dimir Oculus,0,1,0,1,0.0
+Boros Energy,Izzet Aggro,1,0,0,1,100.0
+Boros Energy,Orzhov Hammer Time,0,1,0,1,0.0
+Gruul Eldrazi,Gruul Amulet Titan,1,0,0,1,100.0
+Gruul Eldrazi,Esper Midrange,0,1,0,1,0.0
+Gruul Eldrazi,Boros Aggro,0,1,0,1,0.0
+Jeskai Affinity,Grixis,0,1,0,1,0.0
+Jeskai Affinity,Mono-Green Eldrazi,0,1,0,1,0.0
+Izzet Aggro,Mardu Energy,0,1,0,1,0.0
+Izzet Aggro,Boros Energy,0,1,0,1,0.0
+Izzet Aggro,Orzhov Midrange,0,1,0,1,0.0
+Gruul Amulet Titan,Gruul Eldrazi,0,1,0,1,0.0
+Gruul Amulet Titan,Jeskai Affinity,0,1,1,2,0.0
+Gruul Amulet Titan,Mardu Energy,1,0,0,1,100.0
+Gruul Amulet Titan,Orzhov Hammer Time,0,1,0,1,0.0
+Esper Midrange,Boros Energy,0,1,0,1,0.0
+Boros Aggro,Boros,0,1,0,1,0.0
+Esper Midrange,Izzet Aggro,0,2,0,2,0.0
+Izzet Aggro,Orzhov Hammer Time,0,1,0,1,0.0

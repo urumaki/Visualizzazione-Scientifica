@@ -1,0 +1,64 @@
+archetype_a,archetype_b,win,loss,draw,games,winrate
+Izzet Prowess,Izzet Prowess,1,1,0,2,50.0
+Izzet Prowess,Mono-Green,1,1,0,2,50.0
+Izzet Prowess,W-U-B-R-G Domain Zoo,0,0,1,1,
+Izzet Prowess,W-U-B-G Samwise Gamgee Combo,0,0,1,1,
+W-U-B-R-G Domain Zoo,Abzan,1,0,0,1,100.0
+W-U-B-R-G Domain Zoo,Azorius Blink,1,0,0,1,100.0
+W-U-B-R-G Domain Zoo,W-U-B-G Samwise Gamgee Combo,2,0,0,2,100.0
+W-U-B-R-G Domain Zoo,Esper Aggro,1,0,0,1,100.0
+W-U-B-R-G Domain Zoo,Izzet Prowess,0,0,1,1,
+W-U-B-R-G Domain Zoo,Mono-Green Amulet Titan,0,0,1,1,
+W-U-B-R-G Domain Zoo,Mono-Green,1,0,0,1,100.0
+W-U-B-G Samwise Gamgee Combo,Boros Energy,1,0,0,1,100.0
+W-U-B-G Samwise Gamgee Combo,W-U-B-R-G Domain Zoo,0,2,0,2,0.0
+W-U-B-G Samwise Gamgee Combo,Mono-Green Amulet Titan,1,0,0,1,100.0
+W-U-B-G Samwise Gamgee Combo,Izzet Prowess,0,0,1,1,
+Mono-Green Amulet Titan,Golgari Necro,1,0,0,1,100.0
+Mono-Green Amulet Titan,W-U-B-G Samwise Gamgee Combo,0,1,0,1,0.0
+Mono-Green Amulet Titan,Mono-Green,1,1,0,2,50.0
+Mono-Green Amulet Titan,W-U-B-R-G Domain Zoo,0,0,1,1,
+Mono-Green Amulet Titan,Esper Aggro,1,0,0,1,100.0
+Esper Aggro,W-U-B-R-G Domain Zoo,0,1,0,1,0.0
+Esper Aggro,Mono-Green Amulet Titan,0,1,0,1,0.0
+Mono-Green,Boros Land Destruction,1,0,0,1,100.0
+Mono-Green,Temur Rhinos,1,0,0,1,100.0
+Mono-Green,Izzet,1,0,0,1,100.0
+Mono-Green,Izzet Prowess,1,1,0,2,50.0
+Mono-Green,Mono-Green Amulet Titan,1,1,0,2,50.0
+Mono-Green,W-U-B-R-G Domain Zoo,0,1,0,1,0.0
+Izzet,W-U-R-G Domain Zoo,1,0,0,1,100.0
+Izzet,Mono-Green,0,1,0,1,0.0
+Izzet,Abzan,1,0,0,1,100.0
+Temur Rhinos,Mono-Green,0,1,0,1,0.0
+Temur Rhinos,W-U-B-G,0,0,1,1,
+Temur Rhinos,Golgari Necro,1,0,0,1,100.0
+Golgari Necro,Mono-Green Amulet Titan,0,1,0,1,0.0
+Golgari Necro,Temur Rhinos,0,1,0,1,0.0
+Golgari Necro,Abzan,1,0,0,1,100.0
+Boros Energy,W-U-B-G Samwise Gamgee Combo,0,1,0,1,0.0
+Boros Energy,Golgari Yawgmoth,1,0,0,1,100.0
+Boros Energy,Grixis Reanimator,1,0,0,1,100.0
+W-U-R-G Domain Zoo,Izzet,0,1,0,1,0.0
+W-U-R-G Domain Zoo,Abzan,0,1,0,1,0.0
+W-U-R-G Domain Zoo,Colorless Eldrazi Tron,0,1,0,1,0.0
+Grixis Reanimator,W-U-B-G Midrange,1,0,0,1,100.0
+Grixis Reanimator,Boros Energy,0,1,0,1,0.0
+Grixis Reanimator,Boros Land Destruction,1,0,0,1,100.0
+Abzan,W-U-B-R-G Domain Zoo,0,1,0,1,0.0
+Abzan,W-U-R-G Domain Zoo,1,0,0,1,100.0
+Abzan,Izzet,0,1,0,1,0.0
+Abzan,Golgari Necro,0,1,0,1,0.0
+W-U-B-G,W-U-R-G Control,1,0,0,1,100.0
+W-U-B-G,Temur Rhinos,0,0,1,1,
+Boros Land Destruction,Mono-Green,0,1,0,1,0.0
+Boros Land Destruction,Grixis Reanimator,0,1,0,1,0.0
+Colorless Eldrazi Tron,W-U-R-G Domain Zoo,1,0,0,1,100.0
+W-U-B-G Midrange,W-U-R-G Control,1,0,0,1,100.0
+W-U-B-G Midrange,Grixis Reanimator,0,1,0,1,0.0
+Azorius Blink,Golgari Yawgmoth,1,0,0,1,100.0
+Azorius Blink,W-U-B-R-G Domain Zoo,0,1,0,1,0.0
+Golgari Yawgmoth,Azorius Blink,0,1,0,1,0.0
+Golgari Yawgmoth,Boros Energy,0,1,0,1,0.0
+W-U-R-G Control,W-U-B-G Midrange,0,1,0,1,0.0
+W-U-R-G Control,W-U-B-G,0,1,0,1,0.0

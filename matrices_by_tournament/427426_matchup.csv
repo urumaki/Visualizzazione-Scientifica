@@ -1,0 +1,53 @@
+archetype_a,archetype_b,win,loss,draw,games,winrate
+Izzet Affinity,Sultai Aggro,1,0,0,1,100.0
+Izzet Affinity,Simic Midrange,1,0,0,1,100.0
+Izzet Affinity,Temur,1,0,1,2,100.0
+Izzet Affinity,Azorius Control (Kaheera),1,0,0,1,100.0
+Temur,Temur Aggro,1,0,0,1,100.0
+Temur,Izzet Affinity,0,1,1,2,0.0
+Simic Midrange,Sultai Aggro,1,0,0,1,100.0
+Simic Midrange,Izzet Affinity,0,1,0,1,0.0
+Simic Midrange,Grixis Reanimator,2,0,0,2,100.0
+Mono-Blue Belcher,Temur Living End,1,0,0,1,100.0
+Mono-Blue Belcher,Izzet,1,0,0,1,100.0
+Mono-Blue Belcher,Dimir,1,0,0,1,100.0
+Mono-Blue Belcher,Simic Ritual,1,0,0,1,100.0
+Simic Ritual,Izzet Aggro,1,0,0,1,100.0
+Simic Ritual,Mono-Blue Belcher,0,1,0,1,0.0
+Simic Ritual,Sultai Aggro,1,0,0,1,100.0
+Boros Belcher,Jeskai Energy,1,0,0,1,100.0
+Boros Belcher,Grixis Reanimator,0,1,0,1,0.0
+Boros Belcher,Temur Living End,1,0,0,1,100.0
+Grixis Reanimator,Simic Midrange,0,2,0,2,0.0
+Grixis Reanimator,Simic,0,0,1,1,
+Simic,Grixis Reanimator,0,0,1,1,
+Temur Living End,Azorius Blink,0,0,1,1,
+Temur Living End,Mono-Green Amulet Titan,1,0,0,1,100.0
+Temur Living End,Grixis Reanimator,1,0,0,1,100.0
+Temur,Jeskai Energy,1,0,0,1,100.0
+Temur,Sultai Aggro,1,0,0,1,100.0
+Grixis Reanimator,Gruul Eldrazi Ramp,1,0,0,1,100.0
+Grixis Reanimator,Boros Belcher,1,0,0,1,100.0
+Sultai Aggro,Izzet Affinity,0,1,0,1,0.0
+Sultai Aggro,Simic Midrange,0,1,0,1,0.0
+Sultai Aggro,Azorius Control (Kaheera),1,0,0,1,100.0
+Sultai Aggro,Temur,0,1,0,1,0.0
+Sultai Aggro,Simic Ritual,0,1,0,1,0.0
+Dimir,Mono-Blue Belcher,0,1,0,1,0.0
+Dimir,Izzet Aggro,1,0,0,1,100.0
+Azorius Blink,Temur Living End,0,0,1,1,
+Azorius Blink,Mono-Green Amulet Titan,1,0,0,1,100.0
+Grixis Reanimator,Temur Living End,0,1,0,1,0.0
+Izzet Aggro,Simic Ritual,0,1,0,1,0.0
+Izzet Aggro,Dimir,0,1,0,1,0.0
+Izzet,Mono-Blue Belcher,0,1,0,1,0.0
+Azorius Control (Kaheera),Izzet Affinity,0,1,0,1,0.0
+Azorius Control (Kaheera),Sultai Aggro,0,1,0,1,0.0
+Temur Living End,Mono-Blue Belcher,0,1,0,1,0.0
+Temur Living End,Boros Belcher,0,1,0,1,0.0
+Mono-Green Amulet Titan,Temur Living End,0,1,0,1,0.0
+Mono-Green Amulet Titan,Azorius Blink,0,1,0,1,0.0
+Temur Aggro,Temur,0,1,0,1,0.0
+Jeskai Energy,Boros Belcher,0,1,0,1,0.0
+Jeskai Energy,Temur,0,1,0,1,0.0
+Gruul Eldrazi Ramp,Grixis Reanimator,0,1,0,1,0.0

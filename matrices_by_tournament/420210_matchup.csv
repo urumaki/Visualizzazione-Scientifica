@@ -1,0 +1,42 @@
+archetype_a,archetype_b,win,loss,draw,games,winrate
+Boros Energy,Sultai Living End,2,0,0,2,100.0
+Boros Energy,Izzet Affinity,1,3,0,4,25.0
+Boros Energy,Boros Energy,1,1,0,2,50.0
+Boros Energy,W-U-R-G Domain Zoo,2,1,0,3,66.7
+Boros Energy,Rakdos Burn,2,0,0,2,100.0
+Izzet Affinity,Jeskai,1,0,0,1,100.0
+Izzet Affinity,Boros Energy,3,1,0,4,75.0
+Izzet Affinity,W-U-R-G Domain Zoo,0,1,0,1,0.0
+Izzet Affinity,Dimir Midrange,1,0,0,1,100.0
+W-U-R-G Domain Zoo,Boros Energy,1,2,0,3,33.3
+W-U-R-G Domain Zoo,Mono-Red Burn,1,0,0,1,100.0
+W-U-R-G Domain Zoo,Izzet Affinity,1,0,0,1,100.0
+W-U-R-G Domain Zoo,Sultai Living End,0,1,0,1,0.0
+Sultai Living End,Boros Energy,0,2,0,2,0.0
+Sultai Living End,Simic,1,0,0,1,100.0
+Sultai Living End,Jeskai,1,0,0,1,100.0
+Sultai Living End,W-U-R-G Domain Zoo,1,0,0,1,100.0
+Jeskai,Izzet Affinity,0,1,0,1,0.0
+Jeskai,Dimir Midrange,1,0,0,1,100.0
+Jeskai,Sultai Living End,0,1,0,1,0.0
+Jeskai,Simic,1,0,0,1,100.0
+Jeskai,Mono-Red Burn,1,0,0,1,100.0
+Dimir Midrange,Mono-Red Burn,1,0,0,1,100.0
+Dimir Midrange,Jeskai,0,1,0,1,0.0
+Dimir Midrange,Rakdos Burn,1,0,0,1,100.0
+Dimir Midrange,Izzet Affinity,0,1,0,1,0.0
+Dimir Midrange,Simic,1,0,0,1,100.0
+Rakdos Burn,Simic,1,0,0,1,100.0
+Rakdos Burn,Boros Energy,0,2,0,2,0.0
+Rakdos Burn,Dimir Midrange,0,1,0,1,0.0
+Rakdos Burn,Mono-Red Burn,1,0,0,1,100.0
+Simic,Rakdos Burn,0,1,0,1,0.0
+Simic,Sultai Living End,0,1,0,1,0.0
+Simic,Mono-Red Burn,1,0,0,1,100.0
+Simic,Jeskai,0,1,0,1,0.0
+Simic,Dimir Midrange,0,1,0,1,0.0
+Mono-Red Burn,Dimir Midrange,0,1,0,1,0.0
+Mono-Red Burn,W-U-R-G Domain Zoo,0,1,0,1,0.0
+Mono-Red Burn,Simic,0,1,0,1,0.0
+Mono-Red Burn,Rakdos Burn,0,1,0,1,0.0
+Mono-Red Burn,Jeskai,0,1,0,1,0.0

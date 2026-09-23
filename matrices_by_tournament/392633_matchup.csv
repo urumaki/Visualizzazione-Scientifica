@@ -1,0 +1,377 @@
+archetype_a,archetype_b,win,loss,draw,games,winrate
+Izzet Affinity,Izzet Prowess,2,0,0,2,100.0
+Izzet Affinity,Grixis Control,0,1,0,1,0.0
+Izzet Affinity,U-B-R-G Dredge,1,1,0,2,50.0
+Izzet Affinity,Dimir,1,0,0,1,100.0
+Izzet Affinity,Izzet Aggro,1,0,0,1,100.0
+Izzet Affinity,Esper Blink,1,0,0,1,100.0
+Izzet Affinity,Jeskai Combo,1,0,0,1,100.0
+Izzet Affinity,Jeskai Blink,0,1,0,1,0.0
+Mono-Black Control,Grixis Murktide,1,0,0,1,100.0
+Mono-Black Control,Mono-Red Storm,1,0,0,1,100.0
+Mono-Black Control,Моно-Синий,1,0,0,1,100.0
+Mono-Black Control,Mono-Green Amulet Titan,1,0,0,1,100.0
+Mono-Black Control,W-U-B-R-G Domain Zoo,1,1,0,2,50.0
+Mono-Black Control,W-U-B-G Goryo's Vengeance,0,0,1,1,
+Mono-Black Control,Mono-Blue Eldrazi,0,0,1,1,
+W-U-B-G Goryo's Vengeance,Izzet Prowess,1,0,0,1,100.0
+W-U-B-G Goryo's Vengeance,Mono-Red Midrange (Obosh),1,0,0,1,100.0
+W-U-B-G Goryo's Vengeance,Azorius Blink,1,0,0,1,100.0
+W-U-B-G Goryo's Vengeance,Izzet Aggro,1,0,0,1,100.0
+W-U-B-G Goryo's Vengeance,Boros Midrange,1,0,0,1,100.0
+W-U-B-G Goryo's Vengeance,Mono-Black Control,0,0,1,1,
+W-U-B-G Goryo's Vengeance,W-U-B-R-G Domain Zoo,0,0,1,1,
+W-U-B-G Goryo's Vengeance,Jeskai Blink,0,1,0,1,0.0
+Mono-Blue Eldrazi,Boros Energy,1,0,0,1,100.0
+Mono-Blue Eldrazi,Mono-Blue Merfolk,1,0,0,1,100.0
+Mono-Blue Eldrazi,Jeskai Blink,1,1,0,2,50.0
+Mono-Blue Eldrazi,Boros Midrange,1,1,0,2,50.0
+Mono-Blue Eldrazi,W-U-R-G Birthing Ritual,1,0,0,1,100.0
+Mono-Blue Eldrazi,Grixis Control,1,0,0,1,100.0
+Mono-Blue Eldrazi,Mono-Black Control,0,0,1,1,
+Boros Midrange,Izzet Prowess,1,0,0,1,100.0
+Boros Midrange,Boros,1,0,0,1,100.0
+Boros Midrange,Grixis Control,1,0,0,1,100.0
+Boros Midrange,Mono-Blue Eldrazi,1,1,0,2,50.0
+Boros Midrange,W-U-B-G Goryo's Vengeance,0,1,0,1,0.0
+Boros Midrange,Boros Energy,1,0,0,1,100.0
+Boros Midrange,Jeskai Blink,0,0,1,1,
+Jeskai Blink,Temur,1,0,0,1,100.0
+Jeskai Blink,W-U-R-G Birthing Ritual,1,0,0,1,100.0
+Jeskai Blink,Mono-Blue Eldrazi,1,1,0,2,50.0
+Jeskai Blink,Esper Control,1,0,0,1,100.0
+Jeskai Blink,Simic Amulet Titan,1,0,0,1,100.0
+Jeskai Blink,Izzet Prowess,1,0,0,1,100.0
+Jeskai Blink,Boros Midrange,0,0,1,1,
+Jeskai Blink,W-U-B-G Goryo's Vengeance,1,0,0,1,100.0
+Jeskai Blink,W-U-B-R-G Domain Zoo,1,0,0,1,100.0
+Jeskai Blink,Jeskai Blink,1,1,0,2,50.0
+W-U-B-R-G Domain Zoo,Orzhov Blink,1,0,0,1,100.0
+W-U-B-R-G Domain Zoo,Mono-Red Storm,1,0,0,1,100.0
+W-U-B-R-G Domain Zoo,Jeskai Burn,1,0,0,1,100.0
+W-U-B-R-G Domain Zoo,Grixis Affinity,1,0,0,1,100.0
+W-U-B-R-G Domain Zoo,Mono-Black Control,1,1,0,2,50.0
+W-U-B-R-G Domain Zoo,Моно-Синий,1,0,0,1,100.0
+W-U-B-R-G Domain Zoo,W-U-B-G Goryo's Vengeance,0,0,1,1,
+W-U-B-R-G Domain Zoo,Jeskai Blink,0,1,0,1,0.0
+Jeskai Blink,Simic,1,0,0,1,100.0
+Jeskai Blink,Esper Goryo's Vengeance,1,0,0,1,100.0
+Jeskai Blink,Mono-Black,1,0,0,1,100.0
+Jeskai Blink,W-U-B-R-G Aggro,0,0,1,1,
+Jeskai Blink,Esper Blink,0,1,0,1,0.0
+Jeskai Blink,Izzet Aggro,1,0,0,1,100.0
+Jeskai Blink,Grixis Control,1,0,0,1,100.0
+Jeskai Blink,Izzet Affinity,1,0,0,1,100.0
+Esper Blink,Mono-Red Storm,0,1,0,1,0.0
+Esper Blink,Simic Amulet Titan,1,0,0,1,100.0
+Esper Blink,Boros Energy,1,0,0,1,100.0
+Esper Blink,Jeskai Blink,1,0,0,1,100.0
+Esper Blink,Izzet Affinity,0,1,0,1,0.0
+Esper Blink,Mono-Green Amulet Titan,1,0,0,1,100.0
+Моно-Синий,Gruul Eldrazi Aggro,1,0,0,1,100.0
+Моно-Синий,Boros Energy,1,0,0,1,100.0
+Моно-Синий,Mono-Black Control,0,1,0,1,0.0
+Моно-Синий,Golgari Lantern Control,1,0,0,1,100.0
+Моно-Синий,Grixis Affinity,1,0,0,1,100.0
+Моно-Синий,W-U-B-R-G Domain Zoo,0,1,0,1,0.0
+Моно-Синий,Mono-Red Storm,1,0,0,1,100.0
+Mono-Blue Merfolk,Mono-Red Storm,1,0,0,1,100.0
+Mono-Blue Merfolk,Mono-Blue Eldrazi,0,1,0,1,0.0
+Mono-Blue Merfolk,Colorless,1,0,0,1,100.0
+Mono-Blue Merfolk,Izzet Prowess,0,1,0,1,0.0
+Mono-Blue Merfolk,Esper Goryo's Vengeance,1,0,0,1,100.0
+Mono-Blue Merfolk,Boros Energy,1,0,0,1,100.0
+Izzet Prowess,Izzet Affinity,0,2,0,2,0.0
+Izzet Prowess,Mono-Green Hardened Scales,2,1,0,3,66.7
+Izzet Prowess,Mono-Red Midrange (Obosh),1,0,0,1,100.0
+Izzet Prowess,Mono-Blue Merfolk,1,0,0,1,100.0
+Izzet Prowess,Golgari Yawgmoth,1,0,0,1,100.0
+Izzet Prowess,Jeskai Blink,0,1,0,1,0.0
+Izzet Prowess,Grixis Affinity,2,0,0,2,100.0
+W-U-R-G Birthing Ritual,W-U-B-R-G Aggro,0,1,0,1,0.0
+W-U-R-G Birthing Ritual,Grixis Affinity,1,0,0,1,100.0
+W-U-R-G Birthing Ritual,Gruul Eldrazi Ramp,0,1,0,1,0.0
+W-U-R-G Birthing Ritual,Gruul Eldrazi Aggro,1,0,0,1,100.0
+W-U-R-G Birthing Ritual,Rakdos Tron,1,0,0,1,100.0
+W-U-R-G Birthing Ritual,Mono-Black,1,0,0,1,100.0
+W-U-R-G Birthing Ritual,Golgari Yawgmoth,1,0,0,1,100.0
+Boros Energy,Jeskai Burn,0,1,0,1,0.0
+Boros Energy,Izzet Murktide,2,0,0,2,100.0
+Boros Energy,Esper Goryo's Vengeance,1,0,0,1,100.0
+Boros Energy,W-U-R-G Birthing Ritual,0,1,0,1,0.0
+Boros Energy,Azorius Blink,1,1,0,2,50.0
+Boros Energy,Colorless,1,0,0,1,100.0
+Boros Energy,Temur Neoform,1,0,0,1,100.0
+Jeskai Combo,Boros Energy,0,0,1,1,
+Jeskai Combo,W-U-R-G Midrange,0,0,1,1,
+Jeskai Combo,Gruul Eldrazi Aggro,1,0,0,1,100.0
+Jeskai Combo,Azorius Blink,1,0,0,1,100.0
+Jeskai Combo,Jeskai Burn,1,0,0,1,100.0
+Jeskai Combo,W-U-B-R-G Aggro,1,0,0,1,100.0
+Jeskai Combo,Izzet Affinity,0,1,0,1,0.0
+W-U-B-R-G Aggro,W-U-R-G Birthing Ritual,1,0,0,1,100.0
+W-U-B-R-G Aggro,Abzan Combo,1,0,0,1,100.0
+W-U-B-R-G Aggro,Grixis Affinity,0,1,0,1,0.0
+W-U-B-R-G Aggro,Jeskai Blink,0,0,1,1,
+W-U-B-R-G Aggro,Gruul Eldrazi Ramp,1,0,0,1,100.0
+W-U-B-R-G Aggro,Jeskai Combo,0,1,0,1,0.0
+W-U-B-R-G Aggro,Izzet Aggro,1,0,0,1,100.0
+Gruul Eldrazi Ramp,Mono-Green Amulet Titan,0,1,0,1,0.0
+Gruul Eldrazi Ramp,Temur,1,0,0,1,100.0
+Gruul Eldrazi Ramp,W-U-R-G Birthing Ritual,1,0,0,1,100.0
+Gruul Eldrazi Ramp,Jeskai Burn,0,0,1,1,
+Gruul Eldrazi Ramp,W-U-B-R-G Aggro,0,1,0,1,0.0
+Gruul Eldrazi Ramp,Mono-Black,1,0,0,1,100.0
+Grixis Control,Boros Energy,1,0,0,1,100.0
+Grixis Control,Izzet Affinity,1,0,0,1,100.0
+Grixis Control,Boros Midrange,0,1,0,1,0.0
+Grixis Control,Mono-Red Storm,1,0,0,1,100.0
+Grixis Control,Mono-Green Amulet Titan,1,0,0,1,100.0
+Grixis Control,Mono-Blue Eldrazi,0,1,0,1,0.0
+Grixis Control,Jeskai Blink,0,1,0,1,0.0
+Mono-Red Storm,Esper Blink,1,0,0,1,100.0
+Mono-Red Storm,Mono-Black Control,0,1,0,1,0.0
+Mono-Red Storm,Boros Energy,1,1,0,2,50.0
+Mono-Red Storm,Grixis Control,0,1,0,1,0.0
+Mono-Red Storm,W-U-R-G Midrange,1,0,0,1,100.0
+Mono-Red Storm,Simic Amulet Titan,1,2,0,3,33.3
+Mono-Red Storm,Моно-Синий,0,1,0,1,0.0
+Mono-Green Amulet Titan,Gruul Eldrazi Ramp,1,0,0,1,100.0
+Mono-Green Amulet Titan,Izzet Affinity,1,0,0,1,100.0
+Mono-Green Amulet Titan,Golgari Lantern Control,1,0,0,1,100.0
+Mono-Green Amulet Titan,Mono-Black Control,0,1,0,1,0.0
+Mono-Green Amulet Titan,Grixis Control,0,1,0,1,0.0
+Mono-Green Amulet Titan,Mono-Red Midrange (Obosh),1,0,0,1,100.0
+Mono-Green Amulet Titan,Esper Blink,0,1,0,1,0.0
+Grixis Affinity,Mono-Red Storm,1,0,0,1,100.0
+Grixis Affinity,Dimir Mill,1,0,0,1,100.0
+Grixis Affinity,W-U-B-R-G Aggro,1,0,0,1,100.0
+Grixis Affinity,W-U-B-R-G Domain Zoo,0,1,0,1,0.0
+Grixis Affinity,Моно-Синий,0,1,0,1,0.0
+Grixis Affinity,Golgari Lantern Control,1,0,0,1,100.0
+Grixis Affinity,Izzet Prowess,0,2,0,2,0.0
+Boros Energy,Mono-Blue Eldrazi,0,1,0,1,0.0
+Boros Energy,Izzet Prowess,2,0,0,2,100.0
+Boros Energy,Izzet Affinity,2,0,0,2,100.0
+Boros Energy,Mono-Black,1,0,0,1,100.0
+Boros Energy,Boros Midrange,0,1,0,1,0.0
+Boros Energy,Mono-Blue Merfolk,0,1,0,1,0.0
+Golgari Lantern Control,U-B-R-G Dredge,1,0,0,1,100.0
+Golgari Lantern Control,Izzet Affinity,1,0,0,1,100.0
+Golgari Lantern Control,Mono-Green Amulet Titan,0,1,0,1,0.0
+Golgari Lantern Control,Моно-Синий,0,1,0,1,0.0
+Golgari Lantern Control,Gruul Eldrazi Ramp,1,0,0,1,100.0
+Golgari Lantern Control,Grixis Affinity,0,1,0,1,0.0
+Golgari Lantern Control,Colorless,1,0,0,1,100.0
+Golgari Yawgmoth,Grixis Affinity,1,0,0,1,100.0
+Golgari Yawgmoth,Colorless,1,0,0,1,100.0
+Golgari Yawgmoth,Izzet Aggro,0,1,0,1,0.0
+Golgari Yawgmoth,Mono-Red Storm,1,0,0,1,100.0
+Golgari Yawgmoth,Izzet Prowess,0,1,0,1,0.0
+Golgari Yawgmoth,Boros Energy,1,0,0,1,100.0
+Golgari Yawgmoth,W-U-R-G Birthing Ritual,0,1,0,1,0.0
+Temur Neoform,Boros,0,1,0,1,0.0
+Temur Neoform,Gruul Eldrazi Ramp,1,0,0,1,100.0
+Temur Neoform,Simic,1,0,0,1,100.0
+Temur Neoform,Mono-Black,0,1,0,1,0.0
+Temur Neoform,Mono-Red Storm,1,0,0,1,100.0
+Temur Neoform,W-U-R-G Birthing Ritual,1,0,0,1,100.0
+Temur Neoform,Boros Energy,0,1,0,1,0.0
+W-U-R-G Midrange,Azorius Blink,0,0,1,1,
+W-U-R-G Midrange,Jeskai Combo,0,0,1,1,
+W-U-R-G Midrange,Boros Energy,2,0,0,2,100.0
+W-U-R-G Midrange,Mono-Red Storm,0,1,0,1,0.0
+W-U-R-G Midrange,Rakdos Tron,1,0,0,1,100.0
+Abzan Combo,Dimir Mill,1,0,0,1,100.0
+Abzan Combo,W-U-B-R-G Aggro,0,1,0,1,0.0
+Abzan Combo,Simic Amulet Titan,0,1,0,1,0.0
+Abzan Combo,Mono-Red Midrange (Obosh),0,1,0,1,0.0
+Abzan Combo,Gruul Eldrazi Aggro,1,0,0,1,100.0
+Abzan Combo,Jeskai Burn,1,0,0,1,100.0
+Izzet Aggro,Gruul Eldrazi Ramp,1,0,0,1,100.0
+Izzet Aggro,Golgari Dredge,1,0,0,1,100.0
+Izzet Aggro,Golgari Yawgmoth,1,0,0,1,100.0
+Izzet Aggro,W-U-B-G Goryo's Vengeance,0,1,0,1,0.0
+Izzet Aggro,Izzet Affinity,0,1,0,1,0.0
+Izzet Aggro,Jeskai Blink,0,1,0,1,0.0
+Izzet Aggro,W-U-B-R-G Aggro,0,1,0,1,0.0
+W-U-R-G Birthing Ritual,U-B-R-G Dredge,1,0,0,1,100.0
+W-U-R-G Birthing Ritual,Jeskai Blink,0,1,0,1,0.0
+W-U-R-G Birthing Ritual,Izzet Prowess,1,0,0,1,100.0
+W-U-R-G Birthing Ritual,Boros Energy,1,0,0,1,100.0
+W-U-R-G Birthing Ritual,Mono-Blue Eldrazi,0,1,0,1,0.0
+W-U-R-G Birthing Ritual,Temur Neoform,0,1,0,1,0.0
+Mono-Black,Mono-Green Hardened Scales,1,0,0,1,100.0
+Mono-Black,Dimir,1,0,0,1,100.0
+Mono-Black,Jeskai Blink,0,1,0,1,0.0
+Mono-Black,Temur Neoform,1,0,0,1,100.0
+Mono-Black,Boros Energy,0,1,0,1,0.0
+Mono-Black,W-U-R-G Birthing Ritual,0,1,0,1,0.0
+Mono-Black,Gruul Eldrazi Ramp,0,1,0,1,0.0
+Mono-Red Midrange (Obosh),Esper Control,1,0,0,1,100.0
+Mono-Red Midrange (Obosh),W-U-B-G Goryo's Vengeance,0,1,0,1,0.0
+Mono-Red Midrange (Obosh),Izzet Prowess,0,1,0,1,0.0
+Mono-Red Midrange (Obosh),Boros,1,0,0,1,100.0
+Mono-Red Midrange (Obosh),Abzan Combo,1,0,0,1,100.0
+Mono-Red Midrange (Obosh),Mono-Green Amulet Titan,0,1,0,1,0.0
+Esper Goryo's Vengeance,Simic Amulet Titan,1,0,0,1,100.0
+Esper Goryo's Vengeance,Jeskai Blink,0,1,0,1,0.0
+Esper Goryo's Vengeance,Boros Energy,0,1,0,1,0.0
+Esper Goryo's Vengeance,Izzet Prowess,1,0,0,1,100.0
+Esper Goryo's Vengeance,Dimir Mill,1,0,0,1,100.0
+Esper Goryo's Vengeance,Mono-Blue Merfolk,0,1,0,1,0.0
+Colorless,Gruul Eldrazi Aggro,1,0,0,1,100.0
+Colorless,Golgari Yawgmoth,0,1,0,1,0.0
+Colorless,Mono-Blue Merfolk,0,1,0,1,0.0
+Colorless,Mono-Red Storm,1,0,0,1,100.0
+Colorless,Dimir Mill,1,0,0,1,100.0
+Colorless,Boros Energy,0,1,0,1,0.0
+Colorless,Golgari Lantern Control,0,1,0,1,0.0
+Simic Amulet Titan,Dimir Mill,0,1,0,1,0.0
+Simic Amulet Titan,Mono-Red Storm,2,1,0,3,66.7
+Simic Amulet Titan,Abzan Combo,1,0,0,1,100.0
+Simic Amulet Titan,Jeskai Blink,0,1,0,1,0.0
+U-B-R-G Dredge,W-U-R-G Birthing Ritual,0,1,0,1,0.0
+U-B-R-G Dredge,Gruul Eldrazi Aggro,1,0,0,1,100.0
+U-B-R-G Dredge,Izzet Affinity,1,1,0,2,50.0
+U-B-R-G Dredge,Dimir Mill,0,1,0,1,0.0
+U-B-R-G Dredge,Jeskai Burn,1,0,0,1,100.0
+Izzet Affinity,Mono-Green Amulet Titan,0,1,0,1,0.0
+Izzet Affinity,Boros Energy,0,2,0,2,0.0
+Izzet Affinity,Gruul Eldrazi Ramp,0,1,0,1,0.0
+Izzet Affinity,Dimir Mill,1,0,0,1,100.0
+Izzet Affinity,Grixis Murktide,1,0,0,1,100.0
+Rakdos Tron,Dimir,0,1,0,1,0.0
+Rakdos Tron,U-B-R-G Dredge,1,0,0,1,100.0
+Rakdos Tron,Mono-Red Storm,0,1,0,1,0.0
+Rakdos Tron,Golgari Dredge,1,0,0,1,100.0
+Rakdos Tron,W-U-R-G Birthing Ritual,0,1,0,1,0.0
+Rakdos Tron,W-U-R-G Midrange,0,1,0,1,0.0
+Boros Energy,Grixis Control,0,1,0,1,0.0
+Boros Energy,Gruul Eldrazi Aggro,1,0,0,1,100.0
+Boros Energy,Mono-Red Storm,1,1,0,2,50.0
+Boros Energy,Grixis Murktide,1,0,0,1,100.0
+Boros Energy,Golgari Yawgmoth,0,1,0,1,0.0
+Boros Energy,W-U-R-G Midrange,0,2,0,2,0.0
+Izzet Affinity,Azorius Combo,1,0,0,1,100.0
+Izzet Affinity,Golgari Lantern Control,0,1,0,1,0.0
+Izzet Affinity,Boros,1,0,0,1,100.0
+Izzet Affinity,Esper Control,1,0,0,1,100.0
+Jeskai Burn,Boros Energy,1,0,0,1,100.0
+Jeskai Burn,W-U-B-R-G Domain Zoo,0,1,0,1,0.0
+Jeskai Burn,Gruul Eldrazi Ramp,0,0,1,1,
+Jeskai Burn,Jeskai Combo,0,1,0,1,0.0
+Jeskai Burn,U-B-R-G Dredge,0,1,0,1,0.0
+Jeskai Burn,Abzan Combo,0,1,0,1,0.0
+Boros,Temur Neoform,1,0,0,1,100.0
+Boros,Boros Midrange,0,1,0,1,0.0
+Boros,Izzet Affinity,0,1,0,1,0.0
+Boros,Mono-Red Midrange (Obosh),0,1,0,1,0.0
+Boros,Grixis Murktide,1,0,0,1,100.0
+Dimir,Rakdos Tron,1,0,0,1,100.0
+Dimir,Mono-Black,0,1,0,1,0.0
+Dimir,Dimir Mill,1,0,0,1,100.0
+Dimir,Izzet Affinity,0,1,0,1,0.0
+Boros Energy,Моно-Синий,0,1,0,1,0.0
+Boros Energy,Dimir Mill,1,0,0,1,100.0
+Boros Energy,Esper Blink,0,1,0,1,0.0
+Gruul Eldrazi Aggro,Моно-Синий,0,1,0,1,0.0
+Gruul Eldrazi Aggro,U-B-R-G Dredge,0,1,0,1,0.0
+Gruul Eldrazi Aggro,Jeskai Combo,0,1,0,1,0.0
+Gruul Eldrazi Aggro,Grixis Affinity,1,0,0,1,100.0
+Gruul Eldrazi Aggro,Simic,1,0,0,1,100.0
+Gruul Eldrazi Aggro,Abzan Combo,0,1,0,1,0.0
+Esper Control,Mono-Red Midrange (Obosh),0,1,0,1,0.0
+Esper Control,Izzet Prowess,1,0,0,1,100.0
+Esper Control,Golgari Dredge,1,0,0,1,100.0
+Esper Control,Jeskai Blink,0,1,0,1,0.0
+Esper Control,Izzet Affinity,0,1,0,1,0.0
+Mono-Red Storm,Grixis Affinity,0,1,0,1,0.0
+Mono-Red Storm,Dimir Mill,1,0,0,1,100.0
+Mono-Red Storm,Rakdos Tron,1,0,0,1,100.0
+Mono-Red Storm,Golgari Yawgmoth,0,1,0,1,0.0
+Mono-Red Storm,Temur Neoform,0,1,0,1,0.0
+Gruul Eldrazi Ramp,Izzet Aggro,0,1,0,1,0.0
+Gruul Eldrazi Ramp,Temur Neoform,0,1,0,1,0.0
+Gruul Eldrazi Ramp,Orzhov Blink,1,0,0,1,100.0
+Gruul Eldrazi Ramp,Izzet Affinity,1,0,0,1,100.0
+Gruul Eldrazi Ramp,Golgari Lantern Control,0,1,0,1,0.0
+Grixis Murktide,Mono-Black Control,0,1,0,1,0.0
+Grixis Murktide,Dimir Mill,0,1,0,1,0.0
+Grixis Murktide,Mono-Green Hardened Scales,1,0,0,1,100.0
+Grixis Murktide,Boros Energy,0,1,0,1,0.0
+Grixis Murktide,Boros,0,1,0,1,0.0
+Grixis Murktide,Izzet Affinity,0,1,0,1,0.0
+Izzet Prowess,Boros Midrange,0,1,0,1,0.0
+Izzet Prowess,Izzet Prowess,2,2,0,4,50.0
+Izzet Prowess,Simic Amulet Titan,1,0,0,1,100.0
+Izzet Prowess,Boros Energy,0,2,0,2,0.0
+Simic,Jeskai Blink,0,1,0,1,0.0
+Simic,Orzhov Blink,1,0,0,1,100.0
+Simic,Temur Neoform,0,1,0,1,0.0
+Simic,Dimir Mill,0,1,0,1,0.0
+Simic,Gruul Eldrazi Aggro,0,1,0,1,0.0
+Simic,Izzet Prowess,1,0,0,1,100.0
+Dimir Mill,Abzan Combo,0,1,0,1,0.0
+Dimir Mill,Mono-Red Storm,0,1,0,1,0.0
+Dimir Mill,Izzet Prowess,1,0,0,1,100.0
+Dimir Mill,U-B-R-G Dredge,1,0,0,1,100.0
+Dimir Mill,Esper Goryo's Vengeance,0,1,0,1,0.0
+Dimir Mill,Izzet Affinity,0,1,0,1,0.0
+Izzet Prowess,Esper Control,0,1,0,1,0.0
+Izzet Prowess,Dimir Mill,0,1,0,1,0.0
+Izzet Prowess,U-B-R-G Dredge,1,0,0,1,100.0
+Izzet Prowess,Simic,0,1,0,1,0.0
+Dimir Mill,Golgari Dredge,0,1,0,1,0.0
+Dimir Mill,Grixis Murktide,1,0,0,1,100.0
+Dimir Mill,Dimir,0,1,0,1,0.0
+Dimir Mill,Simic,1,0,0,1,100.0
+Dimir Mill,Colorless,0,1,0,1,0.0
+Azorius Blink,W-U-R-G Midrange,0,0,1,1,
+Azorius Blink,Boros Energy,1,1,0,2,50.0
+Azorius Blink,W-U-B-G Goryo's Vengeance,0,1,0,1,0.0
+Azorius Blink,Jeskai Combo,0,1,0,1,0.0
+Boros Energy,Jeskai Combo,0,0,1,1,
+Izzet Prowess,Mono-Red Storm,0,0,1,1,
+Temur,Jeskai Blink,0,1,0,1,0.0
+Temur,Gruul Eldrazi Ramp,0,1,0,1,0.0
+Mono-Red Storm,W-U-B-R-G Domain Zoo,0,1,0,1,0.0
+Mono-Red Storm,Colorless,0,1,0,1,0.0
+Izzet Murktide,Boros Energy,0,2,0,2,0.0
+Izzet Murktide,U-B-R-G Dredge,1,0,0,1,100.0
+Dimir Mill,Simic Amulet Titan,1,0,0,1,100.0
+Dimir Mill,Grixis Affinity,0,1,0,1,0.0
+Dimir Mill,Boros Energy,0,1,0,1,0.0
+Izzet Prowess,W-U-B-G Goryo's Vengeance,0,1,0,1,0.0
+Izzet Prowess,W-U-R-G Birthing Ritual,0,1,0,1,0.0
+Izzet Prowess,Esper Goryo's Vengeance,0,1,0,1,0.0
+Gruul Eldrazi Aggro,Colorless,0,1,0,1,0.0
+Gruul Eldrazi Aggro,Boros Energy,0,1,0,1,0.0
+Gruul Eldrazi Aggro,Azorius Combo,1,0,0,1,100.0
+Gruul Eldrazi Aggro,W-U-R-G Birthing Ritual,0,1,0,1,0.0
+Simic Amulet Titan,Esper Goryo's Vengeance,0,1,0,1,0.0
+Simic Amulet Titan,Azorius Combo,1,0,0,1,100.0
+Simic Amulet Titan,Esper Blink,0,1,0,1,0.0
+Simic Amulet Titan,Izzet Prowess,0,1,0,1,0.0
+Mono-Green Hardened Scales,Mono-Black,0,1,0,1,0.0
+Mono-Green Hardened Scales,Izzet Prowess,1,2,0,3,33.3
+Mono-Green Hardened Scales,Grixis Murktide,0,1,0,1,0.0
+U-B-R-G Dredge,Golgari Lantern Control,0,1,0,1,0.0
+U-B-R-G Dredge,Rakdos Tron,0,1,0,1,0.0
+U-B-R-G Dredge,Izzet Murktide,0,1,0,1,0.0
+U-B-R-G Dredge,Izzet Prowess,0,1,0,1,0.0
+Golgari Dredge,Dimir Mill,1,0,0,1,100.0
+Golgari Dredge,Izzet Aggro,0,1,0,1,0.0
+Golgari Dredge,Esper Control,0,1,0,1,0.0
+Golgari Dredge,Rakdos Tron,0,1,0,1,0.0
+Mono-Red Storm,Mono-Blue Merfolk,0,1,0,1,0.0
+Mono-Red Storm,Izzet Prowess,0,0,1,1,
+Orzhov Blink,W-U-B-R-G Domain Zoo,0,1,0,1,0.0
+Orzhov Blink,Simic,0,1,0,1,0.0
+Orzhov Blink,Gruul Eldrazi Ramp,0,1,0,1,0.0
+Grixis Affinity,Golgari Yawgmoth,0,1,0,1,0.0
+Grixis Affinity,W-U-R-G Birthing Ritual,0,1,0,1,0.0
+Grixis Affinity,Gruul Eldrazi Aggro,0,1,0,1,0.0
+Azorius Combo,Izzet Affinity,0,1,0,1,0.0
+Azorius Combo,Simic Amulet Titan,0,1,0,1,0.0
+Azorius Combo,Gruul Eldrazi Aggro,0,1,0,1,0.0

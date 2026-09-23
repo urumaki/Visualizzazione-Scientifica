@@ -1,0 +1,25 @@
+archetype_a,archetype_b,win,loss,draw,games,winrate
+Izzet Prowess,Esper Blink,1,0,0,1,100.0
+Izzet Prowess,Boros,1,0,0,1,100.0
+Izzet Prowess,Rakdos Aggro,1,0,0,1,100.0
+Boros,Izzet Affinity,1,0,0,1,100.0
+Boros,Izzet Prowess,0,1,0,1,0.0
+Boros,Dimir,1,0,0,1,100.0
+Rakdos Aggro,Mono-Green,1,0,0,1,100.0
+Rakdos Aggro,Dimir,1,0,0,1,100.0
+Rakdos Aggro,Izzet Prowess,0,1,0,1,0.0
+Esper Blink,Izzet Prowess,0,1,0,1,0.0
+Esper Blink,W-U-R-G,1,0,0,1,100.0
+Esper Blink,Mono-Green,1,0,0,1,100.0
+Mono-Green,Rakdos Aggro,0,1,0,1,0.0
+Mono-Green,Izzet Affinity,1,0,0,1,100.0
+Mono-Green,Esper Blink,0,1,0,1,0.0
+Dimir,W-U-R-G,1,0,0,1,100.0
+Dimir,Rakdos Aggro,0,1,0,1,0.0
+Dimir,Boros,0,1,0,1,0.0
+Izzet Affinity,Boros,0,1,0,1,0.0
+Izzet Affinity,Mono-Green,0,1,0,1,0.0
+Izzet Affinity,W-U-R-G,1,0,0,1,100.0
+W-U-R-G,Dimir,0,1,0,1,0.0
+W-U-R-G,Esper Blink,0,1,0,1,0.0
+W-U-R-G,Izzet Affinity,0,1,0,1,0.0

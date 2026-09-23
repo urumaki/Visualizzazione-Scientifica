@@ -1,0 +1,41 @@
+archetype_a,archetype_b,win,loss,draw,games,winrate
+W-U-B-G Combo,Colorless Aggro,1,0,0,1,100.0
+W-U-B-G Combo,Gruul,1,0,0,1,100.0
+W-U-B-G Combo,Orzhov,1,1,0,2,50.0
+W-U-B-G Combo,Boros Energy,1,0,0,1,100.0
+W-U-B-G Combo,Grixis Control,1,0,0,1,100.0
+W-U-B-G Combo,Mono-Green,1,0,0,1,100.0
+Orzhov,Dimir Control,2,0,0,2,100.0
+Orzhov,Grixis Control,0,1,0,1,0.0
+Orzhov,W-U-B-G Combo,1,1,0,2,50.0
+Orzhov,Mono-Green,1,0,0,1,100.0
+Orzhov,Mono-Red Storm,1,0,0,1,100.0
+Mono-Green,Mono-Red Storm,1,0,0,1,100.0
+Mono-Green,Colorless Aggro,1,0,0,1,100.0
+Mono-Green,Grixis Control,1,0,0,1,100.0
+Mono-Green,Orzhov,0,1,0,1,0.0
+Mono-Green,Dimir Control,0,0,1,1,
+Mono-Green,W-U-B-G Combo,0,1,0,1,0.0
+Dimir Control,Orzhov,0,2,0,2,0.0
+Dimir Control,Mono-Red Storm,1,0,0,1,100.0
+Dimir Control,Gruul,1,0,0,1,100.0
+Dimir Control,Grixis Control,1,0,0,1,100.0
+Dimir Control,Mono-Green,0,0,1,1,
+Boros Energy,Gruul,0,1,0,1,0.0
+Boros Energy,Colorless Aggro,1,0,0,1,100.0
+Boros Energy,W-U-B-G Combo,0,1,0,1,0.0
+Grixis Control,Orzhov,1,0,0,1,100.0
+Grixis Control,Mono-Green,0,1,0,1,0.0
+Grixis Control,Dimir Control,0,1,0,1,0.0
+Grixis Control,W-U-B-G Combo,0,1,0,1,0.0
+Mono-Red Storm,Mono-Green,0,1,0,1,0.0
+Mono-Red Storm,Dimir Control,0,1,0,1,0.0
+Mono-Red Storm,Colorless Aggro,1,0,0,1,100.0
+Mono-Red Storm,Orzhov,0,1,0,1,0.0
+Gruul,Boros Energy,1,0,0,1,100.0
+Gruul,W-U-B-G Combo,0,1,0,1,0.0
+Gruul,Dimir Control,0,1,0,1,0.0
+Colorless Aggro,W-U-B-G Combo,0,1,0,1,0.0
+Colorless Aggro,Mono-Green,0,1,0,1,0.0
+Colorless Aggro,Boros Energy,0,1,0,1,0.0
+Colorless Aggro,Mono-Red Storm,0,1,0,1,0.0

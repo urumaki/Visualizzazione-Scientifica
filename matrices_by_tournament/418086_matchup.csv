@@ -1,0 +1,168 @@
+archetype_a,archetype_b,win,loss,draw,games,winrate
+Gruul Eldrazi Ramp,Dimir Mill,1,0,0,1,100.0
+Gruul Eldrazi Ramp,Izzet Prowess,1,0,0,1,100.0
+Gruul Eldrazi Ramp,Mono-Green Amulet Titan,0,1,0,1,0.0
+Gruul Eldrazi Ramp,W-U-R-G Domain Zoo,1,0,0,1,100.0
+Gruul Eldrazi Ramp,Gruul Ramp,1,1,0,2,50.0
+Gruul Eldrazi Ramp,W-U-B-R-G Domain Zoo,1,0,0,1,100.0
+Jeskai Blink,Dimir Control,1,0,0,1,100.0
+Jeskai Blink,Izzet Prowess,1,0,0,1,100.0
+Jeskai Blink,W-U-B-G Combo,1,1,0,2,50.0
+Jeskai Blink,Mono-Green Amulet Titan,1,0,0,1,100.0
+Jeskai Blink,W-U-B-R-G Domain Zoo,0,0,1,1,
+Jeskai Blink,Jeskai Aggro,0,0,1,1,
+Mono-Green Amulet Titan,Dimir Urza,1,0,0,1,100.0
+Mono-Green Amulet Titan,Gruul Ramp,1,0,0,1,100.0
+Mono-Green Amulet Titan,Gruul Eldrazi Ramp,1,0,0,1,100.0
+Mono-Green Amulet Titan,Jeskai Blink,0,1,0,1,0.0
+Mono-Green Amulet Titan,Boros Energy,1,0,0,1,100.0
+Mono-Green Amulet Titan,Simic Eldrazi,1,0,1,2,100.0
+Mono-Green Amulet Titan,W-U-B-G Combo,0,1,0,1,0.0
+Boros Energy,Izzet Affinity,2,0,0,2,100.0
+Boros Energy,W-U-R-G Domain Zoo,1,0,0,1,100.0
+Boros Energy,Esper Blink,1,0,0,1,100.0
+Boros Energy,W-U-B-R-G Domain Zoo,0,0,1,1,
+Boros Energy,Mono-Green Amulet Titan,0,1,0,1,0.0
+Boros Energy,Jeskai Aggro,0,1,0,1,0.0
+Jeskai Aggro,W-U-R-G Domain Zoo,1,0,0,1,100.0
+Jeskai Aggro,W-U-B-R-G Domain Zoo,0,1,0,1,0.0
+Jeskai Aggro,Izzet Affinity,1,0,0,1,100.0
+Jeskai Aggro,Izzet Prowess,1,0,0,1,100.0
+Jeskai Aggro,W-U-B-G Combo,2,0,0,2,100.0
+Jeskai Aggro,Jeskai Blink,0,0,1,1,
+Jeskai Aggro,Boros Energy,1,0,0,1,100.0
+Jeskai Aggro,Gruul Ramp,1,0,0,1,100.0
+Simic Eldrazi,Mardu Shadow,1,0,0,1,100.0
+Simic Eldrazi,Temur Neoform,1,0,0,1,100.0
+Simic Eldrazi,W-U-B-R-G Domain Zoo,0,1,0,1,0.0
+Simic Eldrazi,Izzet Affinity,1,0,0,1,100.0
+Simic Eldrazi,Esper Blink,1,0,0,1,100.0
+Simic Eldrazi,Mono-Green Amulet Titan,0,1,1,2,0.0
+W-U-B-G Combo,Grixis Cutter,1,0,0,1,100.0
+W-U-B-G Combo,Boros,1,0,0,1,100.0
+W-U-B-G Combo,Jeskai Blink,1,1,0,2,50.0
+W-U-B-G Combo,W-U-R-G Domain Zoo,2,0,0,2,100.0
+W-U-B-G Combo,Jeskai Aggro,0,2,0,2,0.0
+W-U-B-G Combo,Mono-Green Amulet Titan,1,0,0,1,100.0
+Gruul Ramp,BR(U) Shadow,1,0,0,1,100.0
+Gruul Ramp,Mono-Green Amulet Titan,0,1,0,1,0.0
+Gruul Ramp,Jeskai Blink,1,0,0,1,100.0
+Gruul Ramp,Jund Goblin Combo,1,0,0,1,100.0
+Gruul Ramp,Gruul Eldrazi Ramp,1,1,0,2,50.0
+Gruul Ramp,Esper Blink,1,0,0,1,100.0
+Gruul Ramp,Jeskai Aggro,0,1,0,1,0.0
+Izzet Affinity,Boros Energy,0,2,0,2,0.0
+Izzet Affinity,Gruul Eldrazi Ramp,1,0,0,1,100.0
+Izzet Affinity,Jeskai Aggro,0,1,0,1,0.0
+Izzet Affinity,Izzet Prowess,2,0,0,2,100.0
+Izzet Affinity,W-U-R-G Domain Zoo,1,0,0,1,100.0
+Mono-Green Amulet Titan,Jund Goblin Combo,0,1,0,1,0.0
+Mono-Green Amulet Titan,Izzet Prowess,1,1,0,2,50.0
+Mono-Green Amulet Titan,Temur Neoform,1,0,0,1,100.0
+Mono-Green Amulet Titan,Grixis Cutter,1,0,0,1,100.0
+Mono-Green Amulet Titan,Boros Wizards,1,0,0,1,100.0
+W-U-B-R-G Domain Zoo,Boros Aggro,1,0,0,1,100.0
+W-U-B-R-G Domain Zoo,Jeskai Aggro,1,0,0,1,100.0
+W-U-B-R-G Domain Zoo,Simic Eldrazi,1,0,0,1,100.0
+W-U-B-R-G Domain Zoo,Boros Energy,0,0,1,1,
+W-U-B-R-G Domain Zoo,Jeskai Blink,0,0,1,1,
+W-U-B-R-G Domain Zoo,Gruul Eldrazi Ramp,0,1,0,1,0.0
+Izzet Affinity,Jeskai Control,0,0,1,1,
+Izzet Affinity,Jeskai Blink,1,0,0,1,100.0
+Izzet Affinity,Boros Wizards,1,0,0,1,100.0
+Izzet Affinity,Simic Eldrazi,0,1,0,1,0.0
+Izzet Affinity,Boros,1,0,0,1,100.0
+Boros,Jeskai Blink,0,0,1,1,
+Boros,W-U-B-G Combo,0,1,0,1,0.0
+Boros,Boros Aggro,1,0,0,1,100.0
+Boros,Jeskai Control,1,0,0,1,100.0
+Boros,Izzet Affinity,0,1,0,1,0.0
+Boros,Izzet Prowess,1,0,0,1,100.0
+Esper Blink,Gruul Eldrazi Ramp,1,0,0,1,100.0
+Esper Blink,Jund Goblin Combo,1,0,0,1,100.0
+Esper Blink,Boros Energy,0,1,0,1,0.0
+Esper Blink,Grixis Cutter,1,0,0,1,100.0
+Esper Blink,Simic Eldrazi,0,1,0,1,0.0
+Esper Blink,Gruul Ramp,0,1,0,1,0.0
+W-U-R-G Domain Zoo,Izzet Prowess,2,0,0,2,100.0
+W-U-R-G Domain Zoo,Boros Energy,0,1,0,1,0.0
+W-U-R-G Domain Zoo,Gruul Eldrazi Ramp,0,1,0,1,0.0
+W-U-R-G Domain Zoo,Dimir Urza,1,0,0,1,100.0
+W-U-R-G Domain Zoo,W-U-B-G Combo,0,2,0,2,0.0
+Jund Goblin Combo,Mono-Green Amulet Titan,1,0,0,1,100.0
+Jund Goblin Combo,Esper Blink,0,1,0,1,0.0
+Jund Goblin Combo,Temur Neoform,1,0,0,1,100.0
+Jund Goblin Combo,Gruul Ramp,0,1,0,1,0.0
+Jund Goblin Combo,Izzet Prowess,0,1,0,1,0.0
+Jund Goblin Combo,W-U-R-G Domain Zoo,1,0,0,1,100.0
+Izzet Prowess,Izzet Prowess,2,2,0,4,50.0
+Izzet Prowess,Mono-Green Amulet Titan,1,1,0,2,50.0
+Izzet Prowess,W-U-R-G Domain Zoo,0,2,0,2,0.0
+Izzet Prowess,Mardu Shadow,1,0,0,1,100.0
+Izzet Prowess,Jund Goblin Combo,1,0,0,1,100.0
+Izzet Prowess,Izzet Affinity,0,2,0,2,0.0
+Gruul Eldrazi Ramp,Esper Blink,0,1,0,1,0.0
+Gruul Eldrazi Ramp,Izzet Affinity,0,1,0,1,0.0
+Gruul Eldrazi Ramp,Dimir Control,1,0,0,1,100.0
+Gruul Eldrazi Ramp,Dimir Urza,0,1,0,1,0.0
+Gruul Eldrazi Ramp,Jeskai Control,1,0,0,1,100.0
+Gruul Eldrazi Ramp,Boros Aggro,1,0,0,1,100.0
+Boros Wizards,Temur Neoform,0,1,0,1,0.0
+Boros Wizards,Izzet Prowess,2,0,0,2,100.0
+Boros Wizards,Izzet Affinity,0,1,0,1,0.0
+Boros Wizards,Boros Aggro,1,0,0,1,100.0
+Boros Wizards,Mono-Green Amulet Titan,0,1,0,1,0.0
+Izzet Prowess,Gruul Eldrazi Ramp,0,1,0,1,0.0
+Izzet Prowess,Jeskai Aggro,0,1,0,1,0.0
+Izzet Prowess,Boros Wizards,0,2,0,2,0.0
+Izzet Prowess,Boros,0,1,0,1,0.0
+W-U-R-G Domain Zoo,Jeskai Aggro,0,1,0,1,0.0
+W-U-R-G Domain Zoo,Dimir Control,1,0,0,1,100.0
+W-U-R-G Domain Zoo,Mardu Shadow,1,0,0,1,100.0
+W-U-R-G Domain Zoo,Izzet Affinity,0,1,0,1,0.0
+W-U-R-G Domain Zoo,Jund Goblin Combo,0,1,0,1,0.0
+Dimir Urza,Mono-Green Amulet Titan,0,1,0,1,0.0
+Dimir Urza,Grixis Cutter,0,1,0,1,0.0
+Dimir Urza,Gruul Eldrazi Ramp,1,0,0,1,100.0
+Dimir Urza,W-U-R-G Domain Zoo,0,1,0,1,0.0
+Grixis Cutter,W-U-B-G Combo,0,1,0,1,0.0
+Grixis Cutter,Dimir Urza,1,0,0,1,100.0
+Grixis Cutter,Dimir Mill,1,0,0,1,100.0
+Grixis Cutter,Esper Blink,0,1,0,1,0.0
+Grixis Cutter,Mono-Green Amulet Titan,0,1,0,1,0.0
+Jeskai Control,Izzet Affinity,0,0,1,1,
+Jeskai Control,Dimir Mill,0,1,0,1,0.0
+Jeskai Control,Mono-Black,1,0,0,1,100.0
+Jeskai Control,Boros,0,1,0,1,0.0
+Jeskai Control,Gruul Eldrazi Ramp,0,1,0,1,0.0
+Mardu Shadow,Simic Eldrazi,0,1,0,1,0.0
+Mardu Shadow,BR(U) Shadow,1,0,0,1,100.0
+Mardu Shadow,W-U-R-G Domain Zoo,0,1,0,1,0.0
+Mardu Shadow,Izzet Prowess,0,1,0,1,0.0
+Mardu Shadow,Boros Aggro,0,0,1,1,
+Temur Neoform,Boros Wizards,1,0,0,1,100.0
+Temur Neoform,Simic Eldrazi,0,1,0,1,0.0
+Temur Neoform,Jund Goblin Combo,0,1,0,1,0.0
+Temur Neoform,Mono-Green Amulet Titan,0,1,0,1,0.0
+Izzet Prowess,Mono-Black,1,0,0,1,100.0
+Izzet Prowess,Jeskai Blink,0,1,0,1,0.0
+Dimir Mill,Gruul Eldrazi Ramp,0,1,0,1,0.0
+Dimir Mill,Jeskai Control,1,0,0,1,100.0
+Dimir Mill,Grixis Cutter,0,1,0,1,0.0
+Boros Aggro,W-U-B-R-G Domain Zoo,0,1,0,1,0.0
+Boros Aggro,Mono-Black,0,0,1,1,
+Boros Aggro,Boros,0,1,0,1,0.0
+Boros Aggro,Boros Wizards,0,1,0,1,0.0
+Boros Aggro,Mardu Shadow,0,0,1,1,
+Boros Aggro,Gruul Eldrazi Ramp,0,1,0,1,0.0
+Jeskai Blink,Boros,0,0,1,1,
+Jeskai Blink,Izzet Affinity,0,1,0,1,0.0
+Jeskai Blink,Gruul Ramp,0,1,0,1,0.0
+Mono-Black,Izzet Prowess,0,1,0,1,0.0
+Mono-Black,Boros Aggro,0,0,1,1,
+Mono-Black,Jeskai Control,0,1,0,1,0.0
+Dimir Control,Jeskai Blink,0,1,0,1,0.0
+Dimir Control,W-U-R-G Domain Zoo,0,1,0,1,0.0
+Dimir Control,Gruul Eldrazi Ramp,0,1,0,1,0.0
+BR(U) Shadow,Gruul Ramp,0,1,0,1,0.0
+BR(U) Shadow,Mardu Shadow,0,1,0,1,0.0

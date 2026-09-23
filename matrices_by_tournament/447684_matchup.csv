@@ -1,0 +1,96 @@
+archetype_a,archetype_b,win,loss,draw,games,winrate
+Mono-Green Eldrazi Broodscale,Izzet Affinity,1,0,0,1,100.0
+Mono-Green Eldrazi Broodscale,Mono-Black Midrange,1,0,0,1,100.0
+Mono-Green Eldrazi Broodscale,Azorius Control,1,0,0,1,100.0
+Mono-Green Eldrazi Broodscale,Mono-Green Eldrazi Ramp,1,0,0,1,100.0
+Mono-Green Eldrazi Broodscale,Esper Reanimator,0,0,1,1,
+Mono-Green Eldrazi Broodscale,Mono-Green Amulet Titan,0,1,0,1,0.0
+Izzet Eldrazi,Izzet Affinity,1,0,0,1,100.0
+Izzet Eldrazi,Esper Reanimator,0,0,1,1,
+Izzet Eldrazi,Mono-Green Amulet Titan,1,0,0,1,100.0
+Izzet Eldrazi,Boros Aggro,1,0,0,1,100.0
+Izzet Eldrazi,Mono-Green Eldrazi Ramp,1,0,0,1,100.0
+Izzet Eldrazi,Mono-Red Storm,0,1,0,1,0.0
+Boros Energy,Izzet,1,0,0,1,100.0
+Boros Energy,Colorless Eldrazi Tron,1,0,0,1,100.0
+Boros Energy,Esper Reanimator,1,1,0,2,50.0
+Boros Energy,Mono-Green Amulet Titan,1,1,0,2,50.0
+Boros Energy,Azorius Control,2,1,0,3,66.7
+Boros Energy,Mono-Red Storm,1,0,0,1,100.0
+Esper Reanimator,Boros Aggro,1,0,0,1,100.0
+Esper Reanimator,Izzet Eldrazi,0,0,1,1,
+Esper Reanimator,Boros Energy,1,1,0,2,50.0
+Esper Reanimator,Mono-Green Eldrazi Ramp,2,0,0,2,100.0
+Esper Reanimator,Mono-Green Eldrazi Broodscale,0,0,1,1,
+Esper Reanimator,Mono-Green Amulet Titan,1,0,0,1,100.0
+Mono-Green Eldrazi Ramp,Mono-Green Eldrazi Ramp,1,1,0,2,50.0
+Mono-Green Eldrazi Ramp,W-B-R-G Samwise Gamgee Combo,1,0,0,1,100.0
+Mono-Green Eldrazi Ramp,Mono-Green Eldrazi Broodscale,0,1,0,1,0.0
+Mono-Green Eldrazi Ramp,Izzet Eldrazi,0,1,0,1,0.0
+Mono-Green Eldrazi Ramp,Esper Reanimator,0,2,0,2,0.0
+Azorius Control,Boros Energy,1,2,0,3,33.3
+Azorius Control,Mono-Red Storm,1,0,0,1,100.0
+Azorius Control,Mono-Green Eldrazi Broodscale,0,1,0,1,0.0
+Azorius Control,Colorless Eldrazi Tron,1,0,0,1,100.0
+Mono-Red Storm,Mono-Green Amulet Titan,1,0,0,1,100.0
+Mono-Red Storm,Azorius Control,0,1,0,1,0.0
+Mono-Red Storm,Boros Aggro,1,0,0,1,100.0
+Mono-Red Storm,W-B-R-G Samwise Gamgee Combo,1,0,0,1,100.0
+Mono-Red Storm,Mono-Green Eldrazi Ramp,0,1,0,1,0.0
+Mono-Red Storm,Izzet Eldrazi,1,0,0,1,100.0
+Mono-Red Storm,Boros Energy,0,1,0,1,0.0
+Mono-Green Amulet Titan,Boros Aggro,2,0,0,2,100.0
+Mono-Green Amulet Titan,W-B-R-G Samwise Gamgee Combo,0,1,0,1,0.0
+Mono-Green Amulet Titan,W-U-B-G Goryo's,2,0,0,2,100.0
+Mono-Green Amulet Titan,Boros Energy,1,1,0,2,50.0
+Mono-Green Amulet Titan,Mono-Green Eldrazi Broodscale,1,0,0,1,100.0
+Mono-Green Amulet Titan,Esper Reanimator,0,1,0,1,0.0
+Mono-Green Eldrazi Ramp,Boros Aggro,2,0,0,2,100.0
+Mono-Green Eldrazi Ramp,Mono-Red Storm,1,0,0,1,100.0
+W-B-R-G Samwise Gamgee Combo,W-U-B-G Goryo's,1,0,0,1,100.0
+W-B-R-G Samwise Gamgee Combo,Mono-Green Amulet Titan,1,0,0,1,100.0
+W-B-R-G Samwise Gamgee Combo,Mono-Green Eldrazi Ramp,0,1,0,1,0.0
+W-B-R-G Samwise Gamgee Combo,Mono-Red Storm,0,1,0,1,0.0
+W-B-R-G Samwise Gamgee Combo,Colorless Eldrazi Tron,1,0,0,1,100.0
+Boros Aggro,Mono-Green Amulet Titan,0,2,0,2,0.0
+Boros Aggro,Izzet,1,1,0,2,50.0
+Boros Aggro,Mono-Red Storm,0,1,0,1,0.0
+Boros Aggro,Izzet Affinity,3,1,0,4,75.0
+Boros Aggro,Boros Aggro,1,1,0,2,50.0
+Izzet,Boros Energy,0,1,0,1,0.0
+Izzet,Boros Aggro,1,1,0,2,50.0
+Izzet,W-U-B-G Goryo's,1,0,0,1,100.0
+Izzet,Mono-Black Midrange,1,0,0,1,100.0
+Izzet Affinity,Mono-Green Eldrazi Broodscale,0,1,0,1,0.0
+Izzet Affinity,Boros Aggro,1,3,0,4,25.0
+Izzet Affinity,Colorless Eldrazi Tron,0,1,0,1,0.0
+Izzet Affinity,W-U-B-G Goryo's,1,0,0,1,100.0
+Izzet Affinity,Mono-Green Amulet Titan,1,0,0,1,100.0
+Colorless Eldrazi Tron,Boros Aggro,1,0,0,1,100.0
+Colorless Eldrazi Tron,Boros Energy,0,1,0,1,0.0
+Colorless Eldrazi Tron,Izzet Affinity,1,0,0,1,100.0
+Colorless Eldrazi Tron,Azorius Control,0,1,0,1,0.0
+Colorless Eldrazi Tron,W-B-R-G Samwise Gamgee Combo,0,1,0,1,0.0
+Boros Aggro,Esper Reanimator,0,1,0,1,0.0
+Boros Aggro,Mono-Green Eldrazi Ramp,0,2,0,2,0.0
+Boros Aggro,Boros Energy,1,0,0,1,100.0
+Boros Aggro,Mono-Black Midrange,2,0,0,2,100.0
+Boros Aggro,Izzet Eldrazi,0,1,0,1,0.0
+Mono-Green Amulet Titan,Mono-Red Storm,0,1,0,1,0.0
+Mono-Green Amulet Titan,Izzet Eldrazi,0,1,0,1,0.0
+Mono-Green Amulet Titan,Izzet Affinity,0,1,0,1,0.0
+Boros Aggro,Colorless Eldrazi Tron,0,1,0,1,0.0
+W-U-B-G Goryo's,W-B-R-G Samwise Gamgee Combo,0,1,0,1,0.0
+W-U-B-G Goryo's,Mono-Green Amulet Titan,0,2,0,2,0.0
+W-U-B-G Goryo's,Izzet,0,1,0,1,0.0
+W-U-B-G Goryo's,W-U-B-G Goryo's,0,0,2,2,
+W-U-B-G Goryo's,Mono-Black Midrange,0,1,0,1,0.0
+W-U-B-G Goryo's,Izzet Affinity,0,1,0,1,0.0
+Izzet Affinity,Izzet Eldrazi,0,1,0,1,0.0
+Izzet Affinity,Boros Energy,1,0,0,1,100.0
+Mono-Black Midrange,W-U-B-G Goryo's,1,0,0,1,100.0
+Mono-Black Midrange,Mono-Green Eldrazi Broodscale,0,1,0,1,0.0
+Mono-Black Midrange,Boros Aggro,0,2,0,2,0.0
+Mono-Black Midrange,Izzet,0,1,0,1,0.0
+Boros Energy,Boros Aggro,0,1,0,1,0.0
+Boros Energy,Izzet Affinity,0,1,0,1,0.0

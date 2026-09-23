@@ -1,0 +1,498 @@
+archetype_a,archetype_b,win,loss,draw,games,winrate
+Mono-Green Amulet Titan,W-U-R-G Domain,3,0,1,4,100.0
+Mono-Green Amulet Titan,Esper Midrange,3,0,1,4,100.0
+Mono-Green Amulet Titan,Izzet Prowess,3,1,0,4,75.0
+Mono-Green Amulet Titan,Jeskai Control,1,0,0,1,100.0
+Mono-Green Amulet Titan,Boros Energy,1,0,0,1,100.0
+Mono-Green Amulet Titan,Mono-Green Amulet Titan,0,0,2,2,
+Mono-Green Amulet Titan,Azorius Energy,1,1,0,2,50.0
+Mono-Green Amulet Titan,Mono-Blue Belcher,2,0,0,2,100.0
+Mono-Green Amulet Titan,Gruul Combo,1,0,0,1,100.0
+Mono-Green Amulet Titan,Colorless Eldrazi,1,0,0,1,100.0
+Mono-Green Amulet Titan,Izzet Affinity,1,0,0,1,100.0
+Mono-Green Amulet Titan,Mono-Blue Eldrazi,1,0,0,1,100.0
+Mono-Green Amulet Titan,Gruul Aggro,2,0,0,2,100.0
+Gruul Aggro,Colorless,0,0,1,1,
+Gruul Aggro,Azorius Control (Kaheera),1,1,0,2,50.0
+Gruul Aggro,Jund Midrange,1,0,0,1,100.0
+Gruul Aggro,W-U-B-G Goryo's Vengeance,2,0,0,2,100.0
+Gruul Aggro,Azorius Control,0,0,1,1,
+Gruul Aggro,Mono-White Aggro,1,0,0,1,100.0
+Gruul Aggro,Gruul Combo,1,0,0,1,100.0
+Gruul Aggro,Izzet Affinity,2,0,0,2,100.0
+Gruul Aggro,Mono-Green Amulet Titan,0,2,0,2,0.0
+W-U-R-G Domain,Jeskai Energy,1,0,0,1,100.0
+W-U-R-G Domain,Esper Combo,1,0,0,1,100.0
+W-U-R-G Domain,Boros,2,0,0,2,100.0
+W-U-R-G Domain,Mono-Green Eldrazi,1,0,0,1,100.0
+W-U-R-G Domain,Mono-Blue Eldrazi,1,0,0,1,100.0
+W-U-R-G Domain,Mono-Green Amulet Titan,0,3,1,4,0.0
+W-U-R-G Domain,Izzet Prowess,1,2,0,3,33.3
+W-U-R-G Domain,Esper Midrange,1,3,0,4,25.0
+Esper Midrange,W-U-R-G Domain,3,1,0,4,75.0
+Esper Midrange,Orzhov Midrange,1,0,0,1,100.0
+Esper Midrange,Mono-Blue Belcher,3,0,0,3,100.0
+Esper Midrange,Mono-Green Amulet Titan,0,3,1,4,0.0
+Esper Midrange,Izzet Affinity,4,6,0,10,40.0
+Izzet Affinity,Mono-Black,1,0,0,1,100.0
+Izzet Affinity,Izzet,1,0,0,1,100.0
+Izzet Affinity,Esper Midrange,6,4,0,10,60.0
+Izzet Affinity,Izzet Prowess,2,5,0,7,28.6
+Izzet Affinity,Mono-Green Amulet Titan,0,1,0,1,0.0
+Izzet Affinity,W-U-R-G Domain,2,1,0,3,66.7
+Izzet Affinity,Mono-Blue Eldrazi,0,1,1,2,0.0
+Izzet Affinity,Gruul Aggro,0,2,0,2,0.0
+Mono-Blue Eldrazi,W-U-B-G Goryo's Vengeance,1,0,0,1,100.0
+Mono-Blue Eldrazi,Esper Midrange,1,0,0,1,100.0
+Mono-Blue Eldrazi,Azorius Energy,1,0,0,1,100.0
+Mono-Blue Eldrazi,Izzet Affinity,1,0,1,2,100.0
+Mono-Blue Eldrazi,W-U-R-G Domain,0,1,0,1,0.0
+Mono-Blue Eldrazi,Izzet Prowess,1,0,0,1,100.0
+Mono-Blue Eldrazi,Mono-Green Eldrazi,1,0,0,1,100.0
+Mono-Blue Eldrazi,Mono-Green Amulet Titan,0,1,0,1,0.0
+Azorius Energy,Mono-Green Amulet Titan,1,1,0,2,50.0
+Azorius Energy,Colorless Eldrazi,2,0,0,2,100.0
+Azorius Energy,Mono-Blue Eldrazi,0,1,0,1,0.0
+Azorius Energy,Esper Midrange,1,1,0,2,50.0
+Azorius Energy,Izzet Prowess,1,0,0,1,100.0
+Azorius Energy,Simic Combo,1,0,0,1,100.0
+Mono-Green Eldrazi,Izzet Affinity,2,0,0,2,100.0
+Mono-Green Eldrazi,Izzet Prowess,2,0,0,2,100.0
+Mono-Green Eldrazi,W-U-R-G Domain,0,1,0,1,0.0
+Mono-Green Eldrazi,Boros,1,0,0,1,100.0
+Mono-Green Eldrazi,Simic Combo,1,0,0,1,100.0
+Mono-Green Eldrazi,Mono-Blue Eldrazi,0,1,0,1,0.0
+Esper Midrange,Izzet Prowess,5,4,0,9,55.6
+Esper Midrange,Colorless Eldrazi,2,3,0,5,40.0
+Esper Midrange,Boros,1,0,0,1,100.0
+Esper Midrange,Mono-White Aggro,1,0,0,1,100.0
+Mono-Green Amulet Titan,Azorius Control (Kaheera),1,0,0,1,100.0
+Mono-Green Amulet Titan,Esper,1,0,0,1,100.0
+W-U-B-G Goryo's Vengeance,Mono-Blue Belcher,6,4,0,10,60.0
+W-U-B-G Goryo's Vengeance,Mono-Blue Merfolk,1,0,0,1,100.0
+W-U-B-G Goryo's Vengeance,Izzet Affinity,2,6,0,8,25.0
+W-U-B-G Goryo's Vengeance,Izzet Prowess,4,0,0,4,100.0
+W-U-B-G Goryo's Vengeance,Boros,1,0,0,1,100.0
+W-U-B-G Goryo's Vengeance,Grixis Control,1,0,0,1,100.0
+W-U-B-G Goryo's Vengeance,Azorius Control,1,0,1,2,100.0
+W-U-B-G Goryo's Vengeance,Mardu Aggro,1,0,0,1,100.0
+W-U-B-G Goryo's Vengeance,Gruul Aggro,0,2,0,2,0.0
+W-U-B-G Goryo's Vengeance,Boros Aggro,1,1,0,2,50.0
+W-U-B-G Goryo's Vengeance,W-U-R-G Aggro,2,0,0,2,100.0
+W-U-B-G Goryo's Vengeance,Boros Energy,3,1,0,4,75.0
+W-U-B-G Goryo's Vengeance,W-U-R-G Domain,0,1,1,2,0.0
+W-U-R-G Domain,W-U-B-G Goryo's Vengeance,1,0,1,2,100.0
+W-U-R-G Domain,Mono-Blue Merfolk,1,0,0,1,100.0
+W-U-R-G Domain,Izzet Affinity,1,2,0,3,33.3
+W-U-R-G Domain,Colorless Eldrazi,1,0,0,1,100.0
+W-U-R-G Domain,Gruul Combo,1,0,0,1,100.0
+Gruul Combo,Esper Control,1,0,0,1,100.0
+Gruul Combo,Mono-Green Amulet Titan,0,1,0,1,0.0
+Gruul Combo,Gruul Eldrazi,0,0,1,1,
+Gruul Combo,Dimir Mill,1,0,0,1,100.0
+Gruul Combo,Colorless,1,0,0,1,100.0
+Gruul Combo,Izzet Aggro,1,0,0,1,100.0
+Gruul Combo,Mono-Blue Belcher,1,1,0,2,50.0
+Gruul Combo,Gruul Aggro,0,1,0,1,0.0
+Boros Energy,Rakdos,2,0,0,2,100.0
+Boros Energy,Simic Combo,1,1,0,2,50.0
+Boros Energy,Esper,1,1,0,2,50.0
+Boros Energy,Mono-White Aggro,0,0,1,1,
+Boros Energy,Colorless Eldrazi,1,2,0,3,33.3
+Boros Energy,Mono-Green Amulet Titan,0,1,0,1,0.0
+Boros Energy,W-U-B-G Goryo's Vengeance,1,3,0,4,25.0
+Boros Energy,Azorius Control,1,1,0,2,50.0
+Izzet Affinity,Izzet Affinity,4,4,2,10,50.0
+Izzet Affinity,Jeskai Energy,1,2,0,3,33.3
+Izzet Affinity,W-U-B-G Goryo's Vengeance,5,0,0,5,100.0
+Izzet Affinity,Boros Energy,5,1,0,6,83.3
+Colorless Eldrazi,Boros Energy,3,1,0,4,75.0
+Colorless Eldrazi,Azorius Energy,0,2,0,2,0.0
+Colorless Eldrazi,Izzet Affinity,4,3,0,7,57.1
+Colorless Eldrazi,Esper Midrange,3,2,0,5,60.0
+Colorless Eldrazi,Izzet Prowess,1,5,1,7,16.7
+Izzet Affinity,Esper,2,1,0,3,66.7
+W-U-B-G Goryo's Vengeance,Temur,0,1,0,1,0.0
+W-U-B-G Goryo's Vengeance,Esper Control,0,0,1,1,
+W-U-B-G Goryo's Vengeance,Mono-Green Amulet Titan,1,1,1,3,50.0
+W-U-B-G Goryo's Vengeance,Gruul Eldrazi,1,0,0,1,100.0
+W-U-B-G Goryo's Vengeance,Dimir Mill,1,0,0,1,100.0
+Izzet Prowess,Mono-Blue Belcher,8,1,0,9,88.9
+Izzet Prowess,Esper Midrange,5,5,0,10,50.0
+Izzet Prowess,Izzet Affinity,5,2,0,7,71.4
+Izzet Prowess,Esper,1,0,0,1,100.0
+Izzet Prowess,Izzet Prowess,3,3,0,6,50.0
+Izzet Prowess,W-U-R-G Domain,2,1,0,3,66.7
+Izzet Prowess,Colorless Eldrazi,5,1,1,7,83.3
+Gruul Eldrazi,Grixis Control,1,0,0,1,100.0
+Gruul Eldrazi,Colorless Eldrazi,0,1,0,1,0.0
+Gruul Eldrazi,Gruul Combo,0,0,1,1,
+Gruul Eldrazi,Esper Murktide,1,0,0,1,100.0
+Gruul Eldrazi,Jund Midrange,1,0,0,1,100.0
+Gruul Eldrazi,W-U-B-G Goryo's Vengeance,0,1,0,1,0.0
+Gruul Eldrazi,Boros Aggro,1,0,0,1,100.0
+Gruul Eldrazi,Mono-Blue Belcher,1,0,0,1,100.0
+Mono-Green Amulet Titan,W-U-B-G Goryo's Vengeance,1,1,1,3,50.0
+Mono-Green Amulet Titan,Colorless,0,1,0,1,0.0
+Mono-Green Amulet Titan,Grixis Oculus,1,0,0,1,100.0
+Mono-Green Amulet Titan,Mardu Aggro,1,0,0,1,100.0
+Mono-Green Amulet Titan,Simic Combo,1,0,0,1,100.0
+Mono-Green Amulet Titan,W-U-R-G Aggro,1,0,0,1,100.0
+Izzet Prowess,Mono-Blue Eldrazi,0,1,0,1,0.0
+Izzet Prowess,Mono-Green Eldrazi,0,2,0,2,0.0
+Colorless Eldrazi,Mono-Red Burn,1,0,0,1,100.0
+Colorless Eldrazi,Gruul Eldrazi,1,0,0,1,100.0
+Colorless Eldrazi,Mono-Blue Belcher,5,1,0,6,83.3
+Colorless Eldrazi,Mono-Green Amulet Titan,0,1,0,1,0.0
+Colorless Eldrazi,W-U-R-G Domain,0,1,0,1,0.0
+Colorless Eldrazi,Colorless Eldrazi,1,1,0,2,50.0
+Esper Midrange,Gruul Aggro,1,0,0,1,100.0
+Esper Midrange,Azorius Energy,1,1,0,2,50.0
+Esper Midrange,Grixis Control,0,1,0,1,0.0
+Esper Midrange,Mono-Green Combo,1,0,0,1,100.0
+Esper Midrange,Esper Midrange,2,3,0,5,40.0
+Izzet Prowess,Boros Energy,3,1,0,4,75.0
+Izzet Prowess,Mono-Green Amulet Titan,1,3,0,4,25.0
+Izzet Prowess,Boros Aggro,1,0,0,1,100.0
+W-U-R-G Domain,Mono-Blue Belcher,6,0,0,6,100.0
+W-U-R-G Domain,Azorius Control (Kaheera),1,0,0,1,100.0
+Jeskai Energy,W-U-R-G Domain,0,1,0,1,0.0
+Jeskai Energy,Esper Murktide,1,0,0,1,100.0
+Jeskai Energy,Izzet Affinity,2,1,0,3,66.7
+Jeskai Energy,Rakdos,1,0,0,1,100.0
+Jeskai Energy,Colorless Eldrazi,0,1,0,1,0.0
+Jeskai Energy,Mono-Red Burn,1,0,0,1,100.0
+Mono-Blue Belcher,Mono-Blue Belcher,3,1,0,4,75.0
+Mono-Blue Belcher,Esper,1,0,0,1,100.0
+Mono-Blue Belcher,Colorless Eldrazi,1,5,0,6,16.7
+Mono-Blue Belcher,W-U-B-G Goryo's Vengeance,3,2,0,5,60.0
+Mono-Blue Belcher,Boros Aggro,2,0,0,2,100.0
+Mono-Blue Belcher,Izzet Prowess,1,4,0,5,20.0
+Mono-Blue Belcher,Gruul Combo,1,1,0,2,50.0
+Simic Combo,Boros Energy,1,1,0,2,50.0
+Simic Combo,W-U-R-G Aggro,1,0,0,1,100.0
+Simic Combo,Izzet Affinity,0,1,0,1,0.0
+Simic Combo,Izzet Prowess,1,0,0,1,100.0
+Simic Combo,Colorless Eldrazi,2,0,0,2,100.0
+Simic Combo,Mono-Green Eldrazi,0,1,0,1,0.0
+Simic Combo,Azorius Energy,0,1,0,1,0.0
+Izzet Prowess,Boros,0,1,0,1,0.0
+Izzet Prowess,Rakdos,2,0,0,2,100.0
+Izzet Prowess,Gruul Combo,0,1,0,1,0.0
+W-U-R-G Domain,Boros Energy,1,0,0,1,100.0
+W-U-R-G Domain,Esper,1,0,0,1,100.0
+Grixis Control,Gruul Eldrazi,0,1,0,1,0.0
+Grixis Control,Esper Control,0,1,0,1,0.0
+Grixis Control,Boros Energy,1,0,0,1,100.0
+Grixis Control,Mono-Blue Belcher,1,0,0,1,100.0
+Grixis Control,Boros Aggro,1,0,0,1,100.0
+Grixis Control,Esper Midrange,1,0,0,1,100.0
+Grixis Control,Gruul Combo,1,0,0,1,100.0
+Grixis Control,W-U-B-G Goryo's Vengeance,0,1,0,1,0.0
+Izzet Affinity,Azorius Control,1,0,0,1,100.0
+Izzet Affinity,Mono-Blue Belcher,3,4,0,7,42.9
+Izzet Affinity,Azorius Control (Kaheera),2,1,0,3,66.7
+Izzet Affinity,Colorless Eldrazi,3,4,0,7,42.9
+Mono-Black,Izzet Affinity,0,1,0,1,0.0
+Mono-Black,Boros Aggro,1,0,0,1,100.0
+Mono-Black,Azorius Control (Kaheera),0,1,0,1,0.0
+Mono-Black,Mono-Blue Belcher,2,0,0,2,100.0
+Mono-Black,Boros Energy,1,0,0,1,100.0
+Mono-Black,Esper Midrange,0,1,0,1,0.0
+Mono-Black,Izzet Prowess,1,0,0,1,100.0
+Izzet Prowess,W-U-R-G Aggro,0,1,0,1,0.0
+Azorius Control,Esper Murktide,2,0,0,2,100.0
+Azorius Control,W-U-B-G Goryo's Vengeance,0,1,1,2,0.0
+Azorius Control,Temur,1,0,0,1,100.0
+Azorius Control,Mono-Black Eldrazi,1,0,0,1,100.0
+Azorius Control,Gruul Aggro,0,0,1,1,
+Azorius Control,Mono-Blue Belcher,0,1,0,1,0.0
+Azorius Control,Jund Midrange,1,0,0,1,100.0
+Azorius Control,Boros Energy,1,1,0,2,50.0
+Mono-White Aggro,Jund Midrange,0,0,1,1,
+Mono-White Aggro,Dimir Control,1,0,0,1,100.0
+Mono-White Aggro,Colorless,1,0,0,1,100.0
+Mono-White Aggro,Boros Energy,0,0,1,1,
+Mono-White Aggro,Izzet,1,0,0,1,100.0
+Mono-White Aggro,Gruul Aggro,0,1,0,1,0.0
+Mono-White Aggro,Esper Midrange,0,1,0,1,0.0
+Mono-White Aggro,W-U-B-G Goryo's Vengeance,1,0,0,1,100.0
+Azorius Control (Kaheera),Azorius Control (Kaheera),1,1,0,2,50.0
+Azorius Control (Kaheera),Colorless Eldrazi,1,1,0,2,50.0
+Azorius Control (Kaheera),Boros Aggro,1,0,2,3,100.0
+Azorius Control (Kaheera),Mono-Green Combo,0,1,1,2,0.0
+Azorius Control (Kaheera),Esper Midrange,3,0,1,4,100.0
+Azorius Control (Kaheera),Gruul Aggro,1,1,0,2,50.0
+Azorius Control (Kaheera),Jund Midrange,1,0,0,1,100.0
+Mono-Blue Belcher,Mono-Blue Control,1,0,0,1,100.0
+Mono-Blue Belcher,Izzet Affinity,3,3,0,6,50.0
+Mono-Blue Belcher,Esper Midrange,0,2,1,3,0.0
+Mono-Blue Belcher,Izzet,0,0,1,1,
+Mono-Blue Belcher,Mono-Black Eldrazi,1,0,0,1,100.0
+Mono-Blue Belcher,Azorius Control,1,0,0,1,100.0
+Mono-Blue Belcher,Gruul Eldrazi,0,1,0,1,0.0
+W-U-R-G Aggro,Izzet Affinity,1,0,1,2,100.0
+W-U-R-G Aggro,Izzet Prowess,1,0,0,1,100.0
+W-U-R-G Aggro,Mono-Black Eldrazi,0,1,0,1,0.0
+W-U-R-G Aggro,Temur,1,0,0,1,100.0
+W-U-R-G Aggro,W-U-B-G Goryo's Vengeance,0,1,0,1,0.0
+W-U-R-G Aggro,Mono-Green Amulet Titan,0,1,0,1,0.0
+W-U-R-G Aggro,Boros Aggro,1,0,0,1,100.0
+Dimir Mill,Esper Control,1,0,0,1,100.0
+Dimir Mill,Esper,0,1,0,1,0.0
+Dimir Mill,Simic Combo,0,0,1,1,
+Dimir Mill,Gruul Combo,0,1,0,1,0.0
+Dimir Mill,Boros Aggro,1,0,0,1,100.0
+Dimir Mill,Mono-Black Eldrazi,1,0,0,1,100.0
+Dimir Mill,Esper Midrange,1,0,0,1,100.0
+Dimir Mill,W-U-B-G Goryo's Vengeance,0,1,0,1,0.0
+W-U-B-G Goryo's Vengeance,Mono-Black Eldrazi,0,1,0,1,0.0
+W-U-B-G Goryo's Vengeance,Azorius Control (Kaheera),1,0,0,1,100.0
+W-U-B-G Goryo's Vengeance,Esper Midrange,2,0,0,2,100.0
+W-U-B-G Goryo's Vengeance,Izzet Aggro,1,1,0,2,50.0
+W-U-B-G Goryo's Vengeance,W-U-B-G Goryo's Vengeance,1,1,0,2,50.0
+W-U-B-G Goryo's Vengeance,Grixis Oculus,0,1,0,1,0.0
+W-U-B-G Goryo's Vengeance,Dimir Control,0,0,1,1,
+Esper Midrange,Mono-Black,1,0,0,1,100.0
+Boros,Boros Aggro,2,0,0,2,100.0
+Boros,Izzet Prowess,1,0,0,1,100.0
+Boros,W-U-R-G Domain,0,2,0,2,0.0
+Boros,Mono-Green Eldrazi,0,1,0,1,0.0
+Boros,Izzet Affinity,1,0,0,1,100.0
+Boros,W-U-B-G Goryo's Vengeance,0,1,0,1,0.0
+Izzet Affinity,Grixis Oculus,1,0,0,1,100.0
+Izzet Affinity,Simic Combo,1,0,0,1,100.0
+Izzet Affinity,Boros,0,1,0,1,0.0
+Boros Energy,Izzet Prowess,1,3,0,4,25.0
+Boros Energy,Izzet Affinity,1,5,0,6,16.7
+Boros Energy,Azorius Control (Kaheera),2,0,0,2,100.0
+Boros Energy,Jeskai Control,1,1,0,2,50.0
+Colorless Eldrazi,Gruul Combo,0,1,0,1,0.0
+Colorless Eldrazi,Simic Combo,0,2,0,2,0.0
+Colorless Eldrazi,Jeskai Control,1,0,0,1,100.0
+Izzet Prowess,Azorius Control (Kaheera),3,0,0,3,100.0
+Izzet Prowess,Simic Combo,0,1,0,1,0.0
+Izzet Prowess,Mono-Black,0,1,0,1,0.0
+Colorless Eldrazi,Jeskai Energy,1,0,0,1,100.0
+Esper,Dimir Control,1,0,0,1,100.0
+Esper,Mono-Blue Belcher,2,1,0,3,66.7
+Esper,Izzet Affinity,2,2,0,4,50.0
+Esper,Mono-Green Amulet Titan,0,1,0,1,0.0
+Esper,W-U-R-G Domain,0,1,0,1,0.0
+Gruul Combo,Colorless Eldrazi,1,0,0,1,100.0
+Gruul Combo,Boros Energy,1,0,0,1,100.0
+Gruul Combo,Jeskai Control,0,1,0,1,0.0
+Gruul Combo,W-U-R-G Aggro,1,0,0,1,100.0
+Gruul Combo,Izzet Prowess,1,0,0,1,100.0
+Gruul Combo,W-U-R-G Domain,0,1,0,1,0.0
+Gruul Combo,Grixis Control,0,1,0,1,0.0
+Izzet Prowess,Orzhov Midrange,0,1,0,1,0.0
+Izzet Prowess,W-U-B-G Goryo's Vengeance,0,4,0,4,0.0
+Izzet Prowess,Azorius Energy,0,1,0,1,0.0
+Mono-Blue Belcher,W-U-R-G Domain,0,3,0,3,0.0
+Mono-Blue Belcher,Boros Energy,1,0,0,1,100.0
+Mono-Blue Belcher,Mono-Black,0,1,0,1,0.0
+Colorless Eldrazi,Rakdos,1,0,0,1,100.0
+Colorless Eldrazi,Azorius Control (Kaheera),1,1,0,2,50.0
+Izzet Affinity,Mono-Green Eldrazi,0,1,0,1,0.0
+Izzet Prowess,Mono-Green Combo,1,0,0,1,100.0
+Izzet Prowess,Gruul Aggro,1,0,0,1,100.0
+Izzet Affinity,Colorless,1,0,0,1,100.0
+Mono-Blue Belcher,Mono-Red Burn,0,1,0,1,0.0
+Mono-Blue Belcher,Esper Murktide,1,0,0,1,100.0
+Mono-Blue Belcher,Rakdos,2,0,0,2,100.0
+Mono-Red Burn,Colorless Eldrazi,0,1,0,1,0.0
+Mono-Red Burn,Mono-Blue Belcher,1,1,0,2,50.0
+Mono-Red Burn,Esper Combo,0,1,0,1,0.0
+Mono-Red Burn,Esper Control,1,0,0,1,100.0
+Mono-Red Burn,Izzet Affinity,1,0,0,1,100.0
+Mono-Red Burn,Jeskai Energy,0,1,0,1,0.0
+Mono-Red Burn,Esper Murktide,1,0,0,1,100.0
+Izzet Affinity,W-U-R-G Aggro,0,1,0,1,0.0
+Izzet Affinity,Rakdos,0,1,0,1,0.0
+W-U-B-G Goryo's Vengeance,Rakdos,1,1,0,2,50.0
+W-U-B-G Goryo's Vengeance,Mono-White Aggro,0,1,0,1,0.0
+Esper,Boros Energy,1,1,0,2,50.0
+Esper,Dimir Mill,1,0,0,1,100.0
+Esper,Izzet Prowess,0,1,0,1,0.0
+Esper,Orzhov Midrange,0,0,1,1,
+Esper,Mono-Black Eldrazi,0,0,1,1,
+Mono-Black Eldrazi,Izzet Affinity,0,0,1,1,
+Mono-Black Eldrazi,W-U-B-G Goryo's Vengeance,1,0,0,1,100.0
+Mono-Black Eldrazi,W-U-R-G Aggro,1,0,0,1,100.0
+Mono-Black Eldrazi,Azorius Control,0,1,0,1,0.0
+Mono-Black Eldrazi,Mono-Blue Belcher,0,1,0,1,0.0
+Mono-Black Eldrazi,Dimir Mill,0,1,0,1,0.0
+Mono-Black Eldrazi,Esper,0,0,1,1,
+Mono-Black Eldrazi,Mono-Green Combo,1,0,0,1,100.0
+Simic Combo,Mono-Green Combo,1,0,0,1,100.0
+Simic Combo,Dimir Mill,0,0,1,1,
+Simic Combo,Temur,0,1,0,1,0.0
+Simic Combo,Esper Midrange,1,0,0,1,100.0
+Simic Combo,Mono-Green Amulet Titan,0,1,0,1,0.0
+Simic Combo,Mono-Blue Belcher,1,0,0,1,100.0
+Simic Combo,Mardu Aggro,0,0,1,1,
+Mardu Aggro,Esper Murktide,0,0,1,1,
+Mardu Aggro,Esper Midrange,1,0,0,1,100.0
+Mardu Aggro,W-U-B-G Goryo's Vengeance,0,1,0,1,0.0
+Mardu Aggro,Colorless,0,1,0,1,0.0
+Mardu Aggro,Mono-Green Amulet Titan,0,1,0,1,0.0
+Mardu Aggro,Mono-Blue Control,1,0,0,1,100.0
+Mardu Aggro,Azorius Control (Kaheera),1,0,0,1,100.0
+Mardu Aggro,Simic Combo,0,0,1,1,
+Jund Midrange,Mono-White Aggro,0,0,1,1,
+Jund Midrange,Esper Murktide,1,0,0,1,100.0
+Jund Midrange,Gruul Aggro,0,1,0,1,0.0
+Jund Midrange,Esper Control,1,0,0,1,100.0
+Jund Midrange,Gruul Eldrazi,0,1,0,1,0.0
+Jund Midrange,Izzet Affinity,1,0,0,1,100.0
+Jund Midrange,Azorius Control,0,1,0,1,0.0
+Jund Midrange,Azorius Control (Kaheera),0,1,0,1,0.0
+Boros Aggro,Azorius Control (Kaheera),0,1,2,3,0.0
+Boros Aggro,Izzet Affinity,1,0,0,1,100.0
+Boros Aggro,Izzet Aggro,1,0,0,1,100.0
+Boros Aggro,Boros,0,2,0,2,0.0
+Boros Aggro,W-U-B-G Goryo's Vengeance,0,1,0,1,0.0
+Boros Aggro,Azorius Control,1,0,0,1,100.0
+Boros Aggro,Gruul Eldrazi,0,1,0,1,0.0
+Boros Aggro,W-U-R-G Aggro,0,1,0,1,0.0
+Azorius Control (Kaheera),W-U-B-G Goryo's Vengeance,0,1,0,1,0.0
+Azorius Control (Kaheera),Izzet Affinity,1,2,0,3,33.3
+Azorius Control (Kaheera),Mardu Aggro,0,1,0,1,0.0
+Azorius Control (Kaheera),Mono-Blue Belcher,2,0,0,2,100.0
+Izzet Aggro,Mono-Blue Belcher,2,0,0,2,100.0
+Izzet Aggro,Temur,0,0,1,1,
+Izzet Aggro,Boros Aggro,0,1,0,1,0.0
+Izzet Aggro,W-U-B-G Goryo's Vengeance,1,1,0,2,50.0
+Izzet Aggro,Gruul Combo,0,1,0,1,0.0
+Boros Aggro,Gruul Aggro,1,0,0,1,100.0
+Boros Aggro,Mono-Blue Belcher,0,1,0,1,0.0
+Boros Aggro,Dimir Mill,0,1,0,1,0.0
+Boros Aggro,Dimir Control,1,0,0,1,100.0
+Boros Aggro,Esper Midrange,1,0,0,1,100.0
+Azorius Control,Izzet Affinity,0,2,0,2,0.0
+Azorius Control,Esper Midrange,0,0,1,1,
+Azorius Control,Boros Aggro,0,1,0,1,0.0
+Azorius Control,Esper Control,1,0,0,1,100.0
+Esper Midrange,Boros Energy,2,0,0,2,100.0
+Esper Midrange,Mono-Blue Eldrazi,0,1,0,1,0.0
+Esper Midrange,Esper Combo,1,0,0,1,100.0
+Azorius Control (Kaheera),Izzet Prowess,0,3,0,3,0.0
+Azorius Control (Kaheera),Mono-Black,1,0,0,1,100.0
+Azorius Control (Kaheera),W-U-R-G Domain,0,1,0,1,0.0
+Azorius Control (Kaheera),Mono-Green Amulet Titan,0,1,0,1,0.0
+Esper Midrange,Rakdos,1,0,0,1,100.0
+Gruul Aggro,Esper Midrange,0,1,0,1,0.0
+Gruul Aggro,Boros Aggro,0,1,0,1,0.0
+Gruul Aggro,Boros Energy,1,0,0,1,100.0
+Gruul Aggro,Orzhov Midrange,1,0,0,1,100.0
+Gruul Aggro,Izzet Prowess,0,1,0,1,0.0
+Jeskai Control,Boros Energy,1,1,0,2,50.0
+Jeskai Control,Azorius Control (Kaheera),1,0,0,1,100.0
+Jeskai Control,Gruul Combo,1,0,0,1,100.0
+Jeskai Control,Mono-Green Amulet Titan,0,1,0,1,0.0
+Jeskai Control,Colorless Eldrazi,0,1,0,1,0.0
+W-U-B-G Goryo's Vengeance,Mono-Blue Eldrazi,0,1,0,1,0.0
+Rakdos,Boros Energy,0,1,0,1,0.0
+Rakdos,Colorless Eldrazi,0,1,0,1,0.0
+Rakdos,Izzet Affinity,1,0,0,1,100.0
+Rakdos,Jeskai Energy,0,1,0,1,0.0
+Rakdos,W-U-B-G Goryo's Vengeance,0,1,0,1,0.0
+Rakdos,Esper Control,1,0,0,1,100.0
+Rakdos,Boros Aggro,1,0,0,1,100.0
+Rakdos,Mono-Blue Belcher,0,1,0,1,0.0
+Mono-Blue Belcher,Esper Combo,1,0,0,1,100.0
+Mono-Blue Belcher,Azorius Control (Kaheera),0,2,0,2,0.0
+Mono-Blue Belcher,W-U-R-G Aggro,1,0,0,1,100.0
+Esper Murktide,Azorius Control,0,2,0,2,0.0
+Esper Murktide,Jeskai Energy,0,1,0,1,0.0
+Esper Murktide,Colorless Eldrazi,0,1,0,1,0.0
+Esper Murktide,Mono-Blue Belcher,1,1,0,2,50.0
+Esper Murktide,Boros Energy,1,0,0,1,100.0
+Esper Murktide,Esper Combo,1,0,0,1,100.0
+Esper Murktide,Mono-Red Burn,0,1,0,1,0.0
+Boros Energy,Boros Energy,1,2,0,3,33.3
+Boros Energy,W-U-R-G Domain,0,1,0,1,0.0
+Boros Energy,Mono-Blue Belcher,1,2,0,3,33.3
+Colorless Eldrazi,Esper Combo,0,1,0,1,0.0
+Colorless Eldrazi,Esper Murktide,1,0,0,1,100.0
+Mono-Green Combo,Simic Combo,0,1,0,1,0.0
+Mono-Green Combo,Mono-Blue Control,0,0,1,1,
+Mono-Green Combo,Azorius Control (Kaheera),1,0,1,2,100.0
+Mono-Green Combo,Izzet Prowess,0,1,0,1,0.0
+Mono-Green Combo,Dimir Control,1,0,0,1,100.0
+Mono-Green Combo,Esper Midrange,0,1,0,1,0.0
+Mono-Green Combo,Mono-Black Eldrazi,0,1,0,1,0.0
+Temur,W-U-B-G Goryo's Vengeance,1,0,0,1,100.0
+Temur,Izzet Aggro,0,0,1,1,
+Temur,Azorius Control,0,1,0,1,0.0
+Temur,Simic Combo,1,0,0,1,100.0
+Temur,W-U-R-G Aggro,0,1,0,1,0.0
+Izzet,Colorless,1,0,0,1,100.0
+Izzet,Izzet Affinity,0,1,0,1,0.0
+Izzet,Boros,1,0,0,1,100.0
+Izzet,Mono-Blue Belcher,0,0,1,1,
+Izzet,Mono-White Aggro,0,1,0,1,0.0
+Esper Control,Dimir Mill,0,1,0,1,0.0
+Esper Control,Grixis Control,1,0,0,1,100.0
+Esper Control,W-U-B-G Goryo's Vengeance,0,0,1,1,
+Esper Control,Jund Midrange,0,1,0,1,0.0
+Esper Control,Dimir Control,1,0,0,1,100.0
+Esper Control,Esper Midrange,0,1,0,1,0.0
+Esper Control,Azorius Control,0,1,0,1,0.0
+Orzhov Midrange,Izzet Prowess,1,0,0,1,100.0
+Orzhov Midrange,Esper Midrange,0,1,0,1,0.0
+Orzhov Midrange,Rakdos,0,1,0,1,0.0
+Orzhov Midrange,Boros Energy,1,0,0,1,100.0
+Orzhov Midrange,Esper,0,0,1,1,
+Orzhov Midrange,Gruul Aggro,0,1,0,1,0.0
+Mono-Blue Belcher,Izzet Aggro,0,2,0,2,0.0
+Mono-Blue Belcher,Simic Combo,0,1,0,1,0.0
+Esper Midrange,Azorius Control (Kaheera),0,3,1,4,0.0
+Esper Midrange,W-U-B-G Goryo's Vengeance,0,1,0,1,0.0
+Esper Midrange,Boros Aggro,0,1,0,1,0.0
+Izzet Affinity,Boros Aggro,0,2,0,2,0.0
+Izzet Affinity,Mono-Red Burn,0,1,0,1,0.0
+Boros Energy,Boros,1,0,0,1,100.0
+Boros Energy,Gruul Combo,0,1,0,1,0.0
+Boros Energy,Grixis Oculus,1,0,0,1,100.0
+Boros Energy,Mono-Black,0,1,0,1,0.0
+Azorius Control (Kaheera),Jeskai Control,0,1,0,1,0.0
+Azorius Control (Kaheera),Boros Energy,0,2,0,2,0.0
+Boros,Boros Energy,0,1,0,1,0.0
+Boros,Esper Control,1,0,0,1,100.0
+Boros,Izzet,0,1,0,1,0.0
+Boros,Mono-Blue Merfolk,1,0,0,1,100.0
+Boros,Esper Midrange,0,1,0,1,0.0
+Boros Energy,Esper Murktide,0,1,0,1,0.0
+Boros Energy,Esper Control,1,0,0,1,100.0
+Esper Midrange,Azorius Control,0,0,1,1,
+Esper Midrange,Simic Combo,0,1,0,1,0.0
+Esper Murktide,Mardu Aggro,0,0,1,1,
+Esper Murktide,Jund Midrange,0,1,0,1,0.0
+Esper Murktide,Mono-Blue Control,1,0,0,1,100.0
+Esper Murktide,Gruul Eldrazi,0,1,0,1,0.0
+Mono-Blue Control,Mono-Blue Belcher,0,1,0,1,0.0
+Mono-Blue Control,Mono-Green Combo,0,0,1,1,
+Mono-Blue Control,Esper Murktide,0,1,0,1,0.0
+Mono-Blue Control,Azorius Control (Kaheera),1,0,0,1,100.0
+Mono-Blue Control,Esper Midrange,0,1,0,1,0.0
+Mono-Blue Control,Mardu Aggro,0,1,0,1,0.0
+Mono-Blue Belcher,Colorless,1,0,0,1,100.0
+Mono-Blue Belcher,Grixis Control,0,1,0,1,0.0
+Boros Energy,Orzhov Midrange,0,1,0,1,0.0
+Mono-Blue Merfolk,Izzet Affinity,1,0,0,1,100.0
+Mono-Blue Merfolk,W-U-R-G Domain,0,1,0,1,0.0
+Mono-Blue Merfolk,W-U-B-G Goryo's Vengeance,0,1,0,1,0.0
+Mono-Blue Merfolk,Boros,0,1,0,1,0.0
+Izzet Affinity,Mono-Blue Merfolk,0,1,0,1,0.0
+Grixis Oculus,Izzet Affinity,0,1,0,1,0.0
+Grixis Oculus,W-U-B-G Goryo's Vengeance,1,0,0,1,100.0
+Grixis Oculus,Mono-Green Amulet Titan,0,1,0,1,0.0
+Grixis Oculus,Boros Energy,0,1,0,1,0.0
+Izzet Affinity,Mono-Black Eldrazi,0,0,1,1,
+Izzet Affinity,Dimir Control,0,1,0,1,0.0
+Azorius Control (Kaheera),Mono-Blue Control,0,1,0,1,0.0
+Boros Energy,Gruul Aggro,0,1,0,1,0.0
+Boros Energy,Esper Midrange,0,1,0,1,0.0
+Boros Energy,Grixis Control,0,1,0,1,0.0

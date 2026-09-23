@@ -1,0 +1,89 @@
+archetype_a,archetype_b,win,loss,draw,games,winrate
+Izzet Aggro,Dimir Murktide,2,0,0,2,100.0
+Izzet Aggro,Gruul Hollow End,3,0,0,3,100.0
+Izzet Aggro,Abzan Combo,1,1,0,2,50.0
+Azorius Belcher,Temur Eldrazi,1,0,0,1,100.0
+Azorius Belcher,Abzan Combo,1,0,0,1,100.0
+Azorius Belcher,Izzet Aggro,1,0,0,1,100.0
+Izzet Aggro,Izzet Aggro,0,0,2,2,
+Izzet Aggro,Colorless,1,0,0,1,100.0
+Izzet Aggro,Azorius Belcher,0,1,0,1,0.0
+Abzan Combo,Izzet Aggro,1,1,0,2,50.0
+Abzan Combo,W-U-R-G Domain,1,0,0,1,100.0
+Abzan Combo,Azorius Belcher,0,1,0,1,0.0
+Abzan Combo,Boros Aggro,2,0,0,2,100.0
+W-U-R-G Domain,Izzet Aggro,1,0,0,1,100.0
+W-U-R-G Domain,Abzan Combo,0,1,0,1,0.0
+W-U-R-G Domain,Colorless Eldrazi,1,0,0,1,100.0
+Izzet Aggro,Gruul Control,1,0,0,1,100.0
+Izzet Aggro,Azorius (Kaheera),2,0,0,2,100.0
+Esper,Gruul Amulet Titan,0,1,0,1,0.0
+Boros Burn,Azorius Control,1,0,0,1,100.0
+Colorless,Izzet Aggro,0,1,0,1,0.0
+Colorless,Izzet Grinding Breach,1,0,0,1,100.0
+Colorless,Boros Aggro,0,0,1,1,
+Boros Aggro,Gruul Hollow End,1,0,0,1,100.0
+Boros Aggro,Izzet Grinding Breach,1,0,0,1,100.0
+Boros Aggro,Abzan Combo,0,2,0,2,0.0
+Boros Aggro,Colorless,0,0,1,1,
+Izzet Aggro,W-U-R-G Domain,0,1,0,1,0.0
+Colorless Eldrazi,Dimir Murktide,1,0,0,1,100.0
+Colorless Eldrazi,W-U-R-G Domain,0,1,0,1,0.0
+Abzan Combo,W-U-R-G,1,0,0,1,100.0
+Abzan Combo,Azorius (Kaheera),1,0,0,1,100.0
+Gruul Amulet Titan,Gruul Eldrazi,1,0,0,1,100.0
+Gruul Amulet Titan,Temur Eldrazi,0,0,1,1,
+Gruul Amulet Titan,Esper,1,0,0,1,100.0
+Gruul Amulet Titan,Gruul Hollow End,1,0,0,1,100.0
+Mono-Green Combo,Gruul Control,1,0,0,1,100.0
+Mono-Green Combo,Temur Eldrazi,1,0,0,1,100.0
+Boros Energy,Orzhov Midrange,1,0,0,1,100.0
+Dimir Murktide,Orzhov Midrange,1,0,0,1,100.0
+Dimir Murktide,Jeskai Control,1,1,0,2,50.0
+Dimir Merfolk,Gruul Control,0,1,0,1,0.0
+Dimir Merfolk,Dimir Control,1,0,0,1,100.0
+Temur Eldrazi,Azorius Belcher,0,1,0,1,0.0
+Temur Eldrazi,Gruul Amulet Titan,0,0,1,1,
+Temur Eldrazi,Mono-Green Combo,0,1,0,1,0.0
+Azorius Control,Gruul Hollow End,1,0,0,1,100.0
+Azorius Control,Boros Burn,0,1,0,1,0.0
+Azorius Control,W-U-R-G,1,0,0,1,100.0
+Azorius Control,Dimir Murktide,0,0,1,1,
+Gruul Hollow End,Izzet Aggro,0,3,0,3,0.0
+Gruul Hollow End,Gruul Amulet Titan,0,1,0,1,0.0
+Izzet Grinding Breach,Gruul Amulet Titan,1,0,0,1,100.0
+Izzet Grinding Breach,Boros Aggro,0,1,0,1,0.0
+Izzet Grinding Breach,Colorless,0,1,0,1,0.0
+Azorius (Kaheera),Izzet Aggro,0,2,0,2,0.0
+Azorius (Kaheera),Abzan Combo,0,1,0,1,0.0
+Jeskai Control,W-U-R-G,1,0,0,1,100.0
+Jeskai Control,Dimir Murktide,1,1,0,2,50.0
+Dimir Murktide,Izzet Aggro,0,2,0,2,0.0
+Dimir Murktide,Dimir Murktide,1,1,0,2,50.0
+Dimir Murktide,Azorius Control,0,0,1,1,
+Izzet Aggro,Dimir Control,1,0,0,1,100.0
+Gruul Hollow End,Azorius Control,0,1,0,1,0.0
+Gruul Hollow End,Mono-Blue,1,0,0,1,100.0
+Gruul Hollow End,Boros Aggro,0,1,0,1,0.0
+Mono-Blue,Gruul Hollow End,0,1,0,1,0.0
+Mono-Blue,Dimir Murktide,1,0,0,1,100.0
+Boros Energy,Gruul Control,1,0,0,1,100.0
+Gruul Control,Izzet Aggro,0,1,0,1,0.0
+Gruul Control,Dimir Merfolk,1,0,0,1,100.0
+Gruul Control,Mono-Green Combo,0,1,0,1,0.0
+Gruul Control,Boros Energy,0,1,0,1,0.0
+Dimir Murktide,Colorless Eldrazi,0,1,0,1,0.0
+Dimir Murktide,Mono-Blue,0,1,0,1,0.0
+Boros Aggro,Gruul Eldrazi,1,0,0,1,100.0
+Dimir Murktide,Gruul Amulet Titan,0,1,0,1,0.0
+W-U-R-G,Abzan Combo,0,1,0,1,0.0
+W-U-R-G,Jeskai Control,0,1,0,1,0.0
+W-U-R-G,Azorius Control,0,1,0,1,0.0
+Gruul Amulet Titan,Dimir Murktide,1,0,0,1,100.0
+Gruul Amulet Titan,Izzet Grinding Breach,0,1,0,1,0.0
+Dimir Control,Dimir Merfolk,0,1,0,1,0.0
+Dimir Control,Izzet Aggro,0,1,0,1,0.0
+Orzhov Midrange,Dimir Murktide,0,1,0,1,0.0
+Orzhov Midrange,Boros Energy,0,1,0,1,0.0
+Gruul Eldrazi,Gruul Amulet Titan,0,1,0,1,0.0
+Gruul Eldrazi,Boros Aggro,0,1,0,1,0.0

@@ -1,0 +1,192 @@
+archetype_a,archetype_b,win,loss,draw,games,winrate
+Rakdos Aggro,Izzet Metalcraft,1,0,0,1,100.0
+Rakdos Aggro,Boros Energy,0,2,0,2,0.0
+Rakdos Aggro,Gruul Energy,1,0,0,1,100.0
+Rakdos Aggro,W-U-B-G Goryo's,1,0,0,1,100.0
+Rakdos Aggro,Abzan Devoted Druid Combo,1,0,0,1,100.0
+Rakdos Aggro,Golgari Energy,1,0,0,1,100.0
+Mono-Red,Izzet Affinity,1,1,0,2,50.0
+Mono-Red,Abzan Devoted Druid Combo,1,0,0,1,100.0
+Mono-Red,Boros Energy,2,0,0,2,100.0
+Mono-Red,Mono-Green Eldrazi Ramp,1,0,0,1,100.0
+Mono-Red,Dimir Control,0,1,0,1,0.0
+Boros,W-U-B-G Goryo's,2,0,0,2,100.0
+Boros,Boros Energy,1,0,0,1,100.0
+Boros,Dimir,1,1,0,2,50.0
+Boros,Dimir Midrange,0,0,1,1,
+Boros,Azorius,0,0,1,1,
+Dimir Midrange,W-U-B-G Belcher,1,0,0,1,100.0
+Dimir Midrange,Dimir Control,1,1,0,2,50.0
+Dimir Midrange,Abzan Devoted Druid Combo,1,0,0,1,100.0
+Dimir Midrange,Boros Energy,2,0,0,2,100.0
+Dimir Midrange,Boros,0,0,1,1,
+Dimir Midrange,Dimir,1,0,1,2,100.0
+Dimir Midrange,Azorius,1,0,0,1,100.0
+Azorius,Mono-Red Belcher,1,0,0,1,100.0
+Azorius,Mono-Green Amulet Titan,1,0,0,1,100.0
+Azorius,Mono-Green Eldrazi Ramp,1,0,0,1,100.0
+Azorius,Boros Energy,0,0,1,1,
+Azorius,Boros,0,0,1,1,
+Azorius,Dimir Midrange,0,1,0,1,0.0
+Dimir,Izzet Wizards,1,0,0,1,100.0
+Dimir,Izzet Affinity,1,0,0,1,100.0
+Dimir,Mono-Red Storm,1,0,0,1,100.0
+Dimir,Boros,1,1,0,2,50.0
+Dimir,Mono-Green Amulet Titan,1,0,0,1,100.0
+Dimir,Dimir Midrange,0,1,1,2,0.0
+Dimir,Dimir Control,1,0,0,1,100.0
+Dimir Control,Dimir Midrange,1,1,0,2,50.0
+Dimir Control,W-U-B-G Goryo's,2,0,0,2,100.0
+Dimir Control,Golgari Yawgmoth,1,0,0,1,100.0
+Dimir Control,Boros Energy,0,0,1,1,
+Dimir Control,Mono-Red,1,0,0,1,100.0
+Dimir Control,Dimir,0,1,0,1,0.0
+Boros Energy,W-U-B-G Goryo's,1,0,0,1,100.0
+Boros Energy,Bant Ritual,1,0,0,1,100.0
+Boros Energy,Boros,0,1,0,1,0.0
+Boros Energy,Mono-Green Amulet Titan,1,1,0,2,50.0
+Boros Energy,Izzet Wizards,1,0,0,1,100.0
+Boros Energy,Dimir Control,0,0,1,1,
+Boros Energy,Rakdos Aggro,2,0,0,2,100.0
+Boros Energy,Dimir Midrange,0,2,0,2,0.0
+Mono-Red Storm,Jund Cosmogoyf,1,0,0,1,100.0
+Mono-Red Storm,Golgari Energy,1,0,0,1,100.0
+Mono-Red Storm,Dimir,0,1,0,1,0.0
+Mono-Red Storm,W-U-B-G Goryo's,1,1,0,2,50.0
+Mono-Red Storm,Dimir Midrange,1,0,0,1,100.0
+W-U-B-G Goryo's,Mono-Green Broodscale,1,0,0,1,100.0
+W-U-B-G Goryo's,Mono-Green Eldrazi Ramp,0,1,0,1,0.0
+W-U-B-G Goryo's,Abzan Devoted Druid Combo,1,1,0,2,50.0
+W-U-B-G Goryo's,Mono-Red Storm,1,1,0,2,50.0
+W-U-B-G Goryo's,Dimir Control,0,2,0,2,0.0
+W-U-B-G Goryo's,Mono-Green Amulet Titan,1,1,0,2,50.0
+Golgari Energy,Mono-Red Ruby Storm,1,0,0,1,100.0
+Golgari Energy,Mono-Red Storm,0,1,0,1,0.0
+Golgari Energy,Boros Energy,1,0,0,1,100.0
+Golgari Energy,Dimir Midrange,1,0,0,1,100.0
+Golgari Energy,Abzan Devoted Druid Combo,1,0,0,1,100.0
+Golgari Energy,Rakdos Aggro,0,1,0,1,0.0
+Abzan Devoted Druid Combo,Abzan Devoted Druid Combo,3,3,0,6,50.0
+Abzan Devoted Druid Combo,Colorless Eldrazi Tron,1,0,0,1,100.0
+Abzan Devoted Druid Combo,W-U-B-G Goryo's,1,1,0,2,50.0
+Abzan Devoted Druid Combo,Mono-Green Broodscale,2,0,0,2,100.0
+Abzan Devoted Druid Combo,Rakdos Aggro,0,1,0,1,0.0
+Mono-Green Amulet Titan,Colorless Eldrazi Tron,1,0,0,1,100.0
+Mono-Green Amulet Titan,Boros Energy,1,1,0,2,50.0
+Mono-Green Amulet Titan,Mono-Green Eldrazi Ramp,0,1,0,1,0.0
+Mono-Green Amulet Titan,Mono-Green Broodscale,1,0,0,1,100.0
+Mono-Green Amulet Titan,Dimir,0,1,0,1,0.0
+Mono-Green Amulet Titan,Izzet Wizards,1,0,0,1,100.0
+Boros Energy,Esper Blink,1,0,0,1,100.0
+Boros Energy,Boros Energy,1,1,0,2,50.0
+Boros Energy,Azorius,0,0,1,1,
+Boros Energy,Mono-Red,0,2,0,2,0.0
+Mono-Green Eldrazi Ramp,Jeskai,1,0,0,1,100.0
+Mono-Green Eldrazi Ramp,W-U-B-G Goryo's,1,0,0,1,100.0
+Mono-Green Eldrazi Ramp,Mono-Green Amulet Titan,1,0,0,1,100.0
+Mono-Green Eldrazi Ramp,Azorius,0,1,0,1,0.0
+Mono-Green Eldrazi Ramp,Mono-Red,0,1,0,1,0.0
+Mono-Green Eldrazi Ramp,Abzan Devoted Druid Combo,0,0,1,1,
+Abzan Devoted Druid Combo,Dimir Midrange,0,1,0,1,0.0
+Abzan Devoted Druid Combo,Izzet Affinity,1,0,0,1,100.0
+Abzan Devoted Druid Combo,Golgari Energy,0,1,0,1,0.0
+Abzan Devoted Druid Combo,Mono-Green Eldrazi Ramp,0,0,1,1,
+Dimir Midrange,Jeskai,1,0,0,1,100.0
+Dimir Midrange,Golgari Energy,0,1,0,1,0.0
+Dimir Midrange,Sultai Mill,1,0,0,1,100.0
+Dimir Midrange,Mono-Red Storm,0,1,0,1,0.0
+Mono-Green Amulet Titan,Gruul Energy,1,0,0,1,100.0
+Mono-Green Amulet Titan,Izzet Prowess,1,0,0,1,100.0
+Mono-Green Amulet Titan,Azorius,0,1,0,1,0.0
+Mono-Green Amulet Titan,W-U-B-G Goryo's,1,1,0,2,50.0
+Izzet Wizards,Dimir,0,1,0,1,0.0
+Izzet Wizards,Mono-Red Ruby Storm,1,0,0,1,100.0
+Izzet Wizards,Bant Ritual,1,0,0,1,100.0
+Izzet Wizards,W-U-B-G Goryo's,1,0,0,1,100.0
+Izzet Wizards,Boros Energy,0,1,0,1,0.0
+Izzet Wizards,Mono-Green Amulet Titan,0,1,0,1,0.0
+Mono-Green Broodscale,W-U-B-G Goryo's,0,1,0,1,0.0
+Mono-Green Broodscale,Jund Cosmogoyf,1,0,0,1,100.0
+Mono-Green Broodscale,Mono-Red Belcher,1,1,0,2,50.0
+Mono-Green Broodscale,Mono-Green Amulet Titan,0,1,0,1,0.0
+Mono-Green Broodscale,Gruul Energy,1,0,0,1,100.0
+Mono-Green Broodscale,Abzan Devoted Druid Combo,0,2,0,2,0.0
+Izzet Affinity,Mono-Red,1,1,0,2,50.0
+Izzet Affinity,Dimir,0,1,0,1,0.0
+Izzet Affinity,Izzet Prowess,1,0,0,1,100.0
+Izzet Affinity,Abzan Devoted Druid Combo,0,1,0,1,0.0
+W-U-B-G Goryo's,Boros,0,2,0,2,0.0
+W-U-B-G Goryo's,Sultai Mill,2,0,0,2,100.0
+W-U-B-G Goryo's,W-U-B-G Goryo's,1,1,0,2,50.0
+W-U-B-G Goryo's,Rakdos Aggro,0,1,0,1,0.0
+W-U-B-G Goryo's,Izzet Prowess,1,0,0,1,100.0
+Boros Energy,Izzet Affinity,1,0,0,1,100.0
+Boros Energy,Gruul Eldrazi,1,0,0,1,100.0
+Golgari Yawgmoth,Boros Energy,0,1,0,1,0.0
+Golgari Yawgmoth,Izzet Prowess,1,0,0,1,100.0
+Golgari Yawgmoth,Mardu Energy,1,0,0,1,100.0
+Golgari Yawgmoth,Dimir Control,0,1,0,1,0.0
+Gruul Energy,Mono-Green Amulet Titan,0,1,0,1,0.0
+Gruul Energy,Izzet Aggro,1,0,0,1,100.0
+Gruul Energy,Rakdos Aggro,0,1,0,1,0.0
+Gruul Energy,Jeskai,1,0,0,1,100.0
+Gruul Energy,Mono-Green Broodscale,0,1,0,1,0.0
+Gruul Energy,Sultai Mill,0,1,0,1,0.0
+Mono-Green Broodscale,Dimir Midrange,1,0,0,1,100.0
+Mono-Green Broodscale,Gruul Eldrazi,1,0,0,1,100.0
+Izzet Prowess,W-U-B-G Goryo's,0,1,0,1,0.0
+Izzet Prowess,Golgari Yawgmoth,0,1,0,1,0.0
+Izzet Prowess,Sultai Mill,2,0,0,2,100.0
+Izzet Prowess,Gruul Eldrazi,1,0,0,1,100.0
+W-U-B-G Goryo's,Mardu Energy,0,0,1,1,
+W-U-B-G Goryo's,Izzet Metalcraft,1,0,0,1,100.0
+W-U-B-G Goryo's,Izzet Wizards,0,1,0,1,0.0
+Boros Energy,Golgari Yawgmoth,1,0,0,1,100.0
+Boros Energy,Golgari Energy,0,1,0,1,0.0
+Mono-Red Belcher,Mono-Green Broodscale,1,1,0,2,50.0
+Mono-Red Belcher,Azorius,0,1,0,1,0.0
+W-U-B-G Goryo's,Boros Energy,0,1,0,1,0.0
+W-U-B-G Goryo's,W-U-B-G Belcher,1,0,0,1,100.0
+Abzan Devoted Druid Combo,Mono-Red,0,1,0,1,0.0
+Bant Ritual,Dimir Midrange,1,0,0,1,100.0
+Bant Ritual,Boros Energy,0,1,0,1,0.0
+Bant Ritual,Izzet Wizards,0,1,0,1,0.0
+Jund Cosmogoyf,Mono-Red Storm,0,1,0,1,0.0
+Jund Cosmogoyf,Mono-Green Broodscale,0,1,0,1,0.0
+Jund Cosmogoyf,Izzet Affinity,1,0,0,1,100.0
+Gruul Eldrazi,Izzet Aggro,1,0,0,1,100.0
+Gruul Eldrazi,Boros Energy,0,1,0,1,0.0
+Gruul Eldrazi,Mono-Green Broodscale,0,1,0,1,0.0
+Gruul Eldrazi,Izzet Prowess,0,1,0,1,0.0
+Izzet Prowess,Mono-Green Amulet Titan,0,1,0,1,0.0
+Izzet Prowess,Izzet Affinity,0,1,0,1,0.0
+Abzan Devoted Druid Combo,Mardu Energy,1,0,0,1,100.0
+Jeskai,Mono-Green Eldrazi Ramp,0,1,0,1,0.0
+Jeskai,Esper Blink,1,0,0,1,100.0
+Jeskai,Dimir Midrange,0,1,0,1,0.0
+Jeskai,Gruul Energy,0,1,0,1,0.0
+Sultai Mill,Izzet Prowess,0,2,0,2,0.0
+Sultai Mill,W-U-B-G Goryo's,0,2,0,2,0.0
+Sultai Mill,Dimir Midrange,0,1,0,1,0.0
+Sultai Mill,Gruul Energy,1,0,0,1,100.0
+Izzet Aggro,Gruul Eldrazi,0,1,0,1,0.0
+Izzet Aggro,Gruul Energy,0,1,0,1,0.0
+Izzet Aggro,Mono-Red Ruby Storm,1,0,0,1,100.0
+Mardu Energy,W-U-B-G Goryo's,0,0,1,1,
+Mardu Energy,Abzan Devoted Druid Combo,0,1,0,1,0.0
+Mardu Energy,Golgari Yawgmoth,0,1,0,1,0.0
+Colorless Eldrazi Tron,Mono-Green Amulet Titan,0,1,0,1,0.0
+Colorless Eldrazi Tron,Abzan Devoted Druid Combo,0,1,0,1,0.0
+Izzet Metalcraft,Rakdos Aggro,0,1,0,1,0.0
+Izzet Metalcraft,W-U-B-G Goryo's,0,1,0,1,0.0
+Izzet Affinity,Boros Energy,0,1,0,1,0.0
+Izzet Affinity,Jund Cosmogoyf,0,1,0,1,0.0
+W-U-B-G Belcher,Dimir Midrange,0,1,0,1,0.0
+W-U-B-G Belcher,W-U-B-G Goryo's,0,1,0,1,0.0
+Mono-Red Ruby Storm,Golgari Energy,0,1,0,1,0.0
+Mono-Red Ruby Storm,Izzet Wizards,0,1,0,1,0.0
+Mono-Red Ruby Storm,Izzet Aggro,0,1,0,1,0.0
+Esper Blink,Boros Energy,0,1,0,1,0.0
+Esper Blink,Jeskai,0,1,0,1,0.0
+Dimir Midrange,Bant Ritual,0,1,0,1,0.0
+Dimir Midrange,Mono-Green Broodscale,0,1,0,1,0.0

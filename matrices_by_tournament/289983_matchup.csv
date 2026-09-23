@@ -1,0 +1,187 @@
+archetype_a,archetype_b,win,loss,draw,games,winrate
+Izzet Aggro,W-U-B-R-G Domain,1,0,0,1,100.0
+Izzet Aggro,Boros Storm,2,0,0,2,100.0
+Izzet Aggro,Orzhov Midrange,2,0,0,2,100.0
+Izzet Aggro,W-U-R-G Aggro,1,0,0,1,100.0
+Izzet Aggro,Dimir Murktide,1,1,0,2,50.0
+Izzet Aggro,Boros Burn,0,0,1,1,
+Boros Burn,Gruul Eldrazi,1,0,0,1,100.0
+Boros Burn,U-B-R-G Hollow End,2,0,0,2,100.0
+Boros Burn,Orzhov Midrange,1,0,0,1,100.0
+Boros Burn,Dimir Murktide,2,0,0,2,100.0
+Boros Burn,Temur Eldrazi,1,0,0,1,100.0
+Boros Burn,Izzet Aggro,0,0,1,1,
+Boros Burn,W-U-B-R-G Domain,1,0,0,1,100.0
+W-U-R-G Aggro,Boros Combo,1,0,0,1,100.0
+W-U-R-G Aggro,Orzhov,1,0,0,1,100.0
+W-U-R-G Aggro,Mardu Aggro,1,0,0,1,100.0
+W-U-R-G Aggro,Izzet Aggro,0,1,0,1,0.0
+W-U-R-G Aggro,Boros Storm,1,0,0,1,100.0
+W-U-R-G Aggro,Temur Eldrazi,1,0,0,1,100.0
+W-U-R-G Aggro,Dimir Murktide,0,1,0,1,0.0
+U-B-R-G Hollow End,Boros Storm,1,0,0,1,100.0
+U-B-R-G Hollow End,Boros Burn,0,2,0,2,0.0
+U-B-R-G Hollow End,Orzhov Aggro,1,0,0,1,100.0
+U-B-R-G Hollow End,Orzhov Midrange,2,0,0,2,100.0
+U-B-R-G Hollow End,Dimir Murktide,1,0,1,2,100.0
+Dimir Murktide,Mono-Green Eldrazi,1,1,0,2,50.0
+Dimir Murktide,Dimir Mill,2,0,0,2,100.0
+Dimir Murktide,Dimir Murktide,3,3,0,6,50.0
+Dimir Murktide,Jeskai Control,1,0,0,1,100.0
+Dimir Murktide,Izzet Aggro,1,1,0,2,50.0
+Dimir Murktide,W-U-B-R-G Domain,0,0,1,1,
+Dimir Murktide,U-B-R-G Hollow End,0,1,1,2,0.0
+Dimir Murktide,Bant Combo,1,0,0,1,100.0
+Dimir Murktide,Abzan Combo,1,0,0,1,100.0
+Dimir Murktide,Mono-Green Grinding Breach,1,0,0,1,100.0
+Dimir Murktide,Boros Burn,0,2,0,2,0.0
+Dimir Murktide,Orzhov Midrange,1,3,0,4,25.0
+Dimir Murktide,W-U-R-G Aggro,1,0,0,1,100.0
+W-U-B-R-G Domain,Izzet Aggro,0,1,0,1,0.0
+W-U-B-R-G Domain,Temur Eldrazi,1,0,0,1,100.0
+W-U-B-R-G Domain,Izzet Storm,1,0,0,1,100.0
+W-U-B-R-G Domain,Mono-Green Eldrazi,1,0,0,1,100.0
+W-U-B-R-G Domain,Mono-Green Grinding Breach,1,0,0,1,100.0
+W-U-B-R-G Domain,Dimir Murktide,0,0,1,1,
+W-U-B-R-G Domain,Boros Burn,0,1,0,1,0.0
+Orzhov Midrange,Orzhov Aggro,1,0,0,1,100.0
+Orzhov Midrange,Gruul Aggro,1,0,0,1,100.0
+Orzhov Midrange,Boros Burn,0,1,0,1,0.0
+Orzhov Midrange,Dimir Murktide,3,1,0,4,75.0
+Orzhov Midrange,Orzhov Midrange,1,1,0,2,50.0
+Orzhov Midrange,Izzet Aggro,0,2,0,2,0.0
+Temur Eldrazi,Izzet Aggro,2,2,0,4,50.0
+Temur Eldrazi,Orzhov Midrange,0,1,0,1,0.0
+Temur Eldrazi,Dimir Mill,1,1,0,2,50.0
+Temur Eldrazi,Jeskai Control,1,0,1,2,100.0
+Temur Eldrazi,Orzhov Aggro,1,0,0,1,100.0
+Orzhov Midrange,Orzhov,0,1,0,1,0.0
+Orzhov Midrange,Temur Eldrazi,1,0,0,1,100.0
+Orzhov Midrange,U-B-R-G Hollow End,0,2,0,2,0.0
+Orzhov Midrange,Mono-Green Grinding Breach,1,0,0,1,100.0
+Izzet Aggro,Temur Eldrazi,2,2,0,4,50.0
+Izzet Aggro,Mono-Green Grinding Breach,0,2,0,2,0.0
+Izzet Aggro,Gruul Eldrazi,1,0,0,1,100.0
+Gruul Aggro,W-U-R-G Domain,1,0,0,1,100.0
+Gruul Aggro,Orzhov Midrange,0,1,0,1,0.0
+Gruul Aggro,Esper Midrange,0,1,0,1,0.0
+Gruul Aggro,Azorius Belcher,2,0,0,2,100.0
+Gruul Aggro,Mardu Aggro,1,0,0,1,100.0
+Temur Eldrazi,Bant Combo,1,0,0,1,100.0
+Temur Eldrazi,Mardu Aggro,1,0,0,1,100.0
+Temur Eldrazi,Boros Burn,0,1,0,1,0.0
+Temur Eldrazi,W-U-R-G Aggro,0,1,0,1,0.0
+Jeskai Control,Temur Eldrazi,0,1,1,2,0.0
+Jeskai Control,W-U-R-G Domain,1,0,0,1,100.0
+Jeskai Control,Boros Storm,1,0,0,1,100.0
+Jeskai Control,Dimir Murktide,0,1,0,1,0.0
+Jeskai Control,Esper Midrange,1,0,0,1,100.0
+Mono-Green Grinding Breach,Izzet Aggro,2,0,0,2,100.0
+Mono-Green Grinding Breach,Dimir Murktide,0,1,0,1,0.0
+Mono-Green Grinding Breach,Golgari Yawgmoth,1,0,0,1,100.0
+Mono-Green Grinding Breach,W-U-B-R-G Domain,0,1,0,1,0.0
+Mono-Green Grinding Breach,Orzhov Midrange,0,1,0,1,0.0
+Orzhov Midrange,Jeskai Energy,1,0,0,1,100.0
+Orzhov Midrange,Golgari Yawgmoth,1,0,0,1,100.0
+Boros Storm,U-B-R-G Hollow End,0,1,0,1,0.0
+Boros Storm,Esper,1,0,0,1,100.0
+Boros Storm,Abzan Combo,1,0,0,1,100.0
+Boros Storm,Dimir Mill,1,0,0,1,100.0
+Boros Storm,W-U-R-G Aggro,0,1,0,1,0.0
+Boros Storm,Izzet Aggro,0,2,0,2,0.0
+Orzhov Aggro,Orzhov Midrange,0,1,0,1,0.0
+Orzhov Aggro,Gruul Eldrazi,1,0,0,1,100.0
+Orzhov Aggro,U-B-R-G Hollow End,0,1,0,1,0.0
+Orzhov Aggro,W-U-R-G Domain,1,0,0,1,100.0
+Orzhov Aggro,Golgari Yawgmoth,1,0,0,1,100.0
+Orzhov Aggro,Temur Eldrazi,0,1,0,1,0.0
+Mono-Green Eldrazi,Dimir Murktide,1,1,0,2,50.0
+Mono-Green Eldrazi,Jeskai Energy,1,0,0,1,100.0
+Mono-Green Eldrazi,W-U-B-R-G Domain,0,1,0,1,0.0
+Mono-Green Eldrazi,Esper Midrange,0,1,0,1,0.0
+Mono-Green Eldrazi,Dimir Mill,1,0,0,1,100.0
+Esper Midrange,Golgari Yawgmoth,0,1,0,1,0.0
+Esper Midrange,Jeskai Energy,0,1,0,1,0.0
+Esper Midrange,Gruul Aggro,1,0,0,1,100.0
+Esper Midrange,Boros Storm,1,0,0,1,100.0
+Esper Midrange,Mono-Green Eldrazi,1,0,0,1,100.0
+Esper Midrange,Jeskai Control,0,1,0,1,0.0
+Golgari Yawgmoth,Esper Midrange,1,0,0,1,100.0
+Golgari Yawgmoth,Orzhov Midrange,0,1,0,1,0.0
+Golgari Yawgmoth,Dimir Mill,1,0,0,1,100.0
+Golgari Yawgmoth,Mono-Green Grinding Breach,0,1,0,1,0.0
+Golgari Yawgmoth,Orzhov Aggro,0,1,0,1,0.0
+Golgari Yawgmoth,Jeskai Energy,1,0,0,1,100.0
+Izzet Aggro,Azorius Belcher,0,1,0,1,0.0
+Izzet Aggro,Dimir Mill,1,0,0,1,100.0
+Izzet Aggro,Izzet Storm,1,0,0,1,100.0
+Azorius Belcher,W-U-B-G Amulet Titan,1,0,0,1,100.0
+Azorius Belcher,Mardu Aggro,0,1,0,1,0.0
+Azorius Belcher,Dimir Murktide,0,1,0,1,0.0
+Azorius Belcher,Orzhov,1,0,0,1,100.0
+Azorius Belcher,Izzet Storm,1,1,0,2,50.0
+Azorius Belcher,Gruul Aggro,0,2,0,2,0.0
+Orzhov,Orzhov Midrange,1,0,0,1,100.0
+Orzhov,W-U-R-G Aggro,0,1,0,1,0.0
+Orzhov,Dimir Mill,0,0,1,1,
+Orzhov,Azorius Belcher,0,1,0,1,0.0
+Orzhov,Jeskai Energy,0,1,0,1,0.0
+Orzhov,Temur Eldrazi,1,0,0,1,100.0
+Jeskai Energy,Orzhov Midrange,0,1,0,1,0.0
+Jeskai Energy,Esper Midrange,1,0,0,1,100.0
+Jeskai Energy,Mono-Green Eldrazi,0,1,0,1,0.0
+Jeskai Energy,Temur Eldrazi,0,0,1,1,
+Jeskai Energy,Orzhov,1,0,0,1,100.0
+Jeskai Energy,Golgari Yawgmoth,0,1,0,1,0.0
+Mardu Aggro,Esper,1,0,0,1,100.0
+Mardu Aggro,Azorius Belcher,1,0,0,1,100.0
+Mardu Aggro,W-U-R-G Aggro,0,1,0,1,0.0
+Mardu Aggro,Temur Eldrazi,0,1,0,1,0.0
+Mardu Aggro,Gruul Aggro,0,1,0,1,0.0
+Dimir Mill,Temur Eldrazi,1,1,0,2,50.0
+Dimir Mill,Dimir Murktide,0,2,0,2,0.0
+Dimir Mill,Golgari Yawgmoth,0,1,0,1,0.0
+Dimir Mill,Azorius Belcher,1,0,1,2,100.0
+Dimir Mill,Mono-Green Eldrazi,0,1,0,1,0.0
+Dimir Murktide,Azorius Belcher,1,0,0,1,100.0
+Izzet Storm,Boros Storm,0,1,0,1,0.0
+Izzet Storm,Azorius Belcher,1,1,0,2,50.0
+Izzet Storm,W-U-B-R-G Domain,0,1,0,1,0.0
+Izzet Storm,Abzan Combo,1,0,0,1,100.0
+Izzet Storm,Izzet Aggro,0,1,0,1,0.0
+Dimir Mill,W-U-B-G Amulet Titan,1,0,0,1,100.0
+Dimir Mill,Orzhov,0,0,1,1,
+Dimir Mill,Boros Storm,0,1,0,1,0.0
+Dimir Mill,Izzet Aggro,0,1,0,1,0.0
+Temur Eldrazi,W-U-B-R-G Domain,0,1,0,1,0.0
+Temur Eldrazi,W-U-B-G Amulet Titan,1,0,0,1,100.0
+Temur Eldrazi,Jeskai Energy,0,0,1,1,
+Temur Eldrazi,Orzhov,0,1,0,1,0.0
+Azorius Belcher,Abzan Combo,0,1,0,1,0.0
+Azorius Belcher,Izzet Aggro,1,0,0,1,100.0
+Azorius Belcher,Dimir Mill,0,1,1,2,0.0
+Gruul Eldrazi,Boros Burn,0,1,0,1,0.0
+Gruul Eldrazi,Orzhov Aggro,0,1,0,1,0.0
+Gruul Eldrazi,Esper,1,0,0,1,100.0
+Gruul Eldrazi,Izzet Aggro,0,1,0,1,0.0
+Boros Storm,Izzet Storm,1,0,0,1,100.0
+Boros Storm,Jeskai Control,0,1,0,1,0.0
+Boros Storm,Esper Midrange,0,1,0,1,0.0
+W-U-R-G Domain,Gruul Aggro,0,1,0,1,0.0
+W-U-R-G Domain,Jeskai Control,0,1,0,1,0.0
+W-U-R-G Domain,Bant Combo,1,0,0,1,100.0
+W-U-R-G Domain,Orzhov Aggro,0,1,0,1,0.0
+Abzan Combo,Azorius Belcher,1,0,0,1,100.0
+Abzan Combo,Dimir Murktide,0,1,0,1,0.0
+Abzan Combo,Boros Storm,0,1,0,1,0.0
+Abzan Combo,Izzet Storm,0,1,0,1,0.0
+Boros Combo,W-U-R-G Aggro,0,1,0,1,0.0
+Bant Combo,Dimir Murktide,0,1,0,1,0.0
+Bant Combo,Temur Eldrazi,0,1,0,1,0.0
+Bant Combo,W-U-R-G Domain,0,1,0,1,0.0
+Esper,Mardu Aggro,0,1,0,1,0.0
+Esper,Boros Storm,0,1,0,1,0.0
+Esper,Gruul Eldrazi,0,1,0,1,0.0
+W-U-B-G Amulet Titan,Azorius Belcher,0,1,0,1,0.0
+W-U-B-G Amulet Titan,Dimir Mill,0,1,0,1,0.0
+W-U-B-G Amulet Titan,Temur Eldrazi,0,1,0,1,0.0
